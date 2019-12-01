@@ -1,0 +1,1541 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2405601415005027</prism:url><dc:identifier>doi:10.1016/j.nuclphysbps.2015.09.013</dc:identifier><eid>1-s2.0-S2405601415005027</eid><prism:doi>10.1016/j.nuclphysbps.2015.09.013</prism:doi><pii>S2405-6014(15)00502-7</pii><dc:title>Space based cosmic ray experiments: highlights of recent results </dc:title><prism:publicationName>Nuclear and Particle Physics Proceedings</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>24056014</prism:issn><prism:volume>273</prism:volume><prism:startingPage>110</prism:startingPage><prism:endingPage>116</prism:endingPage><prism:pageRange>110-116</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2016-06-30</prism:coverDate><prism:coverDisplayDate>April–June 2016</prism:coverDisplayDate><prism:copyright>© 2015 Elsevier B.V.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><prism:issueName>37th International Conference on High Energy Physics (ICHEP)</prism:issueName><dc:creator>Berdugo, Javier</dc:creator><dc:description>
+               Abstract
+               
+                  In the last years, space based cosmic ray experiments are delivering very valuable and precise measurements for the understanding of the cosmic ray acceleration and propagation processes. This paper reviews the last measurements on electron and positron cosmic rays highlighting the latest accurate data provided by the AMS experiment
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><dcterms:subject>AMS</dcterms:subject><dcterms:subject>Cosmic Rays</dcterms:subject><dcterms:subject>Electrons</dcterms:subject><dcterms:subject>Positrons</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2405601415005027" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2405601415005027" rel="scidir"/></coredata><scopus-id>84973151933</scopus-id><scopus-eid>2-s2.0-84973151933</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84973151933" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>312309</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291829</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Nuclear and Particle Physics Proceedings</xocs:srctitle>
+      <xocs:normalized-srctitle>NUCLEARPARTICLEPHYSICSPROCEEDINGS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20160531">2016-05-31</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20160531">2016-05-31</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20160531">2016-05-31</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20160531">2016-05-31</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2017-01-27T08:33:10</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2405601415005027</xocs:eid>
+      <xocs:pii-formatted>S2405-6014(15)00502-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2405601415005027</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.nuclphysbps.2015.09.013</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2405601416X0003X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20170127">2017-01-27T04:19:27.120629-05:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160401</xocs:date-search-begin>
+      <xocs:date-search-end>20160630</xocs:date-search-end>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1464730463">2016-05-31T21:34:23.667024Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confabbr confdate confeditor confloc contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2405-6014</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>24056014</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>NONE</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>273</xocs:vol-first>
+      <xocs:vol-last>275</xocs:vol-last>
+      <xocs:volume-list>
+         <xocs:volume>273</xocs:volume>
+         <xocs:volume>274</xocs:volume>
+         <xocs:volume>275</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volumes 273–275</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>18</xocs:sort-order>
+      <xocs:first-fp>110</xocs:first-fp>
+      <xocs:last-lp>116</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>110</xocs:first-page>
+         <xocs:last-page>116</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201604</xocs:start-date>
+         <xocs:end-date>201606</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>April–June 2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-04-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2016-06-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>37th International Conference on High Energy Physics (ICHEP)</ce:title>
+            <xocs:conference-info>
+               <xocs:abbr-name>ICHEP 2014</xocs:abbr-name>
+               <xocs:venue>Valencia, Spain</xocs:venue>
+               <xocs:conference-date-text>2–9 July 2014</xocs:conference-date-text>
+               <xocs:date-range>
+                  <xocs:start-date>20140702</xocs:start-date>
+                  <xocs:end-date>20140709</xocs:end-date>
+               </xocs:date-range>
+            </xocs:conference-info>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author author-id="S2405601416X0003X-a1bfcc99b97820707221bd8dbc7835b9">
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>M.</ce:given-name>
+                     <ce:surname>Aguilar-Benítez</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S2405601416X0003X-7cbed0691dd9639c84efc0f4c9a0bd61">
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>J.</ce:given-name>
+                     <ce:surname>Fuster</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S2405601416X0003X-3e0a434137ffe8fcb2789706be62e27d">
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>S.</ce:given-name>
+                     <ce:surname>Martí-García</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S2405601416X0003X-d1d19d172d9b7935ffa86610d1d0f3e8">
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>A.</ce:given-name>
+                     <ce:surname>Santamaría</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Plenary sessions</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2015 Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>SPACEBASEDCOSMICRAYEXPERIMENTSHIGHLIGHTSRECENTRESULTS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>BERDUGO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="bib31s1">
+            <xocs:ref-normalized-surname>MERTSCH</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib32s1">
+            <xocs:ref-normalized-surname>OLIVE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib33s1">
+            <xocs:ref-normalized-surname>GOLDEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>769</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib34s1">
+            <xocs:ref-normalized-surname>GOLDEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib35s1">
+            <xocs:ref-normalized-surname>BOEZIO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>653</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib36s1">
+            <xocs:ref-normalized-surname>GRIMANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>287</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib37s1">
+            <xocs:ref-normalized-surname>CHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>362</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib38s1">
+            <xocs:ref-normalized-surname>TORII</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>973</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib39s1">
+            <xocs:ref-normalized-surname>YOSHIDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1670</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3130s1">
+            <xocs:ref-normalized-surname>BARWICK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>779</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3131s1">
+            <xocs:ref-normalized-surname>DUVERNOIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>296</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3132s1">
+            <xocs:ref-normalized-surname>GRIMANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>287</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3133s1">
+            <xocs:ref-normalized-surname>ALCARAZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3134s1">
+            <xocs:ref-normalized-surname>AGUILAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>145</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3135s1">
+            <xocs:ref-normalized-surname>AHARONIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3136s1">
+            <xocs:ref-normalized-surname>AHARONIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>561</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3137s1">
+            <xocs:ref-normalized-surname>ADRIANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3138s1">
+            <xocs:ref-normalized-surname>TURNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1001</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3139s1">
+            <xocs:ref-normalized-surname>ELLIS</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3230s1">
+            <xocs:ref-normalized-surname>CHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3231s1">
+            <xocs:ref-normalized-surname>PROFUMO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3232s1">
+            <xocs:ref-normalized-surname>HOOPER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3233s1">
+            <xocs:ref-normalized-surname>PONTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3234s1">
+            <xocs:ref-normalized-surname>KANE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>151</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3235s1">
+            <xocs:ref-normalized-surname>HOOPER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3236s1">
+            <xocs:ref-normalized-surname>FAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2011</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3237s1">
+            <xocs:ref-normalized-surname>PATO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3238s1">
+            <xocs:ref-normalized-surname>PICOZZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>296</xocs:ref-first-fp>
+            <xocs:ref-last-lp>315</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3239s1">
+            <xocs:ref-normalized-surname>ADRIANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3330s1">
+            <xocs:ref-normalized-surname>ADRIANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3331s1">
+            <xocs:ref-normalized-surname>ATWOOD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1071</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1102</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3332s1">
+            <xocs:ref-normalized-surname>ACKERMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3333s1">
+            <xocs:ref-normalized-surname>ACKERMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3334s1">
+            <xocs:ref-normalized-surname>KOUNINE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1230005</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3335s1">
+            <xocs:ref-normalized-surname>AGUILAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="boref0010"/>
+         <xocs:ref-info refid="bib3337s1">
+            <xocs:ref-normalized-surname>ACCARDO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3338s1">
+            <xocs:ref-normalized-surname>AGUILAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>BERDUGOX2016X110</xocs:refkey3>
+         <xocs:refkey4lp>BERDUGOX2016X110X116</xocs:refkey4lp>
+         <xocs:refkey4ai>BERDUGOX2016X110XJ</xocs:refkey4ai>
+         <xocs:refkey5>BERDUGOX2016X110X116XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2016-06-14T09:22:39Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2017-05-31T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2015 Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2405-6014(15)00502-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2405601415005027</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2405601415005027</xocs:eid>
+         <xocs:doi>10.1016/j.nuclphysbps.2015.09.013</xocs:doi>
+         <xocs:cid>312309</xocs:cid>
+         <xocs:timestamp>2017-01-27T04:19:27.120629-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2016-04-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2016-06-30</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>NONE</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2405601415005027-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2405601415005027/MAIN/application/pdf/492768286c9e85ad62008c711d598c6b/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2405601415005027/MAIN/application/pdf/492768286c9e85ad62008c711d598c6b/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1748660</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2405601415005027-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2405601415005027/PREVIEW/image/png/7662a17cee0fac5b95a98ab9a13a5a3d/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2405601415005027/PREVIEW/image/png/7662a17cee0fac5b95a98ab9a13a5a3d/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>61151</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Space based cosmic ray experiments: highlights of recent results  Javier Berdugoa   aCIEMAT, Av. Complutense, 40, Madrid-28040, Spain  Abstract  In the last years, space based cosmic ray experiments are delivering very valuable and precise measurements for  the understanding of the cosmic ray acceleration and propagation processes. This paper reviews the last  measurements on electron and positron cosmic rays highlighting the latest accurate data provided by the AMS  experiment  Keywords: AMS, Cosmic Rays, Electrons, Positrons  â€”â€”â€”    Corresponding author. Tel.: +34-913-466-513; fax: +34-913-466-580; e-mail: Javier.berdugo@ciemat.es.  1. Introduction  Cosmic rays are a sample of solar, galactic and  extragalactic matter which includes all stable charged  particles, nuclei and their isotopes. The main nuclear  components are protons (87%), Helium (12%) and  heavier nuclei (×½ 1%). A small fraction of electrons  (1%) and antimatter (positrons and antiprotons) is also  observed. The measurement of all particle cosmic ray  flux scales for more than 31 orders of magnitude in an  energy range from few eV to 1011 GeV/n. The  observed flux (see [1] and [2] and references included  there) is well described by a falling power law with a  spectral index Î³ ×½ 2.7 up to 106 GeV/n that steepens to  Î³ ×½ 3 at higher energies.  The composition and energy spectra of nuclei are  typically interpreted in the context of propagation  models. The cosmic ray particles, at least up to about  106 GeV, are considered of galactic origin and shock  waves of expanding supernovae remnants are good  candidates to supply the power for their acceleration.  The accelerated particles are injected into the  interstellar space where are coupled to the galactic  magnetic field and are diffused, both in momentum  and space, due to interactions with random galactic  magnetic fields. Particles are affected by  reacceleration, energy losses, nuclear interactions and  convective transport during the propagation in the  galactic medium. New particles and spallation  products are obtained by interaction of cosmic rays  particles with the interstellar matter. In this context,  protons and helium, as well as carbon, oxygen, iron  and other heavier nuclei produced and accelerated at  the astrophysical sources are considered as â€œprimaryâ€�  cosmic rays. Particles produced in the interaction of  the primaries with the interstellar medium or from the  decay of unstable species, are denoted as secondary  cosmic rays. The understanding of the origin,  acceleration and propagation of cosmic rays in the  Galaxy require the combination of different  measurements over a wide range of energy, including  chemical composition, anisotropy, and solar  modulation.  Available online at www.sciencedirect.com Nuclear and Particle Physics Proceedings 273â€“275 (2016) 110â€“116 2405-6014/Â© 2015 Elsevier B.V. www.elsevier.com/locate/nppp http://dx.doi.org/10.1016/j.nuclphysbps.2015.09.013 This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/). Cosmic ray composition and spectra have been  explored by direct measurements (balloon borne and  satellite experiments) up to 105 GeV and by indirect  methods (ground-based large-size apparatuses) at the  highest energies [2]. Considering the energy range  between few GeV/n and hundreds of TeV/n, and  mainly due to statistical limitations, the current  accuracy on the measurements does not allow  confirming or disproving a common spectral index of  the primary cosmic ray nuclei. Measurements of  secondary over primary cosmic ray are also affected  by backgrounds and uncertainties that limit the  precision on the determination of key parameters  needed in cosmic ray propagation models.   Electrons (and positrons) constitute about 1% of the  total cosmic-ray flux. Positrons are believed to have a  secondary origin, product of the interaction of primary  protons with the interstellar medium. The products of  these interactions include charged pions and kaons  which eventually decay producing equal number of  positrons and electrons with a soft spectrum. Within  this assumption, the positron fraction, defined as the  number o positrons over the total number of electrons  and positrons, is expected to decrease with the energy.  Since the very beginning of measurements of the  positron fraction, it became apparent a rise with the  energy above a few tens of GeV [3]-[16]. This  tendency has been confirmed with measurements  which extend the energy range up to 100 GeV [17].   This behavior suggests either the existence of a new  source of positrons, or a depletion of primary  electrons. Over the past two decades, there has been  strong interest in the cosmic ray positron fraction in  both particle physics and astrophysics [18]-[27]. There  are a number of models that provide primary sources  for electrons and positrons in the cosmic rays. In  particular, astrophysical sources (Pulsars, SNRs) and  WIMPs annihilation in the galactic halo have been  extensively proposed but the limited knowledge of the  cosmic ray production mechanisms and the  uncertainties in the parameters governing its  propagation makes hard to get to a clear conclusion.  Understanding the nature of the electron and  positron cosmic rays has become a priority subject in  the field. New experiments collecting high statistics  over a large dynamical range with good energy  resolution and a high background rejection capability  are required. Robust results can only be obtained by  experiments operating outside the atmosphere and  capable to measure simultaneously not only electrons  and positrons but also the experimental channels  required to understand and quantify the cosmic ray  background modeling.  In June 2006 the first of these  satellite, PAMELA, was launched in orbit by a Soyuz- U rocket from the Baykonur cosmodrome in  Kazakhstan, followed in June 2008 by Fermi on  satellite and, in May 2011, by AMS-02 on the  International Space Station  2. Space based cosmic ray experiments  2.1. PAMELA detector  The PAMELA experiment is performed from an  international collaboration including institutes and  universities from Italy, Russia, Germany and Sweden.    Fig. 1. Schematic view of PAMELA (left), Fermi-LAT (center) and AMS-02 (right) detectors.  J. Berdugo / Nuclear and Particle Physics Proceedings 273â€“275 (2016) 110â€“116 111  The core of the instrument (Fig. 1) is a permanent  magnetic spectrometer with a silicon microstrip tracker  that provides the rigidity, the sign and the charge of  the particles. The MDR (Maximum Detectable  Rigidity) is of the order of 1.2 TeV. The separation  between hadronic and leptonic components is made by  an imaging silicon-tungsten calorimeter, 16 radiation  length deep, able to measure electron energy up to 300  GeV with a resolution of a few percent. A neutron  counter and a thick scintillator, both placed above the  calorimeter improve the lepton/hadron discrimination.  The apparatus has a size of is 1.3m x 0.7m x 0.7m and  a geometrical acceptance of 21.5 cm2 sr. More  technical details can be found in [28]. PAMELA is  mounted on the upward-facing side of the Resurs-DK1  Russian satellite.  PAMELA has been put in a polar  elliptical orbit at an altitude between 350 and 610 km,  with an inclination of 70Â°.  Even if PAMELA was originally projected to have  a three-year mission, the detector is still operational  and making significant scientific contributions after  more than eight years. In 2009 the PAMELA  collaboration published the measurement of the  positron fraction up to 100 GeV [17]. A clear increase  of the positron fraction above 10 GeV appears in the  data (Fig. 2) confirming the indication present at lower  energy in previous experiments. PAMELA has  provided also the measurements of separated  positron  and electron fluxes up to 200 GeV and 625 GeV  respectively [29], [30].  2.2. Fermi-LAT detector  The Large Area Telescope (LAT) is the principal  scientific instrument on the Fermi Gamma Ray Space  Telescope spacecraft. The LAT scientific collaboration  includes more than 90 universities and laboratories  from 12 countries. The Fermi LAT is a gamma-ray  telescope (a pair-conversion telescope) covering a  measured energy range from 20 MeV to  300 GeV  with a field of view of about 20% of the sky. The  instrument is a 4 Ã— 4 array of identical towers, each  one consisting of a tracker and a segmented  calorimeter (8.6 radiation lengths) (Fig.1). The tracker  is covered with an anti-coincidence detector to reject  the charged-particle background. Further details on the  LAT, its performance, and calibration are given at  [31].The LAT is 0.72 m deep and 1.8 m square. Fermi  was launched on 11 June 2008 from Cape Canaveral  onboard a Delta rocket. Fermi resides in a low-earth  circular orbit at an altitude of 550 km, and at an  inclination of 28.5 degrees. The duration of the  mission has been extended till 2018.   Although FermiÂ´s main scientific goal is gamma ray  astronomy, LAT is a good instrument for electron  detection and it has been used to measure the  combined electron and positron spectrum from 7 GeV  to 1 TeV [32]. Although LAT is not equipped with a  magnet, the collaboration has use the shadow imposed  by the Earth and its offset direction for electrons and  positrons due to the geomagnetic field, to separately  measure the spectra of cosmic ray electrons and  positrons from 20 GeV to 200 GeV [33] (Fig. 2).  2.3. AMS-02 detector  Alpha Magnetic Spectrometer (AMS-02) is a  general purpose high energy particle detector that has  been was installed on the International Space Station  on May 19, 2011 as part of station Utilization and  Logistics Flight ULF6 on shuttle flight STS-134. It  was transferred from the shuttle cargo bay using the  shuttle's robotic arm and handed off to the station's  robotic arm for installation. AMS-02 is mounted on  top of the Integrated Truss Structure, on USS-02, the  zenith side of the S3-element of the truss. AMS is an  international collaboration of about 500 scientists from    Fig. 2. The positron fraction (top) and electron and positron fluxes  (bottom)  measured by PAMELA and FERM-LAT compared with  previous results.  J. Berdugo / Nuclear and Particle Physics Proceedings 273â€“275 (2016) 110â€“116112 56 Institutes of USA, Asia and Europe. The layout of  the detector is shown in Fig. 1. It consists of 9 planes  of precision silicon tracker; a transition radiation  detector, TRD; four planes of time of flight counters,  TOF; a permanent magnet; an array of anti- coincidence counters, ACC, surrounding tracker layers  2 to 8, the inner tracker; a ring imaging Cerenkov  detector, RICH; and an electromagnetic calorimeter,  ECAL. The maximum detectable rigidity over tracker  planes 1â€“9 is ×½2TV. The apparatus has a size of is 5m  x 4m x 3m and a geometrical acceptance is 0.5 m2 sr.  Detector performance, described in detail in [34] is  steady over time.  In April 2013, the first AMS result was published in  Physical Review Letters [35]. The measurement was  based on data from the first 18 months of AMS  operations. Of the 25 billion cosmic ray events  analyzed, a number of 6.4 million were  unambiguously identified as electrons and 400,000 as  positrons. The precision measurement of the positron  fraction in primary cosmic rays, in the energy range  from 0.5 to 350 GeV was reported. The data (Fig. 3)  show that the fraction steadily increases from 10 to  ~250 GeV, but, from 20 to 250 GeV, the slope  decreases by an order of magnitude. The positron  fraction exhibits no fine structure, time dependence  nor observable anisotropy indicating the energetic  positrons are not coming from a preferred direction in  space.   AMS has continued collecting data at a rate of 16  million of events per year. New results, based on the  analysis of data collected during the first 30 months of  operation on the International Space Station have been  reported during this conference [36] and are discussed  in the coming section.  3. Lepton cosmic rays: new results from AMS  Three main detectors provide a clean and redundant  identification of positrons and electrons with  independent suppression of the proton background in  AMS [35]. These are the TRD (above the magnet), the  ECAL (below the magnet) and the tracker. To  differentiate between electrons and protons in the  TRD, signals from the 20 layers of proportional tubes  are combined in a TRD estimator formed from the  ratio of the log-likelihood probability of the electrons  hypothesis to that of the proton hypothesis in each  layer. The proton rejection power of the TRD  estimator at 90% electron efficiency measured on orbit  is 103 to 104. To cleanly identify electrons and  positrons in the ECAL, an estimator, based on a  boosted decision tree algorithm, is constructed using  the 3D shower shape in the ECAL. The proton  rejection power of the ECAL estimator reaches 104  when combined with the energy-momentum matching  requirement E/p &gt; 0.75. The entire detector has been  extensively calibrated in a test beam at CERN with  positrons and electrons from 10 to 290 GeV/c, with  protons at 180 and 400 GeV/c, and with pions from 10  to 180 GeV/c which produce transition radiation  equivalent to protons up to 1.2 TeV/c. In total,  measurements with 18 different energies and particles  at 2000 positions were performed.  To assure long-term stability of the detector  response, the variations of the environmental  conditions along the orbits have been taken into  account. On-board calibrations of all channels are  performed every half-orbit (×½46 min) and off-line  calibrations of the TRD, TOF, tracker and ECAL are  performed every Â¼ of the orbit. Different corrections,  including the variations of the relative alignment of the  detectors and temperature dependence of the magnetic  field, are determined from specific samples of events  (mainly protons) and applied to the data.   The energy scale is verified by using minimum  ionizing particles and the ratio E/p and compared with  test beam values were the beam energy is known to  high precision. The response of the detector has been  studied with a Monte Carlo sample of events based on  a GEANT-4.9.4 simulation of the detector.   Over 41 billion events have been analysed and the  kinematic variables have been reconstructed with  algorithms that have been optimized using the test  beam data. The basic sample of events for lepton  analysis has been selected requiring a track in the TRD  and the Silicon Tracker, a cluster of hits in the ECAL  and a measured velocity Î² ~ 1 in the TOF consistent  with a downward-going Z=1 particle.    Fig. 3. The AMS measure positron fraction compared with the most  recent measurements from other experiments. The error bars for  AMS are the quadratic sum of the statistical and systematic  uncertainties.  J. Berdugo / Nuclear and Particle Physics Proceedings 273â€“275 (2016) 110â€“116 113  3.1. Positron fraction  Protons are the main potential source of  contamination and more than 99% of them are rejected  with an energy dependent cut on the ECAL estimator.  An additional potential contamination comes from  electrons and positrons produced by the interaction of  cosmic rays with the atmosphere. They are removed  requiring that the measured energy in the ECAL  exceeds by a factor of 1.2 the maximum StÃ¸rmer cut- off at each geomagnetic position of the detector.  The resulting acceptance for electrons and positrons  is identical and nearly constant over the range from 3  to 500 GeV and cancels in the measurement of the  positron fraction.  The positron fraction is determined in ECAL  energy bins. To maximize the sensitivity of the  measurement, a 2-dimensional fit to the positron  fraction was performed in each energy bin in the  (TRD-estimator, log(E/p)) plane. The fit is performed  for positive and negative rigidity data samples  yielding, respectively, the numbers of positrons and  electrons. From the bin-by-bin fits, the sample  contains 10.9 Ã— 106 primary positrons and electrons of  which 0.64 Ã— 106 are identified as positrons [37].  The behaviour of the positron fraction is shown in  Fig. 4. The new AMS data provides a significant  increase of statistics and extends the energy range to  500 GeV.  Above ×½200 GeV the positron fraction is  no longer increasing with energy and reaches a  maximum at 275 Â± 32 GeV. This is the first  experimental evidence of the existence of a new  behaviour of the positron fraction at high energy.  The overall behaviour of the positron fraction with  the energy can be described fitting the observations  with a simple minimal model that contains a diffuse  power law spectrum and a common source term with  an exponential cut-off parameter ES:     e S SÎ³ Î³ /E Se e Î¦ C E C E Ee                      e S SÎ³ Î³ /E Se e Î¦ C E C E Ee                    with E in GeV and where the coefficients Ce+ and  Ce- correspond to the relative weights of the diffuse  spectra for positrons and electrons, CS to the weight of  the source spectrum,  e+,  e- and  S are the  corresponding spectral indices and Es is the  characteristic cut-off energy for the source spectrum.  A fit of this model to the data in the energy range from  1 to 500 GeV yields a (Ï‡2 / dof = 36.4/58) a cut-off  parameter of  1/ES = 1.84 Â± 0.58 TeV-1 with Ce+/Ceâˆ’ =  0.091 Â±  0.001,  Cs/Ce= 0.0061 Â±  0.0009, Î³eâˆ’ âˆ’ Î³e+ =  âˆ’0.56 Â±  0.03 and Î³eâˆ’ âˆ’ Î³s =0.72 Â±  0.04. The resulting  fit is shown in Fig. 5 as a solid curve together with the  68% C.L. range of the fit parameters. No fine  structures are observed in the data.  Primary sources of cosmic ray positrons and  electrons may induce some degree of anisotropy on the  observed ratio of positron to the electron fluxes.  To  search for possible anisotropies, the arrival directions  of electrons and positrons are used to build a sky map  in galactic coordinates (b,l) and the observed positron  fraction is described by a spherical harmonic  expansion      l e l l l=0 m=-le r (b,l) -1= b, l &lt;r 2m m a Y                              where Â”Â‡áˆºÂ„Ç¡ÂŽáˆ» denotes the positron ratio at (b,l), ÛƒÂ”Â‡Û„ is  the average ratio over the sky map, à¯ŸÜ»à¯  the real  spherical harmonics and Ü½à¯Ÿà¯  are the corresponding   coefficients. The angular power spectrum for a given l  is defined as      Fig. 5. The positron fraction measured by AMS and the fit with a  minimal model (solid curve, see text) and the 68% C.L. range of the  fit parameters (shaded).    Fig. 4. . Measurement of the positron fraction above 10 GeV from  AMS.  Most recent results from PAMELA (the horizontal blue line  is their lower limit) and Fermi-LAT are also shown  J. Berdugo / Nuclear and Particle Physics Proceedings 273â€“275 (2016) 110â€“116114   l 2 l l m=-l 1 2l 1 m C a          They are found to be consistent with the  expectations for isotropy at all energies, and upper  limits to multipolar contributions are obtained. In  particular, with a 95% confidence level we set an  upper limit for a dipole anisotropy of        13 / 4 0.036C       .  3.2. Electron and Positron fluxes    The isotropic fluxes of cosmic-ray electrons and  positrons in the energy bin E of width ÈŸ   are given by                           e e eff trig N E Î¦ E A E  Îµ E  E  Î”ET           where  à­£àµ‡áˆº áˆ» is the number of electrons or  positrons,  É‚à­²à­°à­§à­¥áˆº áˆ» the trigger efficiency determined  from Monte Carlo simulations (100% above 3 GeV  decreasing to 75% at 1 GeV),  Ü¶áˆº áˆ» the exposure time  determined by counting the live time weighted number  of seconds at each location where the geomagnetic cut- off requirement is satisfied and  à­£à­¤à­¤áˆº áˆ» is the effective  acceptance detrmined from Monte Carlo and defined  as         eff geom sel idA A   Îµ   Îµ 1 Î´         with  à­¥à­£à­­à­« is the geometric acceptance (=550 cm 2  sr for this analysis),  É‚à­±à­£à­ª and  É‚à­§à­¢  the selection and  identification efficiencies for electrons and positrons  and É� a small correction to account for the effect of the  cuts on the kinematical variables. The sample of  electrons and positrons has been selected applying cuts  on the E/p matching and the maximum depth of the  reconstructed shower to reduce the proton background.    After applying further cuts on the ECAL and the  TRD,  a total of  9.23 Ã— 106 events have been identified  as electrons and 0.58 Ã— 106 as positrons [38]. The  analysis has been repeated 30 times by different  groups with different selection and identification cut  values and the results of the analysis were found to be  consistent. Furthermore, the time dependence of the  counting rates has been studied showing a good  stability for energies above 10 GeV and consistency  with solar modulation effects at lower energies. The  measured electron and positron flux, scaled by E3 is  shown in Fig. 6, together with the most recent  measurements for comparison. The measurements  cover the energy ranges of 0.5 to 700 GeV for  electrons and 0.5 to 500 GeV for positrons. Between  20 GeV and 200 GeV, where the effects of solar  modulation are insignificant within the current  experimental accuracy, the electron flux decreases  more rapidly with energy than the positron flux in a  manner that is not consistent with only the secondary  production of positrons; that is, the differing behavior  of the spectral indices versus energy indicates that  high-energy positrons have a different origin from that  of electrons.  3.3. Flux of electrons and positrons  The main experimental advantage of analyzing all  electrons together (as opposed to the positron fraction  or individual positron and electron fluxes) is that there  is no requirement on charge identification and,  therefore, it is possible to extend the measurement to  higher energies within limited systematic errors.  Following similar analysis procedures as those  described in the previous sections, a sample of 10.5  million events have been identified as electrons or  positrons in the energy range from 0.5 to 1000 GeV.        Fig. 6. The AMS electron (top) and positron (bottom) fluxes,  multiplied by E3. Statistical and systematic uncertainties of the AMS  results have been added in quadrature. Previous measurements from  other experiments are also shown for comparison.  J. Berdugo / Nuclear and Particle Physics Proceedings 273â€“275 (2016) 110â€“116 115  The measured flux multiplied by E3 is shown in  Fig. 7 as a function of the reconstructed energy at the  top of the AMS detector. Previous measurements from  balloon, space and ground based experiments are also  reported in the figure for comparison. No evidence has  been found of prominent features in the measured  spectrum and this result, together with the accurate  measurement of the positron fraction [37], clearly  indicates the need for an additional source of electrons  and positrons whose contribution to the flux is  particularly relevant in the high energy part of the  spectrum.    4. Summary remarks  For the last decades, cosmic ray composition and  spectra have been measured with low statistics and  severe background limitations. With the operation of  long term space based experiments, as PAMELA,  Fermi-LAT and AMS, a new set of high precision  measurements is available to deeper understand this  field as well as to search for new physics and  astrophysics  phenomena.  After 40 months of operations in space, AMS has  collected 54 billion cosmic ray events. To date 41  billion have been analyzed. Over the lifetime of the  space station, AMS is expected to measure hundreds  of billions of primary cosmic rays. Among the physics  objectives of AMS is the search for antimatter, dark  matter, and the origin of cosmic rays.     References  [1] P. Mertsch. Cosmic ray backgrounds for dark matter indirect  detection, arXiv: 1012.4239   [2] K.A. Olive et al. Particle Data Group, Chin. Phys. C, 38,  090001 (2014).  [3] R. L. Golden et al., Astrophys. J. 436, 769 (1994).  [4] R. L. Golden et al., Astrophysical Journal Letters 457, L103  (1996).  [5] M. Boezio et al., Astrophys. J. 532, 653 (2000).  [6] C. Grimani et al., Astron. Astrophys. 392, 287 (2002)  [7] J. Chang et al., Nature (London) 456, 362 (2008).  [8] S. Torii et al., Astrophys. J. 559, 973 (2001).  [9] K. Yoshida et al., Advances in Space Research 42, 1670 (2008).  [10] S. W. Barwick et al., Astrophys. J. 498, 779 (1998),  arXiv:astro-ph/9712324.  [11] M. A. DuVernois et al., Astrophys. J. 559, 296 (2001).  [12] C. Grimani et al., Astronomy and Astrophysics 392, 287  (2002).  [13] J. Alcaraz et al., Physics Letters B 484, 10 (2000).  [14] M. Aguilar et al., Physics Letters B 646, 145 (2007),  arXiv:astro-ph/0703154.  [15] F. Aharonian et al., Physical Review Letters 101, 261104  (2008), 0811.3894.  [16] F. Aharonian et al., Astronomy and Astrophysics 508, 561  (2009), 0905.0105.  [17] O. Adriani et al. Nature 458 (2009)   [18] M. Turner and F. Wilczek, Phys. Rev. D 42, 1001 (1990).  [19] J. Ellis, arXiv:astro-ph/9911440.  [20] H. Cheng, J. Feng, and K. Matchev, Phys. Rev. Lett. 89,  211301 (2002).   [21] S. Profumo and P. Ullio, J. Cosmol. Astropart. Phys. 07 (2004)  006.   [22] D. Hooper and J. Silk, Phys. Rev. D 71, 083503 (2005).  [23] E. Ponton and L. Randall, J. High Energy Phys. 04 (2009) 080.  [24] G. Kane, R. Lu, and S. Watson, Phys. Lett. B 681, 151 (2009).  [25] D. Hooper, P. Blasi, and P. D. Serpico, J. Cosmol. Astropart.  Phys. 01 (2009) 025.   [26] Y-Z. Fan, B. Zhang, and J. Chang, Int. J. Mod. Phys. D 19,  2011 (2010).   [27] M. Pato, M. Lattanzi, and G Bertone, J. Cosmol. Astropart.  Phys. 12 (2010) 020.  [28] Picozza, P. et al., Astropart.Phys. 27, 296â€“315, 2007.  [29] O. Adriani et al., Phys. Rev. Lett. 106, 201101 (2011),  1103.2880.  [30] O. Adriani et al., Phys. Rev. Lett. 111, 081102 (2013).  [31] W. B. Atwood, et al.Astrophys.J.697:1071-1102,2009  [32] M. Ackermann et al., Phys. Rev. D 82, 092004 (2010),  1008.3999.  [33] M. Ackermann et al., Physical Review Letters 108, 011103  (2012), 1109.0521.  [34] A. Kounine, Int. J. Mod. Phys. E 21, 1230005 (2012)  [35] M. Aguilar et al., Physical Review Letters 110, 141102 (2013).  [36] V.Vigelli and Z.Weng,. Nuclear Physics B - Proceedings on  this conference  [37] L. Accardo et al. Physical Review Letters 113, 121101 (2014)  [38] M.Aguilar et al, Physical Review Letters 113, 121102  (2014)        Fig. 7. The AMS electron plus positron flux, multiplied by E3.  Statistical and systematic uncertainties of the AMS results have been  added in quadrature. Previous measurements from other experiments  are also shown for comparison.  J. Berdugo / Nuclear and Particle Physics Proceedings 273â€“275 (2016) 110â€“116116 n the figure for comparison. No evidence has  been found of prominent features in the measured  spectrum and this result, together with the accurate  measurement of the positron fraction [37], clearly  indicates the need for an additional source of electrons  and positrons whose contribution to the flux is  particularly relevant in the high energy part of the  spectrum.    4. Summary remarks  For the last decades, cosmic ray composition and  spectra have been measured with low statistics and  severe background limitations. With the operation of  long term space based experiments, as PAMELA,  Fermi-LAT and AMS, a new set of high precision  measurements is available to deeper understand this  field as well as to search for new physics and  astrophysics  phenomena.  After 40 months of operations in space, AMS has  collected 54 billion cosmic ray events. To date 41  billion have been analyzed. Over the lifetime of the  space station, AMS is expected to measure hundreds  of billions of primary cosmic rays. Among the physics  objectives of AMS is the search for antimatter, dark  matter, and the origin of cosmic rays.     References  [1] P. Mertsch. Cosmic ray backgrounds for dark matter indirect  detection, arXiv: 1012.4239   [2] K.A. Olive et al. Particle Data Group, Chin. Phys. C, 38,  090001 (2014).  [3] R. L. Golden et al., Astrophys. J. 436, 769 (1994).  [4] R. L. Golden et al., Astrophysical Journal Letters 457, L103  (1996).  [5] M. Boezio et al., Astrophys. J. 532, 653 (2000).  [6] C. Grimani et al., Astron. Astrophys. 392, 287 (2002)  [7] J. Chang et al., Nature (London) 456, 362 (2008).  [8] S. Torii et al., Astrophys. J. 559, 973 (2001).  [9] K. Yoshida et al., Advances in Space Research 42, 1670 (2008).  [10] S. W. Barwick et al., Astrophys. J. 498, 779 (1998),  arXiv:astro-ph</xocs:rawtext>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.4">
+         <item-info>
+            <jid>NPPP</jid>
+            <aid>260</aid>
+            <ce:pii>S2405-6014(15)00502-7</ce:pii>
+            <ce:doi>10.1016/j.nuclphysbps.2015.09.013</ce:doi>
+            <ce:copyright year="2015" type="full-transfer">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <head>
+            <ce:title id="ti0010">Space based cosmic ray experiments: highlights of recent results</ce:title>
+            <ce:author-group id="ag0010">
+               <ce:author id="au0010" author-id="S2405601415005027-8a90471ca77cd9b75d75ed6585bf98d5">
+                  <ce:given-name>Javier</ce:given-name>
+                  <ce:surname>Berdugo</ce:surname>
+                  <ce:cross-ref refid="cr0010" id="crf0010">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  <ce:e-address type="email" id="ea0010">Javier.berdugo@ciemat.es</ce:e-address>
+               </ce:author>
+               <ce:affiliation id="aff0010">
+                  <ce:textfn>CIEMAT, Av. Complutense, 40, Madrid-28040, Spain</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>CIEMAT</sa:organization>
+                     <sa:address-line>Av. Complutense, 40</sa:address-line>
+                     <sa:city>Madrid</sa:city>
+                     <sa:postal-code>28040</sa:postal-code>
+                     <sa:country>Spain</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cr0010">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +34-913-466-513; fax: +34-913-466-580.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract id="ab0010" view="all" class="author">
+               <ce:section-title id="st0010">Abstract</ce:section-title>
+               <ce:abstract-sec id="as0010" view="all">
+                  <ce:simple-para id="sp0010" view="all">In the last years, space based cosmic ray experiments are delivering very valuable and precise measurements for the understanding of the cosmic ray acceleration and propagation processes. This paper reviews the last measurements on electron and positron cosmic rays highlighting the latest accurate data provided by the AMS experiment</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="kws0010" view="all" class="keyword">
+               <ce:section-title id="st0020">Keywords</ce:section-title>
+               <ce:keyword id="kw0010">
+                  <ce:text>AMS</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>Cosmic Rays</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0030">
+                  <ce:text>Electrons</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0040">
+                  <ce:text>Positrons</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="bl0010" view="all">
+               <ce:section-title id="st0030">References</ce:section-title>
+               <ce:bibliography-sec id="bs0010" view="all">
+                  <ce:bib-reference id="br0010">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="bib31s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Mertsch</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cosmic ray backgrounds for dark matter indirect detection</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1012.4239" id="inf0010" xlink:type="simple">arXiv:1012.4239</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0020">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="bib32s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.A.</ce:given-name>
+                                 <ce:surname>Olive</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Particle Data Group</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chin. Phys. C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>090001</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0030">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="bib33s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.L.</ce:given-name>
+                                 <ce:surname>Golden</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Astrophys. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>436</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>769</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0040">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="bib34s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.L.</ce:given-name>
+                                 <ce:surname>Golden</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Astrophysical Journal Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>457</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>L103</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0050">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="bib35s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Boezio</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Astrophys. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>532</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>653</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0060">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="bib36s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Grimani</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Astron. Astrophys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>392</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>287</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0070">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="bib37s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature (London)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>456</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>362</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0080">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="bib38s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Torii</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Astrophys. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>559</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>973</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0090">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="bib39s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Yoshida</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advances in Space Research</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1670</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0100">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="bib3130s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Barwick</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Astrophys. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>498</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>779</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:astro-ph/9712324" id="inf0020" xlink:type="simple">arXiv:astro-ph/9712324</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0110">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="bib3131s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>DuVernois</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Astrophys. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>559</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>296</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0120">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="bib3132s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Grimani</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Astronomy and Astrophysics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>392</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>287</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0130">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="bib3133s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Alcaraz</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physics Letters B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>484</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0140">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="bib3134s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Aguilar</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physics Letters B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>646</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>145</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:astro-ph/0703154" id="inf0030" xlink:type="simple">arXiv:astro-ph/0703154</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0150">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="bib3135s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Aharonian</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physical Review Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>101</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>261104</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:0811.3894" id="inf0040" xlink:type="simple">arXiv:0811.3894</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0160">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="bib3136s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Aharonian</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Astronomy and Astrophysics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>508</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>561</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:0905.0105" id="inf0050" xlink:type="simple">arXiv:0905.0105</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0170">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="bib3137s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Adriani</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>458</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0180">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="bib3138s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Turner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wilczek</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. D</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1001</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0190">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="bib3139s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ellis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:astro-ph/9911440" id="inf0060" xlink:type="simple">arXiv:astro-ph/9911440</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0200">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="bib3230s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Matchev</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>211301</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0210">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="bib3231s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Profumo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Ullio</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Cosmol. Astropart. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>07</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>006</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0220">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="bib3232s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Hooper</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Silk</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. D</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>71</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>083503</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0230">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="bib3233s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Ponton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Randall</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. High Energy Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>04</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>080</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0240">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="bib3234s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Kane</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Watson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Lett. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>681</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>151</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0250">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="bib3235s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Hooper</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Blasi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.D.</ce:given-name>
+                                 <ce:surname>Serpico</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Cosmol. Astropart. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>01</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>025</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0260">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="bib3236s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.-Z.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Mod. Phys. D</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2011</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0270">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="bib3237s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pato</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lattanzi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Bertone</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Cosmol. Astropart. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>020</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0280">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="bib3238s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Picozza</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Astropart. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>296</sb:first-page>
+                              <sb:last-page>315</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0290">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="bib3239s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Adriani</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>106</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>201101</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1103.2880" id="inf0070" xlink:type="simple">arXiv:1103.2880</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0300">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="bib3330s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Adriani</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>111</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>081102</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0310">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="bib3331s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.B.</ce:given-name>
+                                 <ce:surname>Atwood</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Astrophys</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>697</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1071</sb:first-page>
+                              <sb:last-page>1102</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0320">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="bib3332s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ackermann</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. D</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>092004</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1008.3999" id="inf0080" xlink:type="simple">arXiv:1008.3999</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0330">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference id="bib3333s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ackermann</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physical Review Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>108</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>011103</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1109.0521" id="inf0090" xlink:type="simple">arXiv:1109.0521</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0340">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference id="bib3334s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kounine</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Mod. Phys. E</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1230005</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0350">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference id="bib3335s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Aguilar</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physical Review Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>110</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>141102</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0360">
+                     <ce:label>[36]</ce:label>
+                     <ce:other-ref id="boref0010">
+                        <ce:textref>V. Vigelli, Z. Weng, Nuclear Physics B - Proceedings on this conference.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0370">
+                     <ce:label>[37]</ce:label>
+                     <sb:reference id="bib3337s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Accardo</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physical Review Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>113</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>121101</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0380">
+                     <ce:label>[38]</ce:label>
+                     <sb:reference id="bib3338s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Aguilar</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physical Review Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>113</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>121102</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

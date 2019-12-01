@@ -1,0 +1,406 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1877042814011264</prism:url><dc:identifier>doi:10.1016/j.sbspro.2014.01.1109</dc:identifier><eid>1-s2.0-S1877042814011264</eid><prism:doi>10.1016/j.sbspro.2014.01.1109</prism:doi><pii>S1877-0428(14)01126-4</pii><dc:title>Consumer Protection of Halal Products in Malaysia: A Literature Highlight </dc:title><prism:publicationName>Procedia - Social and Behavioral Sciences</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>18770428</prism:issn><prism:volume>121</prism:volume><prism:startingPage>68</prism:startingPage><prism:endingPage>78</prism:endingPage><prism:pageRange>68-78</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2014-03-19</prism:coverDate><prism:coverDisplayDate>19 March 2014</prism:coverDisplayDate><prism:copyright>Copyright © 2013 The Authors. Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Authors. Published by Elsevier Ltd.</prism:publisher><prism:issueName>International Halal Conference InHAC 2012</prism:issueName><dc:creator>Halim, Mustafa ‘Afifi bin Ab.</dc:creator><dc:creator>Mohd, Kamilah Wati binti</dc:creator><dc:creator>Salleh, Mohd Mahyeddin Mohd</dc:creator><dc:creator>Yalawae, Asming</dc:creator><dc:creator>Omar, Tuan Syed Mohd Najib Syed</dc:creator><dc:creator>Ahmad, Asmidah</dc:creator><dc:creator>Ahmad, Azlin Alisa binti</dc:creator><dc:creator>Kashim, Mohd Izhar Ariff bin Mohd</dc:creator><dc:description>
+               Abstract
+               
+                  The halal industry is a highly potential market of the future that has not been fully explored. This is supported by the growing number of world's Muslim community estimated to increase to 1.8 billion by 2011 with current halal market value estimated to reach USD2.3 billion. However, there are some issues regarding the halal industry either domestically or internationally, particularly in relation to the abuse of halal logo and other offenses relating to the halal logo. The question is arised whether the rights of Muslims were fully protected under the relevant laws and their lawfully rights if these laws were not adhered to? The objective of this article is to examine a preamble to the highlight of consumer protection in Malaysia and its application. The research methodology is by documentations analysis based on literature review and the outcome of this writing would be an improvement in consumer protection and consumer's comprehension in matters related to halal products, to protect and educate consumers, and to educate producers to be more vigilant and responsible for the manufacture of their products.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/3.0/</openaccessUserLicense><dcterms:subject>Consumer Law</dcterms:subject><dcterms:subject>Halal</dcterms:subject><dcterms:subject>Halal Standard</dcterms:subject><dcterms:subject>Consumer Protection</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1877042814011264" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1877042814011264" rel="scidir"/></coredata><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>277811</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291845</xocs:ssid>
+         <xocs:ssid type="subj">291934</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Procedia - Social and Behavioral Sciences</xocs:srctitle>
+      <xocs:normalized-srctitle>PROCEDIASOCIALBEHAVIORALSCIENCES</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20140329">2014-03-29</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20140329">2014-03-29</xocs:available-online-date>
+      <xocs:ew-transaction-id>2014-10-23T04:52:13</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1877042814011264</xocs:eid>
+      <xocs:pii-formatted>S1877-0428(14)01126-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1877042814011264</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.sbspro.2014.01.1109</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1877042814X00157</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T07:20:48.220089-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20140319</xocs:date-search-begin>
+      <xocs:year-nav>2014</xocs:year-nav>
+      <xocs:indexeddate epoch="1396051200">2014-03-29T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast footnotes primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1877-0428</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>18770428</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>121</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>121</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 121</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>7</xocs:sort-order>
+      <xocs:first-fp>68</xocs:first-fp>
+      <xocs:last-lp>78</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>68</xocs:first-page>
+         <xocs:last-page>78</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20140319</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>19 March 2014</xocs:cover-date-text>
+      <xocs:cover-date-start>2014-03-19</xocs:cover-date-start>
+      <xocs:cover-date-year>2014</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>International Halal Conference InHAC 2012</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Raja Suzana Raja</ce:given-name>
+                     <ce:surname>Kasim</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Mohamed Azam Mohamed</ce:given-name>
+                     <ce:surname>Adil</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Siti Khadijah</ce:given-name>
+                     <ce:surname>Ab Manan</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Fadilah Abd</ce:given-name>
+                     <ce:surname>Rahman</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2013 The Authors. Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>CONSUMERPROTECTIONHALALPRODUCTSINMALAYSIAALITERATUREHIGHLIGHT</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>HALIM</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>M</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="oref0005"/>
+         <xocs:ref-info refid="oref0010"/>
+         <xocs:ref-info refid="oref0015"/>
+         <xocs:ref-info refid="oref0020"/>
+         <xocs:ref-info refid="oref0025"/>
+         <xocs:ref-info refid="oref0030"/>
+         <xocs:ref-info refid="oref0035"/>
+         <xocs:ref-info refid="oref0040"/>
+         <xocs:ref-info refid="oref0045"/>
+         <xocs:ref-info refid="oref0050"/>
+         <xocs:ref-info refid="oref0055"/>
+         <xocs:ref-info refid="oref0060"/>
+         <xocs:ref-info refid="oref0065"/>
+         <xocs:ref-info refid="oref0070"/>
+         <xocs:ref-info refid="oref0075"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>HALIMX2014X68</xocs:refkey3>
+         <xocs:refkey4lp>HALIMX2014X68X78</xocs:refkey4lp>
+         <xocs:refkey4ai>HALIMX2014X68XM</xocs:refkey4ai>
+         <xocs:refkey5>HALIMX2014X68X78XM</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2014-03-29T12:28:30Z</xocs:oa-access-effective-date>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/3.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/GEN_UNBOUNDED_ESWaived">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1877-0428(14)01126-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1877042814011264</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1877042814011264</xocs:eid>
+         <xocs:doi>10.1016/j.sbspro.2014.01.1109</xocs:doi>
+         <xocs:cid>277811</xocs:cid>
+         <xocs:timestamp>2014-10-23T01:28:33.481611-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2014-03-19</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1877042814011264-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1877042814011264/MAIN/application/pdf/3044d8fb7987e2d84e7ad63ce40118c5/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1877042814011264/MAIN/application/pdf/3044d8fb7987e2d84e7ad63ce40118c5/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>389118</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>11</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1877042814011264-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1877042814011264/PREVIEW/image/png/92ab1e643e754d513019e23cd3a27a1a/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1877042814011264/PREVIEW/image/png/92ab1e643e754d513019e23cd3a27a1a/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>55925</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext> P r o c e d i a  -  S o c i a l  a n d  B e h a v i o r a l  S c i e n c e s    1 2 1   (  2 0 1 4  )   6 8  â€“  7 8   Available online at www.sciencedirect.com 1877-0428  2013 The Authors. Published by Elsevier Ltd. Open access under CC BY-NC-ND license. Selection and peer-review under responsibility of Centre for Islamic Thought and Understanding (CITU), Universiti  Teknologi MARA, Malaysia. doi: 10.1016/j.sbspro.2014.01.1109  ScienceDirect INHAC 2012 Kuala Lumpur  International Halal Conference, PWTC, Kuala Lumpur, Malaysia, 4-5 September 2012  Consumer Protection of Halal Products In Malaysia: A  Literature Highlight  Mustafa â€˜Afifi bin Ab. Halim a1 , Kamilah Wati binti Mohd b   Mohd Mahyeddin Mohd Salleh c , Dr. Asming Yalawae d ,   Tuan Syed Mohd Najib Syed Omar e , Asmidah Ahmad f , Azlin Alisa binti  Ahmad g , Mohd Izhar Ariff bin Mohd Kashim h   a Lecturer Faculty of Syariah and Law, Research Fellow of Institute of Halal and Research Management (IHRAM),  Universiti Sains Islam Malaysia, Malaysia  b-c Lecturer Faculty of Syariah and Law, Research Fellow IHRAM,  Universiti Sains Islam Malaysia, Malaysia  d-f Lecturer Faculty of Syariah and Law, Universiti Sains Islam Malaysia, Malaysia  g-h  Lecturer of Faculty of Islamic Studies, Syariah Department, Universiti Kebangsaan Malaysia, Malaysia  Abstract  The halal industry is a highly potential market of the future that has not been fully explored. This is supported by the  growing number of world's Muslim community estimated to increase to 1.8 billion by 2011 with current halal market  value estimated to reach USD2.3 billion. However, there are some issues regarding the halal industry either  domestically or internationally, particularly in relation to the abuse of halal logo and other offenses relating to the  halal logo. The question is arised whether the rights of Muslims were fully protected under the relevant laws and  their lawfully rights if these laws were not adhered to? The objective of this article is to examine a preamble to the  highlight of consumer protection in Malaysia and its application. The research methodology is by documentations  analysis based on literature review and the outcome of this writing would be an improvement in consumer protection  and consumerâ€™s comprehension in matters related to halal products, to protect and educate consumers, and to educate  producers to be more vigilant and responsible for the manufacture of their products.   Â© 2011 Published by Elsevier Ltd. Selection and peer-review under responsibility of Centre for Islamic  Thought and Understanding (CITU), Universiti Teknologi MARA, Malaysia  Keywords: Consumer Law; Halal; Halal Standard; Consumer Protection  1 Corresponding author. Tel.: +606-7988467;  fax: +606-7988530. E-mail address: afifiusim@gmail.com.   2013 The Authors. Published by Elsevier Ltd. Open access under CC BY-NC-ND license. Selection and peer-review under responsibility of Centre for Islamic Thought and Understanding (CITU), Universiti  Teknologi MARA, Malaysia. 69 Mustafa â€˜Afi fi  bin Ab. Halim et al. /  Procedia - Social and Behavioral Sciences  121 ( 2014 )  68 â€“ 78  1.  Introduction  Consumerism is perceived as an essential component of the Islamic economic system that brings  together the elements of material and maknawi. It also considers the maslahat of individuals and groups.  The Islamic jurists have created the theory of consumer product consisting of three elements: 1 â€“ the  contracting element or aqad, 2 - moral element, and 3 â€“ the sharia element. The members of Islamic  jurisprudence are also linking consumerism with Islamic economic theory. Thus, they make consumerism  as a basic component of the Islamic economic system as mentioned earlier. With this, the jurists apply  conditions or dawabit and methodology that enjoins together the sharia principles and changes of ijtihad.   In general, the term consumerism in Islam refers to a person who obtains such goods or services to  meet their needs while achieving legitimate purposes in accordance with the Islamic law 2 . In matters  involving a purchase, Islam emphasizes the question of quality and consumer's rights. Quality of the  goods sold shall be guaranteed and satisfactory and meet the needs of consumers in return for the price  they paid. In discussing the issue of consumerism, halal (lawful) or haram (unlawful) status of a product  is very important for Muslim consumers as it relates to religious claims. Therefore, any law or regulation  designed must take these claims into account.   There are a lot of abuse relating to the use of halal logo, especially when it relates to food and  products. The question then arised whether the rights of Muslims were fully protected under the law  relating to halal, and what are their lawfully rights if these rules were not adhered to or ignored? For  example, the question of whether the basic ingredient of a food product complies with sharia and how  Muslim consumers are protected in issues like this?   The objective of this article is to look at past studies related to consumer protection and its application  in halal products. The mass media exposures of fraudulent use of halal logo, and haram food ingredients  illegally sold as 'halal' in the market in this country, from time to time, prove the problem is not a new  issue. Halal issue boils down to three basic things; Muslim consumer attitudes towards the value of halal  food purchased, the seller attitude whether they respect the Muslim taboos, and enforcement in terms of  the law 3  and legal action, whether they are sufficient to curb the frauds of halal logo.   When debating the issue of halal, the scope is very wide covering halal food, halal banking 4 , halal  pharmaceutical products, halal service financing, halal holiday and others.    2. Halal and Consumerism    Based on historical fact, John F. Kennedy, the late president of the United States was the first to  highlight the idea of consumer protection for the public through the Declaration of Consumer Rights. This  Declaration was presented to the U.S. Congress on March 15, 1961. There were four basic rights declared  during that time, which were 5 :  1. The right to safety  2. The right to be informed  3. The right to choose  4. The right to be heard    2  Abdul Karim, Faris Hamid. 2009. Himayatul Mustahlik Wa Huququhul Insaniyyah Fi As-Syariah Wal Qanun.  3  Mustafa â€˜Afifi Ab. Halim dan Mohd Mahyeddin Mohd Salleh. 2011. Hak Pengguna Berkaitan Produk Halal (Consumerâ€™s Rights  Related to Halal Product). The Proceeding of the International Conference on Consumer Law 2011. Pp. 356.  4  Mustafa â€˜Afifi bin Ab. Halim. 2011. Enhancing the effectiveness of legal Infrastructure: A Study on Legal Issues and other   challenges of Islamic Banking and Finance in Malaysia. Proceeding 8 th  International Conference on Islamic Economic and Finance.  P.1.  5  Mohd. Hamdan Hj. Adnan. 1990. Hak Anda Sebagai Pengguna (Your Rights as Consumers). Fajar Bakti Sdn Bhd: Petaling Jaya.  Pp. 2-3.  70   Mustafa â€˜Afi fi  bin Ab. Halim et al. /  Procedia - Social and Behavioral Sciences  121 ( 2014 )  68 â€“ 78  The concept of consumer rights then expanded its scope to other rights as was mooted by Anwar  Fazal, the President of the International Organization of Consumers Unions (IOUC), which were 6 :    1. The right to satisfaction of basic needs  2. The right to healthy environment  3. The right to redress  4. The right to consumer education  5. The right to representation    For the protection of consumers from profiteering misconduct of producers and sellers, there have  been various policies, statutes and plannings introduced by the government of many countries, world  organizations, and consumer organizations at national and international levels such as the United Nations  Guidelines for Consumer Protection, the EU Consumer Policy Strategy (2007 - 2013), the Regulation  (EU) on Consumer Protection Cooperation, ASEAN Economic Community (AEC) Blueprint, Consumer  Basic Act (Japan), and the National Consumer Policy (Malaysia) 7 .   The United Nations Guidelines for Consumer Protection or the guidelines for the United Nations  Consumer Protection (UNGCP) were the guidelines introduced by the world organization on 9 April 1985  based on the proposal submitted by the United Nations Economic and Social Council, one of the  administrative machinery of the Organization United Nations 8 . Although it is not binding, however, it  provides a framework of term of references to be used by the United Nations countries with regard to the  implementation of consumer protection.   Generally, the main objective of these guidelines is to assist the government to provide for adequate  protections to consumers, prevent unethical acts among businesses, and help create an independent  consumer body or association in a country. In addition, it has also outlined seven consumer rights and  requirements entitled to consumers to be provided by businesses, namely: protection from hazards to  health and safety; improve and safeguard the interest of the consumer economy; the right to have access  to adequate information on the product; the right for education including the implications of consumer  choices on the environment, economy and social; the existence of an effective law to consumers; freedom  to form associations or consumer organizations; and the opportunity for the organizations to present their  views in decision-making processes in order to promote for sustainable consumption.   In Southeast Asia, the Association of Southeast Asian Nations (ASEAN) has proposed for an Asean  Economic Community (AEC) Blueprint in their mission to form an independent economic community by  2015 9 . Among the plans being made to prepare the consumers on the emergence of the free market  community is through the establishment of ASEAN Committee on Consumer Protection (ACCP) 10 . The  function of ACCP would be to act on behalf of the protection of consumerâ€™s interests. In addition, a  consumer agency network will be established with aims to promote information sharing and exchanges on  products, services and other relevant matters. To ensure that all ASEAN citizens have the knowledge and  skills to enforce consumer protection laws and regulations, trainings will be conducted from time to time  for government officials and leaders of consumer organizations 11 .   The National Consumer Policy (NCP) was introduced in 1990 by the National Consumer Advisory  Council established under the Consumer Protection Act 1999, with aims to balance the rights and    6  ibid  7  United Nations guidelines for consumer protection (as expanded in 1999). European Consumer Centres (Euroguichets).  http://europa.eu.int.comm. (Accessed on 15 May 2012).  8  ibid  9  Asean Economic Community Blueprint (2007)  B2 Consumer Protection, Part II Characterics and Element of AEC. Association of  Southeast Asian Nations: Indonesia.  10  ibid  11  ibid  71 Mustafa â€˜Afi fi  bin Ab. Halim et al. /  Procedia - Social and Behavioral Sciences  121 ( 2014 )  68 â€“ 78  responsibilities of the three main entities; consumers, suppliers/ manufacturers and the government 12 . The  main goal of NCP is to provide for full protection to consumers through the cooperation of  supplier/manufacturer in implementing the concept of self-protection, as well as government  involvement. To ensure this can be achieved, a number of areas need to be emphasized, namely: the  legislature, trade practices, education, health, public facilities, and other related areas 13 .   The objective of NCP is the utmost level of consumer protection; accountable and fair trade practices;  education; sustainable consumption in the present globalization era; and relationship between consumers,  suppliers/manufacturers and the government 14 .  The target mission of NCP is to improve consumer welfare; improve socio-economic well-being; and  increase sustainable consumption practices. Several strategies have been outlined which can be  categorized into two, i.e. consumer protection in terms of social, and also legal. The adoption of social  strategy would be to improve quality of life; increase self-protection; increase support and assistance to  consumerism movements; and encourage participations of consumer organizations in the formulation and  implementation of government programs at the state and district levels. Whilst from the legal point of  view, the strategy would be to strengthen the laws of consumer protection by reenforcing the existing  laws and regulations, to amend the laws in accordance with the current development, creating new laws  that take into account the impact of globalization, trade liberalization and sustainable consumption,  ensuring for the laws to guarantee consumerâ€™s welfare and well-being.   NCP does not clearly state the rights of consumers but on the other hand states the  responsibilities  essential to all consumers and those are 15 :    1. Awareness to criticize  2. Involvement and action  3. Social responsibility  4. United    The National Consumer Advisory Council, a body that serves to advise the Minister in the Ministry of  Domestic Trade, Cooperatives and Consumerism, has outlined eight rights the consumers must know, as  follows 16 :    1. The right to choose  2. The right to safety  3. The right to be informed  4. The right to be heard   5. The right to redress and remedy  6. The right to environmental health  7. The right to service   8. The right to consumer education:    Halal has been a long-debated issue, but today, this issue has become increasingly complex as a result  of rapid expansion in innovation and technology. Halal has also been gaining attention not only locally  and domestically, but also globally. The era of globalization has brought many challenges to consumers.  In Malaysia, consumers are also facing many problems in consumerism issues which are not limited in    12  t.p. National Consumer Policy. http://www.nccc.org.my. On-line. Accessed on 16 May 2012.  13  ibid  14  ibid.  15  ibid.  16  ibid.  72   Mustafa â€˜Afi fi  bin Ab. Halim et al. /  Procedia - Social and Behavioral Sciences  121 ( 2014 )  68 â€“ 78  matters of halal products alone. Dishonesty in business practices such as poor quality goods, exhorbitant  prices, cheating in weighing, counterfeiting of goods, lack of quality control or standards in trade  merchandise control and other forms of frauds that exist in Malaysia at the moment 17 . Not to exclude  animal based daily consumer products such as handbags, belts, shoes and many more. The issue is the  source of the products if they were taken from the animals halal to be consumed by the Muslims? Even if  the source is halal, the next issue would be the processing techniques and methods if it was done in  accordance with the Islamic law or not? All these problems plaguing the consumers should be resolved  immediately without haste by the relevant authorities 18 .   Whenever the word halal is mentioned, it indirectly relates to consumerism issues. Consumerism is an  important issue that should be addressed by all nations, how they can best look after the welfare and well- being of their people is reflected through the policies and laws they enacted and enforced 19 ..  There have been various goods flooding the business market in Malaysia and amongst these goods  are, imitation and couterfeit goods, misleading advertisements, causing further grievances and problems  to consumers due to harmful preservatives and dyes in foods and drugs, that are banned in developed  countries but are sold without restrictions in developing countries like Malaysia 20 . The dangers arising  from various products and food ingredients supposedly should not have the halal status, and if there was,  the status is questionable.  3. Halal in Sharia  Some of the Muslims choose their favourite food based on affordability, wants and taste. They are  doing so by only looking at the deliciousness and the nutrients contents without assessing whether it is  edible especially from the aspect of hygiene and its permissibility in Islam. Allah says in Surah Al- Baqarah (The Heifer 2:172):    Ø§ ÙŽ Ø§ ÙŠ ÙŽ Ù‡ Ù�Ù‘ ÙŠ ÙŽ Ø°Ù�ÙŠÙ†ÙŽ  Ø£ ÙŽÙ‘ ÙˆØ§ Ø§Ù„ Ù� Ù† ÙŽ ÙˆØ§ Ø¢Ù… Ù� Ù„ Ù� Ùƒ   Ù’ Ù† Ù� Ø§ØªÙ�  Ù… ÙŽ Ø¨ Ù� Ù‘ÙŠ ÙŽ Ø§ Ø· ÙŽ Ù…   Ù’ Ù… Ù� Ù†Ø§ÙŽÙƒ Ù’ Ø²ÙŽÙ‚ ÙŽ Ø±     â€œO ye who believe! Eat of the good things that we have provided for you.â€�    The meaning of â€˜good thingsâ€™ from the above phrase includes hygienic food because when it is  hygienic it means it is indeed good. A cleanse and hygienic food will guarantee a healthy body.  Therefore, beside choosing a healthy and nutrientious food, it is best to emphasize the aspect of  cleanliness and hygienic according to the teaching of Islam. The Prophet SAW (peace be upon him) said:    Ø¨Ù‡ Ø£ÙˆÙ„Ù‰ Ù�Ø§Ù„Ù†Ø§Ø± Ø³Ø­Øª Ù…Ù† Ù†Ø¨Øª Ù„Ø­Ù…Ø§ Ø§Ù„Ø¬Ù†Ø© ÙŠØ¯Ø®Ù„ Ø£Ù† Ø£Ø¨Ù‰ Ø§Ù„Ù„Ù‡ Ø¥Ù†     â€œIndeed Allah prohibited flesh grown from forbidden source to enter paradise, on the contrarily, hell  is the best place for it.â€�(Hadis riwayat Al-Hakim).      17  Sakina Shaik Ahmad Yusoff. 2000. Perlindungan Pengguna di Malaysia (Consumer Protection in Malaysia). The Law. Vol. 5.  Pp.  313-330.  18  Mustafar Muhammad Arjawi. 2000. Al-Tanzim al-shari c i wa al-qanun li al-tadawi bi al-muharram aw al-mujarram.  Al-Shar c iyyah  wa al-dirasat al-Islamiyyah Magazine. No.42. Kuwait: Al-Majlis al-nashr al-Ilmi, Jamiah al-Kuwait. Pp. 162.  19  Rahmah Ismail. 2000. Keselamatan Produk dan Perlindungan Pengguna â€“ Satu Tinjauan (Product Safety and Consumer  Protection â€“ An Oversight). Malaysian Journal of Law and Societies 4:53.  20  Sakina Shaik Ahmad Yusoff. 2000. Perlindungan Pengguna di Malaysia (Consumer Protection in Malaysia).The Laws. Vol. 5.  Pp. 313-330.  73 Mustafa â€˜Afi fi  bin Ab. Halim et al. /  Procedia - Social and Behavioral Sciences  121 ( 2014 )  68 â€“ 78  Islam emphasizes on the aspect of good health among its disciples. A Muslim who always  cares  about the aspects of cleanse and hygienic food daily will surely emit a spiritual ray of light within his  body to maintain the same hygienic approach in his clothing, abode and bodily upkeep and et cetera.    Allah says in Surah al-Nahl (The Bee 16:114-115)     ÙˆØ§ Ù� Ù„ Ù� Ùƒ ÙŽ Ø§ Ù� ÙŽÙ‘ Ù… Ù� Ù…   Ù� Ù… Ù� Ùƒ ÙŽ Ø²ÙŽÙ‚ ÙŽ Ø±   Ù� ÙŽÙ‘à¹¡Ø§   Ù‹ Ù„Ø§ ÙŽ Ù„Ø§ ÙŽ Ø§ Ø­ Ù‹ Ø¨ Ù� Ù‘ÙŠ ÙŽ ÙˆØ§ Ø· Ù� Ø± Ù� Ùƒ Ù’ Ø§Ø´ ÙŽ ØªÙŽ  Ùˆ ÙŽ Ù… Ù’ Ø¹ Ù� Ù†   Ù� ÙŽÙ‘à¹¡Ø§   Ù’ Ù† Ù� Ø¥   Ù’ Ù… Ù� Øª Ù’ Ù† Ù� Ùƒ   Ù� Ø§Ù‡ ÙŽÙ‘ ÙŠ Ù� Ø¯ÙˆÙ�Ù†ÙŽ  Ø¥ Ù� Ø¨ Ù’ Ø§) 114( ØªÙŽØ¹ ÙŽ Ù… ÙŽÙ‘ Ù† Ù� Ø¥   ÙŽ Ù… ÙŽÙ‘ Ø± ÙŽ Ø­   Ù� Ù… Ù� ÙŠÙ’Ùƒ ÙŽ Ù„ ÙŽ Ø¹   ÙŽ ÙŠÙ’ØªÙŽØ© ÙŽ Ù… Ù’ Ø§Ù„   ÙŽ Ø§Ù„Ø¯ÙŽÙ‘Ù… ÙŽ Ùˆ   ÙŽ Ø­Ù’Ù… ÙŽ Ù„ ÙŽ Ùˆ   Ù� ÙŠØ± Ù� Ø² Ù’ Ø®Ù�Ù† Ù’ Ø§ Ø§Ù„ ÙŽ Ù… ÙŽ Ùˆ   Ù‡Ù�Ù„ÙŽÙ‘ Ù� Ø£    Ù� ØºÙŠÙŽÙ’Ø± Ù� Ù„   Ù� ÙŽÙ‘à¹¡Ø§   Ù� Ù‡ Ù� Ø¨   Ù� Ù† ÙŽ Ù… ÙŽ Ù�   ÙŽÙ‘ Ø± Ù� Ø§Ø¶Ù’Ø·   ÙŽ ØºÙŽÙŠÙ’Ø±   ÙŽ Ø¨  Ù� Ø§Øº   ÙŽ Ù„Ø§ ÙŽ Ø§Ø¯Ù�  Ùˆ ÙŽ Ø¹   ÙŽÙ‘ Ù† Ù� Ø¥ ÙŽ Ù�   ÙŽ ÙŽÙ‘à¹¡Ø§   ÙŒ ÙˆØ± Ù� ØºÙŽÙ�   ÙŒ Ø­Ù�ÙŠÙ… ÙŽ Ø± (115)     which means:     â€œSo eat of the sustenance which Allah has provided for you, lawful and good; and he grateful for the  favours of Allah, if it is he whom ye serve. He has only forbidden you dead meat, blood, flesh of swine,  and any food over which the name of other than Allah has been invoked. But if one is forced by necessity,  without wilful disobedience, not transgressing due limits, then Allah is oft forgiving and most merciful.â€�  Based on the verses above, it is clear that Islam has its own guidelines on how to source for a good  and halal food. The same is translated to the Halal Standard MS1500:2009 food preparation by which  halal food is defined as food and beverages with contents that are permissible according sharia.  4. Fraudulent Halal Logo  In the case of fraud against halal logo, there are several types of frauds including the subsequent  misuse of the halal logo upon the business acquirement of the logo, the use of over expired halal  compliance certificate, or companies that have never obtained the halal certificate and instead have used a  forged one 21 . If the fraud is only confined to the cheating of halal logo per se, it may not pose as a big  issue to consumers. However, what would be critical is the businesses that use halal logo in their products  but after further investigation and testing were showed traces of alcohol and DNA of pig in the content  which is clearly prohibited in Islam. Many cases of occurance in Malaysia which have been reported by  the mainstream media in Malaysia.  The source from the Ministry of Domestic Trade, Cooperatives and Consumerism (MDTCC) reported  of six forged halal logo, resembling the Islamic Development Department of Malaysia (JAKIMâ€™s) halal  logo, are in the market. Due to fear of drop in sales, some of the kopitiam restaurant owners began to  panic and resorted in buying privately issued halal logo to trick the Muslim consumers 22 . The fake halal  logo is displayed on the door at the payment counter of the premises to convince the already increasingly  cautious customers after knowing not all kopitiam restaurants have applied for halal certification from  JAKIM. Most consumers are not aware of the scam following the imitation of halal logo that is similar to  the halal logo issued by JAKIM 23 .  In the case of slaughtered animal, The Royal Malaysian Custom (JKDM) Selangor confiscated a total  of 22,750 kilogram of frozen beef valued at RM342, 150. The status of its halal is doubtful after JKDM  raided a container in North Port which was declared containing a load of carrots but after further checking    21  Mustafa â€˜Afifi Ab. Halim dan Mohd Mahyeddin Mohd Salleh. 2011. Hak Pengguna Berkaitan Produk Halal (Consumer Rights  Related to Halal Product). Proceeding of the International Conference on Consumer Law 2011. Pp. 357.  22  Mohd Jamilul Anbia Md Denin and Kasdi Ali. 2011. Perdaya Pelanggan (Cheating the Customers). My Metro.  http://www.hmetro.com.my/articles/Perdayapelanggan/Article/. Accessed on 10 July 2011.  23  ibid.  74   Mustafa â€˜Afi fi  bin Ab. Halim et al. /  Procedia - Social and Behavioral Sciences  121 ( 2014 )  68 â€“ 78  only found three rows of carrots and the rest containing boxes of frozen beef believed to be originated  from Argentina without any halal certification 24 .  During the month of Ramadan in 2010 (1431H), JAKIM and MDTCC jointly conducted Buffet  Ramadan Operations from 1st until 28th Ramadan 1431H. It was found that 50 hotels and restaurants  (52%) of the 96 premises checked were halal noncompliance to the halal standard of JAKIM and JAIN 25 .  Among the findings were the use of raw materials based on alcohol, doubtful contents, nonhalal  certification of halal raw materials, chicken from unclear sources and the mixing of halal and nonhalal  raw materials at the loading bays, storage and the use of Malaysian halal logo without the valid halal  certificate issued by JAKIM and JAIN 26 .  Based on the cases mentioned above, the acts of trickery and false misrepresentations on the part of  the sellers were profound especially in the use of halal logo, which was alarming. However, it was  difficult for the authorities to take actions due to limited enforcement powers of JAKIM and States  Religious Departments as well as lacked of evidence for prosecution.  It is a clear persecution to the consumers especially to the Muslim consumers wanting a halal food or  product. Thus, an establishment and development of a consumer protection model is critical to safeguard  the rights of consumers essentially the halal products and products as a whole.  5. The Halal Laws and Consumers Protection in Malaysia  Among the laws in Malaysia that oversee the distribution of goods that give protection to the rights of  consumers are Contract Act 1950, Sales of Goods Act (SGA) 1957, and Consumer Protection Act 1999.  The Contract Act for example only emphasizes the existence of a contract, escape clause and remedy  without detailed analysis of the contract contents. The Sales of Goods Act (SGA) was drafted to counter  and remedy the loopholes. Unfortunately, SGA is only applicable to the states in the Peninsula Malaysia.  For the states of Sabah and Sarawak, most of the case judgements relating to mercantile were adjudged by  the application of Section 5(2) of the Civil Law Act 1956 which among other stated that goods sales laws  applicable in East Malaysia â€œâ€¦must be the same as what being administered in England in matters  similar at the time as though the issue is raised or ought to be adjudged in Englandâ€¦â€� 27 .  Thus to create a valid goods 28  sales contract, all the basic elements of contract forming must be  present 29  as outlined in Contract Act 1950. Meanwhile, the detailed descriptive of goods can be found in  Sales of Goods Act (SGA) 1957. Among others it centred on the provision which gives advantages to  consumers regarding the liability of the sellers if they default on any implied terms either conditions 30  or  warranties 31  as outlined in Section 14, 15, 16 and 17 of the Act. Section 14 covers three implied terms â€“  implied condition which gives the seller a legal ownership of goods sold, implied warranty which gives  the buyer the pleasure to ownership of goods without harassment and implied warranty that the goods are  free from any encumbrances or claims from a third party. In addition, Section 15 to Section 17 relate to    24  Anon. 2011. Kastam Rampas Daging Beku ekor Lembu Diragui Halal (Custom Seizes Suspicious Halal Frozen Meat). Utusan  Malaysia. 8 July.  25  Wan Mohamad bin Datoâ€™ Sheikh Abdul Aziz. 2010. Keberkesanan Undang-Undang dan Penguatkuasaan Mengenai Makanan dan  Produk Halal di Malaysia (Effectiveness of the Laws and Enforcement on Halal Food and Products in Malaysia). Pp. 4.  26  ibid.  27  This provision invites debate among academics on the law applicable to Sabah and Sarawak whether Act 1979 or Act 1893 (Sale  of Goods Acts 1893 or 1979) as discussed by (Yusoff, 2007).  28  Section 4 of the Sale of Goods Act 1957 defines a contract of sale of goods, a contract that allows the seller to transfer, or agree to  transfer the rights of a product to a buyer in return for payment of the price quoted.  29   The basic elements of the contract are offer, acceptance, consideration, intention, certainty and ability.  30  Section 12 (2) Sale of Goods Act 1957 defines the conditions as to the principal provisions of the basic purposes of a breach of  contract and raise the right to consider the contract to be canceled.  31  Warranty is ancillary to the fundamental purpose of the provisions of a contract and breach of the right to claim compensation  poses only and is not a cancellation of the contract as per section 12 (3) Sale of Goods Act 1957.   75 Mustafa â€˜Afi fi  bin Ab. Halim et al. /  Procedia - Social and Behavioral Sciences  121 ( 2014 )  68 â€“ 78  implied condition on the goods being sold must adhere to the descriptive given by the seller 32 , the quality  can be traded and appropriate with meaning deemed proper to the buyer 33 , and the sample that is precise  from the quality aspect of goods being sold 34 .  The government is conscientious in constructing for a new formulation to upgrade efforts on the  protection of consumer rights. This is reflected through the establishment of Consumer Protection Act  1999 (Act 599) which provides for additional legal frameworks to monitor consumer rights on the issue  of supply of goods against the suppliers or manufactures of the goods concerned. Act 599 contains 14  parts involving 150 legal provisions to for consumer protection, the setting up of National Consumer  Advisory Council and Consumer Claims Tribunal.  Apart from that, under the 599 Act, the use of a new  term â€“ guarantee 35  was inserted to highlight the seriousness of a guarantee default in supplying and  manufacturing of goods to consumer among others, detailing the level of guarantee default as a minor  default that could be rectified, or involving a substantial default.  The establishment of Standard Halal Malaysia (MS 1500:2004), the application of ISO/IEC Guide 65  guidelines, and Malaysia Halal Certification Procedure Manual, are proofs of Malaysiaâ€™s commitment on  the handling and management of halal products. These standard, guidelines, and manual have the  potential for utilization as terms of references by other countries (Wan Mohamad, 2010:1). Halal  standards in Malaysia are developed through consensus by committees which comprised balanced  representation of producers, users, consumers and others with relevant interest 36 . Approval of a standard  as a Malaysian standard is governed by the Standards of Malaysian Act 1996 37 .  In the management of Halal Certification of JAKIM and JAIN, various laws and acts below are  applicable:  1. The Trade Descriptions Act (TDA) 2011, Trade Descriptions (Definition of Halal) Order 2011,  and Trade Descriptions (Certification and Marking of Halal) Order 2011 state the definition of halal and  halal food preparation in accordance to the sharia law together with the offences of falsification of raw  materials and halal documentation enforced by the Ministry of Domestic Trade, Cooperatives and  Consumerism (MDTCC);    2. The Food Act 1983 and Food Regulations 1985 regarding labelling, hygienic practice and food  safety enforced by the Ministry of Health (MOH);    3. The Animals Act 1953 (Revision 2006), Abbatoirs (Privatisation) Act 1993, and Animals Rules  1962, Animals (Importation) Order 1962 regarding animals rearing and diseases control by the  Department of Veterinary Services (DVS);    4. The Customs Act 1967, Customs (Prohibitions of Import) Order 1998, regarding the import of  halal meat by the Royal Malaysian Customs;      32  Section 15, Sales of Goods Act 1957  33  Section 16, Sales of Goods Act 1957  34  Section 17, Sales of Goods Act 1957  35  There are seven implied guarantees on goods and services supplied by the supplier of the ownership of goods, of acceptable  quality, fitness articles, descriptions, samples, prices and repairs and spare parts as in section 31 to section 37 of Act 599. While the  manufacturer liability detailed in section 50 (a) to (d), among others, in relation to a breach of the implied guarantee compliance  with acceptable quality, description of goods, repairs and spare parts and breach of manufacturer clear guarantees (refer to section  38 of Act 599).  36  Mustafa â€˜Afifi Ab. Halim and Mohd Mahyeddin Mohd Salleh. 2012. The Possibility of Uniformity on  Halal Standards in Organization of Islamic Countries (OIC) Country, World Applied Science Journal 17  (Towards the Traceability of Halal and Thoyyiban Application)):06-10,2012. IDOSI Publication. p.8.  37  ibid.  76   Mustafa â€˜Afi fi  bin Ab. Halim et al. /  Procedia - Social and Behavioral Sciences  121 ( 2014 )  68 â€“ 78  5. The Syariah Criminal Offences (Federal Territories) Act 1997 â€“ Labelling of halal food by the  State Islamic Departments;    6. The Local Government Act 1976 and Local Authorities By-Laws; and Trade Marks Act 1976 by  MDTCC.    Not all the laws and acts above, however, are fully under the jurisdiction of JAKIM and JAIN.  JAKIM and JAIN administer the halal certification operations by using the halal standard, that is,  Standard Malaysia (MS) and Malaysia Halal Certification Procedure Manual 38 . For enforcement  purposes, JAKIM and JAIN are dependent of the laws of other agencies. This makes the enforcement  action less effective.  On the issue of the use of halal logo in Malaysia, the amendment  of TDA 2011 only allows one (1)  halal logo to be used, i.e. the Malaysian Halal Logo 39 . For imported food products, only the halal logo  issued by the foreign halal operators recognized by JAKIM can be used 40 . Without the halal certification  recognized by JAKIM or JAIN, it is an offence under the Trade Descriptions (Certification and Marking  of Halal) Order 2011 by which the penalties are as follows 41 :    (i) For an organization or corporation, a fine not exceeding RM200,000, and for the second  or subsequent offences, a fine not exceeding RM500,000.    (ii) For an individual, a fine not exceeding RM100,000, or an imprisonment for a term not  exceeding three years, or both. For the second or subsequent offence, a fine not exceeding  RM250, 000, or an imprisonment for a term not exceeding five years of imprisonment, or  both.    Based on the above scenario and phenomenon, we can clearly question the rights of consumers for  the present laws are deemed inadequate in curtailing the fraudulent use of halal logo and consequently  depriving and cheating the consumers of a halal product consumption especially the Muslim consumers.  6.0 Conclusion and Suggestions   Trade Descriptions Act 2011 was enforced on 1 January 2012 but yet so far to be tried in court. This is  because there has not been a single case of abuse of halal logo or halal product filed in court under the  provision of this act.  The government is responsible to protect consumers from any form of cheating and misappropriation  of halal products. Therefore, it is imperative for the government to ensure that the present laws are fully  enforced and if there are loopholes in those laws, reviews and amendments must be made. This would  ensure a set of laws that is efficient and effective for the optimization of consumerâ€™s protection to its  utmost level.    38  ibid.  39  Rule 4, Trade Descriptions (Certification and Marking of Halal) Order 2011 (P.U.[A] 431).  40  Rule 5, Trade Descriptions (Certification and Marking of Halal) Order 2011 (P.U.[A] 431).  41  Rule 8, Trade Descriptions (Certification and Marking of Halal) Order 2011 (P.U.[A] 431).           77 Mustafa â€˜Afi fi  bin Ab. Halim et al. /  Procedia - Social and Behavioral Sciences  121 ( 2014 )  68 â€“ 78    Subsequently, to ensure that consumer rights are safeguarded, especially in the context of halal  products, all parties involved namely, the government, suppliers, manufactures, traders, consumer  associations, NGOs, and consumers themselves, must play a role to ensure that the perversion and  misappropriations of halal products can be curtailed and while preserving the right of consumers to obtain  products that are really clean and halal.  A model of consumer protection should be established to ensure that the rights of all consumers are  always protected. One of the recommendations towards ensuring the realization of this resolution would  be the formation of an authoritative and dedicated body responsible and accountable in the administration  of halal products. The roles played by JAKIM and JAIN cannot be dismissed, but it would be appropriate  to propose for an establishment of a governing body e.g. a Halal Commission with primary function to  regulate and monitor all halal-related affairs and at the same time making full enforcement on matters  related to halal products. This commission may be established by upgrading the role and function of the  Division of Halal Hub in JAKIM and JAIN where there will be coordination between the federal bodies  and state bodies in the administrative and legislative.    Acknowledment    This Research is funded by Fundamental Research Grant, Ministry of Higher Education of Malaysia  (USIM/FRGS-FSU-32-51512).     References  Al-Qurâ€™an  Abdul Karim, Faris Hamid. 2009. Himayatul Mustahlik Wa Huququhul Insaniyyah Fi As-Syariah Wal  Qanun.  Anon. 2011. Kastam Rampas Daging Beku ekor Lembu Diragui Halal (Custom Seizes Suspicious Halal  Frozen Meat). Utusan Malaysia. 8 July.  Asean Economic Community Blueprint (2007)  B2 Consumer Protection, Part II Characterics and  Element of AEC. Association of Southeast Asian Nations: Indonesia.  Mohd. Hamdan Hj. Adnan. 1990. Hak Anda Sebagai Pengguna (Your Rights as Consumers). Fajar Bakti  Sdn Bhd: Petaling Jaya.   Mohd Jamilul Anbia Md Denin and Kasdi Ali. 2011. Perdaya Pelanggan (Cheating the Customers). My  Metro. http://www.hmetro.com.my/articles/Perdayapelanggan/Article/. Accessed on 10 July 2011.  Mustafa â€˜Afifi Ab. Halim and Mohd Mahyeddin Mohd Salleh. 2012. The Possibility of Uniformity on  Halal Standards in Organization of Islamic Countries (OIC) Country, World Applied Science Journal 17  (Towards the Traceability of Halal and Thoyyiban Application)):06-10,2012. IDOSI Publication.   Mustafa â€˜Afifi Ab. Halim dan Mohd Mahyeddin Mohd Salleh. 2011. Hak Pengguna Berkaitan Produk  Halal (Consumerâ€™s Rights Related to Halal Product). The Proceeding of the International Conference on  Consumer Law 2011.   Mustafa â€˜Afifi bin Ab. Halim. 2011. Enhancing the effectiveness of legal Infrastructure: A Study on  Legal Issues and other challenges of Islamic Banking and Finance in Malaysia. Proceeding 8 th   International Conference on Islamic Economic and Finance.   78   Mustafa â€˜Afi fi  bin Ab. Halim et al. /  Procedia - Social and Behavioral Sciences  121 ( 2014 )  68 â€“ 78  Mustafar Muhammad Arjawi. 2000. Al-Tanzim al-shari c i wa al-qanun li al-tadawi bi al-muharram aw al- mujarram.  Al-Shar c iyyah wa al-dirasat al-Islamiyyah Magazine. No.42. Kuwait: Al-Majlis al-nashr al- Ilmi, Jamiah al-Kuwait.   n.a. National Consumer Policy. http://www.nccc.org.my. On-line. Accessed on 16 May 2012.  Rahmah Ismail. 2000. Keselamatan Produk dan Perlindungan Pengguna â€“ Satu Tinjauan (Product Safety  and Consumer Protection â€“ An Oversight). Malaysian Journal of Law and Societies 4:53.  Sakina Shaik Ahmad Yusoff. 2000. Perlindungan Pengguna di Malaysia (Consumer Protection in  Malaysia). The Law. Vol. 5.   United Nations guidelines for consumer protection (as expanded in 1999). European Consumer Centres  (Euroguichets). http://europa.eu.int.comm. (Accessed on 15 May 2012).  Wan Mohamad bin Datoâ€™ Sheikh Abdul Aziz. 2010. Keberkesanan Undang-Undang dan Penguatkuasaan  Mengenai Makanan dan Produk Halal di Malaysia (Effectiveness of the Laws and Enforcement on Halal  Food and Products in Malaysia).     Statutes:  Contract Act 1950  Sale of Good Act 1957  Trade Description Act 2011  Trade Description (Definition of Halal) Order 2011  Trade Description (Marking and Certification) Order 2011   Food Act 1983   Food Rules 1985   Animal Act 1953 (Revised 2006)  Abattoir Act (Private) 1993   Custom Act 1967   Syariah Criminal Offences (Federal Territories) 1997    that are really clean and halal.  A model of consumer protection should be established to ensure that the rights of all consumers are  always protected. One of the recommendations towards ensuring the realization of this resolution would  be the formation of an authoritative and dedicated body responsible and accountable in the administration  of halal products. The roles played by JAKIM and JAIN cannot be dismissed, but it would be appropriate  to propose for an establishment of a governing body e.g. a Halal Commission with primary function to  regulate and monitor all halal-related affairs and at the same time making full enforcement on matters  related to halal products. This commission may be established by upgrading the role and function of the  Division of Halal Hub in JAKIM and JAIN where there will be coordination between the federal bodies  and state bodies in the administrative and legislative.    Acknowledment    This Research is funded by Fundamental Research Grant, Ministry of Higher Education of Malaysia  (USIM/FRGS-FSU-32-51512).     References  Al-Qurâ€™an  Abdul Karim, Faris Hamid. 2009. Himayatul Mustahlik Wa Huququhul Insaniyyah Fi As-Syariah Wal  Qanun.  Anon. 2011. Kastam Rampas Daging Beku ekor Lembu Diragui Halal (Custom Seizes Suspicious Halal  Frozen Meat). Utusan Malaysia. 8 July.  Asean Economic Community Blueprint (2007)  B2 Consumer Protection, Part II Characterics and  Element of AEC. Association of Southeast Asian Nations: Indonesia.  Mohd. Hamdan Hj. Adnan. 1990. Hak Anda Sebagai Pengguna (Your Rights as Consumers). Fajar Bakti  Sdn Bhd: Petaling Jaya.   Mohd Jamilul Anbia Md Denin and Kasdi Ali. 2011. Perdaya Pelanggan (Cheating the Customers). My  Metro. http://www.hmetro.com.my/articles/Perdayapelanggan/Article/. Accessed on 10 July 2011.  Mustafa â€˜Afifi Ab. Halim and Mohd Mahyeddin Mohd Salleh. 2012. The Possibility of Uniformity on  Halal Standards in Organization of Islamic Countries (OIC) Country, World Applied Science Journal 17  (Towards the Traceability of Halal and Thoyyiban Application)):06-10,2012. IDOSI Publication.   Mustafa â€˜Afifi Ab. Halim dan Mohd Mahyeddin Mohd Salleh. 2011. Hak Pengguna Berkaitan Produk  Halal (Consumerâ€™s Rights Related to Halal Product). The Proceeding of the International Conference on  Consumer Law 2011.   Mustafa â€˜Afifi bin Ab. Halim. 2011. Enhancing the effectiveness o</xocs:rawtext>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.2" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>SBSPRO</jid>
+            <aid>15361</aid>
+            <ce:pii>S1877-0428(14)01126-4</ce:pii>
+            <ce:doi>10.1016/j.sbspro.2014.01.1109</ce:doi>
+            <ce:copyright type="other" year="2013">The Authors</ce:copyright>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para id="npar0005" view="all">Selection and peer-review under responsibility of Center for Islamic Thought and Understanding (CITU), Universiti Teknologi MARA, Malaysia.</ce:note-para>
+            </ce:article-footnote>
+            <ce:title id="tit0005">Consumer Protection of Halal Products in Malaysia: A Literature Highlight</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005">
+                  <ce:given-name>Mustafa ‘Afifi bin Ab.</ce:given-name>
+                  <ce:surname>Halim</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0010" refid="fn1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+                  <ce:e-address id="eadd0005" type="email">afifiusim@gmail.com</ce:e-address>
+               </ce:author>
+               <ce:author id="aut0010">
+                  <ce:given-name>Kamilah Wati binti</ce:given-name>
+                  <ce:surname>Mohd</ce:surname>
+                  <ce:cross-ref id="crf0015" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0015">
+                  <ce:given-name>Mohd Mahyeddin Mohd</ce:given-name>
+                  <ce:surname>Salleh</ce:surname>
+                  <ce:cross-ref id="crf0020" refid="aff0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0020">
+                  <ce:given-name>Asming</ce:given-name>
+                  <ce:surname>Yalawae</ce:surname>
+                  <ce:degrees>Dr.</ce:degrees>
+                  <ce:cross-ref id="crf0025" refid="aff0020">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0025">
+                  <ce:given-name>Tuan Syed Mohd Najib Syed</ce:given-name>
+                  <ce:surname>Omar</ce:surname>
+                  <ce:cross-ref id="crf0030" refid="aff0025">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0030">
+                  <ce:given-name>Asmidah</ce:given-name>
+                  <ce:surname>Ahmad</ce:surname>
+                  <ce:cross-ref id="crf0035" refid="aff0030">
+                     <ce:sup loc="post">f</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0035">
+                  <ce:given-name>Azlin Alisa binti</ce:given-name>
+                  <ce:surname>Ahmad</ce:surname>
+                  <ce:cross-ref id="crf0040" refid="aff0035">
+                     <ce:sup loc="post">g</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0040">
+                  <ce:given-name>Mohd Izhar Ariff bin Mohd</ce:given-name>
+                  <ce:surname>Kashim</ce:surname>
+                  <ce:cross-ref id="crf0045" refid="aff0040">
+                     <ce:sup loc="post">h</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Lecturer Faculty of Syariah and Law, Research Fellow of Institute of Halal and Research Management (IHRAM), Universiti Sains Islam Malaysia, Malaysia</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Lecturer Faculty of Syariah and Law, Research Fellow IHRAM, Universiti Sains Islam Malaysia, Malaysia</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff0015">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Lecturer Faculty of Syariah and Law, Research Fellow IHRAM, Universiti Sains Islam Malaysia, Malaysia</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff0020">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>Lecturer Faculty of Syariah and Law, Universiti Sains Islam Malaysia, Malaysia</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff0025">
+                  <ce:label>e</ce:label>
+                  <ce:textfn>Lecturer Faculty of Syariah and Law, Universiti Sains Islam Malaysia, Malaysia</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff0030">
+                  <ce:label>f</ce:label>
+                  <ce:textfn>Lecturer Faculty of Syariah and Law, Universiti Sains Islam Malaysia, Malaysia</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff0035">
+                  <ce:label>g</ce:label>
+                  <ce:textfn>Lecturer of Faculty of Islamic Studies, Syariah Department, Universiti Kebangsaan Malaysia, Malaysia</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff0040">
+                  <ce:label>h</ce:label>
+                  <ce:textfn>Lecturer of Faculty of Islamic Studies, Syariah Department, Universiti Kebangsaan Malaysia, Malaysia</ce:textfn>
+               </ce:affiliation>
+               <ce:footnote id="fn1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para id="npar0010" view="all">Corresponding author. Tel.: +606 7988467; fax: +606 7988530.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:abstract id="abs0005" view="all" class="author">
+               <ce:section-title id="sect0005">Abstract</ce:section-title>
+               <ce:abstract-sec id="abst0005" view="all">
+                  <ce:simple-para id="spar0005" view="all">The <ce:italic>halal</ce:italic> industry is a highly potential market of the future that has not been fully explored. This is supported by the growing number of world's Muslim community estimated to increase to 1.8 billion by 2011 with current <ce:italic>halal</ce:italic> market value estimated to reach USD2.3 billion. However, there are some issues regarding the <ce:italic>halal</ce:italic> industry either domestically or internationally, particularly in relation to the abuse of <ce:italic>halal</ce:italic> logo and other offenses relating to the <ce:italic>halal</ce:italic> logo. The question is arised whether the rights of Muslims were fully protected under the relevant laws and their lawfully rights if these laws were not adhered to? The objective of this article is to examine a preamble to the highlight of consumer protection in Malaysia and its application. The research methodology is by documentations analysis based on literature review and the outcome of this writing would be an improvement in consumer protection and consumer's comprehension in matters related to <ce:italic>halal</ce:italic> products, to protect and educate consumers, and to educate producers to be more vigilant and responsible for the manufacture of their products.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>Consumer Law</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>Halal</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>Halal Standard</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>Consumer Protection</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0020">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0075">
+                     <ce:label>Al-Qur’an, 2014</ce:label>
+                     <ce:other-ref id="oref0005">
+                        <ce:textref>Al-Qur’an.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>Abdul Karim, 2009</ce:label>
+                     <ce:other-ref id="oref0010">
+                        <ce:textref>Abdul Karim, Faris Hamid. 2009. Himayatul Mustahlik Wa Huququhul Insaniyyah Fi As-Syariah Wal Qanun.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>Anon, 2011</ce:label>
+                     <ce:other-ref id="oref0015">
+                        <ce:textref>Anon. 2011. Kastam Rampas Daging Beku ekor Lembu Diragui Halal (Custom Seizes Suspicious Halal Frozen Meat). Utusan Malaysia. 8 July.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>Asean Economic Community and Blueprint, 2007</ce:label>
+                     <ce:other-ref id="oref0020">
+                        <ce:textref>Asean Economic Community Blueprint. (2007) B2 Consumer Protection, Part II Characterics and Element of AEC. Association of Southeast Asian Nations: Indonesia.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>Mohd et al., 1990</ce:label>
+                     <ce:other-ref id="oref0025">
+                        <ce:textref>Mohd. Hamdan Hj. Adnan. 1990. Hak Anda Sebagai Pengguna (Your Rights as Consumers). Fajar Bakti Sdn Bhd: Petaling Jaya.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>Mohd Jamilul Anbia Md Denin et al., 2011</ce:label>
+                     <ce:other-ref id="oref0030">
+                        <ce:textref>Mohd Jamilul Anbia Md Denin and Kasdi Ali. 2011. Perdaya Pelanggan (Cheating the Customers). My Metro. http://www.hmetro.com.my/articles/Perdayapelanggan/Article/. Accessed on 10 July 2011.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>Mustafa ‘Afifi et al., 2012</ce:label>
+                     <ce:other-ref id="oref0035">
+                        <ce:textref>Mustafa ‘Afifi Ab. Halim and Mohd Mahyeddin Mohd Salleh. 2012. The Possibility of Uniformity on Halal Standards in Organization of Islamic Countries (OIC) Country, World Applied Science Journal 17 (Towards the Traceability of Halal and Thoyyiban Application)):06-10,2012. IDOSI Publication.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>Mustafa ‘Afifi et al., 2011</ce:label>
+                     <ce:other-ref id="oref0040">
+                        <ce:textref>Mustafa ‘Afifi Ab. Halim dan Mohd Mahyeddin Mohd Salleh. 2011. Hak Pengguna Berkaitan Produk Halal (Consumer's Rights Related to Halal Product). The Proceeding of the International Conference on Consumer Law 2011.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>Mustafa ‘Afifi bin et al., 2011</ce:label>
+                     <ce:other-ref id="oref0045">
+                        <ce:textref>Mustafa ‘Afifi bin Ab. Halim. 2011. Enhancing the effectiveness of legal Infrastructure: A Study on Legal Issues and other challenges of Islamic Banking and Finance in Malaysia. Proceeding 8th International Conference on Islamic Economic and Finance.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0045">
+                     <ce:label>Mustafar Muhammad and Arjawi, 2000</ce:label>
+                     <ce:other-ref id="oref0050">
+                        <ce:textref>Mustafar Muhammad Arjawi. 2000. Al-Tanzim al-sharici wa al-qanun li al-tadawi bi al-muharram aw al- mujarram. Al-Sharciyyah wa al-dirasat al-Islamiyyah Magazine. No.42. Kuwait: Al-Majlis al-nashr al- Ilmi, Jamiah al-Kuwait.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0050">
+                     <ce:label>Anon, 2012</ce:label>
+                     <ce:other-ref id="oref0055">
+                        <ce:textref>Anon. n.a. National Consumer Policy. http://www.nccc.org.my. On-line. Accessed on 16 May 2012.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0055">
+                     <ce:label>Rahmah and Ismail, 2000</ce:label>
+                     <ce:other-ref id="oref0060">
+                        <ce:textref>Rahmah Ismail. 2000. Keselamatan Produk dan Perlindungan Pengguna – Satu Tinjauan (Product Safety and Consumer Protection – An Oversight). Malaysian Journal of Law and Societies 4:53.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0060">
+                     <ce:label>Sakina Shaik Ahmad and Yusoff, 2000</ce:label>
+                     <ce:other-ref id="oref0065">
+                        <ce:textref>Sakina Shaik Ahmad Yusoff. 2000. Perlindungan Pengguna di Malaysia (Consumer Protection in Malaysia). The Law. Vol. 5.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0065">
+                     <ce:label>United and Nations, 2012</ce:label>
+                     <ce:other-ref id="oref0070">
+                        <ce:textref>United Nations. guidelines for consumer protection (as expanded in 1999). European Consumer Centres (Euroguichets). http://europa.eu.int.comm. (Accessed on 15 May 2012).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0070">
+                     <ce:label>Wan Mohamad bin Dato Sheikh Abdul and Aziz, 2010</ce:label>
+                     <ce:other-ref id="oref0075">
+                        <ce:textref>Wan Mohamad bin Dato’ Sheikh Abdul Aziz. 2010. Keberkesanan Undang-Undang dan Penguatkuasaan Mengenai Makanan dan Produk Halal di Malaysia (Effectiveness of the Laws and Enforcement on Halal Food and Products in Malaysia).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

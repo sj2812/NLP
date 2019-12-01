@@ -1,0 +1,250 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1877042813009543</prism:url><dc:identifier>doi:10.1016/j.sbspro.2013.04.385</dc:identifier><eid>1-s2.0-S1877042813009543</eid><prism:doi>10.1016/j.sbspro.2013.04.385</prism:doi><pii>S1877-0428(13)00954-3</pii><dc:title>Highlighting Intra-psychic Conflicts Using Altered States of Consciousness (ASC) </dc:title><prism:publicationName>Procedia - Social and Behavioral Sciences</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>18770428</prism:issn><prism:volume>78</prism:volume><prism:startingPage>733</prism:startingPage><prism:endingPage>737</prism:endingPage><prism:pageRange>733-737</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2013-05-13</prism:coverDate><prism:coverDisplayDate>13 May 2013</prism:coverDisplayDate><prism:copyright>Copyright © 2013 The Authors. Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Authors. Published by Elsevier Ltd.</prism:publisher><prism:issueName>PSIWORLD 2012</prism:issueName><dc:creator>Manolea, Aliodor</dc:creator><dc:description>
+               Abstract
+               
+                  The rational, subconscious and unconscious intra-psychic conflicts manifested causing, by psychosomatic conditioning, undesired psycho-emotional and somatic manifestations can be highlighted using altered states of consciousness (ASC). Using hypnosis to induce altered states of consciousness (ASC) to the experimental group (N = 18, M = 21.1 years, SD = 2.41), at dummy response type investigation, we found that the signal transmission via adrenal-somatic axis up to manifestations is processed in a longer time than the signal transmission from the Ideo-Motor Reflex centers of the two cerebral hemispheres at effectors muscles which decode the transmitted signal. Under these conditions, the measured response time differences using polygraph and pressure sensors for Ideo-Motor Reflex signal, are given by the complexity of intra- psychic processing of related facets of specific aspects of the Self.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/3.0/</openaccessUserLicense><dcterms:subject>subconscious</dcterms:subject><dcterms:subject>unconscious</dcterms:subject><dcterms:subject>altered states of consciousness</dcterms:subject><dcterms:subject>intra-psychic</dcterms:subject><dcterms:subject>ideo-motor reflex signal</dcterms:subject><dcterms:subject>ASC</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1877042813009543" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1877042813009543" rel="scidir"/></coredata><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>277811</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291845</xocs:ssid>
+         <xocs:ssid type="subj">291934</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Procedia - Social and Behavioral Sciences</xocs:srctitle>
+      <xocs:normalized-srctitle>PROCEDIASOCIALBEHAVIORALSCIENCES</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20130601">2013-06-01</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20130601">2013-06-01</xocs:available-online-date>
+      <xocs:ew-transaction-id>2014-11-04T06:50:50</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1877042813009543</xocs:eid>
+      <xocs:pii-formatted>S1877-0428(13)00954-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1877042813009543</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.sbspro.2013.04.385</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1877042813X00102</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T07:20:17.210987-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20130513</xocs:date-search-begin>
+      <xocs:year-nav>2013</xocs:year-nav>
+      <xocs:indexeddate epoch="1370044800">2013-06-01T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1877-0428</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>18770428</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>78</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>78</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 78</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>147</xocs:sort-order>
+      <xocs:first-fp>733</xocs:first-fp>
+      <xocs:last-lp>737</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>733</xocs:first-page>
+         <xocs:last-page>737</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20130513</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>13 May 2013</xocs:cover-date-text>
+      <xocs:cover-date-start>2013-05-13</xocs:cover-date-start>
+      <xocs:cover-date-year>2013</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>PSIWORLD 2012</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>Cristian</ce:given-name>
+                     <ce:surname>Vasile</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>Mihai</ce:given-name>
+                     <ce:surname>Anitei</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>Mihaela</ce:given-name>
+                     <ce:surname>Chraif</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2013 The Authors. Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>HIGHLIGHTINGINTRAPSYCHICCONFLICTSUSINGALTEREDSTATESCONSCIOUSNESSASC</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MANOLEA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="oref0005"/>
+         <xocs:ref-info refid="oref0010"/>
+         <xocs:ref-info refid="oref0015"/>
+         <xocs:ref-info refid="oref0020"/>
+         <xocs:ref-info refid="oref0025"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MANOLEAX2013X733</xocs:refkey3>
+         <xocs:refkey4lp>MANOLEAX2013X733X737</xocs:refkey4lp>
+         <xocs:refkey4ai>MANOLEAX2013X733XA</xocs:refkey4ai>
+         <xocs:refkey5>MANOLEAX2013X733X737XA</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2013-07-16T12:31:50Z</xocs:oa-access-effective-date>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/3.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/GEN_UNBOUNDED_ESWaived">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1877-0428(13)00954-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1877042813009543</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1877042813009543</xocs:eid>
+         <xocs:doi>10.1016/j.sbspro.2013.04.385</xocs:doi>
+         <xocs:cid>277811</xocs:cid>
+         <xocs:timestamp>2014-11-05T23:11:41.86577-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2013-05-13</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1877042813009543-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1877042813009543/MAIN/application/pdf/322b45dadd28dd2cd4d0a88dd2f62228/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1877042813009543/MAIN/application/pdf/322b45dadd28dd2cd4d0a88dd2f62228/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>412241</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1877042813009543-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1877042813009543/PREVIEW/image/png/95c537002ba6f1ae90f89ffc194b5dfa/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1877042813009543/PREVIEW/image/png/95c537002ba6f1ae90f89ffc194b5dfa/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>55641</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext> P r o c e d i a  -  S o c i a l  a n d  B e h a v i o r a l  S c i e n c e s    7 8   (  2 0 1 3  )   7 3 3  â€“  7 3 7   1877-0428  2013 The Authors. Published by Elsevier B.V. Open access under CC BY-NC-ND license. Selection and/or peer-review under responsibility of PSIWORLD 2012 doi: 10.1016/j.sbspro.2013.04.385  PSIWORLD 2012  Highlighting Intra-Psychic Conflicts Using Altered States of  Consciousness (ASC)  Aliodor Manolea*  University of Bucharest, Faculty of Psychology and Education Sciences, 90 Panduri street, Bucharest, Romania  Abstract  The rational, subconscious and unconscious intra-psychic conflicts manifested causing, by psychosomatic conditioning,  undesired psycho-emotional and somatic manifestations can be highlighted using altered states of consciousness (ASC).  Using  hypnosis  to  induce  altered  states  of  consciousness  (ASC)  to  the  experimental  group  (N  =  18,  M  =  21.1  years,  SD  =   2.41), at dummy response type investigation, we found that the signal transmission via adrenal-somatic axis up to  manifestations is processed in a longer time than the signal transmission from the Ideo-Motor Reflex centers of the two  cerebral hemispheres at effectors muscles which decode the transmitted signal. Under these conditions, the measured response  time differences using polygraph and pressure sensors for Ideo-Motor Reflex signal, are given by the complexity of intra- psychic processing of related facets of specific aspects of the Self.  Â© 2012 The Authors. Published by Elsevier B.V.   Selection and/or peer-review under responsibility of PSIWORLD 2012  Keywords: subconscious; unconscious; altered states of consciousness; intra-psychic; ideo-motor reflex signal; ASC;  1. Introduction  The term personality has its origins in the Latin word "persona", meaning "mask". Ancient theater actors used  masks not to hide their identity, but to represent, to characterize the character..  Contemporary, some authors define (Opre et al, 2002) [1] personality (even if as a working hypothesis) by  referring to those characteristics of a person that justify the consistency of his behavioral patterns.  The personality unity, instability, and increased duplication are based on a core element, fundamental as the  core of personality, represented by the Self, with all its aspects: Mine, Self, Myself.  The psychosocial stage (from the eighth decade so far) marks a rediscovery of the Self as an organizer of  knowledge and as regulator of conduct, all on an affective-emotional basis. Zlate (1999) [2] developed a  * Corresponding author.  E-mail address: aliodor@glide.ro  Available online at www.sciencedirect.com  2013 The Authors. Published by Elsevier B.V. Open access under CC BY-NC-ND license. l ction and/or peer-revi w under respon ibility of PSIWORLD 2012 734   Aliodor Manolea /  Procedia - Social and Behavioral Sciences  78 ( 2013 )  733 â€“ 737  synthetic model â€“ integrative-of personality comprising: real Self or real personality, self-representation or the  self-assessed personality, ideal the Self, the perceived Self, the designed Self and the manifested Self.  After Golu (2002) [3], the Self includes three interrelated and mutually integrated components, so called Selfâ€™s  facets:  1. The physical (somatic) Self - the valued image of the body's internal environment and physical constitution,  emotional experiences related to them.  2. The psychological Self - the image of self psychical internal organization, the internal emotional  experiences related to it, the motivation - the need of self-realization, of self-improvement.  3. Social Self â€“ the image of their place and role in society, the internal social values internalized and  integrated system, the social reasons, the status reasons, social emotions, social integration will.  Intra-psychic conflict refers to a conflict between different levels of the psyche: conscious, subconscious and  unconscious when they show different facets of ego (self somatic, ego). An attitude, behaviour or a rational  cognition is the result of the disjunction between action and inner conviction regarding the content of certain  facets of the Self.  1.1. The polygraph technique  Mitrofan, Butoi, Zdrenghea, (1992) [4] show that the polygraph technique detects the emotion indirectly by  detecting the general trigger reactions, involving both central and peripheral physiological mechanisms. These  reactions can be identified because they are transmitted by the autonomic nervous system, which deals with the  subconscious vital activity (Anitei et al., 2009) [5]. It is considered that the onset of the emotional-somatic  reactions accompanies the subjectâ€™s response to the "concerns" issue, and these reactions are shown in the  polygraph records of the physiological parameters.  2. Objectives  Highlighting the intra-psychic conflicts that refer to the Selfâ€™s facets, using induced hypnosis, by measuring  the emotional reactivity with the help of the polygraph and of the pressure sensor for the SIM ideo-motor reflex  signal.  3. Hypotheses  When responding questions about the Selfâ€™s facets statistically significant differences were registered by the  polygraphâ€™s sensors in ASC (altered state of consciousness) opposed to OSC (ordinary state of consciousness).  4. Method  4.1. Participants  To test the general hypothesis the pair-groups experimental design was used, using only the experimental  group. The group consisted of a number of 18 students of the Faculty of Psychology and Educational Sciences,  University of Bucharest, aged between 18 and 25 years old, 3 boys and 15 girls, (m= 21.1 years, SD = 2.41 ).  4.2. Apparatus and instruments  To highlight the ideo-motor reflex response we used the polygraph or the so-called "lie detector" is an  instrument that measures physiological reactions, equipped with two channels to measure the thoracic and  735 Aliodor Manolea /  Procedia - Social and Behavioral Sciences  78 ( 2013 )  733 â€“ 737  abdominal respiration, an electrodermal response measuring channel and one for blood pressure and heart rate  measuring channel. The FSR pressure sensor is coupled with an automatic system signal acquisition.  4.3. The working procedure  Through this procedure we aimed to obtain data which show the influence of induced hypnosis on emotional  reactivity. These data were highlighted in the physiological parameters records using the polygraph machine  when an altered state of consciousness (ASC) is induced, maintained and deepened in the students from the  experimental group, and it is then measured using the Stanford Hypnotic Susceptibility Scale, form C. Students  answered to questions that evoke the many facets of Self. Ideo-motor reflex response data were also recorded to  reveal a way for assessing the state of intra-psychic conflict.  4.4. Experimental design   We used a pretest-posttest matched-pairs experimental design. The independent variable was the applied  psychotherapeutic technique - induced hypnosis. The dependent variables describe the somatic and psycho- emotional states of the subjects and consist of the following: electro-dermal response amplitude, time to return,  EDA resistance value, heart rate, blood pressure, respiratory rate - all measured with the polygraph and the  response time measured with the pressure sensor.  5. Results  For the polygraph obtained data none of the dependent variables has the values normally distributed. In  applying Wicoxon nonparametric tests statistically significant differences were confirmed for both sides of the  Self. So, for the somatic Self statistically significant differences of the responses given in ASC to those given in  OSC for the dependent variables: time to return (Z = -7.48 p = 0.000 &lt;0.001), EDA resistance value (Z = - 8.23 p  = 0.000 &lt;0.001), blood pressure (Z = -4.99 p = 0.000 &lt;0.001) and respiratory rate (Z = -3.55 p = 0.000 &lt;0.001).  No statistically significant results were found for the dependent variables electro-dermal response amplitude (Z =  -1.41 p = 0.159&gt; 0.05) and heart rate (Z = -1.61 p = 0.1&gt; 0.05).  For the psychological Self statistically significant differences, of the responses given in OSC opposed to those  given in ASC, were registered for the dependent variables: time to return (Z = -6.94 p = 0.000 &lt;0.001), EDA  resistance value (Z = -7.32 p = 0.000 &lt;0.001), heart rate (Z = -2.61 p = 0.009 &lt;0.01), blood pressure (Z = -4.25 p  = 0.000 &lt;0.001) and respiratory rate (Z = -3.85 p = 0.000 &lt;0.001). Statistically significant results for the  dependent variable amplitude electro-dermal response (Z = - 0.14 p = 0.89&gt; 0.05) were not revealed.  6. Discussions  The subjects in the experimental group were in an induced hypnotic trance while being in the ASC. The  previous statement is strengthened by the fact that the response time (time to return) of the autonomic nervous  system (ANS) is longer than in OSC. In the ordinary state of consciousness (OSC) a rational binary answer (RA)  was given, and at subconscious level information processing took place; this was manifested as a subconscious  answer (SA) and also it was manifested at the level of the physical body, level where different parameters were  registered (fig.1a).  The possible relations between the rational, subconscious and unconscious answers (UA) can be grouped as  follows: RA SA UA showing an absence of inner conflict, and RA SA UA, RA SA UA and  RA SA UA  showing that an inner conflict exists and that it is situated at different psychic depths (Fig. 1b).  736   Aliodor Manolea /  Procedia - Social and Behavioral Sciences  78 ( 2013 )  733 â€“ 737  To this response types we can associate specific response times as follows: t 0  specific for RA, t 1  specific for  SA, t 2  specific for UA and t 3  specific for AIDM (ASC response time using SIDM).   When a question is asked in OSC, a type dummy verbal response is registered (RA) at t 0  time, and the  polygraph sensors register the subconscious response (SR) processed at t 1  time, resulting that t 1 &gt;t 0.      Do you feel good about your body image?  t 1 = 37s              t 2 = 3min 20s SA                                 UA      Fig. 1. (a) Example-differentiations of parameter values recorded with polygraph equipment that have meaning that there is a intra-psychic  conflict between the subconscious (SA) and unconscious (UA) levels relating to the physical (somatic) Self. (b) . Example of the graphical  differentiation of the intensity (size) of the intra-psychic conflict regarding the physical (somatic) Self as a response to the question "Do you  feel good about your body image? (Electro-dermal activity parameter)  After the subject was put into a cataleptic ASC, verified with the Stanford hypnotic susceptibility scale, and the  question corresponding to the desired Self facet is put, the polygraph records show the relationship between t 2 , t1  and t0.  In the altered state of consciousness (ASC) the information processing was made at an unconscious level and  the appropriate answer was obviously manifested at the same psychical level (UA). In accordance with our  findings, we have built the table 1.  Table 1. The relation between the response times in OSC and ASC  Action Consciousness state Response type\t response time Relation between the response times  Questioning OSC RA/ t 0  SA/t 1  t 1 &gt;t 0  ASC UA/ t 2  t 2 &gt; t 1&gt;  t 0   OSC/SIDM AIDM/ t 3  t 0&lt;  t 3&lt;  t 1     We can observe that a longer time is required (t 1 &gt;t 3 ) for the signals transmission through the adrenal axis (path  1) to take form in somatic manifestations (heart rate, blood pressure, temperature, sweat activity), than it is  required for the signal to be transmitted from ideo-motor reflex centers of the two cerebral hemispheres (path 2)  to the effectors muscles.   In these circumstances the question is: is the response time difference given only by the route followed by the  signal (path 1 or path 2), or also by the complexity of intra-psychic processing, regarding the subject of the  investigation (a specific aspect of Self facets) appropriate to the state of the subject at the time of the inquiry.  Another aspect of the problem regarding the response time is that of the depth of the intra-psychic level that  undergoes the processing caused by the specific Self facet investigated at the moment. We assume that UA is  given by the intra-psychic unconscious level and that the answer required a certain amount of time to pass  between the moment of the question and the polygraph registration of the somatic parameters. Considering the  737 Aliodor Manolea /  Procedia - Social and Behavioral Sciences  78 ( 2013 )  733 â€“ 737  issues raised, it can be assumed that the response time is directly related, perhaps even directly proportional to the  intensity of internal conflict, of the psychosomatic conditionings (Fig. 1b).  The question is: the time necessary to an inner process to physical manifest itself, represents the time required  for intra-psychic processing of the data at an unconscious level and the transmission of the information resulting  as an algorithm for the autonomic nervous system (which in return processes the data and shows a response that  can be registered with the polygraph) or this time interval is required for the information processing although it is  contradictory to the level of the intra-psychic instances at which the investigation takes place.  The objective of this study was to show that these intra-psychic conflicts can be highlighted in altered states of  consciousness using a pressure sensor (FRS-Force Sensitive Sensor) showing the ideo-motor reflex signal  (SIDM). In Table 2 we can see how this becomes possible.  Table 2. Highlighting the intra-psychic conflict (the psychosomatic conditioning) through comparing the answers to the questions regarding  the facets of the Self, in ordinary state of consciousness (OSC) and in an altered state of consciousness (ASC) using the ideo-motor reflex  signal (SIDM) for a single subject  Self facets  Somatic Self   Psychological Self  Question 1 2 3 4 5  6 7 8 9  Answer OSC NO NO NO NO YES   NO NO NO NO  Answer ASC YES NO YES YES YES  YES YES YES NO  Intra psychic conflict YES NO YES YES NO  YES YES YES NO    By comparing the binary answers recorded in the ordinary state of consciousness (SOC), when four of the  subjects connected to the polygraph gave rational answers verbalizing the response option (RA) and the answers  recorded in an altered state of consciousness (ASC) with the ideo-motor reflex signal (SIDM) the presence of  intra-psychic conflicts, of psychosomatic conditioning, can be well noticed. Although this is a highlight with the  character of a pilot experiment, requiring further research in this direction, the study highlights the link between  rational beliefs and those non-rational one implements at an unconscious/subconscious level that can influence  psycho-emotional balance and even health.  References  Anitei, M., Chraif M., Papasteri C., &amp; Neacsu A., (2009). The Psychosocial implication Ã®n teenage exposure to aggressive blood visual  stimuli evidenced by the polygraph, A IV-a sesiune de comunicari, Institutul de Studii pentru Ordine Publica, Bucuresti 19-20.10.2009.  Golu, M. (2002). Bazele psihologiei generale, Bucure ti: Ed. Universitar .  Mitrofan, N., Butoi, T., &amp; Zdrenghea, V., (1992). Psihologie judiciar . Bucure ti: Editura Sansa.  Opre, A. (coordonator). (2002). Noi tendinte Ã®n psihologia personalit tii-modele teoretice. Cluj-Napoca: Editura ASCR.  Zlate, M. (1999). Eul si personalitatea, Bucuresti: Ed. Trei.    he adrenal axis (path  1) to take form in somatic manifestations (heart rate, blood pressure, temperature, sweat activity), than it is  required for the signal to be transmitted from ideo-motor reflex centers of the two cerebral hemispheres (path 2)  to the effectors muscles.   In these circumstances the question is: is the response time difference given only by the route followed by the  signal (path 1 or path 2), or also by the complexity of intra-psychic processing, regarding the subject of the  investigation (a specific aspect of Self facets) appropriate to the state of the subject at the time of the inquiry.  Another aspect of the problem regarding the response time is that of the depth of the intra-psychic level </xocs:rawtext>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.2" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>SBSPRO</jid>
+            <aid>9876</aid>
+            <ce:pii>S1877-0428(13)00954-3</ce:pii>
+            <ce:doi>10.1016/j.sbspro.2013.04.385</ce:doi>
+            <ce:copyright type="other" year="2013">The Authors</ce:copyright>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para id="npar0005" view="all">Selection and/or peer-review under responsibility of PSIWORLD 2012.</ce:note-para>
+            </ce:article-footnote>
+            <ce:title id="tit0005">Highlighting Intra-psychic Conflicts Using Altered States of Consciousness (ASC)</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005">
+                  <ce:given-name>Aliodor</ce:given-name>
+                  <ce:surname>Manolea</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="cor0005">
+                     <ce:sup loc="post">*</ce:sup>
+                  </ce:cross-ref>
+                  <ce:e-address id="eadd0005" type="email">aliodor@glide.ro</ce:e-address>
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:textfn>University of Bucharest, Faculty of Psychology and Education Sciences, 90 Panduri street, Bucharest, Romania</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>*</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract id="abs0005" view="all" class="author">
+               <ce:section-title id="sect0005">Abstract</ce:section-title>
+               <ce:abstract-sec id="abst0005" view="all">
+                  <ce:simple-para id="spar0005" view="all">The rational, subconscious and unconscious intra-psychic conflicts manifested causing, by psychosomatic conditioning, undesired psycho-emotional and somatic manifestations can be highlighted using altered states of consciousness (ASC). Using hypnosis to induce altered states of consciousness (ASC) to the experimental group (N = 18, M = 21.1 years, SD = 2.41), at dummy response type investigation, we found that the signal transmission via adrenal-somatic axis up to manifestations is processed in a longer time than the signal transmission from the Ideo-Motor Reflex centers of the two cerebral hemispheres at effectors muscles which decode the transmitted signal. Under these conditions, the measured response time differences using polygraph and pressure sensors for Ideo-Motor Reflex signal, are given by the complexity of intra- psychic processing of related facets of specific aspects of the Self.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>subconscious</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>unconscious</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>altered states of consciousness</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>intra-psychic</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text>ideo-motor reflex signal</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0030">
+                  <ce:text>ASC</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0020">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>Anitei et al., 2009</ce:label>
+                     <ce:other-ref id="oref0005">
+                        <ce:textref>Anitei, M., Chraif M., Papasteri C., &amp; Neacsu A., (2009). The Psychosocial implication în teenage exposure to aggressive blood visual stimuli evidenced by the polygraph, A IV-a sesiune de comunicari, Institutul de Studii pentru Ordine Publica, Bucuresti 19-20.10.2009.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>Golu, 2002</ce:label>
+                     <ce:other-ref id="oref0010">
+                        <ce:textref>Golu, M. (2002). Bazele psihologiei generale, Bucureşti: Ed. Universitară.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>Mitrofan et al., 1992</ce:label>
+                     <ce:other-ref id="oref0015">
+                        <ce:textref>Mitrofan, N., Butoi, T., &amp; Zdrenghea, V., (1992). Psihologie judiciara. Bucureşti: Editura Sansa.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>Opre, 2002</ce:label>
+                     <ce:other-ref id="oref0020">
+                        <ce:textref>Opre, A. (coordonator). (2002). Noi tendinte în psihologia personalitatii-modele teoretice. Cluj-Napoca: Editura ASCR.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>Zlate, 1999</ce:label>
+                     <ce:other-ref id="oref0025">
+                        <ce:textref>Zlate, M. (1999). Eul si personalitatea, Bucuresti: Ed. Trei.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

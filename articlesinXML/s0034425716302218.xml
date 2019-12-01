@@ -1,0 +1,2681 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0034425716302218</prism:url><dc:identifier>doi:10.1016/j.rse.2016.05.020</dc:identifier><eid>1-s2.0-S0034425716302218</eid><prism:doi>10.1016/j.rse.2016.05.020</prism:doi><pii>S0034-4257(16)30221-8</pii><dc:title>New visualizations highlight new information on the contrasting Arctic and Antarctic sea-ice trends since the late 1970s </dc:title><prism:publicationName>Remote Sensing of Environment</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>00344257</prism:issn><prism:volume>183</prism:volume><prism:startingPage>198</prism:startingPage><prism:endingPage>204</prism:endingPage><prism:pageRange>198-204</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2016-09-15</prism:coverDate><prism:coverDisplayDate>15 September 2016</prism:coverDisplayDate><prism:copyright>Published by Elsevier Inc.</prism:copyright><dc:creator>Parkinson, Claire L.</dc:creator><dc:creator>DiGirolamo, Nicolo E.</dc:creator><dc:description>
+               Abstract
+               
+                  Month-by-month ranking of 37years (1979–2015) of satellite-derived sea-ice extents in the Arctic and Antarctic reveals interesting new details in the overall trends toward decreasing sea-ice coverage in the Arctic and increasing sea-ice coverage in the Antarctic. The Arctic decreases are so definitive that there has not been a monthly record high in Arctic sea-ice extents in any month since 1986, a time period during which there have been 75 monthly record lows. The Antarctic, with the opposite but weaker trend toward increased ice extents, experienced monthly record lows in 5months of 1986, then 6 later monthly record lows scattered through the dataset, with the last two occurring in 2006, versus 45 record highs since 1986. However, in the last three years of the 1979–2015 dataset, the downward trends in Arctic sea-ice extents eased up, with no new record lows in any month of 2013 or 2014 and only one record low in 2015, while the upward trends in Antarctic ice extents notably strengthened, with new record high ice extents in 4months (August–November) of 2013, in 6months (April–September) of 2014, and in 3months (January, April, and May) of 2015. Globally, there have been only 3 monthly record highs since 1986 (only one since 1988), whereas there have been 43 record lows, although the last record lows (in the 1979–2015 dataset) occurred in 2012.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>Author</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><dcterms:subject>Sea ice</dcterms:subject><dcterms:subject>Arctic sea ice</dcterms:subject><dcterms:subject>Antarctic sea ice</dcterms:subject><dcterms:subject>Global sea ice</dcterms:subject><dcterms:subject>Climate trends</dcterms:subject><dcterms:subject>Sea-ice record lows and highs</dcterms:subject><dcterms:subject>Satellite remote sensing</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0034425716302218" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0034425716302218" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="140" size="29299">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="204" height="164" size="31232">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="153" size="29660">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="167" height="164" size="14567">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="156" height="164" size="19326">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="t1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="47" size="5322">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-t1.sml?httpAccept=%2A%2F%2A</object><object ref="t2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="47" size="5248">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-t2.sml?httpAccept=%2A%2F%2A</object><object ref="t3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="47" size="5240">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-t3.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="642" height="412" size="141135">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="625" height="503" size="121625">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="802" height="560" size="175412">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="389" height="381" size="47323">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="646" height="679" size="128752">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="t1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="800" height="172" size="92261">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-t1.jpg?httpAccept=%2A%2F%2A</object><object ref="t2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="800" height="171" size="87482">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-t2.jpg?httpAccept=%2A%2F%2A</object><object ref="t3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="800" height="171" size="88273">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-t3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2845" height="1824" size="1303116">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2766" height="2225" size="710174">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3553" height="2483" size="1295936">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1723" height="1687" size="224152">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2862" height="3008" size="816310">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="t1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3544" height="763" size="734527">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-t1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="t2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3544" height="759" size="622529">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-t2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="t3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3544" height="759" size="630633">https://api.elsevier.com/content/object/eid/1-s2.0-S0034425716302218-t3_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>84973115719</scopus-id><scopus-eid>2-s2.0-84973115719</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84973115719" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271745</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291767</xocs:ssid>
+         <xocs:ssid type="subj">291768</xocs:ssid>
+         <xocs:ssid type="subj">291798</xocs:ssid>
+         <xocs:ssid type="subj">291815</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Remote Sensing of Environment</xocs:srctitle>
+      <xocs:normalized-srctitle>REMOTESENSINGENVIRONMENT</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20160607">2016-06-07</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20160607">2016-06-07</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20160607">2016-06-07</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20160607">2016-06-07</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-10-28T16:18:44</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0034425716302218</xocs:eid>
+      <xocs:pii-formatted>S0034-4257(16)30221-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0034425716302218</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.rse.2016.05.020</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.4</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0034425716X00090</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20191030">2019-10-30T20:43:50.682633Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160915</xocs:date-search-begin>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1465322624">2016-06-07T18:03:44.735524Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantsponsor highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0034-4257</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00344257</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>NONE</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>183</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>183</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 183</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>17</xocs:sort-order>
+      <xocs:first-fp>198</xocs:first-fp>
+      <xocs:last-lp>204</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>198</xocs:first-page>
+         <xocs:last-page>204</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20160915</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 September 2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-09-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Published by Elsevier Inc.</xocs:copyright-line>
+      <xocs:normalized-article-title>NEWVISUALIZATIONSHIGHLIGHTNEWINFORMATIONCONTRASTINGARCTICANTARCTICSEAICETRENDSSINCELATE1970S</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>PARKINSON</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>C</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Data and methods</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Hemispheric results</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Global results</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Scatterplot of the Arctic and Antarctic results</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf0005">
+            <xocs:ref-normalized-surname>ACIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>ARCTICCLIMATEIMPACTASSESSMENT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>ARRIGO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>439</xocs:ref-first-fp>
+            <xocs:ref-last-lp>467</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>BINTANJA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>376</xocs:ref-first-fp>
+            <xocs:ref-last-lp>379</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>CAVALIERI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>881</xocs:ref-first-fp>
+            <xocs:ref-last-lp>889</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>CAVALIERI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>233</xocs:ref-first-fp>
+            <xocs:ref-last-lp>236</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>CAVALIERI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15,803</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15,814</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>COMISO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-article-number>L01703,</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>FRANCIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>GLOERSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ARCTICANTARCTICSEAICE19781987SATELLITEPASSIVEMICROWAVEOBSERVATIONSANALYSIS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>JEFFRIES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>35</xocs:ref-first-fp>
+            <xocs:ref-last-lp>40</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>JOHNSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8</xocs:ref-first-fp>
+            <xocs:ref-last-lp>25</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>KWOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-article-number>L15501,</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>KWOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>36</xocs:ref-first-fp>
+            <xocs:ref-last-lp>41</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>LAXON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>732</xocs:ref-first-fp>
+            <xocs:ref-last-lp>737</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>LINDSAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>165</xocs:ref-first-fp>
+            <xocs:ref-last-lp>176</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0080">
+            <xocs:ref-normalized-surname>MEIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0085">
+            <xocs:ref-normalized-surname>PARKINSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9377</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9382</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0090">
+            <xocs:ref-normalized-surname>PARKINSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>871</xocs:ref-first-fp>
+            <xocs:ref-last-lp>880</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0095">
+            <xocs:ref-normalized-surname>PARKINSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1356</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1361</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0100">
+            <xocs:ref-normalized-surname>PARKINSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>20,837</xocs:ref-first-fp>
+            <xocs:ref-last-lp>20,856</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0105">
+            <xocs:ref-normalized-surname>POST</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>519</xocs:ref-first-fp>
+            <xocs:ref-last-lp>524</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0110">
+            <xocs:ref-normalized-surname>RAPHAEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>111</xocs:ref-first-fp>
+            <xocs:ref-last-lp>121</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0115">
+            <xocs:ref-normalized-surname>RIND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>449</xocs:ref-first-fp>
+            <xocs:ref-last-lp>463</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0120">
+            <xocs:ref-normalized-surname>SCREEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>333</xocs:ref-first-fp>
+            <xocs:ref-last-lp>344</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0125">
+            <xocs:ref-normalized-surname>SIGMOND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-article-number>L18502,</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0130">
+            <xocs:ref-normalized-surname>SIMMONDS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-article-number>L23709,</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0135">
+            <xocs:ref-normalized-surname>STAMMERJOHN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>617</xocs:ref-first-fp>
+            <xocs:ref-last-lp>639</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0140">
+            <xocs:ref-normalized-surname>STAMMERJOHN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>C03S90</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0145">
+            <xocs:ref-normalized-surname>STROEVE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2411</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2418</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0150">
+            <xocs:ref-normalized-surname>STROEVE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1005</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1027</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0155">
+            <xocs:ref-normalized-surname>TEDESCO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-article-number>e89217,</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0160">
+            <xocs:ref-normalized-surname>THOMPSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>895</xocs:ref-first-fp>
+            <xocs:ref-last-lp>899</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0165">
+            <xocs:ref-normalized-surname>TURNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-article-number>L08502,</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0170">
+            <xocs:ref-normalized-surname>TURNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>20140163</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0175">
+            <xocs:ref-normalized-surname>VIHMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1175</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1214</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0180">
+            <xocs:ref-normalized-surname>WALSH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>171</xocs:ref-first-fp>
+            <xocs:ref-last-lp>181</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0185">
+            <xocs:ref-normalized-surname>WALSH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>444</xocs:ref-first-fp>
+            <xocs:ref-last-lp>448</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0190">
+            <xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-article-number>C08004,</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0195">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2515</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2529</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0200">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0205">
+            <xocs:ref-normalized-surname>ZWALLY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3041</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>PARKINSONX2016X198</xocs:refkey3>
+         <xocs:refkey4lp>PARKINSONX2016X198X204</xocs:refkey4lp>
+         <xocs:refkey4ai>PARKINSONX2016X198XC</xocs:refkey4ai>
+         <xocs:refkey5>PARKINSONX2016X198X204XC</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2016-06-07T17:00:50Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>Author</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2018-06-07T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">Published by Elsevier Inc.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2019-03-24T16:42:30.063Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+         <xocs:funding-source-document source-document-type="pii">S0034425716302218</xocs:funding-source-document>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>NASA Cryosphere Program</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>NASA Earth Science Division</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding-text>We greatly appreciate the helpful reviews of two anonymous reviewers and the funding provided for this work by the NASA Earth Science Division, through the NASA Cryosphere Program and the Earth Observing System Project Science Office .  </xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0034-4257(16)30221-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0034425716302218</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0034425716302218</xocs:eid>
+         <xocs:doi>10.1016/j.rse.2016.05.020</xocs:doi>
+         <xocs:cid>271745</xocs:cid>
+         <xocs:timestamp>2019-10-30T20:43:50.682633Z</xocs:timestamp>
+         <xocs:cover-date-start>2016-09-15</xocs:cover-date-start>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>NONE</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/MAIN/application/pdf/6e2cc747ff5c2fe34cdbaa6e3dd9683b/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2527871</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0034425716302218-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/PREVIEW/image/png/f04e92b2dc3dee703b5e454fd021861a/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>61212</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/gr1/THUMBNAIL/image/gif/f71e7e97855b3177120bac500ec03996/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>29299</xocs:filesize>
+               <xocs:pixel-height>140</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/gr2/THUMBNAIL/image/gif/d0ce0bc23473eb4463dd43def4be0125/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>31232</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>204</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/gr3/THUMBNAIL/image/gif/90275455ff2eb54a084497fceeabcec3/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>29660</xocs:filesize>
+               <xocs:pixel-height>153</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/gr4/THUMBNAIL/image/gif/a9e681a9a06251a9f78316338541845e/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14567</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>167</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/gr5/THUMBNAIL/image/gif/f9a4036aa6fc5273b7f68d4e8341eb7d/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>19326</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>156</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-t1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/t1/THUMBNAIL/image/gif/6c07e35c3413d030dacf3858f6d6da1e/t1.sml</xocs:ucs-locator>
+               <xocs:file-basename>t1</xocs:file-basename>
+               <xocs:filename>t1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5322</xocs:filesize>
+               <xocs:pixel-height>47</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-t2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/t2/THUMBNAIL/image/gif/eb754c9a7dc3fa6dcd58421da0fe1b52/t2.sml</xocs:ucs-locator>
+               <xocs:file-basename>t2</xocs:file-basename>
+               <xocs:filename>t2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5248</xocs:filesize>
+               <xocs:pixel-height>47</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-t3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/t3/THUMBNAIL/image/gif/2302a4db5fd1a8174e752ee64460a9c6/t3.sml</xocs:ucs-locator>
+               <xocs:file-basename>t3</xocs:file-basename>
+               <xocs:filename>t3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5240</xocs:filesize>
+               <xocs:pixel-height>47</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/gr1/DOWNSAMPLED/image/jpeg/cc1642891c041b1d5ed2bc9a19c1de28/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>141135</xocs:filesize>
+               <xocs:pixel-height>412</xocs:pixel-height>
+               <xocs:pixel-width>642</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/gr2/DOWNSAMPLED/image/jpeg/28191b91129bd619dba27941a595b5de/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>121625</xocs:filesize>
+               <xocs:pixel-height>503</xocs:pixel-height>
+               <xocs:pixel-width>625</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/gr3/DOWNSAMPLED/image/jpeg/9bbbd144e2db2e2f91aa5fef129bc316/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>175412</xocs:filesize>
+               <xocs:pixel-height>560</xocs:pixel-height>
+               <xocs:pixel-width>802</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/gr4/DOWNSAMPLED/image/jpeg/2a79bff3772b3efdedca19cd71660abf/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>47323</xocs:filesize>
+               <xocs:pixel-height>381</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/gr5/DOWNSAMPLED/image/jpeg/fac17c9fcf4e16e423910fa1835f567e/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>128752</xocs:filesize>
+               <xocs:pixel-height>679</xocs:pixel-height>
+               <xocs:pixel-width>646</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-t1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/t1/DOWNSAMPLED/image/jpeg/b431065453dabc57caf5b2a91733a36d/t1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>t1</xocs:file-basename>
+               <xocs:filename>t1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>92261</xocs:filesize>
+               <xocs:pixel-height>172</xocs:pixel-height>
+               <xocs:pixel-width>800</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-t2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/t2/DOWNSAMPLED/image/jpeg/1fa9d17b1e6aa0ee13f75832aecc06ac/t2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>t2</xocs:file-basename>
+               <xocs:filename>t2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>87482</xocs:filesize>
+               <xocs:pixel-height>171</xocs:pixel-height>
+               <xocs:pixel-width>800</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-t3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/t3/DOWNSAMPLED/image/jpeg/49282fb41c7fc151e52d7ca63edad35d/t3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>t3</xocs:file-basename>
+               <xocs:filename>t3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>88273</xocs:filesize>
+               <xocs:pixel-height>171</xocs:pixel-height>
+               <xocs:pixel-width>800</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/gr1/HIGHRES/image/jpeg/446eb61f5f514bdb6784adba0c5a886b/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1303116</xocs:filesize>
+               <xocs:pixel-height>1824</xocs:pixel-height>
+               <xocs:pixel-width>2845</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/gr2/HIGHRES/image/jpeg/d64430c081833ad7b9b3812406af2e89/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>710174</xocs:filesize>
+               <xocs:pixel-height>2225</xocs:pixel-height>
+               <xocs:pixel-width>2766</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/gr3/HIGHRES/image/jpeg/89abdca57db611a18b2e382b5053512d/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1295936</xocs:filesize>
+               <xocs:pixel-height>2483</xocs:pixel-height>
+               <xocs:pixel-width>3553</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/gr4/HIGHRES/image/jpeg/5788e2b866da24a381f8c0f24f03909c/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>224152</xocs:filesize>
+               <xocs:pixel-height>1687</xocs:pixel-height>
+               <xocs:pixel-width>1723</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/gr5/HIGHRES/image/jpeg/e2d2d57269c1b277b6eab68e07d94d83/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>816310</xocs:filesize>
+               <xocs:pixel-height>3008</xocs:pixel-height>
+               <xocs:pixel-width>2862</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-t1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/t1/HIGHRES/image/jpeg/8b484342fd1391fa7f1218f2073d9391/t1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>t1</xocs:file-basename>
+               <xocs:filename>t1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>734527</xocs:filesize>
+               <xocs:pixel-height>763</xocs:pixel-height>
+               <xocs:pixel-width>3544</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-t2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/t2/HIGHRES/image/jpeg/7d63cdf50837df8e4ded08a768623940/t2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>t2</xocs:file-basename>
+               <xocs:filename>t2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>622529</xocs:filesize>
+               <xocs:pixel-height>759</xocs:pixel-height>
+               <xocs:pixel-width>3544</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0034425716302218-t3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0034425716302218/t3/HIGHRES/image/jpeg/fc8a1b33534c62765afc6583ef1d5710/t3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>t3</xocs:file-basename>
+               <xocs:filename>t3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>630633</xocs:filesize>
+               <xocs:pixel-height>759</xocs:pixel-height>
+               <xocs:pixel-width>3544</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.4" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>RSE</jid>
+            <aid>9873</aid>
+            <ce:pii>S0034-4257(16)30221-8</ce:pii>
+            <ce:doi>10.1016/j.rse.2016.05.020</ce:doi>
+            <ce:copyright type="us-gov" year="2016"/>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="ca0005">
+                  <ce:simple-para id="sp0005" view="all">(a) Arctic and (b) Antarctic sea-ice-extent rankings by year for each month January–December, over the 37-year period 1979–2015. The 37 Januaries are ranked from the lowest January sea-ice extent (deep red) to the highest January sea-ice extent (deep blue), and the same is done for the 37 Februaries, etc.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0005">Fig. 1</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:type="simple" xlink:href="pii:S0034425716302218/gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="ca0010">
+                  <ce:simple-para id="sp0010" view="all">Flattened view of the information in <ce:cross-ref id="cf0005" refid="f0005">Fig. 1</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0010">Fig. 2</ce:alt-text>
+               <ce:link id="lk0010" locator="gr2" xlink:type="simple" xlink:href="pii:S0034425716302218/gr2"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="ca0015">
+                  <ce:simple-para id="sp0015" view="all">(a) Global sea-ice-extent rankings by year for each month January–December, over the 37-year period 1979–2015, color-coded from deep red for the lowest sea-ice extent to deep blue for the highest sea-ice extent. (b) Flattened view of <ce:cross-ref id="cf0010" refid="f0015">Fig. 3</ce:cross-ref>a.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0015">Fig. 3</ce:alt-text>
+               <ce:link id="lk0015" locator="gr3" xlink:type="simple" xlink:href="pii:S0034425716302218/gr3"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="ca0020">
+                  <ce:simple-para id="sp0020" view="all">Scatterplot of the Arctic and Antarctic sea-ice-extent monthly rankings from <ce:cross-refs id="cf0015" refid="t0005 t0010">Tables 1 and 2</ce:cross-refs>. Each of the 444 points on the plot represents one month in the 37-year record. The early years (1979–1999) of the record are represented by black dots and the later years (2000–2015) by green diamonds. In cases where more than one dot or diamond belongs at the same location, the second is placed immediately to the right of the first, the third immediately to the left, the fourth immediately below, and the fifth immediately above; one case has five diamonds but no other case has more than three dots and/or diamonds.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0020">Fig. 4</ce:alt-text>
+               <ce:link id="lk0020" locator="gr4" xlink:type="simple" xlink:href="pii:S0034425716302218/gr4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="ca0025">
+                  <ce:simple-para id="sp0025" view="all">Summary, from <ce:cross-refs id="cf0020" refid="t0005 t0010 t0015">Tables 1–3</ce:cross-refs>, of the record high sea-ice extents (blue dots) for each month January–December and the record low sea-ice extents (red dots) for each month, for (a) the Arctic, (b) the Antarctic, and (c) the Earth as a whole.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0025">Fig. 5</ce:alt-text>
+               <ce:link id="lk0025" locator="gr5" xlink:type="simple" xlink:href="pii:S0034425716302218/gr5"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="ca0030">
+                  <ce:simple-para id="sp0030" view="all">Arctic sea-ice-extent rankings by year for each month January–December, over the 37 years 1979–2015. Rankings go from 1 for the year with the least sea-ice extent in the particular month to 37 for the year with the greatest sea-ice extent for the month. Red indicates a new record low for the month, and blue indicates a new record high for the month. Years are indicated at the top, with 1979–1999 written as 79–99 and 2000–2015 written as 00–15.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0030">Table 1</ce:alt-text>
+               <ce:link id="lk0030" locator="t1" xlink:type="simple" xlink:href="pii:S0034425716302218/t1"/>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0010" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="ca0035">
+                  <ce:simple-para id="sp0035" view="all">Same as <ce:cross-ref id="cf0025" refid="t0005">Table 1</ce:cross-ref> except for the Antarctic sea-ice-extent rankings.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0035">Table 2</ce:alt-text>
+               <ce:link id="lk0035" locator="t2" xlink:type="simple" xlink:href="pii:S0034425716302218/t2"/>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0015" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption id="ca0040">
+                  <ce:simple-para id="sp0040" view="all">Same as <ce:cross-ref id="cf0030" refid="t0005">Table 1</ce:cross-ref> except for the global sea-ice-extent rankings.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0040">Table 3</ce:alt-text>
+               <ce:link id="lk0040" locator="t3" xlink:type="simple" xlink:href="pii:S0034425716302218/t3"/>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="ti0005">New visualizations highlight new information on the contrasting Arctic and Antarctic sea-ice trends since the late 1970s</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005">
+                  <ce:given-name>Claire L.</ce:given-name>
+                  <ce:surname>Parkinson</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0035">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0005" id="cf0040">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  <ce:e-address id="em0005" type="email">Claire.L.Parkinson@nasa.gov</ce:e-address>
+               </ce:author>
+               <ce:author id="au0010">
+                  <ce:given-name>Nicolo E.</ce:given-name>
+                  <ce:surname>DiGirolamo</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0045">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af0010" id="cf0050">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="af0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="tn0005">Cryospheric Sciences Laboratory/Code 615, NASA Goddard Space Flight Center, Greenbelt, MD 20771, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Cryospheric Sciences Laboratory/Code 615</sa:organization>
+                     <sa:organization>NASA Goddard Space Flight Center</sa:organization>
+                     <sa:city>Greenbelt</sa:city>
+                     <sa:state>MD</sa:state>
+                     <sa:postal-code>20771</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="tn0010">Science Systems and Applications, Incorporated (SSAI), USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Science Systems and Applications, Incorporated (SSAI)</sa:organization>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="tx0005">Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="8" month="3" year="2016"/>
+            <ce:date-revised day="10" month="5" year="2016"/>
+            <ce:date-accepted day="26" month="5" year="2016"/>
+            <ce:abstract id="ab0005" xml:lang="en" view="all" class="author">
+               <ce:section-title id="st0005">Abstract</ce:section-title>
+               <ce:abstract-sec id="as0005" view="all">
+                  <ce:simple-para id="sp0045" view="all">Month-by-month ranking of 37<ce:hsp sp="0.25"/>years (1979–2015) of satellite-derived sea-ice extents in the Arctic and Antarctic reveals interesting new details in the overall trends toward decreasing sea-ice coverage in the Arctic and increasing sea-ice coverage in the Antarctic. The Arctic decreases are so definitive that there has not been a monthly record high in Arctic sea-ice extents in any month since 1986, a time period during which there have been 75 monthly record lows. The Antarctic, with the opposite but weaker trend toward increased ice extents, experienced monthly record lows in 5<ce:hsp sp="0.25"/>months of 1986, then 6 later monthly record lows scattered through the dataset, with the last two occurring in 2006, versus 45 record highs since 1986. However, in the last three years of the 1979–2015 dataset, the downward trends in Arctic sea-ice extents eased up, with no new record lows in any month of 2013 or 2014 and only one record low in 2015, while the upward trends in Antarctic ice extents notably strengthened, with new record high ice extents in 4<ce:hsp sp="0.25"/>months (August–November) of 2013, in 6<ce:hsp sp="0.25"/>months (April–September) of 2014, and in 3<ce:hsp sp="0.25"/>months (January, April, and May) of 2015. Globally, there have been only 3 monthly record highs since 1986 (only one since 1988), whereas there have been 43 record lows, although the last record lows (in the 1979–2015 dataset) occurred in 2012.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:abstract id="ab0010" class="author-highlights" xml:lang="en" view="all">
+               <ce:section-title id="st0010">Highlights</ce:section-title>
+               <ce:abstract-sec id="as0010" view="all">
+                  <ce:simple-para id="sp0050" view="all">
+                     <ce:list id="l0005">
+                        <ce:list-item id="u0005">
+                           <ce:label>•</ce:label>
+                           <ce:para id="p0005" view="all">Arctic sea-ice extents logged 75 monthly record lows since 1986, zero record highs.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0010">
+                           <ce:label>•</ce:label>
+                           <ce:para id="p0010" view="all">Antarctic sea-ice extents logged 6 monthly record lows since 1986, 45 record highs.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="u0015">
+                           <ce:label>•</ce:label>
+                           <ce:para id="p0015" view="all">Global sea-ice extents logged 43 monthly record lows since 1986, 3 record highs.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="ks0005" view="all" class="keyword">
+               <ce:section-title id="st0015">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text id="tx0010">Sea ice</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text id="tx0015">Arctic sea ice</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text id="tx0020">Antarctic sea ice</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text id="tx0025">Global sea ice</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text id="tx0030">Climate trends</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0030">
+                  <ce:text id="tx0035">Sea-ice record lows and highs</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0035">
+                  <ce:text id="tx0040">Satellite remote sensing</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st0020">Introduction</ce:section-title>
+                  <ce:para id="p0020" view="all">The Arctic and Antarctic sea-ice covers have received considerable attention in recent years. The Arctic sea ice in particular has been highlighted as a major indicator of the warming climate, as the Arctic ice cover has both retreated (<ce:cross-refs id="cf0055" refid="bb0100 bb0185 bb0150 bb0080">Parkinson, Cavalieri, Gloersen, Zwally, &amp; Comiso, 1999, Walsh &amp; Chapman, 2001, Stroeve et al., 2012, Meier et al., 2014</ce:cross-refs>) and thinned (<ce:cross-refs id="cf0060" refid="bb0190 bb0060 bb0065 bb0070">Yu, Maykut, &amp; Rothrock, 2004, Kwok &amp; Rothrock, 2009, Kwok &amp; Untersteiner, 2011, Laxon et al., 2013</ce:cross-refs>), in line with the warming Arctic climate and an array of additional Arctic environmental changes (<ce:cross-refs id="cf0065" refid="bb0005 bb0050 bb0180">ACIA, 2005, Jeffries, Overland, &amp; Perovich, 2013, Walsh, 2013</ce:cross-refs>). The Antarctic sea ice has expanded instead of retreated over the period of the satellite multichannel passive-microwave record, since the late 1970s (<ce:cross-refs id="cf0070" refid="bb0135 bb0205 bb0090 bb0170">Stammerjohn &amp; Smith, 1997, Zwally, Comiso, Parkinson, Cavalieri, &amp; Gloersen, 2002, Parkinson &amp; Cavalieri, 2012, Turner, Hosking, Bracegirdle, Marshall, &amp; Phillips, 2015</ce:cross-refs>), and this largely unexpected trend has caused much interest in the scientific community and various attempted explanations (<ce:cross-refs id="cf0075" refid="bb0160 bb0195 bb0140 bb0165 bb0125 bb0015 bb0110">Thompson &amp; Solomon, 2002, Zhang, 2007, Stammerjohn, Martinson, Smith, Yuan, &amp; Rind, 2008, Turner et al., 2009, Sigmond &amp; Fyfe, 2010, Bintanja, van Oldenborgh, Drijfhout, Wouters, &amp; Katsman, 2013, Raphael et al., 2016</ce:cross-refs>). Major changes in the sea-ice covers have potential important consequences for the rest of the climate system (<ce:cross-refs id="cf0080" refid="bb0115 bb0120 bb0175 bb0040">Rind, Healy, Parkinson, &amp; Martinson, 1995, Screen, Deser, Simmonds, &amp; Tomas, 2014, Vihma, 2014, Francis &amp; Vavrus, 2015</ce:cross-refs>), for ecosystems (<ce:cross-refs id="cf0085" refid="bb0105 bb0010 bb0080 bb0155">Post et al., 2013, Arrigo, 2014, Meier et al., 2014, Tedesco &amp; Vichi, 2014</ce:cross-refs>), and for humans (<ce:cross-refs id="cf0090" refid="bb0055 bb0180 bb0080">Johnson, 1999, Walsh, 2013, Meier et al., 2014</ce:cross-refs>).</ce:para>
+                  <ce:para id="p0025" view="all">The sharp contrast between decreasing sea-ice coverage in the Arctic and increasing sea-ice coverage in the Antarctic has been portrayed most definitively through time series of satellite passive-microwave data. These time series show that both hemispheres experience noticeable interannual variability in sea-ice coverage but that despite the variability there are significant downward trends in Arctic sea-ice coverage for the annual average, every season, and every month (e.g., <ce:cross-ref id="cf0095" refid="bb0020">Cavalieri &amp; Parkinson, 2012</ce:cross-ref>) and significant upward trends in Antarctic ice coverage, also for the annual average, every season, and every month (e.g., <ce:cross-ref id="cf0100" refid="bb0090">Parkinson &amp; Cavalieri, 2012</ce:cross-ref>). Through 2013, in each month the downward trends in the Arctic were of higher magnitude than the upward trends in the Antarctic, resulting in consistently negative annual, seasonal, and monthly global ice extent trends (<ce:cross-ref id="cf0105" refid="bb0085">Parkinson, 2014</ce:cross-ref>). The addition of 2014 and 2015 data has resulted in one month, May, now having a slightly positive global ice-extent trend, although the global trends for the other 11<ce:hsp sp="0.25"/>months, each season, and the annual average all remain negative.</ce:para>
+                  <ce:para id="p0030" view="all">In this paper we use the satellite passive-microwave data to rank, month-by-month, the sea-ice coverages in the years 1979–2015 and through visualizations and tabulations of those rankings reveal new details about the ice-extent trends and the interhemispheric contrasts.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st0025">Data and methods</ce:section-title>
+                  <ce:para id="p0035" view="all">Satellite passive-microwave data are used to determine the areal coverage of sea ice in both polar regions. These data come from the Scanning Multichannel Microwave Radiometer (SMMR) on the Nimbus 7 satellite and a series of Special Sensor Microwave Imager (SSMI) and SSMI Sounder (SSMIS) instruments on satellites of the Defense Meteorological Satellite Program (DMSP). SMMR was launched in October 1978 and provided every-other-day data for most of the period from launch until mid-August 1987. The first SSMI was launched in June 1987 and has been followed by a series of SSMI and SSMIS instruments that have extended the satellite passive-microwave record on a daily basis almost uninterruptedly since mid-1987. Details about the passive-microwave instruments and the intercalibrations between successive instruments can be found in <ce:cross-ref id="cf0110" refid="bb0045">Gloersen et al. (1992)</ce:cross-ref> and <ce:cross-ref id="cf0115" refid="bb0030">Cavalieri et al. (1999, 2012)</ce:cross-ref>. The intercalibration procedure reduced the ice extent differences between the SMMR and SSMI sensors to less than 0.05% during the period of SMMR/SSMI overlap (<ce:cross-ref id="cf0120" refid="bb0030">Cavalieri et al., 1999</ce:cross-ref>) and reduced the yearly mean differences between SSMI and SSMIS to less than 0.031% (<ce:cross-ref id="cf0125" refid="bb0025">Cavalieri, Parkinson, DiGirolamo, &amp; Ivanoff, 2012</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0040" view="all">The passive-microwave data allow calculation of the estimated percent areal coverage of ice, termed the ice concentration, at each grid element (or pixel), sized at approximately 25<ce:hsp sp="0.25"/>km x 25<ce:hsp sp="0.25"/>km (<ce:cross-ref id="cf0130" refid="bb0045">Gloersen et al., 1992</ce:cross-ref>). The ice concentration data are used to calculate ice extent, which is the sum of the areas of all pixels in the region of interest containing at least 15% sea-ice concentration. Ice extents have been determined for the Arctic and the Antarctic for each month since November 1978 and have been widely used in time series analyses of the sea-ice covers (e.g., <ce:cross-refs id="cf0135" refid="bb0100 bb0205 bb0150">Parkinson et al., 1999, Zwally et al., 2002, Stroeve et al., 2012</ce:cross-refs>). Here we use the data from January 1979 through December 2015, which covers the 37<ce:hsp sp="0.25"/>years of full-year data.</ce:para>
+                  <ce:para id="p0045" view="all">For each month January through December, we rank the 37<ce:hsp sp="0.25"/>years of monthly ice extent data. For instance, for January, the year with the lowest January ice extent is given a rank of 1, the year with the second lowest January ice extent is given a rank of 2, and on up to the year with the highest January ice extent being given a rank of 37. The same procedure is used for the other 11<ce:hsp sp="0.25"/>months as well. The rankings are visualized through color-coding in three-dimensional (3-D) and flattened (2-D) versions and are tabulated with a month-by-month highlighting of each new record low ice extent and each new record high ice extent. The visualizations and tabulations are done for each hemisphere and for the total global ice extents.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st0030">Results</ce:section-title>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="st0035">Hemispheric results</ce:section-title>
+                     <ce:para id="p0050" view="all">
+                        <ce:cross-ref id="cf0140" refid="f0005">Fig. 1</ce:cross-ref>a<ce:float-anchor refid="f0005"/> presents the ranked data for the Arctic, color-coded month-by-month from deep red for the lowest sea-ice extent to deep blue for the highest sea-ice extent, and <ce:cross-ref id="cf0145" refid="f0005">Fig. 1</ce:cross-ref>b presents the ranked data for the Antarctic. Many contrasts are immediately apparent. Among the most notable:</ce:para>
+                     <ce:para id="p0055" view="all">(1) In the Arctic, the years with high ice extents (blues) are mostly in the early years of the record and the years of low ice extents (reds) are in the later years of the record (<ce:cross-ref id="cf0150" refid="f0005">Fig. 1</ce:cross-ref>a), whereas in the Antarctic, the high ice extents are more frequent in the later years and the low ice extents are more frequent in the early years (<ce:cross-ref id="cf0155" refid="f0005">Fig. 1</ce:cross-ref>b).</ce:para>
+                     <ce:para id="p0060" view="all">(2) The flow of the rankings is far more systematic in the Arctic (from high ice extents in the early years to low ice extents in the later years) than in the Antarctic, where there are many cases far out of place from the overall flow from lower ice extent in the early years to higher ice extent in the later years. In fact, in the Antarctic the first year of the record, 1979, even has more months in the high half of the rankings (January – July) than in the low half of the rankings (August–December) (<ce:cross-ref id="cf0160" refid="f0005">Fig. 1</ce:cross-ref>).</ce:para>
+                     <ce:para id="p0065" view="all">(3) In the final three years of the 1979–2015 dataset, the Antarctic stands out, with every month of 2013 and 2014 and most months of 2015 being at or near record high ice extent (<ce:cross-ref id="cf0165" refid="f0005">Fig. 1</ce:cross-ref>b).</ce:para>
+                     <ce:para id="p0070" view="all">
+                        <ce:cross-ref id="cf0170" refid="f0010">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="f0010"/> provides a flat view of the information in <ce:cross-ref id="cf0175" refid="f0005">Fig. 1</ce:cross-ref>. Although less dramatic visually, the flat version cleanly reveals all 444<ce:hsp sp="0.25"/>months, including the few that in <ce:cross-ref id="cf0180" refid="f0005">Fig. 1</ce:cross-ref> are hidden because of adjacent high ranks obscuring the view, a problem that is particularly prominent in the Arctic in 1995, with several of its low ranks being hidden by the much higher ranks of 1994 (<ce:cross-ref id="cf0185" refid="f0005">Fig. 1</ce:cross-ref>a). The flattened version (<ce:cross-ref id="cf0190" refid="f0010">Fig. 2</ce:cross-ref>), with its complete view of all 444<ce:hsp sp="0.25"/>months, fully confirms each of the three numbered assertions made based on the 3-D version (<ce:cross-ref id="cf0195" refid="f0005">Fig. 1</ce:cross-ref>).</ce:para>
+                     <ce:para id="p0075" view="all">
+                        <ce:cross-refs id="cf0200" refid="t0005 t0010">Tables 1 and 2</ce:cross-refs>
+                        <ce:float-anchor refid="t0005"/>
+                        <ce:float-anchor refid="t0010"/> list the numerical rankings for the Arctic and Antarctic, respectively, and are enhanced by highlighting, for each month, each new record low (for that month) in red and each new record high (again, for that month) in blue. (New record highs or lows have little meaning when the record is only a few years long, but for consistency the highlighting is done through the entire table in each case.)</ce:para>
+                     <ce:para id="p0080" view="all">Stunningly, in the Arctic, the last time <ce:italic>any</ce:italic> month registered a new record high was back in 1986, when a new record October high was reached (<ce:cross-ref id="cf0205" refid="t0005">Table 1</ce:cross-ref>). There have been many record lows (75) since that time, in line with the dominant downward trend in Arctic ice extents. Years since 1986 that stand out with at least four months experiencing record lows are 1990, 1991, 1995, 1996, 2004–2007, and 2012, and years that stand out as having no record lows in any month are 1987, 1992–1994, 1997, 2008–2009, and 2013–2014. In fact, in the final three years of the dataset, the only record low was in May 2015. The last record lows for January and February were in 2011, for March and April were in 2006, for June and December were in 2010, and for July–November were in 2012 (<ce:cross-ref id="cf0210" refid="t0005">Table 1</ce:cross-ref>). (As this article goes to press, it is clear that the year 2016 will have several new record lows, ending the relative drought of new records in 2013-2015.)</ce:para>
+                     <ce:para id="p0085" view="all">In the Antarctic, with its trend toward overall increasing sea-ice extents, there have been six scattered record lows since 1986, the last two coming with record January and March lows in 2006 (<ce:cross-ref id="cf0215" refid="t0010">Table 2</ce:cross-ref>). Record highs since 1986 number 45, several times the number of record lows for the Antarctic but well under the 75 record lows for the Arctic. However, in the Antarctic case, the final three years of the dataset are dominated by record and near-record values, with record August, September, October, and November highs in 2013, record April, May, June, July, August, and September record highs in 2014, and record January, April, and May record highs in 2015. In fact, in the 36<ce:hsp sp="0.25"/>months of 2013–2015, nine had the highest values (for the respective month) of the 37-year dataset, nine had the second highest values, and six had the third highest values, for a total of 24 of the last 36<ce:hsp sp="0.25"/>months having ranks in the top three for the 37<ce:hsp sp="0.25"/>years. Most extreme was 2014, as for that year every month had one of the top four ice extents for that month through the 1979–2015 dataset (<ce:cross-ref id="cf0220" refid="t0010">Table 2</ce:cross-ref>).</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="st0040">Global results</ce:section-title>
+                     <ce:para id="p0090" view="all">The global results corresponding to the hemispheric results of <ce:cross-refs id="cf0225" refid="f0005 f0010">Figs. 1 and 2</ce:cross-refs> and <ce:cross-refs id="cf0230" refid="t0005 t0010">Tables 1 and 2</ce:cross-refs> are presented in <ce:cross-ref id="cf0235" refid="f0015">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="f0015"/> and <ce:cross-ref id="cf0240" refid="t0015">Table 3</ce:cross-ref>
+                        <ce:float-anchor refid="t0015"/>. As expected with global results combining ice extents from one hemisphere with a strong downward trend and the other hemisphere with a weaker upward trend, the global results are more mixed than those for either hemisphere separately (<ce:cross-ref id="cf0245" refid="f0015">Fig. 3</ce:cross-ref> versus <ce:cross-refs id="cf0250" refid="f0005 f0010">Figs. 1 and 2</ce:cross-refs>). Still, the downward trend in the global results is clear from <ce:cross-ref id="cf0255" refid="f0015">Fig. 3</ce:cross-ref>, with blues (high ice extents) more dominant in the early years of the dataset and reds (low ice extents) more dominant in the last ten years. The prominent valley of low global ice extents in January–June of 2005–2007 (<ce:cross-ref id="cf0260" refid="f0015">Fig. 3</ce:cross-ref>a) reflects unusually low values in the Arctic (<ce:cross-ref id="cf0265" refid="f0005">Figs. 1</ce:cross-ref>a and <ce:cross-ref id="cf0270" refid="f0010">2</ce:cross-ref>a) combined with predominantly lower than average values in the Antarctic (<ce:cross-ref id="cf0275" refid="f0005">Figs. 1</ce:cross-ref>b and <ce:cross-ref id="cf0280" refid="f0010">2</ce:cross-ref>b); and the higher values in the last three years of the global record (<ce:cross-ref id="cf0285" refid="f0015">Fig. 3</ce:cross-ref>) reflect the unusually high Antarctic values in those three years (<ce:cross-ref id="cf0290" refid="f0005">Figs. 1</ce:cross-ref>b and <ce:cross-ref id="cf0295" refid="f0010">2</ce:cross-ref>b).</ce:para>
+                     <ce:para id="p0095" view="all">Globally, there have been only three new monthly record highs since 1986 and only one of those occurred after 1988, that one coming in March 2008. In contrast, there have been 43 new record lows over the same period (since 1986 or 1988, as there were no record lows in 1987 or 1988) (<ce:cross-ref id="cf0300" refid="t0015">Table 3</ce:cross-ref>), clearly reflective of the overall decreases in global ice coverage (<ce:cross-ref id="cf0305" refid="f0015">Fig. 3</ce:cross-ref>). There were four new global record lows in 2012, in four of the five months with record lows in 2012 in the Arctic, and none since then (through the 1979–2015 dataset) (<ce:cross-ref id="cf0310" refid="t0015">Table 3</ce:cross-ref>). The final year of the dataset even has three months that had the second, fourth, and sixth highest ice extents (for the respective month) of the 37-year record (<ce:cross-ref id="cf0315" refid="t0015">Table 3</ce:cross-ref>), reflecting in each case the 2015 record high Antarctic ice extents for the respective months (<ce:cross-ref id="cf0320" refid="t0010">Table 2</ce:cross-ref>).</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="st0045">Scatterplot of the Arctic and Antarctic results</ce:section-title>
+                     <ce:para id="p0100" view="all">The strong negative trend in Arctic sea-ice extents and lesser positive trend in Antarctic sea-ice extents suggests a likely anti-correlation in the two sets of rankings. The calculated correlation coefficient is indeed negative, although with low magnitude. <ce:cross-ref id="cf0325" refid="f0020">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="f0020"/> presents a scatterplot of the two sets of rankings, each point in the plot representing one month of the 444<ce:hsp sp="0.25"/>months in the 37-year record. It is clear from the very large scatter in the plot that the correlation between the rankings is not high (correlation coefficient<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>−<ce:hsp sp="0.10"/>0.35). In fact, the lower left point in <ce:cross-ref id="cf0330" refid="f0020">Fig. 4</ce:cross-ref> shows that one month, identified from <ce:cross-refs id="cf0335" refid="t0005 t0010">Tables 1 and 2</ce:cross-refs> as March 2006, has rank 1 for both the Arctic and the Antarctic, indicating that March 2006 had the lowest March ice extent of the 37<ce:hsp sp="0.25"/>years in both hemispheres. More in line with the opposite trends in the two hemispheres, one month, identified from <ce:cross-refs id="cf0340" refid="t0005 t0010">Tables 1 and 2</ce:cross-refs> as May 2015, had rank 1 for the Arctic and rank 37 for the Antarctic, and two months, October 1986 and December 1982 (<ce:cross-refs id="cf0345" refid="t0005 t0010">Tables 1 and 2</ce:cross-refs>), had rank 1 for the Antarctic and rank 37 for the Arctic (<ce:cross-ref id="cf0350" refid="f0020">Fig. 4</ce:cross-ref>).</ce:para>
+                     <ce:para id="p0105" view="all">Color coding the scatterplot to distinguish the early years (1979–1999) from the later years (2000–2015) further confirms the very strong downward trend in the Arctic ice extents, with none of the Arctic's eleven highest ranks in any month being in the later years (2000–2015) and none of the Arctic's seven lowest ranks in any month being in the early years (1979–1999) (<ce:cross-ref id="cf0355" refid="f0020">Fig. 4</ce:cross-ref>). The distinction between the early and later years is nowhere near as prominent for the Antarctic, where the later years span the full distance from rank 1 to rank 37, and the early years span from rank 1 to rank 34 (<ce:cross-ref id="cf0360" refid="f0020">Fig. 4</ce:cross-ref>).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0035" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st0050">Discussion</ce:section-title>
+                  <ce:para id="p0110" view="all">Over the course of the satellite record since 1979, September has always been the month of minimum monthly-average sea-ice extent in the Arctic (<ce:cross-ref id="cf0365" refid="bb0085">Parkinson, 2014</ce:cross-ref>). Hence a September record low in the Arctic is also an overall record low (on a monthly average basis) for the Arctic. (Considering daily averages rather than monthly averages, once in the 37-year record the minimum sea-ice cover occurred in late August rather than in September, although September still had the lowest monthly average.) In view of the decreasing Arctic sea-ice coverage, the importance of ice to the polar climate and ecosystems, and the strong possibility of an ice-free late-summer Arctic at some point within the next several decades, much attention has been given both in the press and by sea-ice scientists to record low Arctic sea-ice extents when they occur (e.g., <ce:cross-refs id="cf0370" refid="bb0035 bb0075 bb0130 bb0095 bb0200">Comiso, Parkinson, Gersten, &amp; Stock, 2008, Lindsay, Zhang, Schweiger, Steele, &amp; Stern, 2009, Simmonds &amp; Rudeva, 2012, Parkinson &amp; Comiso, 2013, Zhang, Lindsay, Schweiger, &amp; Steele, 2013</ce:cross-refs>). In fact, the interest in overall record low Arctic ice extents is so great that there are even internet contests for predicting how low the Arctic ice extent will get for the year and whether it will establish a new record, for example at <ce:inter-ref id="ir0005" xlink:href="http://www.arcus.org/sipn/sea-ice-outlook" xlink:type="simple">www.arcus.org/sipn/sea-ice-outlook</ce:inter-ref>, where the informal contest is part of a larger sea-ice prediction effort of the Sea Ice Prediction Network (<ce:cross-ref id="cf0375" refid="bb0145">Stroeve, Hamilton, Bitz, &amp; Blanchard-Wrigglesworth, 2014</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0115" view="all">As a result of the wide interest, it is well known in the sea-ice research community that the last two overall record lows in the Arctic (through 2015) were in September 2007 and September 2012. <ce:cross-ref id="cf0380" refid="t0005">Table 1</ce:cross-ref> confirms those facts for the September record lows but does so much more, systematically providing the rankings for each month throughout the 37<ce:hsp sp="0.25"/>years 1979–2015 and identifying each new record low and each new record high. Similarly, <ce:cross-refs id="cf0385" refid="t0010 t0015">Tables 2 and 3</ce:cross-refs> provide the corresponding information for the Antarctic and global sea-ice extents respectively. <ce:cross-ref id="cf0390" refid="f0025">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="f0025"/> summarizes the record highs and lows, both hemispherically and globally.</ce:para>
+                  <ce:para id="p0120" view="all">The year 2007 not only set a new overall record low for Arctic sea-ice extents (for the period of the satellite observations), equating to a September record low, but also set records (at the time) for the lowest July, August, and October ice extents. The record for each of these months was surpassed in 2012, which through the end of 2015 still holds the record of lowest ice coverage in each of the months from July through November (<ce:cross-ref id="cf0395" refid="t0005">Table 1</ce:cross-ref> and <ce:cross-ref refid="f0025" id="cf2000">Fig. 5</ce:cross-ref>a). <ce:cross-ref id="cf0400" refid="f0005">Figs. 1</ce:cross-ref>a and <ce:cross-ref id="cf0405" refid="f0010">2</ce:cross-ref>a depict visually the definitive downward trend in Arctic sea-ice extents in all months of the year, plus the fact of some rebounding from the 2012 record lows in the following year.</ce:para>
+                  <ce:para id="p0125" view="all">Although the Antarctic trend toward increasing ice extents is overall much less systematic than the Arctic trend toward decreasing ice extents (<ce:cross-ref id="cf0410" refid="f0005">Figs. 1</ce:cross-ref>b and <ce:cross-ref id="cf0415" refid="f0010">2</ce:cross-ref>b versus <ce:cross-ref id="cf0420" refid="f0005">Figs. 1</ce:cross-ref>a and <ce:cross-ref id="cf0425" refid="f0010">2</ce:cross-ref>a), the last three years of the record are more striking for the Antarctic than for the Arctic. The Antarctic ice extents for every month of 2013 and 2014 experienced among the highest values of the 37-year dataset for the respective month, four months registering new record highs in 2013 and six months registering new record highs in 2014 (<ce:cross-ref id="cf0430" refid="t0010">Table 2</ce:cross-ref>), versus no new record lows in the Arctic in either year. In 2015, the Arctic had one new record low, in May, while the Antarctic had three new record highs, in January, April, and May (<ce:cross-refs id="cf0435" refid="t0005 t0010">Tables 1 and 2</ce:cross-refs> and <ce:cross-ref id="cf0440" refid="f0025">Figs. 5</ce:cross-ref>a and <ce:cross-ref id="cf0445" refid="f0025">5</ce:cross-ref>b). Interannual variability has always been (from all the data we have so far) a reality of the ice covers of both polar regions.</ce:para>
+                  <ce:para id="p0130" view="all">Reflecting the very different trends in the two hemispheres, the global results show a more mixed pattern, with an overall downward trend (<ce:cross-ref id="cf0450" refid="f0015">Fig. 3</ce:cross-ref>) that is much less definitive than the downward trend in the Arctic (<ce:cross-ref id="cf0455" refid="f0005">Figs. 1</ce:cross-ref>a and <ce:cross-ref id="cf0460" refid="f0010">2</ce:cross-ref>a). Still, the global results show only three new record highs but 43 new record lows since 1986, with the last record high coming in 2008 (for March) and the last record lows coming in 2012 (for August–November) (<ce:cross-ref id="cf0465" refid="t0015">Table 3</ce:cross-ref> and <ce:cross-ref id="cf0470" refid="f0025">Fig. 5</ce:cross-ref>c).</ce:para>
+                  <ce:para id="p0135" view="all">We compared the patterns of Arctic and Antarctic sea-ice-extent rankings (<ce:cross-refs id="cf0475" refid="t0005 t0010">Tables 1 and 2</ce:cross-refs> and <ce:cross-ref id="cf0480" refid="f0025">Figs. 5</ce:cross-ref>a and b) with the Oceanic Niño Index (ONI) used by the National Oceanic and Atmospheric Administration (downloaded from <ce:inter-ref id="ir0010" xlink:href="http://ggweather.com/enso/oni.htm" xlink:type="simple">http://ggweather.com/enso/oni.htm</ce:inter-ref>), with the North Pacific Index by Kevin Trenberth and James Hurrell (downloaded from <ce:inter-ref id="ir0015" xlink:href="https://climatedataguide.ucar.edu/climate-data/north-pacific-np-index-trenberth-and-hurrell-monthly-and-winter" xlink:type="simple">https://climatedataguide.ucar.edu/climate-data/north-pacific-np-index-trenberth-and-hurrell-monthly-and-winter</ce:inter-ref>), and with the Hurrell North Atlantic Oscillation (NAO) Index (downloaded from <ce:inter-ref id="ir0020" xlink:href="https://climatedataguide.ucar.edu/climate-data/hurrell-north-atlantic-oscillation-nao-index-station-based" xlink:type="simple">https://climatedataguide.ucar.edu/climate-data/hurrell-north-atlantic-oscillation-nao-index-station-based</ce:inter-ref>). None of these yielded clear correlations. Given the interconnectedness of the global climate system, eventually there should be solid correlations established between changes in sea-ice coverage and changes in other major components of the climate system, but so far these remain elusive.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ac0005" view="all">
+               <ce:section-title id="st0055">Acknowledgements</ce:section-title>
+               <ce:para id="p0140" view="all">We greatly appreciate the helpful reviews of two anonymous reviewers and the funding provided for this work by the NASA Earth Science Division, through the <ce:grant-sponsor id="gts0005" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">NASA Cryosphere Program and the Earth Observing System Project Science Office</ce:grant-sponsor>.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0060">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>ACIA, 2005</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>ACIA</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Arctic climate impact assessment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2005</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Cambridge University Press</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>1042 pp</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>Arrigo, 2014</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.R.</ce:given-name>
+                                 <ce:surname>Arrigo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sea ice ecosystems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>
+                                       <ce:italic>Annual Review of Marine Science</ce:italic>
+                                    </sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>439</sb:first-page>
+                              <sb:last-page>467</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1146/annurev-marine-010213-135103</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>Bintanja et al., 2013</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Bintanja</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>van Oldenborgh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.S.</ce:given-name>
+                                 <ce:surname>Drijfhout</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Wouters</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Katsman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Important role for ocean warming and increased ice-shelf melt in Antarctic sea-ice expansion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature Geoscience</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>376</sb:first-page>
+                              <sb:last-page>379</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/NGEO1767</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>Cavalieri and Parkinson, 2012</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Cavalieri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Parkinson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Arctic sea ice variability and trends, 1979-2010</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>The Cryosphere</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>881</sb:first-page>
+                              <sb:last-page>889</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.5194/tc-6-881-2012</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>Cavalieri et al., 2012</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Cavalieri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Parkinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>DiGirolamo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ivanoff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Intersensor calibration between F13 SSMI and F17 SSMIS for global sea ice data records</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Geoscience and Remote Sensing Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>233</sb:first-page>
+                              <sb:last-page>236</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1109/LGRS.2011.2166754</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>Cavalieri et al., 1999</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Cavalieri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Parkinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Gloersen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Comiso</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Zwally</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Deriving long-term time series of sea ice cover from satellite passive-microwave multisensor data sets</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Geophysical Research</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>C7</sb:issue-nr>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15,803</sb:first-page>
+                              <sb:last-page>15,814</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>Comiso et al., 2008</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Comiso</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Parkinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Gersten</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Stock</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Accelerated decline in the Arctic sea ice cover</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Geophysical Research Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:article-number>L01703,</sb:article-number>
+                           <ce:doi>10.1029/2007GL031972</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>Francis and Vavrus, 2015</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Francis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Vavrus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Evidence for a wavier jet stream in response to rapid Arctic warming</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>
+                                       <ce:italic>Environmental Research Letters</ce:italic>
+                                    </sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1088/1748-9326/10/1/014005</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>Gloersen et al., 1992</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Gloersen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Campbell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Cavalieri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Comiso</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Parkinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Zwally</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>
+                                 <ce:italic>Arctic and Antarctic Sea Ice</ce:italic>, <ce:italic>1978–1987</ce:italic>: <ce:italic>Satellite passive-microwave observations and analysis</ce:italic>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1992</sb:date>
+                              <sb:publisher>
+                                 <sb:name>NASA SP-511, National Aeronautics and Space Administration</sb:name>
+                                 <sb:location>Washington, D.C.</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>290 pp</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>Jeffries et al., 2013</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.O.</ce:given-name>
+                                 <ce:surname>Jeffries</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Overland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.K.</ce:given-name>
+                                 <ce:surname>Perovich</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Arctic shifts to a new normal</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physics Today</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>35</sb:first-page>
+                              <sb:last-page>40</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1063/PT.3.2147</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>Johnson, 1999</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>World out of balance</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Native Americas</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3–4</sb:issue-nr>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8</sb:first-page>
+                              <sb:last-page>25</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>Kwok and Rothrock, 2009</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kwok</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Rothrock</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Decline in Arctic sea ice thickness from submarine and ICESat records: 1958–2008</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>
+                                       <ce:italic>Geophysical Research Letters</ce:italic>
+                                    </sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:article-number>L15501,</sb:article-number>
+                           <ce:doi>10.1029/2009GL039035</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>Kwok and Untersteiner, 2011</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kwok</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Untersteiner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The thinning of Arctic sea ice</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physics Today</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>36</sb:first-page>
+                              <sb:last-page>41</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>Laxon et al., 2013</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Laxon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.A.</ce:given-name>
+                                 <ce:surname>Giles</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Ridout</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Wingham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Willatt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Cullen</ce:surname>
+                              </sb:author>
+                              <sb:ellipsis/>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Davidson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>CryoSat-2 estimates of Arctic sea ice thickness and volume</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>
+                                       <ce:italic>Geophysical Research Letters</ce:italic>
+                                    </sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>732</sb:first-page>
+                              <sb:last-page>737</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/grl.50193</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>Lindsay et al., 2009</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.W.</ce:given-name>
+                                 <ce:surname>Lindsay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Schweiger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Steele</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Stern</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Arctic sea ice retreat in 2007 follows thinning trend</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Climate</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>165</sb:first-page>
+                              <sb:last-page>176</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>Meier et al., 2014</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.N.</ce:given-name>
+                                 <ce:surname>Meier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.K.</ce:given-name>
+                                 <ce:surname>Hovelsrud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.E.H.</ce:given-name>
+                                 <ce:surname>van Oort</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Key</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.M.</ce:given-name>
+                                 <ce:surname>Kovacs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Michel</ce:surname>
+                              </sb:author>
+                              <sb:ellipsis/>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Reist</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Arctic sea ice in transformation: A review of recent observed changes and impacts on biology and human activity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>
+                                       <ce:italic>Reviews of Geophysics</ce:italic>
+                                    </sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1002/2013RG000431</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>Parkinson, 2014</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Parkinson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Global sea ice coverage from satellite data: Annual cycle and 35-yr trends</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Climate</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>24</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9377</sb:first-page>
+                              <sb:last-page>9382</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1175/JCLI-D-14-00605.1</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>Parkinson and Cavalieri, 2012</ce:label>
+                     <sb:reference id="rf0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Parkinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Cavalieri</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Antarctic sea ice variability and trends, 1979-2010</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>The Cryosphere</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>871</sb:first-page>
+                              <sb:last-page>880</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.5194/tc-6-871-2012</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>Parkinson and Comiso, 2013</ce:label>
+                     <sb:reference id="rf0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Parkinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Comiso</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>On the 2012 record low Arctic sea ice cover: Combined impact of preconditioning and an August storm</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Geophysical Research Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1356</sb:first-page>
+                              <sb:last-page>1361</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/grl.50349</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>Parkinson et al., 1999</ce:label>
+                     <sb:reference id="rf0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Parkinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Cavalieri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Gloersen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Zwally</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Comiso</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Arctic sea ice extents, areas, and trends, 1978–1996</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Geophysical Research</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>C9</sb:issue-nr>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>20,837</sb:first-page>
+                              <sb:last-page>20,856</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0105">
+                     <ce:label>Post et al., 2013</ce:label>
+                     <sb:reference id="rf0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Post</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.S.</ce:given-name>
+                                 <ce:surname>Bhatt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Bitz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Brodie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.L.</ce:given-name>
+                                 <ce:surname>Fulton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hebblewhite</ce:surname>
+                              </sb:author>
+                              <sb:ellipsis/>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Walker</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ecological consequences of sea-ice decline</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>341</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6145</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>519</sb:first-page>
+                              <sb:last-page>524</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0110">
+                     <ce:label>Raphael et al., 2016</ce:label>
+                     <sb:reference id="rf0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.N.</ce:given-name>
+                                 <ce:surname>Raphael</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>Marshall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Turner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.L.</ce:given-name>
+                                 <ce:surname>Fogt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Schneider</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Dixon</ce:surname>
+                              </sb:author>
+                              <sb:ellipsis/>
+                              <sb:author>
+                                 <ce:given-name>W.R.</ce:given-name>
+                                 <ce:surname>Hobbs</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Amundsen Sea Low: Variability, change, and impact on Antarctic climate</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bulletin of the American Meteorological Society</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>97</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>111</sb:first-page>
+                              <sb:last-page>121</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0115">
+                     <ce:label>Rind et al., 1995</ce:label>
+                     <sb:reference id="rf0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Rind</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Healy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Parkinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Martinson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The role of sea ice in 2 x CO<ce:inf loc="post">2</ce:inf> climate model sensitivity. Part 1: The total influence of sea ice thickness and extent</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Climate</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>449</sb:first-page>
+                              <sb:last-page>463</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0120">
+                     <ce:label>Screen et al., 2014</ce:label>
+                     <sb:reference id="rf0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Screen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Deser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Simmonds</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Tomas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Atmospheric impacts of Arctic sea-ice loss, 1979–2009: Separating forced change from atmospheric internal variability</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>
+                                       <ce:italic>Climate Dynamics</ce:italic>
+                                    </sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>333</sb:first-page>
+                              <sb:last-page>344</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s00382-013-1830-9</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0125">
+                     <ce:label>Sigmond and Fyfe, 2010</ce:label>
+                     <sb:reference id="rf0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sigmond</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Fyfe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Has the ozone hole contributed to increased Antarctic sea ice extent?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>
+                                       <ce:italic>Geophysical Research Letters</ce:italic>
+                                    </sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:article-number>L18502,</sb:article-number>
+                           <ce:doi>10.1029/2010GL044301</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0130">
+                     <ce:label>Simmonds and Rudeva, 2012</ce:label>
+                     <sb:reference id="rf0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Simmonds</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Rudeva</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The great Arctic cyclone of August 2012</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Geophysical Research Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:article-number>L23709,</sb:article-number>
+                           <ce:doi>10.1029/2012GL054259</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0135">
+                     <ce:label>Stammerjohn and Smith, 1997</ce:label>
+                     <sb:reference id="rf0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.E.</ce:given-name>
+                                 <ce:surname>Stammerjohn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.C.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Opposing Southern Ocean climate patterns as revealed by trends in regional sea ice coverage</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Climatic Change</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>617</sb:first-page>
+                              <sb:last-page>639</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0140">
+                     <ce:label>Stammerjohn et al., 2008</ce:label>
+                     <sb:reference id="rf0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.E.</ce:given-name>
+                                 <ce:surname>Stammerjohn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.G.</ce:given-name>
+                                 <ce:surname>Martinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.C.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Rind</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Trends in Antarctic annual sea ice retreat and advance and their relation to El Niño–Southern Oscillation and Southern Annular Mode variability</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Geophysical Research</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>113</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>C03S90</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1029/2007JC004269</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0145">
+                     <ce:label>Stroeve et al., 2014</ce:label>
+                     <sb:reference id="rf0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Stroeve</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>Hamilton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Bitz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Blanchard-Wrigglesworth</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Predicting September sea ice: Ensemble skill of the SEARCH Sea Ice Outlook 2008–2013</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Geophysical Research Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2411</sb:first-page>
+                              <sb:last-page>2418</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/2014GL059388</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0150">
+                     <ce:label>Stroeve et al., 2012</ce:label>
+                     <sb:reference id="rf0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Stroeve</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Serreze</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Holland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Kay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Maslanik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Barrett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Arctic's rapidly shrinking sea ice cover: A research synthesis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Climatic Change</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>110</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1005</sb:first-page>
+                              <sb:last-page>1027</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s10584-011-0101-1</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0155">
+                     <ce:label>Tedesco and Vichi, 2014</ce:label>
+                     <sb:reference id="rf0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Tedesco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Vichi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sea ice biogeochemistry: A guide for modellers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>PloS One</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:article-number>e89217,</sb:article-number>
+                           <ce:doi>10.1371/journal.pone.0089217</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0160">
+                     <ce:label>Thompson and Solomon, 2002</ce:label>
+                     <sb:reference id="rf0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.W.J.</ce:given-name>
+                                 <ce:surname>Thompson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Solomon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Interpretation of recent Southern Hemisphere climate change</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>296</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5569</sb:issue-nr>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>895</sb:first-page>
+                              <sb:last-page>899</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0165">
+                     <ce:label>Turner et al., 2009</ce:label>
+                     <sb:reference id="rf0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Turner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Comiso</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>Marshall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Lachlan-Cope</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Bracegirdle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Maksym</ce:surname>
+                              </sb:author>
+                              <sb:ellipsis/>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Orr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Non-annular atmospheric circulation change induced by stratospheric ozone depletion and its role in the recent increase of Antarctic sea ice extent</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>
+                                       <ce:italic>Geophysical Research Letters</ce:italic>
+                                    </sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:article-number>L08502,</sb:article-number>
+                           <ce:doi>10.1029/2009GL037524</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0170">
+                     <ce:label>Turner et al., 2015</ce:label>
+                     <sb:reference id="rf0170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Turner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Hosking</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.J.</ce:given-name>
+                                 <ce:surname>Bracegirdle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>Marshall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Phillips</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Recent changes in Antarctic sea ice</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Philosophical Transactions of the Royal Society A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>373</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>20140163</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1098/rsta.2014.0163</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0175">
+                     <ce:label>Vihma, 2014</ce:label>
+                     <sb:reference id="rf0175">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Vihma</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of Arctic sea ice decline on weather and climate: A review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>
+                                       <ce:italic>Surveys in Geophysics</ce:italic>
+                                    </sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1175</sb:first-page>
+                              <sb:last-page>1214</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s10712-014-9284-0</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0180">
+                     <ce:label>Walsh, 2013</ce:label>
+                     <sb:reference id="rf0180">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Walsh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Melting ice: What is happening to Arctic sea ice, and what does it mean for us?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Oceanography</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>171</sb:first-page>
+                              <sb:last-page>181</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0185">
+                     <ce:label>Walsh and Chapman, 2001</ce:label>
+                     <sb:reference id="rf0185">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Walsh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.L.</ce:given-name>
+                                 <ce:surname>Chapman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>20th-century sea-ice variations from observational data</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>
+                                       <ce:italic>Annals of Glaciology</ce:italic>
+                                    </sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>444</sb:first-page>
+                              <sb:last-page>448</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0190">
+                     <ce:label>Yu et al., 2004</ce:label>
+                     <sb:reference id="rf0190">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Maykut</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Rothrock</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Changes in the thickness distribution of Arctic sea ice between 1958–1970 and 1993–1997</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>
+                                       <ce:italic>Journal of Geophysical Research</ce:italic>
+                                    </sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>109</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:article-number>C08004,</sb:article-number>
+                           <ce:doi>10.1029/2003JC001982</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0195">
+                     <ce:label>Zhang, 2007</ce:label>
+                     <sb:reference id="rf0195">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Increasing Antarctic sea ice under warming atmospheric and oceanic conditions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Climate</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2515</sb:first-page>
+                              <sb:last-page>2529</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1175/JCLI4136.1</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0200">
+                     <ce:label>Zhang et al., 2013</ce:label>
+                     <sb:reference id="rf0200">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Lindsay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Schweiger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Steele</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The impact of an intense summer cyclone on 2012 Arctic sea ice retreat</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>
+                                       <ce:italic>Geophysical Research Letters</ce:italic>
+                                    </sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1002/grl.50190</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0205">
+                     <ce:label>Zwally et al., 2002</ce:label>
+                     <sb:reference id="rf0205">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Zwally</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Comiso</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Parkinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Cavalieri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Gloersen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Variability of Antarctic sea ice 1979–1998</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Geophysical Research</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>107</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>C5</sb:issue-nr>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3041</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1029/2000JC000733</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

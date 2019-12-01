@@ -1,0 +1,1391 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S037594741830232X</prism:url><dc:identifier>doi:10.1016/j.nuclphysa.2018.09.044</dc:identifier><eid>1-s2.0-S037594741830232X</eid><prism:doi>10.1016/j.nuclphysa.2018.09.044</prism:doi><pii>S0375-9474(18)30232-X</pii><dc:title>Highlights from the LHCb experiment </dc:title><prism:publicationName>Nuclear Physics A</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>
+               XXVIIth International Conference on Ultrarelativistic Nucleus-Nucleus Collisions (Quark Matter 2018)
+            </pubType><prism:issn>03759474</prism:issn><prism:volume>982</prism:volume><prism:startingPage>15</prism:startingPage><prism:endingPage>21</prism:endingPage><prism:pageRange>15-21</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2019-02-28</prism:coverDate><prism:coverDisplayDate>February 2019</prism:coverDisplayDate><prism:copyright>© 2018 The Authors. Published by Elsevier B.V.</prism:copyright><prism:publisher>The Authors. Published by Elsevier B.V.</prism:publisher><prism:issueName>The 27th International Conference on Ultrarelativistic Nucleus-Nucleus Collisions: Quark Matter 2018</prism:issueName><dc:creator>Winn, Michael</dc:creator><dc:description>
+               Abstract
+               
+                  We report recent results by the LHCb collaboration in heavy-ion collisions in collider and fixed-target mode at the LHC. A large variety of measurements show the potential of LHCb in nuclear collisions.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>Third-Party Sponsor</openaccessSponsorName><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Heavy-ion collisions</dcterms:subject><dcterms:subject>heavy-flavour production</dcterms:subject><dcterms:subject>correlation measurements</dcterms:subject><dcterms:subject>ultra-peripheral collisions</dcterms:subject><dcterms:subject>LHC</dcterms:subject><dcterms:subject>collider</dcterms:subject><dcterms:subject>fixed-target</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S037594741830232X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S037594741830232X" rel="scidir"/></coredata><objects><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="96" height="19" size="414">https://api.elsevier.com/content/object/eid/1-s2.0-S037594741830232X-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si10" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="120" height="19" size="478">https://api.elsevier.com/content/object/eid/1-s2.0-S037594741830232X-si10.gif?httpAccept=%2A%2F%2A</object><object ref="si11" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="120" height="19" size="486">https://api.elsevier.com/content/object/eid/1-s2.0-S037594741830232X-si11.gif?httpAccept=%2A%2F%2A</object><object ref="si12" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="26" height="17" size="208">https://api.elsevier.com/content/object/eid/1-s2.0-S037594741830232X-si12.gif?httpAccept=%2A%2F%2A</object><object ref="si13" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="117" height="19" size="483">https://api.elsevier.com/content/object/eid/1-s2.0-S037594741830232X-si13.gif?httpAccept=%2A%2F%2A</object><object ref="si14" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="116" height="19" size="483">https://api.elsevier.com/content/object/eid/1-s2.0-S037594741830232X-si14.gif?httpAccept=%2A%2F%2A</object><object ref="si15" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="119" height="19" size="481">https://api.elsevier.com/content/object/eid/1-s2.0-S037594741830232X-si15.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="79" height="19" size="340">https://api.elsevier.com/content/object/eid/1-s2.0-S037594741830232X-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="131" height="19" size="510">https://api.elsevier.com/content/object/eid/1-s2.0-S037594741830232X-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="97" height="19" size="418">https://api.elsevier.com/content/object/eid/1-s2.0-S037594741830232X-si5.gif?httpAccept=%2A%2F%2A</object><object ref="si6" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="22" height="21" size="185">https://api.elsevier.com/content/object/eid/1-s2.0-S037594741830232X-si6.gif?httpAccept=%2A%2F%2A</object><object ref="si8" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="117" height="19" size="481">https://api.elsevier.com/content/object/eid/1-s2.0-S037594741830232X-si8.gif?httpAccept=%2A%2F%2A</object><object ref="si9" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="20" height="23" size="212">https://api.elsevier.com/content/object/eid/1-s2.0-S037594741830232X-si9.gif?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="1068379">https://api.elsevier.com/content/object/eid/1-s2.0-S037594741830232X-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85060093535</scopus-id><scopus-eid>2-s2.0-85060093535</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85060093535" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271584</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291829</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Nuclear Physics A</xocs:srctitle>
+      <xocs:normalized-srctitle>NUCLEARPHYSICSA</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20190122">2019-01-22</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20190122">2019-01-22</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20190122">2019-01-22</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20190122">2019-01-22</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-03-16T06:56:12</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S037594741830232X</xocs:eid>
+      <xocs:pii-formatted>S0375-9474(18)30232-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>S037594741830232X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.nuclphysa.2018.09.044</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0375947418X0013X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20190628">2019-06-28T23:15:34.744268Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20190201</xocs:date-search-begin>
+      <xocs:date-search-end>20190228</xocs:date-search-end>
+      <xocs:year-nav>2019</xocs:year-nav>
+      <xocs:indexeddate epoch="1548131121">2019-01-22T04:25:21.143064Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confabbr confdate confeditor confloc contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav mmlmath affil articletitle auth auth authfirstini authfull authkeywords authlast primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0375-9474</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>03759474</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>SPONSOR</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>982</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>982</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 982</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>7</xocs:sort-order>
+      <xocs:first-fp>15</xocs:first-fp>
+      <xocs:last-lp>21</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>15</xocs:first-page>
+         <xocs:last-page>21</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201902</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>February 2019</xocs:cover-date-text>
+      <xocs:cover-date-start>2019-02-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2019-02-28</xocs:cover-date-end>
+      <xocs:cover-date-year>2019</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>The 27th International Conference on Ultrarelativistic Nucleus-Nucleus Collisions: Quark Matter 2018</ce:title>
+            <xocs:conference-info>
+               <xocs:abbr-name>Quark Matter 2018</xocs:abbr-name>
+               <xocs:venue>Lido di Venezia, Italy</xocs:venue>
+               <xocs:conference-date-text>13–19 May 2018</xocs:conference-date-text>
+               <xocs:date-range>
+                  <xocs:start-date>20180513</xocs:start-date>
+                  <xocs:end-date>20180519</xocs:end-date>
+               </xocs:date-range>
+            </xocs:conference-info>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author author-id="S0375947418X0013X-b9c0854c3b59990e1b6345d814f23b2b">
+                     <ce:given-name>Federico</ce:given-name>
+                     <ce:surname>Antinori</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S0375947418X0013X-95152d10831044e8e0c3f87026aa933e">
+                     <ce:given-name>Andrea</ce:given-name>
+                     <ce:surname>Dainese</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S0375947418X0013X-64f5f4f1b266eaa0de925c3af2720ce9">
+                     <ce:given-name>Paolo</ce:given-name>
+                     <ce:surname>Giubellino</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S0375947418X0013X-4f15251c8dcbcd9a4aaccd3ee9faab94">
+                     <ce:given-name>Vincenzo</ce:given-name>
+                     <ce:surname>Greco</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S0375947418X0013X-4f7f91d57b24e1a55f53b6f3a834cb7a">
+                     <ce:given-name>Maria Paola</ce:given-name>
+                     <ce:surname>Lombardo</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S0375947418X0013X-2309d4e487975ae161e913e2f2d367a8">
+                     <ce:given-name>Enrico</ce:given-name>
+                     <ce:surname>Scomparin</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>PLENARY SESSIONS</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 The Authors. Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>HIGHLIGHTSLHCBEXPERIMENT</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>WINN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>M</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="bib31s1">
+            <xocs:ref-normalized-surname>AAIJ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-article-number>1530022</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib32s1">
+            <xocs:ref-normalized-surname>AAIJ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>473</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib33s1">
+            <xocs:ref-normalized-surname>KOPECNA</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib34s1">
+            <xocs:ref-normalized-surname>AAIJ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-article-number>025</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib35s1">
+            <xocs:ref-normalized-surname>KHACHATRYAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-article-number>029</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib36s1">
+            <xocs:ref-normalized-surname>AAMODT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-article-number>112004</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib37s1">
+            <xocs:ref-normalized-surname>AAD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>466</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib38s1">
+            <xocs:ref-normalized-surname>AAIJ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-article-number>090</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib39s1">
+            <xocs:ref-normalized-surname>ACHARYA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-article-number>108</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3130s1">
+            <xocs:ref-normalized-surname>GLADILIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>19</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3131s1">
+            <xocs:ref-normalized-surname>ABELEV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-article-number>222301</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="boref0010"/>
+         <xocs:ref-info refid="boref0020"/>
+         <xocs:ref-info refid="bib3134s1">
+            <xocs:ref-normalized-surname>AAIJ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>159</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3135s1">
+            <xocs:ref-normalized-surname>BRODSKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>451</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="boref0030"/>
+         <xocs:ref-info refid="bib3136s2">
+            <xocs:ref-normalized-surname>AAIJ</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="boref0040"/>
+         <xocs:ref-info refid="boref0050"/>
+         <xocs:ref-info refid="bib3139s1"/>
+         <xocs:ref-info refid="boref0060"/>
+         <xocs:ref-info refid="boref0070"/>
+         <xocs:ref-info refid="boref0080"/>
+         <xocs:ref-info refid="boref0090"/>
+         <xocs:ref-info refid="boref0100"/>
+         <xocs:ref-info refid="boref0110"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>WINNX2019X15</xocs:refkey3>
+         <xocs:refkey4lp>WINNX2019X15X21</xocs:refkey4lp>
+         <xocs:refkey4ai>WINNX2019X15XM</xocs:refkey4ai>
+         <xocs:refkey5>WINNX2019X15X21XM</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2019-02-15T05:52:04Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>Third-Party Sponsor</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2021-01-22T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2021-01-22T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 The Authors. Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0375-9474(18)30232-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>S037594741830232X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S037594741830232X</xocs:eid>
+         <xocs:doi>10.1016/j.nuclphysa.2018.09.044</xocs:doi>
+         <xocs:cid>271584</xocs:cid>
+         <xocs:timestamp>2019-06-28T23:15:34.744268Z</xocs:timestamp>
+         <xocs:cover-date-start>2019-02-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2019-02-28</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>SPONSOR</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S037594741830232X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S037594741830232X/MAIN/application/pdf/160b441e42b883a01f74c9cd908678b8/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>806048</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S037594741830232X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S037594741830232X/PREVIEW/image/png/2acac0ddf19e3f005240206c47036118/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>51586</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S037594741830232X-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S037594741830232X/STRIPIN/image/gif/665df80f49ee28e38b8f72d0d8fda4d3/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>414</xocs:filesize>
+               <xocs:pixel-height>19</xocs:pixel-height>
+               <xocs:pixel-width>96</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S037594741830232X-si10.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S037594741830232X/STRIPIN/image/gif/bdc84a578ba0d9359efb6f8e5667ebca/si10.gif</xocs:ucs-locator>
+               <xocs:file-basename>si10</xocs:file-basename>
+               <xocs:filename>si10.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>478</xocs:filesize>
+               <xocs:pixel-height>19</xocs:pixel-height>
+               <xocs:pixel-width>120</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S037594741830232X-si11.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S037594741830232X/STRIPIN/image/gif/6f2cf40ef9e50e01921a0a17bf111095/si11.gif</xocs:ucs-locator>
+               <xocs:file-basename>si11</xocs:file-basename>
+               <xocs:filename>si11.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>486</xocs:filesize>
+               <xocs:pixel-height>19</xocs:pixel-height>
+               <xocs:pixel-width>120</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S037594741830232X-si12.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S037594741830232X/STRIPIN/image/gif/9eb74c372b3d43a18893ac350d8726d1/si12.gif</xocs:ucs-locator>
+               <xocs:file-basename>si12</xocs:file-basename>
+               <xocs:filename>si12.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>208</xocs:filesize>
+               <xocs:pixel-height>17</xocs:pixel-height>
+               <xocs:pixel-width>26</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S037594741830232X-si13.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S037594741830232X/STRIPIN/image/gif/d86e7651c84cb541a9727682d821d643/si13.gif</xocs:ucs-locator>
+               <xocs:file-basename>si13</xocs:file-basename>
+               <xocs:filename>si13.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>483</xocs:filesize>
+               <xocs:pixel-height>19</xocs:pixel-height>
+               <xocs:pixel-width>117</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S037594741830232X-si14.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S037594741830232X/STRIPIN/image/gif/3eaf591088b440f462ed40d30bcd5b02/si14.gif</xocs:ucs-locator>
+               <xocs:file-basename>si14</xocs:file-basename>
+               <xocs:filename>si14.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>483</xocs:filesize>
+               <xocs:pixel-height>19</xocs:pixel-height>
+               <xocs:pixel-width>116</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S037594741830232X-si15.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S037594741830232X/STRIPIN/image/gif/7cb0f3a8be711cf42aefcd869c4065e3/si15.gif</xocs:ucs-locator>
+               <xocs:file-basename>si15</xocs:file-basename>
+               <xocs:filename>si15.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>481</xocs:filesize>
+               <xocs:pixel-height>19</xocs:pixel-height>
+               <xocs:pixel-width>119</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S037594741830232X-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S037594741830232X/STRIPIN/image/gif/e6ae221ebb6d5ef13c77b0c051fba966/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>340</xocs:filesize>
+               <xocs:pixel-height>19</xocs:pixel-height>
+               <xocs:pixel-width>79</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S037594741830232X-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S037594741830232X/STRIPIN/image/gif/9a243a10ee605ea9487a0393cac8dd94/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>510</xocs:filesize>
+               <xocs:pixel-height>19</xocs:pixel-height>
+               <xocs:pixel-width>131</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S037594741830232X-si5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S037594741830232X/STRIPIN/image/gif/e356f9024e5cfa92706519805e8d6913/si5.gif</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>418</xocs:filesize>
+               <xocs:pixel-height>19</xocs:pixel-height>
+               <xocs:pixel-width>97</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S037594741830232X-si6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S037594741830232X/STRIPIN/image/gif/030dcb8b125d2294e2d6e9da27b71660/si6.gif</xocs:ucs-locator>
+               <xocs:file-basename>si6</xocs:file-basename>
+               <xocs:filename>si6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>185</xocs:filesize>
+               <xocs:pixel-height>21</xocs:pixel-height>
+               <xocs:pixel-width>22</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S037594741830232X-si8.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S037594741830232X/STRIPIN/image/gif/6f3e91d8e81fe9d4ce0e647485a6a5fb/si8.gif</xocs:ucs-locator>
+               <xocs:file-basename>si8</xocs:file-basename>
+               <xocs:filename>si8.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>481</xocs:filesize>
+               <xocs:pixel-height>19</xocs:pixel-height>
+               <xocs:pixel-width>117</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S037594741830232X-si9.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S037594741830232X/STRIPIN/image/gif/74f18cf06755926ffac0671b8505062b/si9.gif</xocs:ucs-locator>
+               <xocs:file-basename>si9</xocs:file-basename>
+               <xocs:filename>si9.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>212</xocs:filesize>
+               <xocs:pixel-height>23</xocs:pixel-height>
+               <xocs:pixel-width>20</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S037594741830232X-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>1068379</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:1098R9QH977/MAIN/application/pdf/060420fb27c821c9f3f2226262c1ec82/am.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:1098R9QH977/MAIN/application/pdf/060420fb27c821c9f3f2226262c1ec82/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>XXVIIth International Conference on Ultrarelativistic Nucleus-Nucleus Collisions (Quark Matter 2018) Highlights from the LHCb experiment Michael Winn on behalf of the LHCb collaboration Laboratoire de lâ€™acceÂ´leÂ´rateur lineÂ´aire, Orsay Abstract We report recent results by the LHCb collaboration in heavy-ion collisions in collider and ï¬�xed-target mode at the LHC. A large variety of measurements show the potential of LHCb in nuclear collisions. Keywords: Heavy-ion collisions, heavy-ï¬‚avour production, correlation measurements, ultra-peripheral collisions, LHC, collider, ï¬�xed-target 1. Introduction The LHCb experiment is designed for heavy-ï¬‚avour measurements, precision tests of the standard model and searches for physics beyond the standard model. Its forward rapidity acceptance in 2 &lt; Î· &lt; 5, its instrumentation with precision tracking and vertex determination, the charged hadron particle identiï¬�cation, the muon system and calorimetry combined with a ï¬‚exible trigger system featuring a software level trigger with an input rate of about 1 MHz in pp collisions make the experiment a versatile laboratory for studies aiming at a better understanding of strongly interacting matter in the laboratory [1]. The LHCb collaboration is the youngest member of the LHC heavy-ion family participating with a small luminosity in the 2013 pPb run at 5 TeV and in the 2015 PbPb run. Since these pioneering data takings, signiï¬�cantly larger data sets were successfully recorded and are being planned to be taken this year. Table 1 presents already taken and planned collider data and Figure 1 shows the so far available ï¬�xed target data. We summarise in the following results that are for the ï¬�rst time presented at a Quark Matter conference edition. 2. Correlation measurements in pp collisions LHCb proved its capability to perform dihadron correlation measurements of primary charged particles in pPb collisions [2]. While this measurement type is also pursued in pp collisions to probe collectivity [3], LHCb explored for the ï¬�rst time Bose-Einstein correlations of identical pions in pp collisions to constrain the spatio-temporal particle emission patterns as a function of ï¬�nal state particle production multiplicity [4]. The correlation functions are presented in form of a double ratio of C(Q) = C(Q) S E,data 2 /C(Q) ME,data 2 C(Q)S E,MC2 /C(Q) ME,MC 2 with Q being Available online at www.sciencedirect.com Nuclear Physics A 982 (2019) 15â€“21 0375-9474/Â© 2018 The Authors. Published by Elsevier B.V. www.elsevier.com/locate/nuclphysa https://doi.org/10.1016/j.nuclphysa.2018.09.044 This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). year âˆš sNN pPb/Pbp 2013 5.02 TeV 1.6 nbâˆ’1 PbPb 2015 5.02 TeV 10 Î¼bâˆ’1 pPb/Pbp 2016 8.16 TeV 34 nbâˆ’1 21 Ã—2013 XeXe 2017 5.44 TeV 0.4 Î¼bâˆ’1 PbPb 2018 5.02 TeV goal: 100 Î¼bâˆ’1 10 Ã—2015 Table 1. Overview of collision systems and recorded luminosities by LHCb in heavy-ion collisions in collider mode. Fig. 1. Available ï¬�xed-target data sets presented in terms of proton/ions on target. the absolute value of the four-momentum vector diï¬€erence between the two particles and the indices SE and ME indicating same event and mixed-event distributions. The correlation function is ï¬�tted with a function of the form f (Q) = N Â· (1 + Î» Â· exp(âˆ’QR)) Â· (1 + Î´Q), where Î» represent the so-called chaoticity and R the source size. Figure 2 shows the best ï¬�t parameters. The resulting source sizes show a similar dependence as observed at midrapidity by other LHC experiments [5, 6, 7] as a function of ï¬�nal state particle multiplicity. More diï¬€erential studies and studies in pPb collisions are natural extensions of this ï¬�rst result at forward rapidity at the LHC.   [fm ] R 0.4 0.6 0.8 1 1.2 1.4 1.6 1.8 2 2.2 low activity medium activity high activity LHCb  = 7 TeVs Î» 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1 LHCb  = 7 TeVs low activity medium activity high activity Fig. 2. The system size parameter in fm and the chaoticity parameter as extracted in the three classes of event activity in the pp analysis at âˆš s = 7 TeV [4]. The activity classes correspond to charged particle multiplicity intervals [8, 18] (low), [19, 35] (medium), [36, 96] (high) of primary particles within the LHCb acceptance 2 &lt; Î· &lt; 5 correcting the number of reconstructed tracks per primary vertex to the particle level with a Bayesian unfolding technique. 3. Heavy-ï¬‚avour production in pPb collisions in collider mode The 2013 pPb data set at âˆš sNN = 5 TeV allows for precise and unique production studies in the charm sector with LHCb. The observed prompt D0 nuclear modiï¬�cation factor [8] is shown in Figure 3. A suppres- sion as low as 0.6 at low-pT at forward rapidity 2 &lt; yâˆ— &lt; 4 is observed. A slow approach to unity towards M. Winn / Nuclear Physics A 982 (2019) 15â€“2116 ]c [GeV/ T p 0 2 4 6 8 10 pP b R 0 0.5 1 1.5 2  = 5 TeVNNs LHCb Forward LHCb EPS09LO EPS09NLO nCTEQ15 CGC Fig. 3. Left panel: the D0 nuclear modiï¬�cation factor as a function of rapidity compared with model calculations in the collinear factorisation framework that are tuned to reproduce the pp production cross sections and display the nPDF uncertainties on the left as well as a colour glass condensate calculation. Right hand: the nuclear modiï¬�cation factor at forward rapidity as a function of transverse momentum compared with the same model approaches detailed in Ref. [8]. large transverse momenta of around 10 GeV/c is visible. The data points are contained in the envelope of uncertainties within a model using collinear factorisation and being tuned to reproduce pp collision data and displaying the uncertainties related to nuclear parton distribution functions (nPDF) that are considerably larger than the experimental uncertainties. The forward rapidity data, both integrated and pT -diï¬€erential, are reasonably reproduced by a colour glass calculation in the dilute-dense approximation. At backward rapid- ity, the last bins are indicating values above unity for rapidity diï¬€erential nuclear modiï¬�cation factors. Both observations, large modiï¬�cations as well as the signiï¬�cantly smaller uncertainties than those aï¬€ecting nPDF sets, urge and encourage us to clarify the sources of nuclear modiï¬�cations in pPb collisions. In particular, a clariï¬�cation will be necessary to make full use of precision improvements of heavy-ï¬‚avour observables in nucleus-nucleus collisions to extract parameters for quark matter studies. In addition, the characterisation of the gluonic content of nuclei and nucleons in view of physics of the saturation scale at the highest avail- able collision energy would beneï¬�t from a falsiï¬�cation of available models via the combination of the full available set of data. In pPb collisions at âˆš sNN = 5 TeV, a ï¬�rst measurement of the prompt Î›C at forward and backward rapidity has been undertaken by LHCb1. In Figure 4, the prompt Î›C/D production ratio shows a behaviour consistent with a model calculation using pp data as input for the parameterisation. The measurement indicates similar values as observed recently by ALICE at midrapidity in pp and in pPb collisions [9]. The large observed values indicate tensions with existing fragmentation fraction measurements in e+eâˆ’ collisions and in ep collisions, see e.g. in [10] for a compilation of LEP data, and warrant further tests of universality in charm hadronisation in pp and pPb collisions. Modiï¬�cations of baryon-to-meson ratios have been observed in light ï¬‚avour production in heavy-ion collisions compared to pp collisions, see e.g. in [11]. The observation of modiï¬�cation patterns in the heavy-ï¬‚avour sector for baryon-to-meson ratios between diï¬€erent collision systems and their investigation as a function of charged-particle multiplicity in the ï¬�nal state may allow us to shed light into the modelling and understanding of these phenomena thanks to the presence of a mass scale much larger than Î›QCD for one of the valence quarks. In pPb collisions, LHCb can contribute to this question at âˆš sNN =8.16 TeV with an integrated luminosity higher by a factor 20 with respect to the data at 5 TeV presented so far. In the quarkonium sector, we report precise measurements of prompt and non-prompt J/Ïˆ in pPb colli- sions at âˆš sNN = 8.16 TeV down to pT = 0 [14]. In Figure 5, the prompt J/Ïˆ production is compared with calculations using diï¬€erent nPDF sets, the coherent energy loss model as well as colour glass condensate 1The results presented here will appear in [12]. They superseed the preliminary results published in 2017 [13]. M. Winn / Nuclear Physics A 982 (2019) 15â€“21 17 Fig. 4. The prompt Î›C over D0 production ratio at forward and at backward rapidity in pPb collisions at âˆš sNN = 5 TeV measured by LHCb [12]. Fig. 5. The prompt J/Ïˆ nuclear modiï¬�cation factor as a function of rapidity (left panel) and of transverse momentum (central panel) at âˆš sNN =8.16 TeV in pPb collisions at forward rapidity compared with model calculations. The nuclear modiï¬�cation factor of non-prompt J/Ïˆ as a function of rapidity integrated over transverse momentum [14] is shown in the right panel. Model references and detailed discussions are given in [14]. calculations. Similar observations as for the open charm production apply: a strong suppression at low pT down to about 0.5 in the nuclear modiï¬�cation factor at forward rapidity is observed with an approach to unity at the highest transverse momenta and slight modiï¬�cations much closer to unity at backward rapidity. There is no sign of an increase of the nuclear modiï¬�cation factor above unity as for the prompt D0 at the backward edge of the acceptance. A possible physics origin of this apparent diï¬€erence with respect to the D0-result should wait for new measurements of the D0 meson at âˆš sNN = 8.16 TeV. The non-prompt J/Ïˆ production shown in Figure 5 (right panel) exhibits a weaker suppression at low pT in accordance with expectations for nPDF modiï¬�cations. The non-prompt measurements provide the most precise test of b-hadron production in nuclear collisions down to pT = 0 to date and are hence an important step to quantify modiï¬�cations to be anticipated for the analysis of ion-ion data in the quest of modiï¬�cations due to the presence of deconï¬�ned QCD matter in the open beauty and in the bottomonium sector. 4. Heavy-ï¬‚avour production in ï¬�xed-target mode in pAr and pHe collisions The ï¬�xed target data sets of LHCb are a unique chance at the LHC to allow for precise measurements at centre-of-mass energies of around 100 GeV in the backward rapidity hemisphere in the nucleon-nucleon centre-of-mass system. We concentrate at this conference on charm production measurements in proton- induced collisions, that are interesting to constrain nuclear eï¬€ects not related to deconï¬�nement for upcoming analyses in nucleus-nucleus collisions as for example nPDFs as well as to constrain the nature of the partonic M. Winn / Nuclear Physics A 982 (2019) 15â€“2118 Fig. 6. The D0 production cross section as a function of rapidity compared with models, references detailed in [18]. content of nuclei/nucleons. In particular, it has been argued that the proton contains higher excited Fock- state components with an additional valence-like ccÂ¯ quark pair [15]. Due to the coverage getting close to the kinematic edge for heavy-ï¬‚avour production at backward rapidity, the LHCb detector is well suited to have a closer look whether sizeable signs of this conjectured contribution are present. In 2017, LHCb reported for the ï¬�rst time measurements both in the soft sector [16] in view of cosmic ray physics as well as in the charm sector in pAr collisions [17] in its unique ï¬�xed target conï¬�guration. At this conference, we present the results to be published in an upcoming article on D0 and J/Ïˆ produc- tion in pHe and pAr collisions. The measurements in pAr are hence superseeded by the results presented here. New results in pHe featuring cross sections based on an indirect luminosity determination via elastic electron-proton scattering are shown. As a highlight from this data, Figure 6 shows the cross section of D0 as a function of rapidity in pHe collisions [18]. The shape is in reasonable agreement with model calculations not invoking an intrinsic charm contribution to the proton/nuclear wave function. We estimate the Bjorken-x of the partons in the target nucleus. We use x = 2Â·mCâˆšsNN Â· eâˆ’yâˆ— , where mC , âˆš sNN , yâˆ— represent the charm quark mass, the centre-of- mass energy per nucleon-nucleon pair and the D0 rapidity in the nucleon-nucleon centre-of-mass system. Hence, we conclude to be sensitive to a valence-like intrinsic charm contribution in absence of strong nuclear eï¬€ects for 4He2. We see in the distribution rather a deï¬�cit than a relative enhancement of the production cross section at the backward rapidity edge with respect to the calculations without intrinsic charm. Therefore, we do not see a valence-like intrinsic charm signal in our present data based on the distribution shape. 5. Towards direct photon measurements in pPb collisions in collider mode For suitable kinematics, colour neutral ï¬�nal states can avoid to a large extent possible nuclear modiï¬�- cations that are not related to the partonic content of nuclei. In particular, direct photons are a suitable tool to probe the partonic structure at low-x at forward rapidity at hadron colliders to search for signs of gluon saturation. LHCb pursues an eï¬€ort using photons reconstructed in the e+eâˆ’ conversion channel. A target observable is the RÎ³ = NDataincl,Î³/N Data Î³ f romÏ€0 NMC Î³,decay/NÎ³,Ï€0 double ratio extracting the direct photons as an excess over the decay photons inside the inclusive sample. The photons from Ï€0 are found by combining the conversion photons with a photon reconstructed in the calorimeter for a mass ï¬�t. For the measurements on isolated photons in pPb, the pp data sets without applying isolation criteria are regarded as control samples. Figure 7 shows the Î· over Ï€0 production ratio that enters the deï¬�nition of the R-ratio. The results in data are very close to the EPOS simulation ones. On the right hand side, the current double ratio R-measurement at 5 TeV using a simulation for 13 TeV pp data is shown as a function of Î³-pT with the present systematic uncertainty on the photon 2There could be conspirative cancellations of the intrinsic charm component and the EMC eï¬€ect that is hardly constrained for nuclear gluon parton distribution functions by measurements. M. Winn / Nuclear Physics A 982 (2019) 15â€“21 19 2.5 5.0 7.5 10.0 pT [GeV/c] 0.0 0.2 0.4 0.6 0.8 1.0 Î· /Ï€ 0 LHCb Preliminary 13 TeV pp Data EPOS-LHC Pythia8 Data 1 2 3 4 5 pT (Î³) [GeV/c] 0.8 1.0 1.2 1.4 R Î³ LHCb Preliminary 5.02 TeV pp Data  Î³ uncertainty Reweighted Raw Fig. 7. The Î· over Ï€0 production ratio in pp collisions as a function of transverse momentum and the auxiliary RÎ³ ratio in pp collisions without and with reweight corrections [19]. 10âˆ’ 5âˆ’ 0 )2/GeV2 T log(p 0 10 20 30 40 50 Ev en ts  /  0. 15 data coherent incoherent+feed-down non-resonant sum LHCb Preliminary  = 5 TeVNNsPb-Pb 0 1 2 3 4 5 ÏˆJ/ y 0 0.5 1 1.5 2 2.5 3 3.5 4 4.5 5   [m b] Ïˆ J/ /d y Ïƒd Guzey et al. LTA_W LTA_S EPS09 Goncalves et al IP-SAT IIM Cepila et al. GG-hs GS-hs =5 TeVNNsPb-Pb LHCb Preliminary Fig. 8. The p2T distribution of dimuon candidates in the J/Ïˆ mass region as observed by LHCb. On the right hand side, the extracted coherent J/Ïˆ production cross section is compared with model calculations [20]. reconstruction eï¬ƒciency, which is dominated by the extrinsic uncertainty of the branching fraction ratio BR(Bâ†’ Ï‡c1(â†’ JÏˆ+ Î³)K+)/BR(Bâ†’ J/ÏˆK+). This illustration demonstrates the understanding of diï¬€erent pp data samples in terms of diï¬€erent kinematics and ï¬�nal state particle multiplicity at a level of the present systematic uncertainty without an excess being visible in this data set. The measurements of Î³-hadron correlations are also carried out as a complementary approach. Both measurements are unique chances to shed light in the low-x frontier of QCD probed at the highest energy hadron collider. 6. Coherent J/Ïˆ production in ultra-peripheral PbPb collisions Ultra-peripheral collisions in PbPb collisions are an opportunity to probe the nucleus with the quasi-real photon cloud accompanying ultra-relativstic high-charge ions as 82+Pb. We report the ï¬�rst measurement of coherent J/Ïˆ â†’ Î¼+Î¼âˆ’ production by LHCb [20]. Figure 8 demonstrates the capability to separate the coherent from the incoherent production and the continuum. This measurement is sensitive to the gluonic content of the nucleus. On the right hand side, the results are compared with diï¬€erent families of model calculations. With the rapidity range covered by the experimental data points, it is possible to disfavour several model calculations in their present form: a detailed discussion can be found in [20]. Measurements in ultra-peripheral PbPb collisions will strongly proï¬�t from the anticipated 10 times larger recorded integrated luminosity in LHCb for the 2018 run compared to the 2015 data set presented here. M. Winn / Nuclear Physics A 982 (2019) 15â€“2120 7. Summary and Outlook We have presented new results over a variety of diï¬€erent probes to characterise pp and nuclear collisions at the LHC. First measurements of Bose-Einstein correlations in pp collisions have been presented and show qualitatively similar ï¬�ndings as previous measurements at midrapidity. Results on open heavy-ï¬‚avour and quarkonium production show strong suppressions at forward rapidity qualitatively compatible with strong shadowing within nPDFs, gluon depletion via saturation within the colour glass condensate framework or coherent energy loss. The Î›C production has been measured in pPb collisions and its production ratio with respect to D0 shows patterns compatible with a model tuned to the available production measurements in pp collisions. Steps towards measurements of photon production in pPb collisions to probe the nuclear partons with a colour neutral ï¬�nal state in the quest for saturation are highlighted. In ï¬�xed-target collisions, ï¬�rst cross section measurements of D0 production in pHe collisions are shown. They do not show enhancements from data parameterisations and pQCD-based models that do not include intrinsic charm at the backward rapidity edge of the acceptance. Finally, ï¬�rst results from the 2015 PbPb data taking have been presented: coherent J/Ïˆ production in ultra-peripheral collisions to constrain the gluonic content of the nuclear wave function. These diverse measurements point to a large potential of LHCb to probe and characterise the initial state of heavy-ion collisions that is instrumental for the understanding of ion-ion collisions and that waits to be fully exploited in upcoming years. The planned ï¬�rst upgrade for LHC Run 3 improves the detector granularity that will be beneï¬�cial in particular for ion-ion collisions both in ï¬�xed-target collisions starting operations in 2021 [21, 22, 23, 24]. The ï¬�xed-target collision programme will proï¬�t from a new internal gas target with 10-100 times higher useable instantaneous luminosity that is under consideration by the LHCb collaboration at the same time scale. The phase 2 upgrade planned to become operational around 2030, for which an expression of interest has been submitted by the LHCb collaboration, bears the opportunity for an unprecented set-up in ion-ion collisions: a precision low-pT capable detector at forward rapidity using track momenta of minimal ionising particles and above. These upcoming detector improvements for LHCb and the anticipated increased luminosities in the future ion-running at the LHC constitute a unique opportunity for heavy-ion physics that should not be missed. Acknowledgements: The contact author acknowledges support from the European Research Council (ERC) through the project EXPLORINGMATTER, founded by the ERC through a ERC-Consolidator- Grant. The contact author thanks his collaborators for two years of excellent work. References [1] R. Aaij et al. [LHCb Collaboration], â€œLHCb Detector Performance,â€� Int. J. Mod. Phys. A 30 (2015) no.07, 1530022 doi:10.1142/S0217751X15300227 [arXiv:1412.6352 [hep-ex]]. [2] R. Aaij et al. [LHCb Collaboration], â€œMeasurements of long-range near-side angular correlations in âˆšsNN = 5TeV proton-lead collisions in the forward region,â€� Phys. Lett. B 762 (2016) 473 doi:10.1016/j.physletb.2016.09.064 [arXiv:1512.00439 [nucl-ex]]. [3] R. Kopecna [LHCb Collaboration], â€œNew results on collectivity with LHCb,â€� arXiv:1709.09906 [hep-ex]. [4] R. Aaij et al. [LHCb Collaboration], â€œBose-Einstein correlations of same-sign charged pions in the forward region in pp collisions at âˆš s = 7 TeV,â€™ JHEP 1712 (2017) 025 doi:10.1007/JHEP12(2017)025 [arXiv:1709.01769 [hep-ex]]. [5] V. Khachatryan et al. [CMS Collaboration], â€œMeasurement of Bose-Einstein Correlations in pp Collisions at âˆš s = 0.9 and 7 TeV,â€� JHEP 1105 (2011) 029 doi:10.1007/JHEP05(2011)029 [arXiv:1101.3518 [hep-ex]]. [6] K. Aamodt et al. [ALICE Collaboration], â€œFemtoscopy of pp collisions at âˆš s = 0.9 and 7 TeV at the LHC with two-pion Bose-Einstein correlations,â€� Phys. Rev. D 84 (2011) 112004 doi:10.1103/PhysRevD.84.112004 [arXiv:1101.3665 [hep-ex]]. [7] G. Aad et al. [ATLAS Collaboration], â€œTwo-particle BoseEinstein correlations in pp collisions at âˆš s = 0.9 and 7 TeV measured with the ATLAS detector,â€� Eur. Phys. J. C 75 (2015) no.10, 466 doi:10.1140/epjc/s10052-015-3644-x [arXiv:1502.07947 [hep-ex]]. [8] R. Aaij et al. [LHCb Collaboration], â€œStudy of prompt D0 meson production in pPb collisions at âˆšsNN = 5 TeV,â€� JHEP 1710 (2017) 090 doi:10.1007/JHEP10(2017)090 [arXiv:1707.02750 [hep-ex]]. [9] S. Acharya et al. [ALICE Collaboration], â€œÎ›+c production in pp collisions at âˆš s = 7 TeV and in p-Pb collisions at âˆšsNN = 5.02 TeV,â€� JHEP 1804 (2018) 108 doi:10.1007/JHEP04(2018)108 [arXiv:1712.09581 [nucl-ex]]. [10] L. Gladilin, Eur. Phys. J. C 75 (2015) no.1, 19 doi:10.1140/epjc/s10052-014-3250-3 [arXiv:1404.3888 [hep-ex]]. [11] B. B. Abelev et al. [ALICE Collaboration], â€œK0S and Î› production in Pb-Pb collisions at âˆšsNN = 2.76 TeV,â€� Phys. Rev. Lett. 111 (2013) 222301 doi:10.1103/PhysRevLett.111.222301 [arXiv:1307.5530 [nucl-ex]]. [12] R. Aaij et al. [LHCb Collaboration], â€œPrompt Î›+c production in pPb collisions at âˆšsNN = 5.02 TeV,â€� LHCB-PAPER-2018-021-002. [13] The LHCb Collaboration [LHCb Collaboration], â€œPrompt Î›+c production in pPb collisions at âˆšsNN = 5.02 TeV,â€� LHCb-CONF-2017-005. [14] R. Aaij et al. [LHCb Collaboration], â€œPrompt and nonprompt J/Ïˆ production and nuclear modiï¬�cation in pPb collisions at âˆšsNN = 8.16 TeV,â€� Phys. Lett. B 774 (2017) 159 doi:10.1016/j.physletb.2017.09.058 [arXiv:1706.07122 [hep-ex]]. [15] S. J. Brodsky, P. Hoyer, C. Peterson and N. Sakai, â€œThe Intrinsic Charm of the Proton,â€� Phys. Lett. 93B (1980) 451. doi:10.1016/0370-2693(80)90364-0 [16] The LHCb Collaboration [LHCb Collaboration], â€œMeasurement of antiproton production in pHe collisions at âˆšsNN = 110 GeV,â€� Preliminary: LHCb-CONF-2017-002. Final publication: R. Aaij et al. [LHCb Collaboration], arXiv:1808.06127 [hep-ex]. [17] The LHCb Collaboration [LHCb Collaboration], â€œMeasurement of J/Ïˆ and D0 production in pAr collisions at âˆšsNN = 110 GeV,â€� LHCb-CONF-2017-001. [18] R. Aaij et al. [LHCb Collaboration], â€œFirst measurements of charm production in ï¬�xed-target conï¬�guration at the LHC,â€� LHCb-PAPER-2018-023. [19] The LHCb Collaboration [LHCb Collaboration], Performance plots for pPb measurements, https://twiki.cern.ch/twiki/bin/view/LHCb/LHCbPlots2016. [20] R. Aaij et al. [LHCb Collaboration], â€œStudy of coherent J/Ïˆ production in lead-lead collisions at âˆšsNN = 5 TeV with the LHCb experiment,â€� LHCb-CONF-2018-003. [21] LHCb Collaboration, â€œLHCb VELO Upgrade Technical Design Report,â€� CERN-LHCC-2013-021, LHCB-TDR-013. [22] LHCb Collaboration, â€œLHCb PID Upgrade Technical Design Report,â€� CERN-LHCC-2013-022, LHCB-TDR-014. [23] LHCb Collaboration, â€œLHCb Tracker Upgrade Technical Design Report,â€� CERN-LHCC-2014-001, LHCB-TDR-015. [24] LHCb Collaboration, â€œLHCb Trigger and Online Upgrade Technical Design Report,â€� CERN-LHCC-2014-016, LHCB-TDR-016. [25] R. Aaij et al. [LHCb Collaboration], â€œExpression of Interest for a Phase-II LHCb Upgrade: Opportunities in ï¬‚avour physics, and beyond, in the HL-LHC era,â€œ CERN-LHCC-2017-003. M. Winn / Nuclear Physics A 982 (2019) 15â€“21 21 016.09.064 [arXiv:1512.00439 [nucl-ex]]. [3] R. Kopecna [LHCb Collaboration], â€œNew results on collectivity with LHCb,â€� arXiv:1709.09906 [hep-ex]. [4] R. Aaij et al. [LHCb Collaboration], â€œBose-Einstein correlations of same-sign charged pions in the forward region in pp collisions at âˆš s = 7 TeV,â€™ JHEP 1712 (2017) 025 doi:10.1007/JHEP12(2017)025 [arXiv:1709.01769 [hep-ex]]. [5] V. Khachatryan et al. [CMS Collaboration], â€œMeasurement of Bose-Einstein Correlations in pp Collisions at âˆš s = 0.9 and 7 TeV,â€� JHEP 1105 (2011) 029 doi:10.1007/JHEP05(2011)029 [arXiv:1101.3518 [hep-ex]]. [6] K. Aamodt et al. [ALICE Collaboration], â€œFemtoscopy of pp collisions at âˆš s = 0.9 and 7 TeV at the LHC with two-pion Bose-Einstein correlations,â€� Phys. Rev. D 84 (2011) 112004 doi:10.1103/PhysRevD.84.112004 [arXiv:1101.3665 [hep-ex]]. [7] G. Aad et al. [ATLAS Collaboration], â€œTwo-particle BoseEinstein correlations in pp collisions at âˆš s = 0.9 and 7 TeV measured with the ATLAS detector,â€� Eur. Phys. J. C 75 (2015) no.10, 466 doi:10.1140/epjc/s10052-015-3644-x [arXiv:1502.07947 [hep-ex]]. [8] R. Aaij et al. [LHCb Collaboration], â€œStudy of prompt D0 meson production in pPb collisions at âˆšsNN = 5 TeV,â€� JHEP 1710 (2017) 090 doi:10.1007/JHEP10(2017)090 [arXiv:1707.02750 [hep-ex]]. [9] S. Acharya et al. [ALICE Collaboration], â€œÎ›+c production in pp collisions at âˆš s = 7 TeV and in p-Pb collisions at âˆšsNN = 5.02 TeV,â€� JHEP 1804 (2018) 108 doi:10.1007/JHEP04(2018)108 [arXiv:1712.09581 [nucl-ex]]. [10] L. Gladilin, Eur. Phys. J. C 75 (2015) no.1, 19 doi:10.1140/epjc/s10052-014-3250-3 [arXiv:1404.3888 [hep-ex]]. [11] B. B. Abelev et al. [ALICE Collaboration], â€œK0S and Î› production in Pb-Pb collisions at âˆšsNN = 2.76 TeV,â€� Phys. Rev. Lett. 111 (2013) 222301 doi:10.1103/PhysRevLett.111.222301 [arXiv:1307.5530 [nucl-ex]]. [12] R. Aaij et al. [LHCb Collaboration], â€œPrompt Î›+c production in pPb collisions at âˆšsNN = 5.02 TeV,â€� LHCB-PAPER-2018-021-002. [13] The LHCb Collaboration [LHCb Collaboration], â€œPrompt Î›+c production in pPb collisions at âˆšsNN = 5.02 TeV,â€� LHCb-CONF-2017-005. [14] R. Aaij et al. [LHCb Collaboration], â€œPrompt and nonprompt J/Ïˆ production and nuclear modiï¬�cation in pPb collisions at âˆšsNN = 8.16 TeV,â€� Phys. Lett. B 774 (2017) 159 doi:10.1016/j.physletb.2017.09.058 [arXiv:1706.07122 [hep-ex]]. [15] S. J. Brodsky, P. Hoyer, C. Peterson and N. Sakai, â€œThe Intrinsic Charm of the Proton,â€� Phys. Lett. 93B (1980) 451. doi:10.1016/0370-2693(80)90364-0 [16] The LHCb Collaboration [LHCb Collaboration], â€œMeasurement of antiproton production in pHe collisions at âˆšsNN = 110 GeV,â€� Preliminary: LHCb-CONF-2017-002. Final publication: R. Aaij et al. [LHCb Collaboration], arXiv:1808.06127 [hep-ex]. [17] The LHCb Collaboration [LHCb Collaboration], â€œMeasurement of J/Ïˆ and D0 production in pAr collisions at âˆšsNN = 110 GeV,â€� LHCb-CONF-2017-001. [18] R. Aaij et al. [LHCb Collaboration], â€œFirst measurements of charm production in ï¬�xed-target conï¬�guration at the LHC,â€� LHCb-PAPER-2018-023. [19] The LHCb Collaboration [LHCb Collaboration], Performance plots for pPb measurements, https://twiki.cern.ch/twiki/bin/view/LHCb/LHCbPlots2016. [20] R. Aaij et al. [LHCb Collaboration], â€œStudy of coherent J/Ïˆ production in lead-lead collisions at âˆšsNN = 5 TeV with the LHCb experiment,â€� LHCb-CONF-2018-003. [21] LHCb Collaboration, â€œLHCb VELO Upgrade Technical Design Report,â€� CERN-LHCC-2013-021, LHCB-TDR-013. [22] LHCb Collaboration, â€œLHCb PID Upgrade Technical Design Report,â€� CERN-LHCC-2013-022, LHCB-TDR-014. [23] LHCb Collaboration, â€œLHCb Tracker Upgrade Technical Design Report,â€� CERN-LHCC-2014-001, LHCB-TDR-015. [24] LHCb Collaboration, â€œLHCb Trigger and Online Upgrade Technical Design Report,â€� CERN-LHCC-2014-016, LHCB-TDR</xocs:rawtext>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.5">
+         <item-info>
+            <jid>NUPHA</jid>
+            <aid>21314</aid>
+            <ce:pii>S0375-9474(18)30232-X</ce:pii>
+            <ce:doi>10.1016/j.nuclphysa.2018.09.044</ce:doi>
+            <ce:copyright year="2018" type="other">The Authors</ce:copyright>
+         </item-info>
+         <head>
+            <ce:dochead id="do0010">
+               <ce:textfn>XXVIIth International Conference on Ultrarelativistic Nucleus-Nucleus Collisions (Quark Matter 2018)</ce:textfn>
+            </ce:dochead>
+            <ce:title id="ti0010">Highlights from the LHCb experiment</ce:title>
+            <ce:author-group id="ag0010">
+               <ce:author id="au0010" author-id="S037594741830232X-c7e0e05f53c6c4db9336f3a7d9d1ffb9">
+                  <ce:given-name>Michael</ce:given-name>
+                  <ce:surname>Winn</ce:surname>
+               </ce:author>
+               <ce:text>on behalf of the</ce:text>
+               <ce:collaboration id="co0010" collaboration-id="S037594741830232X-81f7c71128499dab96b49184b0b0edd9">
+                  <ce:text>LHCb collaboration</ce:text>
+               </ce:collaboration>
+               <ce:affiliation id="aff0010" affiliation-id="S037594741830232X-c8ada7c526ac786b2dc144931b1e00a3">
+                  <ce:textfn>Laboratoire de l'accélérateur linéaire, Orsay</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Laboratoire de l'accélérateur linéaire</sa:organization>
+                     <sa:city>Orsay</sa:city>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:abstract id="ab0010" view="all" class="author">
+               <ce:section-title id="st0010">Abstract</ce:section-title>
+               <ce:abstract-sec id="as0010" view="all">
+                  <ce:simple-para id="sp0010" view="all">We report recent results by the LHCb collaboration in heavy-ion collisions in collider and fixed-target mode at the LHC. A large variety of measurements show the potential of LHCb in nuclear collisions.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="kws0010" view="all" class="keyword">
+               <ce:section-title id="st0020">Keywords</ce:section-title>
+               <ce:keyword id="kw0010">
+                  <ce:text>Heavy-ion collisions</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>heavy-flavour production</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0030">
+                  <ce:text>correlation measurements</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0040">
+                  <ce:text>ultra-peripheral collisions</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0050">
+                  <ce:text>LHC</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0060">
+                  <ce:text>collider</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0070">
+                  <ce:text>fixed-target</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="bl0010" view="all">
+               <ce:section-title id="st0030">References</ce:section-title>
+               <ce:bibliography-sec id="bs0010" view="all">
+                  <ce:bib-reference id="br0010">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="bib31s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Aaij</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                              <sb:collaboration>LHCb Collaboration</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>LHCb Detector Performance</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Mod. Phys. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>07</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:article-number>1530022</sb:article-number>
+                           <ce:doi>10.1142/S0217751X15300227</ce:doi>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1412.6352" id="inf0010" xlink:type="simple">arXiv:1412.6352 [hep-ex]</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0020">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="bib32s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Aaij</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                              <sb:collaboration>LHCb Collaboration</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measurements of long-range near-side angular correlations in <mml:math altimg="si1.gif" overflow="scroll">
+                                    <mml:msqrt>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mi>s</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi>N</mml:mi>
+                                                <mml:mi>N</mml:mi>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:msqrt>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mn>5</mml:mn>
+                                    <mml:mtext>TeV</mml:mtext>
+                                 </mml:math> proton-lead collisions in the forward region</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Lett. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>762</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>473</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.physletb.2016.09.064</ce:doi>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1512.00439" id="inf0020" xlink:type="simple">arXiv:1512.00439 [nucl-ex]</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0030">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="bib33s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kopecna</ce:surname>
+                              </sb:author>
+                              <sb:collaboration>LHCb Collaboration</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>New results on collectivity with LHCb</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1709.09906" id="inf0030" xlink:type="simple">arXiv:1709.09906 [hep-ex]</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0040">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="bib34s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Aaij</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                              <sb:collaboration>LHCb Collaboration</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Bose-Einstein correlations of same-sign charged pions in the forward region in <ce:italic>pp</ce:italic> collisions at <mml:math altimg="si2.gif" overflow="scroll">
+                                    <mml:msqrt>
+                                       <mml:mrow>
+                                          <mml:mi>s</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msqrt>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mn>7</mml:mn>
+                                    <mml:mspace width="0.25em"/>
+                                    <mml:mtext>TeV</mml:mtext>
+                                 </mml:math>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>JHEP</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1712</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:article-number>025</sb:article-number>
+                           <ce:doi>10.1007/JHEP12(2017)025</ce:doi>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1709.01769" id="inf0040" xlink:type="simple">arXiv:1709.01769 [hep-ex]</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0050">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="bib35s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Khachatryan</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                              <sb:collaboration>CMS Collaboration</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measurement of Bose-Einstein Correlations in <ce:italic>pp</ce:italic> Collisions at <mml:math altimg="si3.gif" overflow="scroll">
+                                    <mml:msqrt>
+                                       <mml:mrow>
+                                          <mml:mi>s</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msqrt>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mn>0.9</mml:mn>
+                                    <mml:mspace width="0.25em"/>
+                                    <mml:mtext>and</mml:mtext>
+                                    <mml:mspace width="0.25em"/>
+                                    <mml:mn>7</mml:mn>
+                                    <mml:mspace width="0.25em"/>
+                                    <mml:mtext>TeV</mml:mtext>
+                                 </mml:math>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>JHEP</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1105</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:article-number>029</sb:article-number>
+                           <ce:doi>10.1007/JHEP05(2011)029</ce:doi>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1101.3518" id="inf0050" xlink:type="simple">arXiv:1101.3518 [hep-ex]</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0060">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="bib36s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Aamodt</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                              <sb:collaboration>ALICE Collaboration</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Femtoscopy of <ce:italic>pp</ce:italic> collisions at <mml:math altimg="si3.gif" overflow="scroll">
+                                    <mml:msqrt>
+                                       <mml:mrow>
+                                          <mml:mi>s</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msqrt>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mn>0.9</mml:mn>
+                                    <mml:mspace width="0.25em"/>
+                                    <mml:mtext>and</mml:mtext>
+                                    <mml:mspace width="0.25em"/>
+                                    <mml:mn>7</mml:mn>
+                                    <mml:mspace width="0.25em"/>
+                                    <mml:mtext>TeV</mml:mtext>
+                                 </mml:math> at the LHC with two-pion Bose-Einstein correlations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. D</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:article-number>112004</sb:article-number>
+                           <ce:doi>10.1103/PhysRevD.84.112004</ce:doi>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1101.3665" id="inf0060" xlink:type="simple">arXiv:1101.3665 [hep-ex]</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0070">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="bib37s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Aad</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                              <sb:collaboration>ATLAS Collaboration</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Two-particle BoseEinstein correlations in <ce:italic>pp</ce:italic> collisions at <mml:math altimg="si3.gif" overflow="scroll">
+                                    <mml:msqrt>
+                                       <mml:mrow>
+                                          <mml:mi>s</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msqrt>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mn>0.9</mml:mn>
+                                    <mml:mspace width="0.25em"/>
+                                    <mml:mtext>and</mml:mtext>
+                                    <mml:mspace width="0.25em"/>
+                                    <mml:mn>7</mml:mn>
+                                    <mml:mspace width="0.25em"/>
+                                    <mml:mtext>TeV</mml:mtext>
+                                 </mml:math> measured with the ATLAS detector</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Eur. Phys. J. C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>75</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>466</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1140/epjc/s10052-015-3644-x</ce:doi>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1502.07947" id="inf0070" xlink:type="simple">arXiv:1502.07947 [hep-ex]</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0080">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="bib38s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Aaij</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                              <sb:collaboration>LHCb Collaboration</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Study of prompt D<ce:sup loc="post">0</ce:sup> meson production in <ce:italic>p</ce:italic>Pb collisions at <mml:math altimg="si5.gif" overflow="scroll">
+                                    <mml:msqrt>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mi>s</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="normal">NN</mml:mi>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:msqrt>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mn>5</mml:mn>
+                                    <mml:mspace width="0.25em"/>
+                                    <mml:mtext>TeV</mml:mtext>
+                                 </mml:math>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>JHEP</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1710</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:article-number>090</sb:article-number>
+                           <ce:doi>10.1007/JHEP10(2017)090</ce:doi>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1707.02750" id="inf0080" xlink:type="simple">arXiv:1707.02750 [hep-ex]</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0090">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="bib39s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Acharya</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                              <sb:collaboration>ALICE Collaboration</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>
+                                 <mml:math altimg="si6.gif" overflow="scroll">
+                                    <mml:msubsup>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">Λ</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>c</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mo>+</mml:mo>
+                                       </mml:mrow>
+                                    </mml:msubsup>
+                                 </mml:math> production in <ce:italic>pp</ce:italic> collisions at <mml:math altimg="si2.gif" overflow="scroll">
+                                    <mml:msqrt>
+                                       <mml:mrow>
+                                          <mml:mi>s</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msqrt>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mn>7</mml:mn>
+                                    <mml:mspace width="0.25em"/>
+                                    <mml:mtext>TeV</mml:mtext>
+                                 </mml:math> and in p-Pb collisions at <mml:math altimg="si8.gif" overflow="scroll">
+                                    <mml:msqrt>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mi>s</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="normal">NN</mml:mi>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:msqrt>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mn>5.02</mml:mn>
+                                    <mml:mspace width="0.25em"/>
+                                    <mml:mtext>TeV</mml:mtext>
+                                 </mml:math>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>JHEP</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1804</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:article-number>108</sb:article-number>
+                           <ce:doi>10.1007/JHEP04(2018)108</ce:doi>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1712.09581" id="inf0090" xlink:type="simple">arXiv:1712.09581 [nucl-ex]</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0100">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="bib3130s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Gladilin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Eur. Phys. J. C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>75</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>19</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1140/epjc/s10052-014-3250-3</ce:doi>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1404.3888" id="inf0100" xlink:type="simple">arXiv:1404.3888 [hep-ex]</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0110">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="bib3131s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.B.</ce:given-name>
+                                 <ce:surname>Abelev</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                              <sb:collaboration>ALICE Collaboration</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>
+                                 <mml:math altimg="si9.gif" overflow="scroll">
+                                    <mml:msubsup>
+                                       <mml:mrow>
+                                          <mml:mi>K</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>S</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mn>0</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msubsup>
+                                 </mml:math> and Λ production in Pb-Pb collisions at <mml:math altimg="si10.gif" overflow="scroll">
+                                    <mml:msqrt>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mi>s</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi>N</mml:mi>
+                                                <mml:mi>N</mml:mi>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:msqrt>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mn>2.76</mml:mn>
+                                    <mml:mspace width="0.25em"/>
+                                    <mml:mtext>TeV</mml:mtext>
+                                 </mml:math>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>111</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:article-number>222301</sb:article-number>
+                           <ce:doi>10.1103/PhysRevLett.111.222301</ce:doi>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1307.5530" id="inf0110" xlink:type="simple">arXiv:1307.5530 [nucl-ex]</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0120">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref id="boref0010">
+                        <ce:textref>R. Aaij, et al., LHCb Collaboration, Prompt <mml:math altimg="si6.gif" overflow="scroll">
+                              <mml:msubsup>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="normal">Λ</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi>c</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mo>+</mml:mo>
+                                 </mml:mrow>
+                              </mml:msubsup>
+                           </mml:math> production in <ce:italic>p</ce:italic>Pb collisions at <mml:math altimg="si11.gif" overflow="scroll">
+                              <mml:msqrt>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>s</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>N</mml:mi>
+                                          <mml:mi>N</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msqrt>
+                              <mml:mo>=</mml:mo>
+                              <mml:mn>5.02</mml:mn>
+                              <mml:mspace width="0.25em"/>
+                              <mml:mtext>TeV</mml:mtext>
+                           </mml:math>, LHCB-PAPER-2018-021-002.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0130">
+                     <ce:label>[13]</ce:label>
+                     <ce:other-ref id="boref0020">
+                        <ce:textref>LHCb Collaboration, Prompt <mml:math altimg="si6.gif" overflow="scroll">
+                              <mml:msubsup>
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="normal">Λ</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mi>c</mml:mi>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mo>+</mml:mo>
+                                 </mml:mrow>
+                              </mml:msubsup>
+                           </mml:math> production in <ce:italic>p</ce:italic>Pb collisions at <mml:math altimg="si11.gif" overflow="scroll">
+                              <mml:msqrt>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>s</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>N</mml:mi>
+                                          <mml:mi>N</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msqrt>
+                              <mml:mo>=</mml:mo>
+                              <mml:mn>5.02</mml:mn>
+                              <mml:mspace width="0.25em"/>
+                              <mml:mtext>TeV</mml:mtext>
+                           </mml:math>, LHCb-CONF-2017-005.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0140">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="bib3134s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Aaij</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                              <sb:collaboration>LHCb Collaboration</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Prompt and nonprompt <mml:math altimg="si12.gif" overflow="scroll">
+                                    <mml:mi mathvariant="normal">J</mml:mi>
+                                    <mml:mo stretchy="false">/</mml:mo>
+                                    <mml:mi>ψ</mml:mi>
+                                 </mml:math> production and nuclear modification in <ce:italic>p</ce:italic>Pb collisions at <mml:math altimg="si13.gif" overflow="scroll">
+                                    <mml:msqrt>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mi>s</mml:mi>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mi mathvariant="normal">NN</mml:mi>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:msqrt>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mn>8.16</mml:mn>
+                                    <mml:mspace width="0.25em"/>
+                                    <mml:mtext>TeV</mml:mtext>
+                                 </mml:math>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Lett. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>774</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>159</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.physletb.2017.09.058</ce:doi>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1706.07122" id="inf0120" xlink:type="simple">arXiv:1706.07122 [hep-ex]</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0150">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="bib3135s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Brodsky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Hoyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Peterson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Sakai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Intrinsic Charm of the Proton</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Lett. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>451</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/0370-2693(80)90364-0</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0160">
+                     <ce:label>[16]</ce:label>
+                     <ce:other-ref id="boref0030">
+                        <ce:textref>LHCb Collaboration, Measurement of antiproton production in <ce:italic>p</ce:italic>He collisions at <mml:math altimg="si14.gif" overflow="scroll">
+                              <mml:msqrt>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>s</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">NN</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msqrt>
+                              <mml:mo>=</mml:mo>
+                              <mml:mn>110</mml:mn>
+                              <mml:mspace width="0.25em"/>
+                              <mml:mtext>GeV</mml:mtext>
+                           </mml:math>, Preliminary: LHCb-CONF-2017-002.</ce:textref>
+                     </ce:other-ref>
+                     <sb:reference id="bib3136s2">
+                        <sb:comment>Final publication:</sb:comment>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Aaij</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                              <sb:collaboration>LHCb Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1808.06127" id="inf0130" xlink:type="simple">arXiv:1808.06127 [hep-ex]</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0170">
+                     <ce:label>[17]</ce:label>
+                     <ce:other-ref id="boref0040">
+                        <ce:textref>LHCb Collaboration, Measurement of <mml:math altimg="si12.gif" overflow="scroll">
+                              <mml:mi mathvariant="normal">J</mml:mi>
+                              <mml:mo stretchy="false">/</mml:mo>
+                              <mml:mi>ψ</mml:mi>
+                           </mml:math> and D<ce:sup loc="post">0</ce:sup> production in <ce:italic>p</ce:italic>Ar collisions at <mml:math altimg="si15.gif" overflow="scroll">
+                              <mml:msqrt>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>s</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>N</mml:mi>
+                                          <mml:mi>N</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msqrt>
+                              <mml:mo>=</mml:mo>
+                              <mml:mn>110</mml:mn>
+                              <mml:mspace width="0.25em"/>
+                              <mml:mtext>GeV</mml:mtext>
+                           </mml:math>, LHCb-CONF-2017-001.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0180">
+                     <ce:label>[18]</ce:label>
+                     <ce:other-ref id="boref0050">
+                        <ce:textref>R. Aaij, et al., LHCb Collaboration, First measurements of charm production in fixed-target configuration at the LHC, LHCb-PAPER-2018-023.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0190">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="bib3139s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>LHCb Collaboration</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Performance plots for pPb measurements</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/text/html" xlink:href="https://twiki.cern.ch/twiki/bin/view/LHCb/LHCbPlots2016" id="inf0140" xlink:type="simple">https://twiki.cern.ch/twiki/bin/view/LHCb/LHCbPlots2016</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0200">
+                     <ce:label>[20]</ce:label>
+                     <ce:other-ref id="boref0060">
+                        <ce:textref>R. Aaij, et al., LHCb Collaboration, Study of coherent <mml:math altimg="si12.gif" overflow="scroll">
+                              <mml:mi mathvariant="normal">J</mml:mi>
+                              <mml:mo stretchy="false">/</mml:mo>
+                              <mml:mi>ψ</mml:mi>
+                           </mml:math> production in lead-lead collisions at <mml:math altimg="si5.gif" overflow="scroll">
+                              <mml:msqrt>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi>s</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">NN</mml:mi>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msqrt>
+                              <mml:mo>=</mml:mo>
+                              <mml:mn>5</mml:mn>
+                              <mml:mspace width="0.25em"/>
+                              <mml:mtext>TeV</mml:mtext>
+                           </mml:math> with the LHCb experiment, LHCb-CONF-2018-003.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0210">
+                     <ce:label>[21]</ce:label>
+                     <ce:other-ref id="boref0070">
+                        <ce:textref>LHCb Collaboration, LHCb VELO Upgrade Technical Design Report, CERN-LHCC-2013-021, LHCB-TDR-013.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0220">
+                     <ce:label>[22]</ce:label>
+                     <ce:other-ref id="boref0080">
+                        <ce:textref>LHCb Collaboration, LHCb PID Upgrade Technical Design Report, CERN-LHCC-2013-022, LHCB-TDR-014.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0230">
+                     <ce:label>[23]</ce:label>
+                     <ce:other-ref id="boref0090">
+                        <ce:textref>LHCb Collaboration, LHCb Tracker Upgrade Technical Design Report, CERN-LHCC-2014-001, LHCB-TDR-015.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0240">
+                     <ce:label>[24]</ce:label>
+                     <ce:other-ref id="boref0100">
+                        <ce:textref>LHCb Collaboration, LHCb Trigger and Online Upgrade Technical Design Report, CERN-LHCC-2014-016, LHCB-TDR-016.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0250">
+                     <ce:label>[25]</ce:label>
+                     <ce:other-ref id="boref0110">
+                        <ce:textref>R. Aaij, et al., LHCb Collaboration, Expression of Interest for a Phase-II LHCb Upgrade: Opportunities in flavour physics, and beyond, in the HL-LHC era, CERN-LHCC-2017-003.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

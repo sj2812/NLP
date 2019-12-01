@@ -1,0 +1,1116 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2405601415005416</prism:url><dc:identifier>doi:10.1016/j.nuclphysbps.2015.09.052</dc:identifier><eid>1-s2.0-S2405601415005416</eid><prism:doi>10.1016/j.nuclphysbps.2015.09.052</prism:doi><pii>S2405-6014(15)00541-6</pii><dc:title>Recent Highlights from VERITAS </dc:title><prism:publicationName>Nuclear and Particle Physics Proceedings</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>24056014</prism:issn><prism:volume>273</prism:volume><prism:startingPage>367</prism:startingPage><prism:endingPage>372</prism:endingPage><prism:pageRange>367-372</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2016-06-30</prism:coverDate><prism:coverDisplayDate>April–June 2016</prism:coverDisplayDate><prism:copyright>© 2015 Elsevier B.V.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><prism:issueName>37th International Conference on High Energy Physics (ICHEP)</prism:issueName><dc:creator>Mukherjee, R.</dc:creator><dc:description>
+               Abstract
+               
+                  VERITAS is a ground-based gamma-ray observatory consisting of an array of four atmospheric Cherenkov telescopes located in southern Arizona, USA. VERITAS carries out an extensive observation program of the gamma-ray sky at energies above 0.1 TeV. Observations of Galactic and extragalactic sources in the TeV band are sensitive probes of the highly energetic processes occurring in these objects. Observations by VERITAS of the Galactic center and nearby dwarf spheroidal galaxies provide constraints on particle dark matter with masses above a few hundred GeV. VERITAS observations also provide constraints on fundamental physics and cosmology, such as probing the history of galaxy formation and studying Lorentz invariance violation (LIV). The majority of the sources detected by VERITAS are active galactic nuclei (AGN), with gamma-ray emission originating in their relativistic jets. TeV observations of AGN help us constrain models of particle acceleration and energy dissipation in relativistic jets, and the size and location of the gamma-ray emission region. Galactic sources at TeV energies include supernova remnants, pulsar wind nebulae, and binary systems, and TeV emission is a key diagnostic of the highly energetic particles in these objects. VERITAS observations provide important clues on the origin of cosmic rays and on particle acceleration in supernova blast shocks and relativistic pulsar wind-termination shocks. In this article I will present some highlights of particle-astrophysics measurements made with VERITAS.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><link href="https://api.elsevier.com/content/article/pii/S2405601415005416" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2405601415005416" rel="scidir"/></coredata><scopus-id>84973125295</scopus-id><scopus-eid>2-s2.0-84973125295</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84973125295" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>312309</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291829</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Nuclear and Particle Physics Proceedings</xocs:srctitle>
+      <xocs:normalized-srctitle>NUCLEARPARTICLEPHYSICSPROCEEDINGS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20160531">2016-05-31</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20160531">2016-05-31</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20160531">2016-05-31</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20160531">2016-05-31</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2017-01-27T08:33:10</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2405601415005416</xocs:eid>
+      <xocs:pii-formatted>S2405-6014(15)00541-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2405601415005416</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.nuclphysbps.2015.09.052</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2405601416X0003X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20170127">2017-01-27T04:18:47.185711-05:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160401</xocs:date-search-begin>
+      <xocs:date-search-end>20160630</xocs:date-search-end>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1464730463">2016-05-31T21:34:23.666173Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confabbr confdate confeditor confloc contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2405-6014</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>24056014</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>NONE</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>273</xocs:vol-first>
+      <xocs:vol-last>275</xocs:vol-last>
+      <xocs:volume-list>
+         <xocs:volume>273</xocs:volume>
+         <xocs:volume>274</xocs:volume>
+         <xocs:volume>275</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volumes 273–275</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>57</xocs:sort-order>
+      <xocs:first-fp>367</xocs:first-fp>
+      <xocs:last-lp>372</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>367</xocs:first-page>
+         <xocs:last-page>372</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201604</xocs:start-date>
+         <xocs:end-date>201606</xocs:end-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>April–June 2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-04-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2016-06-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>37th International Conference on High Energy Physics (ICHEP)</ce:title>
+            <xocs:conference-info>
+               <xocs:abbr-name>ICHEP 2014</xocs:abbr-name>
+               <xocs:venue>Valencia, Spain</xocs:venue>
+               <xocs:conference-date-text>2–9 July 2014</xocs:conference-date-text>
+               <xocs:date-range>
+                  <xocs:start-date>20140702</xocs:start-date>
+                  <xocs:end-date>20140709</xocs:end-date>
+               </xocs:date-range>
+            </xocs:conference-info>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author author-id="S2405601416X0003X-a1bfcc99b97820707221bd8dbc7835b9">
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>M.</ce:given-name>
+                     <ce:surname>Aguilar-Benítez</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S2405601416X0003X-7cbed0691dd9639c84efc0f4c9a0bd61">
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>J.</ce:given-name>
+                     <ce:surname>Fuster</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S2405601416X0003X-3e0a434137ffe8fcb2789706be62e27d">
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>S.</ce:given-name>
+                     <ce:surname>Martí-García</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S2405601416X0003X-d1d19d172d9b7935ffa86610d1d0f3e8">
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>A.</ce:given-name>
+                     <ce:surname>Santamaría</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Parallel sessions</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2015 Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>RECENTHIGHLIGHTSVERITAS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MUKHERJEE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>R</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="boref0010"/>
+         <xocs:ref-info refid="bib32s1">
+            <xocs:ref-normalized-surname>KIEDA</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib33s1">
+            <xocs:ref-normalized-surname>MCCANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>325</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib34s1">
+            <xocs:ref-normalized-surname>OTTE</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib35s1">
+            <xocs:ref-normalized-surname>ABEYSEKARA</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib36s1">
+            <xocs:ref-normalized-surname>SMITH</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib37s1">
+            <xocs:ref-normalized-surname>SPERGEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>377</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib38s1"/>
+         <xocs:ref-info refid="boref0020"/>
+         <xocs:ref-info refid="bib3130s1">
+            <xocs:ref-normalized-surname>ALIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-article-number>62001</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3131s1">
+            <xocs:ref-normalized-surname>ZITZER</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3132s1">
+            <xocs:ref-normalized-surname>GERINGERSAMETH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-article-number>241</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3133s1">
+            <xocs:ref-normalized-surname>ALIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>69</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3134s1">
+            <xocs:ref-normalized-surname>OTTE</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3135s1">
+            <xocs:ref-normalized-surname>OTTE</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3136s1">
+            <xocs:ref-normalized-surname>ZITZER</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3137s1">
+            <xocs:ref-normalized-surname>KOTERA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>119</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3138s1">
+            <xocs:ref-normalized-surname>AHARONIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1018</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3139s1">
+            <xocs:ref-normalized-surname>AHARONIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-article-number>L5</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3230s1">
+            <xocs:ref-normalized-surname>ARLEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>92</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3231s1">
+            <xocs:ref-normalized-surname>FURNISS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-article-number>L31</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3232s1">
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>69</xocs:ref-first-fp>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3233s1">
+            <xocs:ref-normalized-surname>ALIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>13</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3234s1">
+            <xocs:ref-normalized-surname>ALIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>92</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3235s1">
+            <xocs:ref-normalized-surname>ALIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>78</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3236s1">
+            <xocs:ref-normalized-surname>ALIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>166</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3237s1">
+            <xocs:ref-normalized-surname>ALIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>16</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3238s1">
+            <xocs:ref-normalized-surname>ALIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>168</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MUKHERJEEX2016X367</xocs:refkey3>
+         <xocs:refkey4lp>MUKHERJEEX2016X367X372</xocs:refkey4lp>
+         <xocs:refkey4ai>MUKHERJEEX2016X367XR</xocs:refkey4ai>
+         <xocs:refkey5>MUKHERJEEX2016X367X372XR</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2016-06-14T09:23:43Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2017-05-31T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2015 Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2405-6014(15)00541-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2405601415005416</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2405601415005416</xocs:eid>
+         <xocs:doi>10.1016/j.nuclphysbps.2015.09.052</xocs:doi>
+         <xocs:cid>312309</xocs:cid>
+         <xocs:timestamp>2017-01-27T04:18:47.185711-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2016-04-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2016-06-30</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>NONE</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2405601415005416-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2405601415005416/MAIN/application/pdf/2c1de21112cc61354618c2956723faad/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2405601415005416/MAIN/application/pdf/2c1de21112cc61354618c2956723faad/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1103421</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2405601415005416-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2405601415005416/PREVIEW/image/png/800a016a9346c7e666fb6a4a117e8826/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2405601415005416/PREVIEW/image/png/800a016a9346c7e666fb6a4a117e8826/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>73592</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Recent Highlights from VERITAS R. Mukherjee for the VERITAS Collaboration Department of Physics and Astronomy, Barnard College, Columbia University, New York, NY 10027 Abstract VERITAS is a ground-based gamma-ray observatory consisting of an array of four atmospheric Cherenkov tele- scopes located in southern Arizona, USA. VERITAS carries out an extensive observation program of the gamma-ray sky at energies above 0.1 TeV. Observations of Galactic and extragalactic sources in the TeV band are sensitive probes of the highly energetic processes occurring in these objects. Observations by VERITAS of the Galactic center and nearby dwarf spheroidal galaxies provide constraints on particle dark matter with masses above a few hundred GeV. VERITAS observations also provide constraints on fundamental physics and cosmology, such as probing the history of galaxy formation and studying Lorentz invariance violation (LIV). The majority of the sources detected by VERI- TAS are active galactic nuclei (AGN), with gamma-ray emission originating in their relativistic jets. TeV observations of AGN help us constrain models of particle acceleration and energy dissipation in relativistic jets, and the size and location of the gamma-ray emission region. Galactic sources at TeV energies include supernova remnants, pulsar wind nebulae, and binary systems, and TeV emission is a key diagnostic of the highly energetic particles in these objects. VERITAS observations provide important clues on the origin of cosmic rays and on particle acceleration in supernova blast shocks and relativistic pulsar wind-termination shocks. In this article I will present some highlights of particle-astrophysics measurements made with VERITAS. 1. Introduction: VERITAS VERITAS (Very Energetic Radiation Imaging Tele- scope Array System) is an imaging atmospheric Cherenkov telescope array consisting of four 12m- diameter telescopes of Davies-Cotton design, located at the base camp of the Fred Lawrence Whipple Obser- vatory (FLWO) in southern Arizona. VERITAS uses ground-based detection techniques to explore the Uni- verse in very-high-energy (VHE) gamma rays from 85 GeV to 30 TeV. Each VERITAS telescope has a cam- era at its focal plane comprising 499 photomultiplier tubes (PMTs) arranged in a hexagonal pattern and has a ï¬�eld of view of diameter 3.5â—¦. Cherenkov light gen- erated in gamma-ray or cosmic-ray showers in the at- mosphere is focused on the camera to form an image of the shower. Imaging atmospheric Cherenkov telescopes (IACTs) such as VERITAS utilize the Cherenkov light emitted from air showers to form an image on the cam- era plane that has information on the longitudinal and lateral development of the air shower. Cosmic rays also produce showers of charged particles and Cherenkov ra- diation but at a rate much higher than that of gamma-ray showers, and constitute the principal source of back- ground. Using the four VERITAS telescopes in com- bination helps in obtaining a stereoscopic image of the particle showers to reduce cosmic ray background. VERITAS has an angular resolution of &lt; 0.1â—¦ (68% containment) at 1 TeV and an energy resolution of 15% - 20%. Figure 1 is a photograph of the VERITAS ob- servatory, showing the array of four telescopes. Further details of the VERITAS telescopes are provided else- where [1]. VERITAS started four-telescope operations in 2007 and has since then undergone a series of upgrades and Available online at www.sciencedirect.com Nuclear and Particle Physics Proceedings 273â€“275 (2016) 367â€“372 2405-6014/Â© 2015 Elsevier B.V. www.elsevier.com/locate/nppp http://dx.doi.org/10.1016/j.nuclphysbps.2015.09.052 This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/). Figure 1: The four VERITAS telescopes located at the base camp of the Whipple Observatory in southern Arizona. This conï¬�guration of the array has been in use since 2009. improvements (see [2]). In 2009 one of the telescopes was relocated to provide a more symmetric array layout. This rearrangement together with a new alignment sys- tem which improved the instrument point spread func- tion [3] allowed for a 30% improvement in sensitivity. In the summer of 2012 the VERITAS cameras were re- placed with new photomultiplier tubes with peak quan- tum eï¬ƒciency of greater than 32% [4] that increased the photon detection eï¬ƒciency of each camera by approxi- mately 50%. VERITAS is able to detect a source with a Crab Nebula-like spectrum and a ï¬‚ux of 1% Crab Neb- ula strength in about 25 hours. VERITAS now typically collects more than 1100 hours of data per year (includ- ing 200 hours data taken in moderate moonlight). VER- ITAS is normally operated using the full four-telescope array. A multi-level trigger system is employed to elim- inate background noise at the array-level. A trigger re- quires simultaneous Cherenkov images in at least two telescopes, within a 50 ns time window, which then causes a readout of the 500 MSample/s Flash-ADC data acquisition system for each pixel. VERITAS observations target a rich variety of sci- ence at energies greater than 85 GeV, including funda- mental physics and cosmology, as well as Galactic and extragalactic astrophysics. The origin of the highest en- ergy cosmic rays remains a mystery and neutral mes- sengers such as gamma rays and neutrinos are perhaps the best probes for directly observing cosmic acceler- ators. Observations performed with VERITAS have led and will continue to lead to signiï¬�cant progress in our understanding of the accelerators of very high energy particles in the Universe. VERITAS observa- tions are complementary to observations with the Fermi Large Area Telescope (Fermi-LAT) and the Gamma- Ray Burst Monitor (GBM) at lower energies, and to the High AltitudeWater Cherenkov (HAWC) Experiment at higher energies. While IACTs have small ï¬�elds-of-view (FOVs), they have the advantage of large eï¬€ective ar- eas and the ability to achieve better source localization Figure 2: The diï¬€erential sensitivity of Fermi (green), VERI- TAS/HESS (cyan), and HAWC (solid blue) over four decades of en- ergy from 1 GeV to 100 TeV. Figure from Abeysekara (2013) [5]. compared to satellite experiments such as Fermi. Fig- ure 2 shows the diï¬€erential sensitivities of the diï¬€erent gamma-ray experiments currently in use and planned for the future [5]. The combined sensitivities from âˆ¼ 300 MeV to 100 TeV allows complementary studies to probe some particle physics processes in the Universe. In this article, we review some of the recent results from VERITAS. 2. Science with VERITAS The VERITAS science program is based on four themes of scientiï¬�c exploration: (a) particle physics and fundamental laws, (b) cosmology, (c) black holes and (d) galactic tevatrons and pevatrons. Summaries of the VERITAS science goals addressing fundamen- tal physics topics and details of the long-term program related to the indirect detection of dark matter were recently presented in two white papers [6, 8] that de- scribe the critical role that the VERITAS Observatory will play in the future of the U.S Cosmic Frontier pro- gram. Fundamental physics topics of interest include studies of antimatter, the search for primordial black holes, study of cosmology utilizing unique probes of the extragalactic background light (EBL) &amp; and the inter- galactic magnetic ï¬�eld (IGMF), &amp; Lorentz invariance violation (LIV). VERITAS also plays an important role in multi-messenger astrophysics and has the capability to complement the results being produced by ultra high energy cosmic ray (UHECR) instruments such as Auger and neutrino observatories such as IceCube. In the fol- lowing we present a brief (and incomplete) summary of a few selected results; we refer the reader to the compi- R. Mukherjee / Nuclear and Particle Physics Proceedings 273â€“275 (2016) 367â€“372368 lations of articles presented at the recent ICRC [9] for a more compete description of VERITAS results. 2.1. Dark Matter Studies Indirect dark matter searches constitutes a substan- tial fraction of the VERITAS observations. VERITAS dark matter searches are motivated by the compelling evidence for the presence of non-baryonic dark matter in various structures of the Universe. Weakly interact- ing massive particles (WIMPs) in the mass range of 50 GeV - 10 TeV are well motivated dark matter candidates in extensions of the Standard Model of particle physics (supersymmetry, Kaluza-Klein). The neutralino, the lightest SUSY particle, is the most commonly used can- didate and self-annihilates to produce gamma rays. VERITAS observes a variety of dark matter targets with the goal of selecting the best candidates depend- ing on the mass to light ratio, distance and astrophysical background levels. VERITAS dark matter targets in- clude (a) the Galactic Center, which although a nearby source and a strong dark matter candidate, has the need to characterize well the large astrophysical gamma-ray background. (b) Dwarf spheroidal galaxies (dSphs): These are gravitationally bound objects with large mass to light ratios, that are believed to contain up to O(1000) times more mass in dark matter than in visible matter, making them widely discussed as potential targets for indirect dark matter detection. Although these are at- tractive targets with no gamma-ray background, their dark matter distribution can be uncertain, which can pose a challenge. (c) Unidentiï¬�ed Fermi-LAT sources: These are Fermi-detected gamma-ray sources with no known counterparts at other wavelengths. It is likely that the Galactic ones are local and could potentially be candidates for dark matter targets, although their na- ture and distance are unknown. (d) Galaxy Clusters: These have the largest dark matter concentration in the Universe, but their distance is large, the sources are ex- tended and the gamma-ray signal weak. Here we dis- cuss a few of the results from observations of dSphs; for more detailed reviews on the VERITAS dark matter results, see [6, 11]. Figure 3 shows the VERITAS 95% conï¬�dence level limits on the dark matter velocity-weighted annihilation cross-section &lt;Ïƒv &gt; for ï¬�ve dSphs observed with VER- ITAS: Segue 1, Ursa Minor, Draco, Bootes and Will- man 1. The ï¬�gure represents 48 hours of data on Segue I and âˆ¼ 15âˆ’20 hrs on the other targets [6]. Figure 4 shows the 95% conï¬�dence level upper limits from the VERI- TAS observations of Segue 1 on the WIMP &lt; Ïƒv &gt; as a function of the WIMP mass, considering diï¬€erent ï¬�nal state particles. The grey band area represents a range of Figure 3: Results from VERITAS observations of dSphs on the velocity-weighted annihilation cross-section &lt; Ïƒv &gt; as a function of WIMP mass. The black asterisks represent points from MSSM mod- els that fall within Â±3 standard deviations of the relic density mea- sured in the three-year WMAP data set [7]. Figure from Smith et al. (2013) [6]. generic values for the annihilation cross-section in the case of thermally produced dark matter. Although the VERITAS 95% limits are âˆ¼ 2 orders of magnitude away from the canonical cross section, VERITAS results do constrain some models which predict large boosts, both astrophysical in nature from clumping of dark matter within the galaxy and from particle physics processes (i.e. Sommerfeld enhancements) [10]. With continued observations in the future, VERI- TASwill provide increased sensitivity to neutralino dark Figure 4: 95% CL exclusion curves from the VERITAS observations of Segue 1 on the velocity-weighted annihilation cross-section &lt; Ïƒv &gt; as a function of the dark matter particle mass, in the framework of models with a Sommerfeld enhancement. Figure from Aliu et al. (2012) [10]. R. Mukherjee / Nuclear and Particle Physics Proceedings 273â€“275 (2016) 367â€“372 369 Figure 5: Predicted constraints from VERITAS observations of dSphs on the velocity-weighted annihilation cross-section &lt; Ïƒv &gt; as a func- tion of WIMP mass from a stacking analysis for various pure annihi- lation channels. The black asterisks correspond to points fromMSSM models that fall within Â±3 standard deviations of the relic density mea- sured in the three-year WMAP data set [7]. Figure from Smith et al. (2013) [6]. matter. Figure 5 shows the projected VERITAS dark matter sensitivity limits from a stacked dSph analysis using data collected through the end of the 2013 observ- ing season and data expected through the 2018 observ- ing season. The power of a stacking analysis is that it al- lows for a single constraint to be derived from multiple observations. The stacking analysis technique and the predicted constraints from a fully completed VERITAS dark matter program are described elsewhere [6, 12]. 2.2. LIV Tests with Pulsars The detection of pulsed emission from the Crab pul- sar above 100 GeV by the VERITAS collaboration [13] provided the opportunity to probe physics at the Planck scale and constrain LIV eï¬€ects with a sensitivity that is competitive with some of the best available limits. Fig- ure 6 shows the pulse proï¬�le of the Crab pulsar above 120 GeV measured with VERITAS, together with the pulse proï¬�le measured by Fermi-LAT above 100 MeV. Using this data, Otte [14] derived a one-sided 95% con- ï¬�dence level upper limit on the time diï¬€erence between the peak positions at 100 MeV and 120 GeV and placed a limit of ELIV âˆ¼ 3 Ã— 1017 GeV on the energy scale of LIV. 2.3. Astrophysics Results VERITAS spends more than 1100 hours per year on source observations. Fig. 7 shows a skymap of Figure 6: VERITAS (&gt; 120 GeV) and Fermi-LAT (&gt; 100 MeV) pulse proï¬�le of the Crab pulsar at gamma-ray energies. VERITAS data taken between 2007 and 2011 was used to make this plot [13, 16]. the VERITAS detections to date. The VERITAS ex- tragalactic source list is dominated by active galactic nuclei (AGN) powered by supermassive black holes (SMBHs), with ultra-relativistic jets (outï¬‚ows of parti- cles) pointed close to our line of sight. Observations of blazars at TeV energies probe the innermost regions of these powerful particle accelerators, where the bulk of their luminosity is emitted. In addition to understanding the astrophysics of relativistic jets in AGN, TeV obser- vations of blazars will be key to understanding the ori- gin of the highest energy cosmic rays [17]. TeV obser- vations of blazars also provide constraints on fundamen- tal physics and cosmology, such as probing the history of galaxy formation, studying the density and spectrum of the EBL [18], and the strength of the IGMFs [19]. A few recent highlights from the VERITAS observations of blazars are as follows: (a) Detection of rapid vari- ability in BL Lacertae, when the source was detected at a ï¬‚ux of 125% that of the Crab Nebula ï¬‚ux and ex- hibited rapid variability that placed constraints on the size of the emission region [20]; (b) measuring E &gt; 0.1 TeV gamma rays from the blazar PKS 1424+240 out to a distance of at least 7.4 billion light-years (red shift &gt; 0.6035) and carrying out deep, broadband observa- tions of the source [21]; (c) discovery of the new TeV source VER J0521+211, triggered by the detection of a cluster of high-energy photons in the data from the Fermi gamma-ray satellite [22]; (d) deepest ever obser- vation of the relatively distant (z=0.14) VHE blazar 1ES 0229+200 and a three year multi-wavelength study of the source [23]; and (e) long term observations of the blazar B2 1215+30 [24]. Figure 8 shows the broadband spectrum of VER J0521+211 during the VERITAS detection in 2009 [22]. The spectral energy distribution is typical of that for gamma-ray blazars, exhibiting a low energy bump due R. Mukherjee / Nuclear and Particle Physics Proceedings 273â€“275 (2016) 367â€“372370 Figure 7: The VERITAS sky map of detected sources as of July 2014, in Galactic coordinates. The shaded area shows the region of visibility for VERITAS. to synchrtron emission from relativistic electrons in magnetic ï¬�elds, and a high energy bump which could arise due to leptonic (inverse Compton) or hadronic (pion decay or proton synchrotron) processes. The peak of the high-energy gamma-ray emission fromVER J0521+211 is between 10 and 200 GeV. A simple one- zone leptonic relativistic jet model explains the gamma- ray emission as due to synchrotron self-Compton ra- diation, assuming a particle dominated jet with a bulk Lorentz factor of 30, and requiring a relatively weak magnetic ï¬�eld of 0.01 G [22]. In Galactic physics, VERITAS observations covered the rich Cygnus region. Some recent highlights in- clude: (a) detection of strong TeV emission by VER-  / Hz) log ( 8 10 12 14 16 18 20 22 24 26 28 ) - 1   s - 2   / e rg  c m  F   lo g  ( -15 -14 -13 -12 -11 -10   0. 01 Â±   =  0 .1 6  r   VERITAS Oct 22-30 VERITAS Nov 27 LAT Oct 22-Jan 16 XRT Oct 27-30 XRT Nov 27 MDM Oct 27 Archival data log (E / eV) -6 -4 -2 0 2 4 6 8 10 12 14 -15 -14 -13 -12 -11 -10 Figure 8: Broadband spectral energy distribution of VER J0521+211 during the VERITAS detection in 2009. The orange markers corre- spond to the ï¬‚are data. The solid blue curve represents a one-zone synchrotron self-Compton emission model with parameters adjusted to describe the low-state data. For details on the broadband data and modeling results, see Archambault et al. (2013) [22]. Figure 9: VHE gamma-ray excess map of the MGRO J2019+37 re- gion as observed by VERITAS above 600 GeV. The color bar indicates the number of excess events within a search radius of 0â—¦.23. Figure from Aliu et al. (2014) [25]. ITAS from the MGRO J2019+37 region which helped to resolve the mysterious Milagro sources in Cygnus- X [25]. Figure 9 shows the VERITAS VHE excess map of the MGRO J2019+37 region as observed above 600 GeV. (b) Investigation of the TeV Morphology of MGRO J1908+06 with VERITAS [26]. The VERITAS results suggest a complex region with the TeV emission possibly arising due to interaction between the ener- getic particles emitted by a pulsar and either the SNR or molecular clouds. (c) VERITAS reported observations of the unidentiï¬�ed gamma-ray source TeV J2032+4130 and suggested that the TeV emission could be the re- sult of a pulsar wind associated with the recently discov- ered Fermi-LAT pulsar PSR J2032+4127 [27]. And, (d) VERITAS published results on the long-term observa- tions of the gamma-ray binary HESS J0632+057 [28]. 3. Summary The scientiï¬�c reach of VERITAS covers the study of both extragalactic and Galactic objects as well as the search for astrophysical dark matter. Some highlights from VERITAS were presented at this meeting. Dark matter studies continue to be a high priority for VER- ITAS. Ongoing observations of dark matter targets ac- count for a signiï¬�cant portion of the VERITAS observ- ing time. VERITAS is expected to continue to have a strong observing program. R. Mukherjee / Nuclear and Particle Physics Proceedings 273â€“275 (2016) 367â€“372 371 This research is supported by grants from the U.S. De- partment of Energy Oï¬ƒce of Science, the U.S. National Science Foundation and the Smithsonian Institution, by NSERC in Canada, by Science Foundation Ireland (SFI 10/RFP/AST2748) and by STFC in the U.K. We ac- knowledge the excellent work of the technical support staï¬€ at the Fred Lawrence Whipple Observatory and at the collaborating institutions in the construction and op- eration of the instrument. The VERITAS Collaboration is grateful to Trevor Weekes for his seminal contribu- tions and leadership in the ï¬�eld of VHE gamma-ray as- trophysics, which made this study possible. References [1] VERITAS: Status and Highlights, J. Holder et al., Proc. 32nd International Cosmic Ray Conference, Beijing, China (2011). [2] The Gamma Ray Detection sensitivity of the Upgraded VERI- TAS Observatory, Kieda, D., Proc. 33rd ICRC, Rio de Janeiro (2013); arXiv:1308.4849. [3] A newmirror alignment system for the VERITAS telescopes, Mc- Cann, A. et al., Astroparticle Physics, 32, 325 (2010). [4] The Upgrade of VERITAS with High Eï¬ƒciency Photomultipli- ers, Otte, A. N., Proc. 32nd ICRC, Beijing, China (2011); arXiv:1110.4702. [5] Sensitivity of the High Altitude Water Cherenkov Detector to Sources of Multi-TeV Gamma Rays, A. U. Abeysekara et al., arXiv: 1306.5800 (2013). [6] CF2 White Paper: Status and Prospects of The VERITAS Indi- rect Dark Matter Detection Program, A. W. Smith et al., arXiv: 1304.6367 (2013). [7] Three-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Implications for Cosmology, D. N. Spergel et al., ApJS 170, 377 (2007). [8] VERITAS contributions to CF6-A: Cosmic Rays, Gamma Rays and Neutrinos, The VERITAS Collaboration, submitted by J.Holder, arXiv: 1304.67.64 (2013). [9] VERITAS Contributions to the 33rd International Cosmic Ray Conference, Rio de Janeiro, Brazil, (July 2013), compiled un- der: arXiv:1308.6173v. [10] VERITAS Deep Observations of the Dwarf Spheroidal Galaxy Segue 1, E. Aliu et al., Phys. Rev. D., 85, 62001 (2012). [11] Dark Matter Annihilation Limits from Dwarf Galaxies using VERITAS,, B. Zitzer, Proc. 33rd International Cosmic Ray Con- ference, Rio de Janeiro, Brazil (2013); arXiv: 1307.8367. [12] Exclusion of canonical WIMPs by the joint analysis of Milky Way dwarfs with Fermi, A. Geringer-Sameth &amp; S. Koushiappas, Phys. Rev. Lett., 107, 241 (2011). [13] Detection of Pulsed Gamma Rays Above 100 GeV from the Crab Pulsar, E. Aliu et al., Science, 334, 69 (2011). [14] Prospects of performing Lorentz invariance tests with VHE emission from pulsars, A. N. Otte, Proc. 32nd International Cos- mic Ray Conference, Beijing, China (2011); arXiv: 1208:2033. [15] Tests of Lorentz Invariance Violation with Gamma Rays to probe Quantum Gravity, A. N. Otte, et al., White paper submitted to Snowmass 2013, CF6 Cosmic Particles and Fundamental Physics; arXiv: 1305.0624. [16] Lorentz Invariance Violation Limits from the Crab Pulsar us- ing VERITAS, B. Zitzer, Proceedings of the 33rd International Cosmic Ray Conference, Rio de Janeiro, Brazil (2013); arXiv: 1307.8382. [17] The Astrophysics of Ultrahigh-Energy Cosmic Rays, Kotera, K., &amp; Olinto, A. V., Annual Reviews of Astronomy &amp; Astrophysics 49, 119 (2011). [18] A Low Level of Extragalactic Background Light as Revealed by Î³-rays from Blazars, Aharonian, F., et al., Nature 440, 1018 (2006). [19] Very High Energy Gamma Rays from Active Galactic Nuclei: Cascading on the Cosmic Background Radiation Fields and the Formation of Pair Halos, Aharonian, F. A., Coppi, P. S., &amp; Voelk, H. J., The Astrophysical Journal 423, L5 (1994). [20] Rapid TeV Gamma-Ray Flaring of BL Lacertae, T. Arlen, et al., The Astrophysical Journal, 762, 92 (2013). [21] The Firm Redshift Lower Limit of the Most Distant TeV-Detected Blazar PKS 1424+240, A. Furniss et al., Astrophysical Journal Letters, 768, L31 (2013). [22] Discovery of a new TeV Gamma-ray Source: VER J0521+211, The Astrophysical Journal, 776, 69 (2013). [23] A Three Year Multi-Wavelength Study of the Very High Energy - ray Emission from the Blazar 1ES 0229+200, E. Aliu et al., The Astrophysical Journal, 782, 13 (2014). [24] Long term Observations of B2 1215+30 with VERITAS, E. Aliu et al., The Astrophysical Journal, 779, 92 (2013). [25] Spatially Resolving the Very High Energy Emission From MGRO J2019+37 with VERITAS, E. Aliu et al., The Astrophys- ical Journal, 788, 78 (2013). [26] Investigating the TeV Morphology of MGRO J1908+06 with VERITAS, E. Aliu et al., The Astrophysical Journal, 787, 166 (2013). [27] Observations of the unidentiï¬�ed gamma-ray source TeV J2032+4130 by VERITAS, E. Aliu et al., The Astrophysical Journal, 783, 16 (2014). [28] Long-term TeV and X-ray Observations of the Gamma-ray Bi- nary HESS J0632+057, E. Aliu et al., The Astrophysical Jour- nal, 780, 168 (2013). R. Mukherjee / Nuclear and Particle Physics Proceedings 273â€“275 (2016) 367â€“372372  the Upgraded VERI- TAS Observatory, Kieda, D., Proc. 33rd ICRC, Rio de Janeiro (2013); arXiv:1308.4849. [3] A newmirror alignment system for the VERITAS telescopes, Mc- Cann, A. et al., Astroparticle Physics, 32, 325 (2010). [4] The Upgrade of VERITAS with High Eï¬ƒciency Photomultipli- ers, Otte, A. N., Proc. 32nd ICRC, Beijing, China (2011); arXiv:1110.4702. [5] Sensitivity of the High Altitude Water Cherenkov Detector to Sources of Multi-TeV Gamma Rays, A. U. Abeysekara et al., arXiv: 1306.5800 (2013). [6] CF2 White Paper: Status and Prospects of The VERITAS Indi- rect Dark Matter Detection Program, A. W. Smith et al., arXiv: 1304.6367 (2013). [7] Three-Year Wilkinson Microwave An</xocs:rawtext>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.4">
+         <item-info>
+            <jid>NPPP</jid>
+            <aid>299</aid>
+            <ce:pii>S2405-6014(15)00541-6</ce:pii>
+            <ce:doi>10.1016/j.nuclphysbps.2015.09.052</ce:doi>
+            <ce:copyright year="2015" type="full-transfer">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <head>
+            <ce:title id="ti0010">Recent Highlights from VERITAS</ce:title>
+            <ce:author-group id="ag0010">
+               <ce:author id="au0010" author-id="S2405601415005416-13e4b6aa13f1e20996af2c23a15d41e1">
+                  <ce:given-name>R.</ce:given-name>
+                  <ce:surname>Mukherjee</ce:surname>
+               </ce:author>
+               <ce:text>for the</ce:text>
+               <ce:collaboration id="co0010">
+                  <ce:text>VERITAS Collaboration</ce:text>
+               </ce:collaboration>
+               <ce:affiliation id="aff0010">
+                  <ce:textfn>Department of Physics and Astronomy, Barnard College, Columbia University, New York, NY 10027</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Physics and Astronomy</sa:organization>
+                     <sa:organization>Barnard College</sa:organization>
+                     <sa:organization>Columbia University</sa:organization>
+                     <sa:city>New York</sa:city>
+                     <sa:state>NY</sa:state>
+                     <sa:postal-code>10027</sa:postal-code>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:abstract id="ab0010" view="all" class="author">
+               <ce:section-title id="st0010">Abstract</ce:section-title>
+               <ce:abstract-sec id="as0010" view="all">
+                  <ce:simple-para id="sp0010" view="all">VERITAS is a ground-based gamma-ray observatory consisting of an array of four atmospheric Cherenkov telescopes located in southern Arizona, USA. VERITAS carries out an extensive observation program of the gamma-ray sky at energies above 0.1 TeV. Observations of Galactic and extragalactic sources in the TeV band are sensitive probes of the highly energetic processes occurring in these objects. Observations by VERITAS of the Galactic center and nearby dwarf spheroidal galaxies provide constraints on particle dark matter with masses above a few hundred GeV. VERITAS observations also provide constraints on fundamental physics and cosmology, such as probing the history of galaxy formation and studying Lorentz invariance violation (LIV). The majority of the sources detected by VERITAS are active galactic nuclei (AGN), with gamma-ray emission originating in their relativistic jets. TeV observations of AGN help us constrain models of particle acceleration and energy dissipation in relativistic jets, and the size and location of the gamma-ray emission region. Galactic sources at TeV energies include supernova remnants, pulsar wind nebulae, and binary systems, and TeV emission is a key diagnostic of the highly energetic particles in these objects. VERITAS observations provide important clues on the origin of cosmic rays and on particle acceleration in supernova blast shocks and relativistic pulsar wind-termination shocks. In this article I will present some highlights of particle-astrophysics measurements made with VERITAS.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="bl0010" view="all">
+               <ce:section-title id="st0020">References</ce:section-title>
+               <ce:bibliography-sec id="bs0010" view="all">
+                  <ce:bib-reference id="br0010">
+                     <ce:label>[1]</ce:label>
+                     <ce:other-ref id="boref0010">
+                        <ce:textref>
+                           <ce:italic>VERITAS: Status and Highlights</ce:italic>, J. Holder et al., Proc. 32nd International Cosmic Ray Conference, Beijing, China (2011).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0020">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="bib32s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kieda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Gamma Ray Detection sensitivity of the Upgraded VERITAS Observatory</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Proc. 33rd ICRC, Rio de Janeiro (2013)</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1308.4849" id="inf0010" xlink:type="simple">arXiv:1308.4849</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0030">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="bib33s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>McCann</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A new mirror alignment system for the VERITAS telescopes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Astroparticle Physics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>325</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0040">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="bib34s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.N.</ce:given-name>
+                                 <ce:surname>Otte</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Upgrade of VERITAS with High Efficiency Photomultipliers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Proc. 32nd ICRC, Beijing, China (2011)</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1110.4702" id="inf0020" xlink:type="simple">arXiv:1110.4702</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0050">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="bib35s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.U.</ce:given-name>
+                                 <ce:surname>Abeysekara</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sensitivity of the High Altitude Water Cherenkov Detector to Sources of Multi-TeV Gamma Rays</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1306.5800" id="inf0030" xlink:type="simple">arXiv:1306.5800</ce:inter-ref>
+                              <sb:date>2013</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0060">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="bib36s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.W.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>CF2 White Paper: Status and Prospects of The VERITAS Indirect Dark Matter Detection Program</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1304.6367" id="inf0040" xlink:type="simple">arXiv:1304.6367</ce:inter-ref>
+                              <sb:date>2013</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0070">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="bib37s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.N.</ce:given-name>
+                                 <ce:surname>Spergel</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Three-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Implications for Cosmology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ApJS</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>170</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>377</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0080">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="bib38s1">
+                        <sb:comment>Submitted by J.Holder</sb:comment>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>The VERITAS Collaboration</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>VERITAS contributions to CF6-A: Cosmic Rays, Gamma Rays and Neutrinos</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1304.6764" id="inf0050" xlink:type="simple">arXiv:1304.6764</ce:inter-ref>
+                              <sb:date>2013</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0090">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref id="boref0020">
+                        <ce:textref>
+                           <ce:italic>VERITAS Contributions to the 33rd International Cosmic Ray Conference</ce:italic>, Rio de Janeiro, Brazil, (July 2013), compiled under: <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1308.6173" id="inf0060" xlink:type="simple">arXiv:1308.6173</ce:inter-ref>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0100">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="bib3130s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Aliu</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>VERITAS Deep Observations of the Dwarf Spheroidal Galaxy Segue 1</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. D</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:article-number>62001</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0110">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="bib3131s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Zitzer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dark Matter Annihilation Limits from Dwarf Galaxies using VERITAS</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Proc. 33rd International Cosmic Ray Conference, Rio de Janeiro, Brazil (2013)</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1307.8367" id="inf0070" xlink:type="simple">arXiv:1307.8367</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0120">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="bib3132s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Geringer-Sameth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Koushiappas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Exclusion of canonical WIMPs by the joint analysis of Milky Way dwarfs with Fermi</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>107</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:article-number>241</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0130">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="bib3133s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Aliu</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Detection of Pulsed Gamma Rays Above 100 GeV from the Crab Pulsar</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>334</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>69</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0140">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="bib3134s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.N.</ce:given-name>
+                                 <ce:surname>Otte</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Prospects of performing Lorentz invariance tests with VHE emission from pulsars</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Proc. 32nd International Cosmic Ray Conference, Beijing, China (2011)</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1208.2033" id="inf0080" xlink:type="simple">arXiv:1208.2033</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0150">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="bib3135s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.N.</ce:given-name>
+                                 <ce:surname>Otte</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tests of Lorentz Invariance Violation with Gamma Rays to probe Quantum Gravity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>White paper submitted to Snowmass 2013, CF6 Cosmic Particles and Fundamental Physics</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1305.0624" id="inf0090" xlink:type="simple">arXiv:1305.0624</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0160">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="bib3136s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Zitzer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lorentz Invariance Violation Limits from the Crab Pulsar using VERITAS</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Proceedings of the 33rd International Cosmic Ray Conference, Rio de Janeiro, Brazil (2013)</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1307.8382" id="inf0100" xlink:type="simple">arXiv:1307.8382</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0170">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="bib3137s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kotera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Olinto</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Astrophysics of Ultrahigh-Energy Cosmic Rays</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Annual Reviews of Astronomy &amp; Astrophysics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>119</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0180">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="bib3138s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Aharonian</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A Low Level of Extragalactic Background Light as Revealed by <ce:italic>γ</ce:italic>-rays from Blazars</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>440</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1018</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0190">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="bib3139s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.A.</ce:given-name>
+                                 <ce:surname>Aharonian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.S.</ce:given-name>
+                                 <ce:surname>Coppi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Voelk</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Very High Energy Gamma Rays from Active Galactic Nuclei: Cascading on the Cosmic Background Radiation Fields and the Formation of Pair Halos</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>The Astrophysical Journal</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>423</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:article-number>L5</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0200">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="bib3230s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Arlen</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Rapid TeV Gamma-Ray Flaring of BL Lacertae</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>The Astrophysical Journal</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>762</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>92</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0210">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="bib3231s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Furniss</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Firm Redshift Lower Limit of the Most Distant TeV-Detected Blazar PKS 1424+240</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Astrophysical Journal Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>768</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:article-number>L31</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0220">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="bib3232s1">
+                        <sb:contribution langtype="en">
+                           <sb:title>
+                              <sb:maintitle>Discovery of a new TeV Gamma-ray Source: VER J0521+211</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>The Astrophysical Journal</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>776</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>69</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0230">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="bib3233s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Aliu</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A Three Year Multi-Wavelength Study of the Very High Energy - ray Emission from the Blazar 1ES 0229+200</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>The Astrophysical Journal</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>782</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>13</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0240">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="bib3234s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Aliu</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Long term Observations of B2 1215+30 with VERITAS</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>The Astrophysical Journal</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>779</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>92</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0250">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="bib3235s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Aliu</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Spatially Resolving the Very High Energy Emission From MGRO J2019+37 with VERITAS</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>The Astrophysical Journal</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>788</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>78</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0260">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="bib3236s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Aliu</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Investigating the TeV Morphology of MGRO J1908+06 with VERITAS</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>The Astrophysical Journal</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>787</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>166</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0270">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="bib3237s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Aliu</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Observations of the unidentified gamma-ray source TeV J2032+4130 by VERITAS</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>The Astrophysical Journal</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>783</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>16</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0280">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="bib3238s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Aliu</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Long-term TeV and X-ray Observations of the Gamma-ray Binary HESS J0632+057</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>The Astrophysical Journal</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>780</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>168</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

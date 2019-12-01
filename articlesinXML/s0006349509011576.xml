@@ -1,0 +1,1432 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0006349509011576</prism:url><dc:identifier>doi:10.1016/j.bpj.2009.06.024</dc:identifier><eid>1-s2.0-S0006349509011576</eid><prism:doi>10.1016/j.bpj.2009.06.024</prism:doi><pii>S0006-3495(09)01157-6</pii><dc:title>Diffusion of Large Molecules into Assembling Nuclei Revealed Using an Optical Highlighting Technique </dc:title><prism:publicationName>Biophysical Journal</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>
+               Article
+            </pubType><prism:issn>00063495</prism:issn><prism:volume>97</prism:volume><prism:issueIdentifier>5</prism:issueIdentifier><prism:startingPage>1288</prism:startingPage><prism:endingPage>1294</prism:endingPage><prism:pageRange>1288-1294</prism:pageRange><prism:number>5</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2009-09-02</prism:coverDate><prism:coverDisplayDate>2 September 2009</prism:coverDisplayDate><prism:copyright>Copyright © 2009 Biophysical Society. Published by Elsevier Inc. All rights reserved.</prism:copyright><prism:publisher>Biophysical Society. Published by Elsevier Inc.</prism:publisher><dc:creator>Shimozono, Satoshi</dc:creator><dc:creator>Tsutsui, Hidekazu</dc:creator><dc:creator>Miyawaki, Atsushi</dc:creator><dc:description>
+               Abstract
+               
+                  The nuclear envelope (NE) defines the nuclear compartment, and nuclear pore complexes (NPCs) on the NE form aqueous passages through which small water-soluble molecules can passively diffuse. It is well known that proteins smaller than 50 kDa can diffuse though NPCs, whereas proteins larger than 60 kDa rarely enter by passive diffusion. Little, however, is known about how this size cutoff develops as the NE reassembles and the nucleus expands. In 1987, a well-known study identified an efficient mechanism by which large diffusing proteins (&gt;60 kDa) were excluded from the reassembling nucleus after mitosis. Since then, it has been generally accepted that after mitosis, newly formed nuclei completely exclude all proteins except those that are initially bound to the mitotic chromosomes and those that are selectively imported through NPCs. Here, the tetrameric complex of the photoconvertible fluorescent protein KikGR (∼103 kDa) was optically highlighted in the cytoplasm and followed to examine its entry into nuclei. Remarkably, highlighted complexes efficiently entered newly assembled nuclei during an ∼20-min period after the completion of cytokinesis. Because KikGR contains no known nuclear-localization or chromosome-binding sequences, our results indicate the diffusion barrier is less restrictive during nuclear reassembly.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>true</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierBranded</openaccessSponsorType><openaccessUserLicense>http://www.elsevier.com/open-access/userlicense/1.0/</openaccessUserLicense><link href="https://api.elsevier.com/content/article/pii/S0006349509011576" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0006349509011576" rel="scidir"/></coredata><objects><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3325" height="2259" size="555577">https://api.elsevier.com/content/object/eid/1-s2.0-S0006349509011576-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3320" height="1025" size="387281">https://api.elsevier.com/content/object/eid/1-s2.0-S0006349509011576-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3319" height="2503" size="889161">https://api.elsevier.com/content/object/eid/1-s2.0-S0006349509011576-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2070" height="2764" size="578454">https://api.elsevier.com/content/object/eid/1-s2.0-S0006349509011576-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1658" height="626" size="134715">https://api.elsevier.com/content/object/eid/1-s2.0-S0006349509011576-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="751" height="510" size="74876">https://api.elsevier.com/content/object/eid/1-s2.0-S0006349509011576-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="750" height="232" size="41315">https://api.elsevier.com/content/object/eid/1-s2.0-S0006349509011576-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="750" height="566" size="103482">https://api.elsevier.com/content/object/eid/1-s2.0-S0006349509011576-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="467" height="624" size="68979">https://api.elsevier.com/content/object/eid/1-s2.0-S0006349509011576-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="374" height="141" size="22187">https://api.elsevier.com/content/object/eid/1-s2.0-S0006349509011576-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="149" size="6707">https://api.elsevier.com/content/object/eid/1-s2.0-S0006349509011576-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="68" size="5313">https://api.elsevier.com/content/object/eid/1-s2.0-S0006349509011576-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="217" height="164" size="10398">https://api.elsevier.com/content/object/eid/1-s2.0-S0006349509011576-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="123" height="164" size="4792">https://api.elsevier.com/content/object/eid/1-s2.0-S0006349509011576-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="83" size="4488">https://api.elsevier.com/content/object/eid/1-s2.0-S0006349509011576-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="1184958">https://api.elsevier.com/content/object/eid/1-s2.0-S0006349509011576-mmc1.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>70349603917</scopus-id><scopus-eid>2-s2.0-70349603917</scopus-eid><pubmed-id>19720016</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/70349603917" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>277708</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291847</xocs:ssid>
+         <xocs:ssid type="subj">291849</xocs:ssid>
+         <xocs:ssid type="subj">291859</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">80</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Biophysical Journal</xocs:srctitle>
+      <xocs:normalized-srctitle>BIOPHYSICALJOURNAL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20090827">2009-08-27</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20090827">2009-08-27</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-09-30T17:32:42</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0006349509011576</xocs:eid>
+      <xocs:pii-formatted>S0006-3495(09)01157-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0006349509011576</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.bpj.2009.06.024</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0006349509X00184</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20151003">2015-10-03T09:32:06.28786-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20090902</xocs:date-search-begin>
+      <xocs:year-nav>2009</xocs:year-nav>
+      <xocs:indexeddate epoch="1251331200">2009-08-27T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure e-component body acknowledge affil appendices articletitle auth authfirstini authfull authlast doctopic misctext primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0006-3495</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00063495</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>97</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>97</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>5</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>5</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 97, Issue 5</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>7</xocs:sort-order>
+      <xocs:first-fp>1288</xocs:first-fp>
+      <xocs:last-lp>1294</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1288</xocs:first-page>
+         <xocs:last-page>1294</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20090902</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2 September 2009</xocs:cover-date-text>
+      <xocs:cover-date-start>2009-09-02</xocs:cover-date-start>
+      <xocs:cover-date-year>2009</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Cellular Biophysics and Electrophysiology</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2009 Biophysical Society. Published by Elsevier Inc. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>DIFFUSIONLARGEMOLECULESASSEMBLINGNUCLEIREVEALEDUSINGOPTICALHIGHLIGHTINGTECHNIQUE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SHIMOZONO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Materials and Methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Gene construction</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Determination of diffusion coefficients</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Imaging</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Nuclear entry of KikGR</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>4D imaging</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Stokes radius determination</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>KikGR as a large diffusing tracer</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>NE barrier to KikGR diffusion during midinterphase</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Increased permeability of the NE barrier to KikGR diffusion immediately after cytokinesis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>NE barrier to KikGR diffusion before cytokinesis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Diffusion of large molecules into expanding nuclei revealed using 4D imaging</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-section-title>Supporting Material</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>GERLICH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>852</xocs:ref-first-fp>
+            <xocs:ref-last-lp>855</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>ANDERSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>911</xocs:ref-first-fp>
+            <xocs:ref-last-lp>924</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>ALBERTS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MOLECULARBIOLOGYCELL</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>DULTZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>857</xocs:ref-first-fp>
+            <xocs:ref-last-lp>865</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>SWANSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>548</xocs:ref-first-fp>
+            <xocs:ref-last-lp>550</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>MORRIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>56</xocs:ref-first-fp>
+            <xocs:ref-last-lp>69</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-normalized-surname>KAZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>880</xocs:ref-first-fp>
+            <xocs:ref-last-lp>889</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8">
+            <xocs:ref-normalized-surname>LUDTKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>579</xocs:ref-first-fp>
+            <xocs:ref-last-lp>588</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>FELDHERR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>WEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1317</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1327</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>LUKYANOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>885</xocs:ref-first-fp>
+            <xocs:ref-last-lp>891</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-normalized-surname>YOKOE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1252</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1256</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-normalized-surname>TSUTSUI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>233</xocs:ref-first-fp>
+            <xocs:ref-last-lp>238</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>HABUCHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e3944</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15">
+            <xocs:ref-normalized-surname>ZACHARIAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>855</xocs:ref-first-fp>
+            <xocs:ref-last-lp>857</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib16">
+            <xocs:ref-normalized-surname>HARAGUCHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>779</xocs:ref-first-fp>
+            <xocs:ref-last-lp>794</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib17">
+            <xocs:ref-normalized-surname>YOKOYA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1119</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1131</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SHIMOZONOX2009X1288</xocs:refkey3>
+         <xocs:refkey4lp>SHIMOZONOX2009X1288X1294</xocs:refkey4lp>
+         <xocs:refkey4ai>SHIMOZONOX2009X1288XS</xocs:refkey4ai>
+         <xocs:refkey5>SHIMOZONOX2009X1288X1294XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="1">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2013-07-16T11:33:05Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierBranded</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://www.elsevier.com/open-access/userlicense/1.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/GEN_P1Y_ESBranded" wintype="OpenArchive">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0006-3495(09)01157-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0006349509011576</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0006349509011576</xocs:eid>
+         <xocs:doi>10.1016/j.bpj.2009.06.024</xocs:doi>
+         <xocs:cid>277708</xocs:cid>
+         <xocs:timestamp>2015-10-03T09:32:06.28786-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2009-09-02</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0006349509011576-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0006349509011576/MAIN/application/pdf/bd0cb949c389d2c7fab16509c6c676f9/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0006349509011576/MAIN/application/pdf/bd0cb949c389d2c7fab16509c6c676f9/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>851807</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0006349509011576-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0006349509011576/PREVIEW/image/png/3a67ea4afefc5d2eb5f194ad7c1be6fb/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0006349509011576/PREVIEW/image/png/3a67ea4afefc5d2eb5f194ad7c1be6fb/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>85389</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0006349509011576-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0006349509011576/gr5/HIGHRES/image/jpeg/a5bc796d83849de46585b35f53b53e3e/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0006349509011576/gr5/HIGHRES/image/jpeg/a5bc796d83849de46585b35f53b53e3e/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>555577</xocs:filesize>
+               <xocs:pixel-height>2259</xocs:pixel-height>
+               <xocs:pixel-width>3325</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0006349509011576-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0006349509011576/gr4/HIGHRES/image/jpeg/3f56292a5d09deb41d1bdb932a9b990d/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0006349509011576/gr4/HIGHRES/image/jpeg/3f56292a5d09deb41d1bdb932a9b990d/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>387281</xocs:filesize>
+               <xocs:pixel-height>1025</xocs:pixel-height>
+               <xocs:pixel-width>3320</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0006349509011576-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0006349509011576/gr3/HIGHRES/image/jpeg/26b5f77ba1ce2be37661f055137cb08a/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0006349509011576/gr3/HIGHRES/image/jpeg/26b5f77ba1ce2be37661f055137cb08a/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>889161</xocs:filesize>
+               <xocs:pixel-height>2503</xocs:pixel-height>
+               <xocs:pixel-width>3319</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0006349509011576-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0006349509011576/gr2/HIGHRES/image/jpeg/e06559bb48bd4e54a8685bf8dc19b57c/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0006349509011576/gr2/HIGHRES/image/jpeg/e06559bb48bd4e54a8685bf8dc19b57c/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>578454</xocs:filesize>
+               <xocs:pixel-height>2764</xocs:pixel-height>
+               <xocs:pixel-width>2070</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0006349509011576-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0006349509011576/gr1/HIGHRES/image/jpeg/04c437fdae45d28d5864c91422eec2c8/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0006349509011576/gr1/HIGHRES/image/jpeg/04c437fdae45d28d5864c91422eec2c8/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>134715</xocs:filesize>
+               <xocs:pixel-height>626</xocs:pixel-height>
+               <xocs:pixel-width>1658</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0006349509011576-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0006349509011576/gr5/DOWNSAMPLED/image/jpeg/255b79be0b1f037e6976dc23b8fcf0db/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0006349509011576/gr5/DOWNSAMPLED/image/jpeg/255b79be0b1f037e6976dc23b8fcf0db/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>74876</xocs:filesize>
+               <xocs:pixel-height>510</xocs:pixel-height>
+               <xocs:pixel-width>751</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0006349509011576-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0006349509011576/gr4/DOWNSAMPLED/image/jpeg/4cc385f921ac4c5aca8376a50d75d187/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0006349509011576/gr4/DOWNSAMPLED/image/jpeg/4cc385f921ac4c5aca8376a50d75d187/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>41315</xocs:filesize>
+               <xocs:pixel-height>232</xocs:pixel-height>
+               <xocs:pixel-width>750</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0006349509011576-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0006349509011576/gr3/DOWNSAMPLED/image/jpeg/6877b14dccb716590b1f46095abc42a2/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0006349509011576/gr3/DOWNSAMPLED/image/jpeg/6877b14dccb716590b1f46095abc42a2/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>103482</xocs:filesize>
+               <xocs:pixel-height>566</xocs:pixel-height>
+               <xocs:pixel-width>750</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0006349509011576-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0006349509011576/gr2/DOWNSAMPLED/image/jpeg/580f66b66fbc6f5f24cc57edaf4543a1/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0006349509011576/gr2/DOWNSAMPLED/image/jpeg/580f66b66fbc6f5f24cc57edaf4543a1/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>68979</xocs:filesize>
+               <xocs:pixel-height>624</xocs:pixel-height>
+               <xocs:pixel-width>467</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0006349509011576-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0006349509011576/gr1/DOWNSAMPLED/image/jpeg/0eacf7f6f0788bbed936138366e62d2a/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0006349509011576/gr1/DOWNSAMPLED/image/jpeg/0eacf7f6f0788bbed936138366e62d2a/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>22187</xocs:filesize>
+               <xocs:pixel-height>141</xocs:pixel-height>
+               <xocs:pixel-width>374</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0006349509011576-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0006349509011576/gr5/THUMBNAIL/image/gif/db741236667d3c4f29f3024c039826c6/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0006349509011576/gr5/THUMBNAIL/image/gif/db741236667d3c4f29f3024c039826c6/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6707</xocs:filesize>
+               <xocs:pixel-height>149</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0006349509011576-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0006349509011576/gr4/THUMBNAIL/image/gif/73923380ec55bc58644ec52d96b2cc0c/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0006349509011576/gr4/THUMBNAIL/image/gif/73923380ec55bc58644ec52d96b2cc0c/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5313</xocs:filesize>
+               <xocs:pixel-height>68</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0006349509011576-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0006349509011576/gr3/THUMBNAIL/image/gif/25c03e8d05b0a499da5b8b978e3fb90a/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0006349509011576/gr3/THUMBNAIL/image/gif/25c03e8d05b0a499da5b8b978e3fb90a/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10398</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>217</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0006349509011576-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0006349509011576/gr2/THUMBNAIL/image/gif/bd84d9d4219228e426f71a62fc5049a2/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0006349509011576/gr2/THUMBNAIL/image/gif/bd84d9d4219228e426f71a62fc5049a2/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4792</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>123</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0006349509011576-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0006349509011576/gr1/THUMBNAIL/image/gif/37d54cf482ca9250f1add9fde9080cd9/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0006349509011576/gr1/THUMBNAIL/image/gif/37d54cf482ca9250f1add9fde9080cd9/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4488</xocs:filesize>
+               <xocs:pixel-height>83</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0006349509011576-mmc1.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0006349509011576/mmc1/MAIN/application/pdf/1bc20c6779c58dd9ebd5c504b756a4fa/mmc1.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0006349509011576/mmc1/MAIN/application/pdf/1bc20c6779c58dd9ebd5c504b756a4fa/mmc1.pdf</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>1184958</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.1" xml:lang="en">
+         <item-info>
+            <jid>BPJ</jid>
+            <aid>898</aid>
+            <ce:pii>S0006-3495(09)01157-6</ce:pii>
+            <ce:doi>10.1016/j.bpj.2009.06.024</ce:doi>
+            <ce:copyright type="society" year="2009">Biophysical Society</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic>
+                  <ce:text>Cellular Biophysics and Electrophysiology</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Figure 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all" id="simple-para.0010">Schematic drawing showing the exclusion of large molecules from the expanding nucleus during and after mitosis. Large (&gt;∼60 kDa) and small (&lt;∼60 kDa) diffusing molecules are depicted by large and small dots, respectively. The NE is drawn as a cyan line. This scheme is based on the conventional model, which posits that the nucleus is completely sealed before it begins to expand.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Figure 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all" id="simple-para.0015">(<ce:italic>A</ce:italic>) Overall crystal structure of the KikG tetrameric complex (PDB ID: 1XSS) (<ce:cross-ref refid="bib13">13</ce:cross-ref>). KikGR shows the same overall structure as KikG (H. Tsutsui and A. Miyawaki, unpublished results). Oxygen and nitrogen atoms are depicted as red and blue balls, respectively. (<ce:italic>B</ce:italic>) Values of 4<ce:italic>Dt</ce:italic> (<ce:italic>D</ce:italic>, diffusion coefficient; <ce:italic>t</ce:italic>, time) as a function of time. Left row: Three representative intensity profiles (obtained at <ce:italic>t</ce:italic> = 0.008, 0.072, and 0.134 s) with fitted Gaussian distributions (<ce:italic>red lines</ce:italic>) are shown. Two other experiments were performed; the average diffusion coefficient (<ce:italic>D</ce:italic>) was determined to be 19.4 ± 3.6 <ce:italic>μ</ce:italic>m<ce:sup loc="post">2</ce:sup>/s (± SD; <ce:italic>n</ce:italic> = 3) in the cytoplasm and 19.9 ± 0.9 <ce:italic>μ</ce:italic>m<ce:sup loc="post">2</ce:sup>/s (± SD; <ce:italic>n</ce:italic> = 3) in the nucleus.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Figure 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all" id="simple-para.0020">Critical period during which the KikGR tetrameric complex can diffuse into the expanding nucleus is shown. (<ce:italic>A–C</ce:italic>) A series of confocal images showing the diffusion of the KikGR complexes from the cytoplasm into the nuclei. KikGR in the cytoplasm was photoconverted from green to red during midinterphase (<ce:italic>A</ce:italic>), 10 min after the completion of cytokinesis (<ce:italic>B</ce:italic>), or 20 min after the completion of cytokinesis (<ce:italic>C</ce:italic>). At <ce:italic>t</ce:italic> = 0, photoconversion was performed in a portion of the cytoplasm. The regions illuminated with the 405-nm laser line are shown in white boxes. Considering the dynamic changes in cellular morphology after cytokinesis (<ce:italic>B</ce:italic> and <ce:italic>C</ce:italic>), we cotransfected cDNAs encoding KikGR and LBR-ECFP into cells. LBR-ECFP delineated the NE, which helped us to choose the cytoplasmic region for 405-nm illumination (confocal images corresponding to <ce:italic>B</ce:italic> are shown in <ce:cross-ref refid="app2">Fig. S6</ce:cross-ref>). Scale bars: 10 <ce:italic>μ</ce:italic>m. (<ce:italic>D</ce:italic>) Time courses of the normalized entry of photoconverted KikGR into the nucleus. (<ce:italic>E</ce:italic>) Permeability of the NE to the photoconverted KikGR tetrameric complexes at various times after cytokinesis. The NE permeability indices are shown with standard errors. The values were 1.01 ± 0.19 (<ce:italic>n</ce:italic> = 3), 0.78 ± 0.21 (<ce:italic>n</ce:italic> = 4), 0.46 ± 0.05 (<ce:italic>n</ce:italic> = 4), 0.24 ± 0.02 (<ce:italic>n</ce:italic> = 3), 0.00 ± 0.19 (<ce:italic>n</ce:italic> = 3), and 0.05 ± 0.09 (<ce:italic>n</ce:italic> = 4) at 5, 10, 15, 20, 30, and 60 min postcytokinesis, respectively. Numbers in parentheses indicate the number of examined cells.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Figure 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all" id="simple-para.0025">Series of confocal images showing the assembly of the NE (LBR-ECFP) and the distribution of KikGR. The nuclei became delineated immediately before cytokinesis (<ce:italic>white arrows</ce:italic>). KikGR was excluded from the condensed chromosomes, which were detected as black shadows (<ce:italic>white arrowheads</ce:italic>).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Figure 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all" id="simple-para.0030">Distribution of large molecules with a molecular mass of 210 kDa after cytokinesis. (<ce:italic>A</ce:italic>) Schematic structure of KikGR (<ce:italic>left</ce:italic>, molecular mass= 103 kDa) and mECFP-KikGR (<ce:italic>right</ce:italic>, 210 kDa). (<ce:italic>B</ce:italic>) mECFP-KikGR fluorescence in the cytoplasm and nucleus visualized by volume rendering. The nucleus was segmented using the histone2B-mRFP-specific channel. Fluorescence intensity in the nuclei appeared to decrease (pseudocolor changes from <ce:italic>green</ce:italic> to <ce:italic>blue</ce:italic>). Bounding box (<ce:italic>x</ce:italic> ×<ce:italic>y</ce:italic> ×<ce:italic>z</ce:italic> = 48 × 48 × 24 <ce:italic>μ</ce:italic>m) is shown by dashed lines. (<ce:italic>C</ce:italic>) The volumes of the nuclei of the two daughter cells. The volumes of the nuclei continued to increase for 30 min after cytokinesis. (<ce:italic>D</ce:italic>) Amount of mECFP-KikGR in the nuclei of the two daughter cells. The level of green fluorescence is plotted.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:dochead>
+               <ce:textfn>Article</ce:textfn>
+            </ce:dochead>
+            <ce:title>Diffusion of Large Molecules into Assembling Nuclei Revealed Using an Optical Highlighting Technique</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Satoshi</ce:given-name>
+                  <ce:surname>Shimozono</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Hidekazu</ce:given-name>
+                  <ce:surname>Tsutsui</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Atsushi</ce:given-name>
+                  <ce:surname>Miyawaki</ce:surname>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  <ce:e-address type="email">matsushi@brain.riken.jp</ce:e-address>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Laboratory for Cell Function Dynamics, Advanced Technology Development Group, Brain Science Institute, Institute of Physical and Chemical Research, Saitama, Japan</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="14" month="12" year="2008"/>
+            <ce:date-accepted day="5" month="6" year="2009"/>
+            <ce:miscellaneous>Editor: Michael Edidin.</ce:miscellaneous>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0035">The nuclear envelope (NE) defines the nuclear compartment, and nuclear pore complexes (NPCs) on the NE form aqueous passages through which small water-soluble molecules can passively diffuse. It is well known that proteins smaller than 50 kDa can diffuse though NPCs, whereas proteins larger than 60 kDa rarely enter by passive diffusion. Little, however, is known about how this size cutoff develops as the NE reassembles and the nucleus expands. In 1987, a well-known study identified an efficient mechanism by which large diffusing proteins (&gt;60 kDa) were excluded from the reassembling nucleus after mitosis. Since then, it has been generally accepted that after mitosis, newly formed nuclei completely exclude all proteins except those that are initially bound to the mitotic chromosomes and those that are selectively imported through NPCs. Here, the tetrameric complex of the photoconvertible fluorescent protein KikGR (∼103 kDa) was optically highlighted in the cytoplasm and followed to examine its entry into nuclei. Remarkably, highlighted complexes efficiently entered newly assembled nuclei during an ∼20-min period after the completion of cytokinesis. Because KikGR contains no known nuclear-localization or chromosome-binding sequences, our results indicate the diffusion barrier is less restrictive during nuclear reassembly.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" view="all">
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all" id="para.0010">Passive diffusion through nuclear pore complexes (NPCs) that perforate the nuclear envelope (NE) depends on the size of the diffusing molecule. Small water-soluble molecules can diffuse into the nucleus, whereas larger molecules (&gt;∼60 kDa) cannot. In late anaphase and telophase, the NE reassembles on the surfaces of the chromosomes; endoplasmic reticulum membranes wrap around groups of chromosomes and continue fusing until a sealed NE has formed (<ce:cross-refs refid="bib1 bib2 bib3">1–3</ce:cross-refs>). During this process, NPCs also assemble and begin to actively import proteins that contain nuclear localization signals (NLSs) (<ce:cross-ref refid="bib4">4</ce:cross-ref>).</ce:para>
+                  <ce:para view="all" id="para.0015">In 1987, a well-known study by Swanson and McNeil (<ce:cross-ref refid="bib5">5</ce:cross-ref>) identified a rapid and efficient mechanism by which large diffusing proteins were excluded from the reassembling nucleus after mitosis. After introducing large fluorescently labeled dextran molecules (molecular mass = 70 kDa) into the cytoplasm of fibroblast cells, the authors observed that dextran was excluded from the nuclei of cells that had undergone mitosis. Since the publication of that study, it has been generally accepted that after mitosis, newly formed nuclei completely exclude all proteins except those that are initially bound to the mitotic chromosomes and those that are selectively imported through NPCs (<ce:float-anchor refid="fig1"/>
+                     <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>). In accordance with this view, studies have examined the effects of cell division on the nuclear localization of such large diffusing molecules as the kinesin-II subunit KAP (<ce:cross-ref refid="bib6">6</ce:cross-ref>), the retroviral preintegration complex (PIC) (<ce:cross-ref refid="bib7">7</ce:cross-ref>), and microinjected DNA molecules (<ce:cross-ref refid="bib8">8</ce:cross-ref>). However, because Swanson and McNeil (<ce:cross-ref refid="bib5">5</ce:cross-ref>) did not examine how quickly NE sealing was completed after cytokinesis, and introduced the large fluorescently labeled dextrans into the cells by scratching a monolayer of fibroblasts, the temporal profile of the redistribution of the molecules from the cytoplasm was not detailed in their study.</ce:para>
+                  <ce:para view="all" id="para.0020">Another study suggested that NPCs were more permeable during and just after NE reformation. Feldherr and Akin (<ce:cross-ref refid="bib9">9</ce:cross-ref>) microinjected colloidal gold particles stabilized with bovine serum albumin into the cytoplasm of HeLa cells at various times during the M phase of the cell cycle, and determined the subsequent intracellular distribution of the particles using electron microscopy. Because the particles were not uniform in size (20–120 Å), and the colloidal tracers may have bound to chromatin (<ce:cross-ref refid="bib10">10</ce:cross-ref>), however, it was not possible to attribute the observations to the passive diffusion of large molecules and the equilibration of the introduced molecules across the NE.</ce:para>
+                  <ce:para view="all" id="para.0025">In study presented here, we used an optical highlighting technique (<ce:cross-ref refid="bib11">11</ce:cross-ref>) to investigate the development of the diffusion barrier composed of the NE and NPCs around newly assembled nuclei. Compared with scratching- and microinjection-based methods, the use of photoconvertible fluorescent proteins provides a more precise and less damaging way to examine the diffusion of large molecules across the NE. Using this technique, we observed that a large molecule (molecular mass = 210 kDa) diffused across the NE immediately after cytokinesis, demonstrating that the NE is less restrictive during the first 30 min after cytokinesis.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" role="materials-methods" view="all">
+                  <ce:section-title>Materials and Methods</ce:section-title>
+                  <ce:section id="sec2.1" view="all">
+                     <ce:section-title>Gene construction</ce:section-title>
+                     <ce:para view="all" id="para.0030">Lamin B receptor (LBR)-ECFP/pcDNA3 was constructed to fuse ECFP (Clontech, Mountain View, CA) to the C-terminal end of full-length human LBR. A DNA fragment encoding KikGR with a termination codon was subcloned into the <ce:italic>Not</ce:italic>I site of pEF6 myc-His B (Invitrogen, Carlsbad, CA). NLS-GST-Venus was constructed by subcloning a DNA fragment encoding Venus into pGEX-2T (GE Healthcare Bio-Sciences, Piscataway, NJ) and then inserting the GST-Venus fragment into the modified pcDNA3 (Invitrogen) containing the sequence for the SV40 T-antigen NLS.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.2" view="all">
+                     <ce:section-title>Determination of diffusion coefficients</ce:section-title>
+                     <ce:para view="all" id="para.0035">Diffusion coefficients for KikGR in the cytoplasm and nucleus were determined as described previously (<ce:cross-ref refid="bib12">12</ce:cross-ref>). HeLa cells expressing KikGR were visualized using a confocal microscope (FV1000; Olympus, Tokyo, Japan) equipped with a 60× objective lens (Plan Apo, N.A. = 1.40) and two scanning units. The system independently operates a laser diode (405 nm) and a green He/Ne laser (543 nm), enabling photoconversion (5 ms at a point) and fluorescence observation (1.41 ms along a line) to be executed simultaneously. The intensity profile was fitted by the function <ce:italic>F</ce:italic>(<ce:italic>x</ce:italic>) =<ce:italic>C</ce:italic> × exp(−(<ce:italic>x</ce:italic>−<ce:italic>x</ce:italic>0)<ce:sup loc="post">2</ce:sup>/4<ce:italic>Dt</ce:italic>), where <ce:italic>F</ce:italic>, <ce:italic>x</ce:italic>, <ce:italic>C</ce:italic>, <ce:italic>D</ce:italic>, and <ce:italic>t</ce:italic> are the fluorescence intensity, distance, amplitude, diffusion coefficient, and time, respectively.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.3" view="all">
+                     <ce:section-title>Imaging</ce:section-title>
+                     <ce:para view="all" id="para.0040">HeLa cells were grown in Dulbecco's modified Eagle's medium (DMEM) supplemented with 10% fetal bovine serum in 5% CO<ce:inf loc="post">2</ce:inf> at 37°C. They were plated onto 35-mm glass-bottomed dishes 1 day before transfection. cDNAs were transfected into cells using Lipofectamine-Plus reagent (Invitrogen) following the manufacturer's protocol. For confocal imaging, cells were examined 2 days after transfection using the inverted microscope (IX-81; Olympus) in DMEM without phenol red, and supplemented with 10% fetal bovine serum and 15 mM HEPES (pH 7.4). The medium was kept at 37°C during the experiment using an incubator (MI-IBC; Olympus). Images were acquired with a laser-scanning confocal microscope (FV1000; Olympus) equipped with a PlanApo 60×/1.40 oil immersion objective lens (Olympus). LBR-ECFP was excited with an Ar (458 nm) laser, whereas green KikGR and red KikGR were excited using an Ar (488 nm) and He/Ne (543 nm) laser, respectively. Completion of cytokinesis was observed by 1-min interval four-dimensional (4D) imaging of green KikGR. At various times after cytokinesis, the cytoplasm was irradiated by the 405 nm laser for 15 s. Diffusion of photoconverted KikGR into nucleus was monitored at 20- or 30-s intervals.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.4" view="all">
+                     <ce:section-title>Nuclear entry of KikGR</ce:section-title>
+                     <ce:para view="all" id="para.0045">Fluorescence intensities in the nucleus and cytoplasm were analyzed using ImageJ (<ce:inter-ref xlink:href="http://rsb.info.nih.gov/ij/" xlink:type="simple">http://rsb.info.nih.gov/ij/</ce:inter-ref>). A Kalman filter was applied using a plugin (developed by Christopher Philip Mauer). Quantification was based on the original data.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.5" view="all">
+                     <ce:section-title>4D imaging</ce:section-title>
+                     <ce:para view="all" id="para.0050">Plasmids encoding mECFP-KikGR or histone 2B-mRFP were cotransfected into HeLa cells. Cells in anaphase or telophase were used for imaging. mECFP-KikGR and histone 2B-mRFP were excited at 488 nm (Ar) and 543 nm (He/Ne), respectively. A 3D image was generated by acquiring confocal images at different <ce:italic>z</ce:italic> positions (1.5 <ce:italic>μ</ce:italic>m steps). Time-lapse imaging was performed at 1-min intervals. The image for histone 2B-mRFP was median-filtered (5 × 5) and a binary image (mask) was constructed. Then, the mask was applied to the corresponding green fluorescence image. Total fluorescence intensities within foreground regions were counted. Volume rendering was performed using V-Isio (VCAD System Research Program, RIKEN). The 4D data analysis was conducted using MATLAB (The MathWorks, Natick, MA).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.6" view="all">
+                     <ce:section-title>Stokes radius determination</ce:section-title>
+                     <ce:para view="all" id="para.0055">Stokes radii were calculated from diffusion coefficients using the Stokes-Einstein relation. The diffusion coefficients were obtained by fluorescence correlation spectroscopy (FCS) measurements with LSM510 META ConfoCor3 (Carl Zeiss MicroImaging, Jena, Germany) equipped with a C-APOCHROMAT 40×/1.2 water immersion objective lens. Rhodamine-6G was used as a standard molecule (diffusion coefficient at 20°C = 280 <ce:italic>μ</ce:italic>m<ce:sup loc="post">2</ce:sup>/s). Fitting of the autocorrelation function was performed using the ConfoCor3 software.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec3" view="all">
+                  <ce:section-title>Results</ce:section-title>
+                  <ce:section id="sec3.1" view="all">
+                     <ce:section-title>KikGR as a large diffusing tracer</ce:section-title>
+                     <ce:para view="all" id="para.0060">We previously isolated the green-emitting fluorescent protein KikG from the stony coral <ce:italic>Favia favus</ce:italic> and determined the crystal structure at 1.6 Å resolution. Its well-packed tetramer structure is shown in <ce:float-anchor refid="fig2"/>
+                        <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                        <ce:italic>A</ce:italic>. Its dimensions are ∼8 × 8 × 6 nm. Then, we engineered KikG to be photoconvertible using a semirational mutagenesis approach. The resulting mutant, KikGR, can be photoconverted from a green- to red-emitting species using ultraviolet or violet light (<ce:cross-ref refid="bib13">13</ce:cross-ref>). Crystallographic analysis revealed that KikGR has the same overall tetrameric structure as KikG (H. Tsutsui and A. Miyawaki, unpublished data). In fact, our in vitro FCS measurements revealed that the Stokes radius of KikGR was 4.0 ± 0.2 nm (± SD, <ce:italic>n</ce:italic> = 6), which almost matches the dimensions of the KikG tetramer (∼8 × 8 × 6 nm). Thus, the KikGR tetramer complex (molecular mass = 103 kDa) can serve as a tracer for the diffusion of large molecules (&gt;∼60 kDa) across the NE.</ce:para>
+                     <ce:para view="all" id="para.0065">We then determined the diffusion coefficient of the KikGR complex inside the cytoplasm (19.5 ± 3.6 <ce:italic>μ</ce:italic>m<ce:sup loc="post">2</ce:sup>/s; ± SD, <ce:italic>n</ce:italic> = 3), which demonstrated that the tracer was fairly diffusible. A similar diffusion constant (19.9 ± 0.9 <ce:italic>μ</ce:italic>m<ce:sup loc="post">2</ce:sup>/s; ± SD, <ce:italic>n</ce:italic> = 3) was obtained in the nucleus, which confirmed that KikGR did not bind to the chromosomes (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                        <ce:italic>B</ce:italic>).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.2" view="all">
+                     <ce:section-title>NE barrier to KikGR diffusion during midinterphase</ce:section-title>
+                     <ce:para view="all" id="para.0070">Dual-color time-lapse imaging and photoconversion were performed using a confocal microscope system equipped with 488-nm (argon), 543-nm (He/Ne), and 405-nm (DPSS) laser lines. In most of the HeLa cells transfected with cDNA encoding KikGR, the green fluorescence was homogenously distributed in both the cytoplasm and nucleus. After KikGR was photoconverted in a portion of the cytoplasm during midinterphase, a substantial gradient of red fluorescence was apparent across the NE during a 20-min observation period (<ce:float-anchor refid="fig3"/>
+                        <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+                        <ce:italic>A</ce:italic>) and for several hours thereafter (see <ce:cross-ref refid="app2">Fig. S1</ce:cross-ref> in the <ce:cross-ref refid="app2">Supporting Material</ce:cross-ref>), confirming a tight barrier to the diffusion of the KikGR complex. A monomeric variant of KikGR (mKikGR) was developed in a recent study (<ce:cross-ref refid="bib14">14</ce:cross-ref>). mKikGR exhibited a Stokes radius of 1.8 ± 0.1 nm (± SD, <ce:italic>n</ce:italic> = 3), which is a reasonable value when one considers the cylindrical structure of the <ce:italic>β</ce:italic>-barrel with a diameter of 2.4 nm and height of 4.2 nm. mKikGR efficiently diffused across the NE in midinterphase (<ce:cross-ref refid="app2">Fig. S2</ce:cross-ref>).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.3" view="all">
+                     <ce:section-title>Increased permeability of the NE barrier to KikGR diffusion immediately after cytokinesis</ce:section-title>
+                     <ce:para view="all" id="para.0075">We identified transfected HeLa cells that were in anaphase or telophase. We then photoconverted KikGR at various time points as the cells progressed through the cell cycle. Because the nuclear outline was more apparent after cytokinesis, cytoplasmic photoconversion was primarily performed with fresh daughter cells. In the experiment shown in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+                        <ce:italic>B</ce:italic>, areas in the cytoplasm of both daughter HeLa cells were irradiated with the 405-nm laser 10 min after they separated. Of interest, the highlighted KikGR efficiently diffused into the nucleus of each cell, which is inconsistent with the conventional view that the NE barrier is completed during cytokinesis (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>). On the other hand, when photoconversion was performed 20 min after cell separation, entry of the complex into the nucleus was less efficient (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+                        <ce:italic>C</ce:italic>).</ce:para>
+                     <ce:para view="all" id="para.0080">To statistically analyze the nuclear entry of KikGR, we first quantified the gradient of red fluorescence across the NE. Normalized nuclear entry (<ce:italic>F</ce:italic>
+                        <ce:inf loc="post">nne</ce:inf>(<ce:italic>t</ce:italic>)) was defined as 1 − [<ce:italic>F</ce:italic>
+                        <ce:inf loc="post">nuc</ce:inf>(<ce:italic>t</ce:italic>) −<ce:italic>F</ce:italic>
+                        <ce:inf loc="post">cyt</ce:inf>(<ce:italic>t</ce:italic>)]/[<ce:italic>F</ce:italic>
+                        <ce:inf loc="post">nuc</ce:inf>(0) −<ce:italic>F</ce:italic>
+                        <ce:inf loc="post">cyt</ce:inf>(0)], where <ce:italic>F</ce:italic>
+                        <ce:inf loc="post">nuc</ce:inf>(<ce:italic>t</ce:italic>) and <ce:italic>F</ce:italic>
+                        <ce:inf loc="post">cyt</ce:inf>(<ce:italic>t</ce:italic>) are the average intensities of red fluorescence at time <ce:italic>t</ce:italic> (min) postphotoconversion in the nucleus and cytoplasm, respectively (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+                        <ce:italic>D</ce:italic>). For this analysis, the value of <ce:italic>F</ce:italic>
+                        <ce:inf loc="post">nne</ce:inf> (5) was used to reflect the NE permeability. This parameter was determined for numerous cells and plotted against the time of the photoconversion relative to cytokinesis (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+                        <ce:italic>E</ce:italic>). The KikGR complex efficiently entered the nucleus immediately after the completion of cytokinesis, after which the rate of nuclear entry decreased to the basal level within 30 min.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.4" view="all">
+                     <ce:section-title>NE barrier to KikGR diffusion before cytokinesis</ce:section-title>
+                     <ce:para view="all" id="para.0085">Nuclear entry of the KikGR complex was also observed during telophase. At this stage, however, the entry of the complexes was less evident, probably because the chromosomes were condensed (passive diffusion of molecules into the nucleus requires nuclear expansion). Moreover, because the relative geometries of the nucleus and cytoplasm are complex in bottle gourd-shaped cells, we did not quantify the NE permeability during telophase. Alternatively, we cotransfected cDNAs encoding KikGR and LBR-ECFP into HeLa cells to follow the nuclear assembly and the exclusion of the KikGR complex from the newly formed compartments (<ce:float-anchor refid="fig4"/>
+                        <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>). Delineation of the nuclei became evident immediately before cytokinesis (<ce:italic>t</ce:italic> = 12 min; <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>, <ce:italic>arrows</ce:italic>). At this stage, the condensed chromosomes appeared to exclude the KikGR complex (<ce:italic>t</ce:italic> = 12; <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>, <ce:italic>arrowheads</ce:italic>). Then, this distinction gradually became less clear as the nucleus expanded during the M/G<ce:inf loc="post">1</ce:inf> transition (<ce:italic>t</ce:italic> = 12−28 min).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.5" view="all">
+                     <ce:section-title>Diffusion of large molecules into expanding nuclei revealed using 4D imaging</ce:section-title>
+                     <ce:para view="all" id="para.0090">The experiments using the KikGR complex with a molecular mass of 103 kDa identified a short period (&lt;∼20 min) in the early G<ce:inf loc="post">1</ce:inf> phase during which the NE barrier is more permeable than was previously thought. We then determined whether this observation was dependent on the molecular mass of the diffusing molecules. We fused a cyan-emitting variant of <ce:italic>Aequorea</ce:italic> GFP (mECFP) to the N-terminus of KikGR. Because mECFP bears a mutation that promotes monomerization of the protein (A206K) (<ce:cross-ref refid="bib15">15</ce:cross-ref>), mECFP-KikGR forms a soluble tetrameric complex (<ce:float-anchor refid="fig5"/>
+                        <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+                        <ce:italic>A</ce:italic>, <ce:italic>right</ce:italic>; the schematic structure of KikGR is shown in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+                        <ce:italic>B</ce:italic>, <ce:italic>left</ce:italic>). The complex is predicted to have a molecular mass of 210 kDa, almost double that of the KikGR complex. To estimate the dimension of mECFP-KikGR, we calculated its Stokes radius from the diffusion coefficient in solution, which we measured by FCS. Using the Stokes-Einstein relation, we calculated the radius to be 5.2 ± 0.5 nm (± SD, <ce:italic>n</ce:italic> = 6). On the other hand, the Stokes radius of KikGR was calculated to be 4.0 ± 0.2 nm (± SD, <ce:italic>n</ce:italic> = 6), which was consistent with the dimension (∼8 × 8 × 6 nm) revealed by crystallography (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                        <ce:italic>A</ce:italic>). When the mECFP-KikGR complex was highlighted in the cytoplasm of transfected HeLa cells either during midinterphase (<ce:cross-ref refid="app2">Fig. S3</ce:cross-ref>) or 10 min after cytokinesis (<ce:cross-ref refid="app2">Fig. S4</ce:cross-ref>), its nuclear entry was not observed. Therefore, the period during which the mECFP-KikGR complex was able to permeate the NE was shorter than that observed for the KikGR complex.</ce:para>
+                     <ce:para view="all" id="para.0095">Because it is difficult to control the point at which photoconversion is performed relative to cytokinesis on a timescale of &lt;10 min, we directly monitored diffusion of the mECFP-KikGR complex into the expanding nuclei using 4D imaging (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+                        <ce:italic>B</ce:italic>). Plasmids encoding histone 2B fused to mRFP or mECFP-KikGR were cotransfected to generate a 3D reconstruction of the nuclei of two daughter cells. The expansion of the volume of the chromosomes (the mRFP signals) was monitored over a time course of 60 min (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+                        <ce:italic>C</ce:italic>). In addition, we measured the intensity of green fluorescence in regions containing the chromosomes so that we could quantitatively examine changes in the total amount of the mECFP-KikGR complex residing inside the nuclei (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+                        <ce:italic>D</ce:italic>). A comparison of the two rates suggests that whereas new nuclei continued to expand during the first 30-min period after cytokinesis, the level of the mECFP-KikGR complex in the nuclei became constant 10 min after cytokinesis.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec4" view="all">
+                  <ce:section-title>Discussion</ce:section-title>
+                  <ce:para view="all" id="para.0100">Considerable progress has been made in detailing the mechanism underlying compartmentalization of the nucleus. The NE defines the nuclear compartment, and NPCs in the NE form aqueous passages through which small water-soluble molecules can passively diffuse. Researchers have determined the effective size of these pores by introducing labeled molecules of different sizes into the cytoplasm and measuring their rates of diffusion into the nucleus. These experiments have revealed that proteins smaller than 50 kDa can diffuse through these pores, whereas proteins larger than 60 kDa rarely enter by passive diffusion.</ce:para>
+                  <ce:para view="all" id="para.0105">Little, however, is known about how this size cutoff value changes as the NE reassembles and the nucleus expands. About two decades ago, Swanson and McNeil (<ce:cross-ref refid="bib5">5</ce:cross-ref>) used fluorescently labeled dextrans to obtain qualitative answers to this question. Since then, the sealing of newly assembled nuclei has been thought to be completed by the time of cytokinesis (<ce:cross-ref refid="bib3">3</ce:cross-ref>).</ce:para>
+                  <ce:para view="all" id="para.0110">By using an optical highlighting technique, however, we identified a short period very early in the G<ce:inf loc="post">1</ce:inf> phase (after cytokinesis) during which the NE barrier is more permeable than was previously thought. Whereas other studies examined the steady-state distribution of fluorescently labeled molecules across the NE, we directly looked at passive diffusion of the KikGR complex (103 kDa). We also used 4D imaging and a quantitative reconstruction technique to examine the nuclear accumulation of the mECFP-KikGR complex (210 kDa) during the first 10 min after cytokinesis. The latter technique was first used by Gerlich et al. (<ce:cross-ref refid="bib1">1</ce:cross-ref>) to observe the developing NE in living cells. These authors reported that the chromatin was completely enclosed by the NE membranes before chromosome expansion, which suggests that the NE system, including the NPCs, matures quickly.</ce:para>
+                  <ce:para view="all" id="para.0115">A mature nucleus is characterized by the exclusion of large diffusing molecules and an ability to import NLS-containing molecules. Recent studies have shown that even partially assembled NPCs are able to import proteins (<ce:cross-refs refid="bib4 bib16">4,16</ce:cross-refs>). Consistent with this observation, we found that NLS-GST-Venus, a large NLS-containing molecule (<ce:cross-ref refid="bib17">17</ce:cross-ref>), was efficiently imported into the nucleus immediately after cytokinesis (<ce:cross-ref refid="app2">Fig. S5</ce:cross-ref>). Thus, the diffusion barrier around the nucleus may be established later than the active import activity.</ce:para>
+                  <ce:para view="all" id="para.0120">Currently, we do not know whether the passive diffusion observed in early G<ce:inf loc="post">1</ce:inf> is due to incompleteness of the NE sealing or of NPC functions. However, we characterized the aqueous conduits on the NE through which large molecules passively diffuse. The comparison between the KikGR and mECFP-KikGR complexes showed a subtle but substantial decrease in the size of the aqueous conduits on the NE: it was ∼10 nm immediately after cytokinesis and reduced to ∼8 nm in 30 min. It is possible that this mechanism contributes to as yet unidentified mechanisms that allow the nuclear localization of large molecules, such as the retroviral PIC.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:para view="all" id="para.0125">We thank Dr. H. Mizuno for his help with the FCS measurements, and Dr. R. Kato for valuable advice.</ce:para>
+               <ce:para view="all" id="para.0130">This work was partly supported by grants from Grant-in-Aid for Young Scientists (B) to S.S.; Grant-in-Aid for Scientific Research on Priority Areas “Systems Genomics”; the Special Coordination Fund for the promotion of the Ministry of Education, Culture, Sports, Science and Technology of Japan; the New Energy and Industrial Technology Development Organization; the Human Frontier Science Program; the Global COE Program “Evolving Education and Research Center for Spatio-Temporal Biological Network”; and the Molecular Ensemble Program at RIKEN.</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section view="compact-standard" id="app1">
+                  <ce:section-title>Supporting Material</ce:section-title>
+                  <ce:para view="all" id="para.0135">Six figures are available at <ce:inter-ref xlink:href="http://www.biophysj.org/biophysj/supplemental/S0006-3495(09)01157-6" xlink:type="simple">http://www.biophysj.org/biophysj/supplemental/S0006-3495(09)01157-6</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section view="extended" id="app2">
+                  <ce:section-title>Supporting Material</ce:section-title>
+                  <ce:para view="all" id="para.0140">
+                     <ce:display>
+                        <ce:e-component id="mmc1">
+                           <ce:label>Document S1. Six figures</ce:label>
+                           <ce:link locator="mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Gerlich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Beaudouin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gebhard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ellenberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Eils</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Four-dimensional imaging and quantitative reconstruction to analyse complex spatiotemporal processes in live cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Cell Biol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>852</sb:first-page>
+                              <sb:last-page>855</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Anderson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.W.</ce:given-name>
+                                 <ce:surname>Hetzer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Reshaping of the endoplasmic reticulum limits the rate for nuclear envelope formation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Cell Biol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>182</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>911</sb:first-page>
+                              <sb:last-page>924</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Alberts</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Bray</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lewis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Raff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Roberts</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Molecular Biology of the Cell</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>5th ed.</sb:edition>
+                              <sb:date>2008</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Garland Publishing</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Dultz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Zanin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wurzenberger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Braun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Rabut</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Systematic kinetic analysis of mitotic dis- and reassembly of the nuclear pore in living cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Cell Biol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>180</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>857</sb:first-page>
+                              <sb:last-page>865</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Swanson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.L.</ce:given-name>
+                                 <ce:surname>McNeil</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nuclear reassembly excludes large macromolecules</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>238</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>548</sb:first-page>
+                              <sb:last-page>550</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.L.</ce:given-name>
+                                 <ce:surname>Morris</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.N.</ce:given-name>
+                                 <ce:surname>English</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Lou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.J.</ce:given-name>
+                                 <ce:surname>Dufort</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Nordberg</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Redistribution of the kinesin-II subunit KAP from cilia to nuclei during the mitotic and ciliogenic cycles in sea urchin embryos</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Dev. Biol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>274</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>56</sb:first-page>
+                              <sb:last-page>69</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Kaz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Greger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Skalka</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of cell cycle status on early events in retroviral replication</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Cell. Biochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>94</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>880</sb:first-page>
+                              <sb:last-page>889</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>8</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Ludtke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.G.</ce:given-name>
+                                 <ce:surname>Sebesstyén</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Wolff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The effect of cell division on the cellular dynamics of microinjected DNA and dextran</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Ther.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>579</sb:first-page>
+                              <sb:last-page>588</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>9</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Feldherr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Akin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The permeability of the nuclear envelope in dividing and nondividing cell cultures</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Cell Biol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>111</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>8</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>10</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.G.</ce:given-name>
+                                 <ce:surname>Henke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Strubing</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.B.</ce:given-name>
+                                 <ce:surname>Brown</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Clapham</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Real-time imaging of nuclear permeation by EGFP in single intact cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biophys. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1317</sb:first-page>
+                              <sb:last-page>1327</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>11</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.A.</ce:given-name>
+                                 <ce:surname>Lukyanov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Chudakov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lukyanov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.V.</ce:given-name>
+                                 <ce:surname>Verkhusha</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Innovation: photoactivatable fluorescent proteins</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Rev. Mol. Cell Biol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>885</sb:first-page>
+                              <sb:last-page>891</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>12</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yokoe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Meyer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Spatial dynamics of GFP-tagged proteins investigated by local fluorescence enhancement</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1252</sb:first-page>
+                              <sb:last-page>1256</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>13</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Tsutsui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Karasawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Shimizu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Nukina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Miyawaki</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Semi-rational engineering of a coral fluorescent protein into an efficient highlighter</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>EMBO Rep.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>233</sb:first-page>
+                              <sb:last-page>238</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>14</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Habuchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Tsutsui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Kochaniak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Miyawaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>van Oijen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>mKikGR, a monomeric photoswitchable fluorescent protein</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>PLoS ONE</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e3944</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>15</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Zacharias</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Violin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.C.</ce:given-name>
+                                 <ce:surname>Newton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.Y.</ce:given-name>
+                                 <ce:surname>Tsien</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Partitioning of lipid-modified monomeric GFPs into membrane microdomains of live cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>296</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>855</sb:first-page>
+                              <sb:last-page>857</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>16</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Haraguchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Koujin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hayakawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kaneda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Tsutsumi</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Live fluorescence imaging reveals early recruitment of emerin, LBR, RanBP2, and Nup153 to reforming functional nuclear envelopes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Cell Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>113</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>779</sb:first-page>
+                              <sb:last-page>794</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>17</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Yokoya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Imamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Tachibana</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yoneda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>
+                                 <ce:italic>β</ce:italic>-catenin can be transported into the nucleus in a Ran-unassisted manner</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Biol. Cell</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1119</sb:first-page>
+                              <sb:last-page>1131</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

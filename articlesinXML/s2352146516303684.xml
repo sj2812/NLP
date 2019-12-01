@@ -1,0 +1,445 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2352146516303684</prism:url><dc:identifier>doi:10.1016/j.trpro.2016.05.362</dc:identifier><eid>1-s2.0-S2352146516303684</eid><prism:doi>10.1016/j.trpro.2016.05.362</prism:doi><pii>S2352-1465(16)30368-4</pii><dc:title>The Commented Walk Method as a Way of Highlighting Precise Daily Mobility Difficulties – A Case Study Focusing on Cognitive or Mental Diseases </dc:title><prism:publicationName>Transportation Research Procedia</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>23521465</prism:issn><prism:volume>14</prism:volume><prism:startingPage>4403</prism:startingPage><prism:endingPage>4409</prism:endingPage><prism:pageRange>4403-4409</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2016-12-31</prism:coverDate><prism:coverDisplayDate>2016</prism:coverDisplayDate><prism:copyright>© 2016 The Author(s). Published by Elsevier B.V.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier B.V.</prism:publisher><prism:issueName>Transport Research Arena TRA2016</prism:issueName><dc:creator>Meissonnier, Joël</dc:creator><dc:creator>Dejoux, Virginie</dc:creator><dc:description>
+               Abstract
+               
+                  The French Act of 11 February 2005 on equal rights and opportunities, participation and citizenship of people with disabilities highlights the need “for people with disabilities or reduced mobility” to have access to the complete mobility chain of the transport system. This law was initially planned to apply from 2015. Many efforts have been made to improve life for those with physical, visual and, to a lesser extent, hearing impairments. But there is a lot of room for improvement in situations regarding psychological, cognitive and mental impairment. This is largely due to a lack of knowledge on the difficulties experienced by the above when they travel.
+                  The national quantitative surveys including the Disabilities Dependency survey conducted by INSEE in 2008, questioned a range of people experiencing daily mobility difficulties linked to a disability. However, they did not give precise details of these difficulties.
+                  A qualitative methodology called ‘commented walks’ (Thibaud, 2001) is employed by urbanists to investigate the quality of the urban environment using videos. This paper will show how this method is also useful to complete quantitative approaches and to point out the difficulties encountered by people with disabilities in the urban space.
+                  The main recommendations from this research are:
+                        
+                           •
+                           need for a coherent and foolproof continuity of informational systems (staking, numbering of buildings in the street, bus destination displays...)
+                        
+                        
+                           •
+                           necessity to minimize the ‘affordances’ (Gibson, 1977) that might become highly disruptive cognitive attractors (Chevrier, Juguet, 2003) (i.e. advertising, illuminated signs that divert the focus of attention...).
+                        
+                        
+                           •
+                           need for a simplification and systematization of the cognitive procedures required to reach a destination.
+                        
+                        
+                           •
+                           need for staff training: human assistance remains essential and can’t be replaced by any automatons.
+                        
+                     
+                  
+                  The videos resulting from the ‘commented walk’ methodology are important, firstly to explore the difficulties experienced, then to inform the necessary authorities and finally to feed into training programs designed for logistic officers or bus drivers.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Daily mobility</dcterms:subject><dcterms:subject>cognitive and mental diseases</dcterms:subject><dcterms:subject>‘commented walk’ method</dcterms:subject><dcterms:subject>qualitative sociology</dcterms:subject><dcterms:subject>universal design</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2352146516303684" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2352146516303684" rel="scidir"/></coredata><scopus-id>84991299999</scopus-id><scopus-eid>2-s2.0-84991299999</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84991299999" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>308315</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291772</xocs:ssid>
+         <xocs:ssid type="subj">291933</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Transportation Research Procedia</xocs:srctitle>
+      <xocs:normalized-srctitle>TRANSPORTATIONRESEARCHPROCEDIA</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20160627">2016-06-27</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20160627">2016-06-27</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20160627">2016-06-27</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20160627">2016-06-27</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2016-06-27T13:13:23</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2352146516303684</xocs:eid>
+      <xocs:pii-formatted>S2352-1465(16)30368-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2352146516303684</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.trpro.2016.05.362</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2352146516X00051</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160627">2016-06-27T09:04:39.82175-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160101</xocs:date-search-begin>
+      <xocs:date-search-end>20161231</xocs:date-search-end>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1467036279">2016-06-27T14:04:39.82175Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2352-1465</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>23521465</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>14</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>14</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 14</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>467</xocs:sort-order>
+      <xocs:first-fp>4403</xocs:first-fp>
+      <xocs:last-lp>4409</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>4403</xocs:first-page>
+         <xocs:last-page>4409</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2016</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2016-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>Transport Research Arena TRA2016</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Prof.</ce:degrees>
+                     <ce:given-name>Leszek</ce:given-name>
+                     <ce:surname>Rafalski</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Prof.</ce:degrees>
+                     <ce:given-name>Adam</ce:given-name>
+                     <ce:surname>Zofka</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2016 The Author(s). Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>COMMENTEDWALKMETHODAWAYHIGHLIGHTINGPRECISEDAILYMOBILITYDIFFICULTIESACASESTUDYFOCUSINGCOGNITIVEMENTALDISEASES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MEISSONNIER</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="oref0005"/>
+         <xocs:ref-info refid="oref0010"/>
+         <xocs:ref-info refid="oref0015"/>
+         <xocs:ref-info refid="oref0020"/>
+         <xocs:ref-info refid="oref0025"/>
+         <xocs:ref-info refid="oref0030"/>
+         <xocs:ref-info refid="oref0035"/>
+         <xocs:ref-info refid="oref0040"/>
+         <xocs:ref-info refid="oref0045"/>
+         <xocs:ref-info refid="oref0050"/>
+         <xocs:ref-info refid="oref0055"/>
+         <xocs:ref-info refid="oref0060"/>
+         <xocs:ref-info refid="oref0065"/>
+         <xocs:ref-info refid="oref0070"/>
+         <xocs:ref-info refid="oref0075"/>
+         <xocs:ref-info refid="oref0080"/>
+         <xocs:ref-info refid="oref0085"/>
+         <xocs:ref-info refid="oref0090"/>
+         <xocs:ref-info refid="oref0095"/>
+         <xocs:ref-info refid="oref0100"/>
+         <xocs:ref-info refid="oref0105"/>
+         <xocs:ref-info refid="oref0110"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MEISSONNIERX2016X4403</xocs:refkey3>
+         <xocs:refkey4lp>MEISSONNIERX2016X4403X4409</xocs:refkey4lp>
+         <xocs:refkey4ai>MEISSONNIERX2016X4403XJ</xocs:refkey4ai>
+         <xocs:refkey5>MEISSONNIERX2016X4403X4409XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2016-05-31T00:45:18Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/PROC_UNBOUNDED_ESWaived">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2016 The Author(s). Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2352-1465(16)30368-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2352146516303684</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2352146516303684</xocs:eid>
+         <xocs:doi>10.1016/j.trpro.2016.05.362</xocs:doi>
+         <xocs:cid>308315</xocs:cid>
+         <xocs:timestamp>2016-06-27T09:04:39.82175-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2016-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2016-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2352146516303684-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352146516303684/MAIN/application/pdf/11ac6aa916dd19213e1dcd9269bc0cb2/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2352146516303684/MAIN/application/pdf/11ac6aa916dd19213e1dcd9269bc0cb2/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>70444</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2352146516303684-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2352146516303684/PREVIEW/image/png/8605bba88848b29e8ca8d3b50da0cbe6/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2352146516303684/PREVIEW/image/png/8605bba88848b29e8ca8d3b50da0cbe6/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>34426</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext> Transportation Research Procedia  14 ( 2016 )  4403 â€“ 4409  2352-1465 Â© 2016 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license  (http://creativecommons.org/licenses/by-nc-nd/4.0/). Peer-review under responsibility of Road and Bridge Research Institute (IBDiM) doi: 10.1016/j.trpro.2016.05.362  Available online at www.sciencedirect.com ScienceDirect 6th Transport Research Arena April 18-21, 2016 The Commented Walk method as a way of highlighting precise  daily mobility difficulties â€“ a case study focusing  on cognitive or mental diseases JoÃ«l Meissonnier a*, Virginie Dejoux b aCEREMA, 2 rue de Bruxelles, BP 275, 59019 Lille, France bUniversitÃ© Paris 1, IDUP, 90 rue de Tolbiac, 75013 Paris, France Abstract The French Act of 11 February 2005 on equal rights and opportunities, participation and citizenship of people with disabilities  highlights the need "for people with disabilities or reduced mobility" to have access to the complete mobility chain of the  transport system. This law was initially planned to apply from 2015. Many efforts have been made to improve life for those with  physical, visual and, to a lesser extent, hearing impairments. But there is a lot of room for improvement in situations regarding  psychological, cognitive and mental impairment. This is largely due to a lack of knowledge on the difficulties experienced by the  above when they travel. The national quantitative surveys including the Disabilities Dependency survey conducted by INSEE in 2008, questioned a range of people experiencing daily mobility difficulties linked to a disability. However, they did not give precise details of these  difficulties. A qualitative methodology called 'commented walks' (Thibaud, 2001) is employed by urbanists to investigate the quality of the urban environment using videos. This paper will show how this method is also useful to complete quantitative approaches and to  point out the difficulties encountered by people with disabilities in the urban space. The main recommendations from this research are: x need for a coherent and foolproof continuity of informational systems (staking, numbering of buildings in the street, bus  destination displays...) * Corresponding author. Tel.: +33-3-20-49-61-34. E-mail address: joel.meissonnier@cerema.fr 4404   JoÃ«l Meissonnier and Virginie Dejoux /  Transportation Research Procedia  14 ( 2016 )  4403 â€“ 4409  x necessity to minimize the 'affordances' (Gibson, 1977) that might become  highly disruptive cognitive attractors (Chevrier,  Juguet, 2003)  (i.e. advertising, illuminated signs that divert the focus of attention ...). x need for a simplification and systematization of the cognitive procedures required to reach a destination. x need for staff training : human assistance remains essential and can't be replaced by any automatons. The videos resulting from the 'commented walk' methodology are important, firstly to explore the difficulties experienced, then  to inform the necessary authorities and finally to feed into training programs designed for logistic officers or bus drivers. Â© 2016The Authors. Published by Elsevier B.V.. Peer-review under responsibility of Road and Bridge Research Institute (IBDiM). Keywords: Daily mobility; cognitive and mental diseases; â€˜commented walkâ€™ method; qualitative sociology; universal design Â© 2016The Authors. Published by Elsevier B.V.. Peer-review under responsibility of Road and Bridge Research Institute (IBDiM). 1. Introduction Our contribution came about as a result of two remarkable factors: First we noticed the lack of available  knowledge about  the daily mobility habits of people with disabilities; then we observed the special case of people  with mental, psychological and cognitive disabilities who are even less well studied as their disabilities are invisible.  According to Laurent Saby (2012) a mental disability can be defined as the result of a developmental disability. It  can be considered as a more limited capacity for learning linked to a significantly below average intellectual  development. It results in difficulties more or less severe in areas of reflection, conceptualization, communication  and decision making. A cognitive disability is the result of cognitive dysfunctions. These troubles are linked to attention, memory,  adaptation to change, language, perceptual (gnosies) and gestual (praxis) identifications. A cognitive disability  implies no particular intellectual impairment only difficulties in mobilizing capabilities. A psychological disability is the result of psychological blocking factors. Like the cognitive disability,  a psychological disability is not linked with an intellectual disability. It is characterized by an alternating calm or  tense mental state and by difficulties in acquiring or expressing psychosocial skills. A lack of attention and some  difficulties to plan and follow activity programs can occur. A psychological disability often leads to anxiety and  relational and communication difficulties. The French Act of 11 February 2005 on equal rights and opportunities, participation and citizenship of people  with disabilities highlights the need "for people with disabilities or reduced mobility" to have access to the complete  mobility chain. This law was initially planned to apply from 2015 but a maximum 9 year extension has been given to  local authorities on the condition that they list and promise to carry out all the listed improvements. Many efforts  have been made to improve travel situations for people with physical, visual and, to a lesser extent, hearing  disabilities. But there is still great room for improvement for situations involving those with psychological, cognitive  and mental disabilities. This is largely due to the lack of knowledge of precise difficulties experienced by those  people with the aforementioned disabilities. Our research began thanks to the city of Amiens which was expecting  specific recommendations issued by the French state services. This paper is divided into five sections. Following this introduction, we then discuss, in the second section, how  the mobility of people with mental, cognitive or psychic troubles may be taken into account in French quantitative  surveys. Information has been gathered both from the already available mobility and disability surveys. The third  section explores the literature on the â€˜commented walkâ€™ methodology. The fourth section presents our own  methodological choices and the difficulties we have faced. Finally, the fifth section lists the benefits of this method.  The conclusion advocates a formalization and an implementation of this methodological process. Â© 2016 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license  (http://creativecommons.org/licenses/by-nc-nd/4.0/). Peer-review under responsibility of Road and Bridge Research Institute (IBDiM) Â© 2016 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license  (http://creativecommons.org/licenses/by-nc-nd/4.0/). eer-review under responsibility of Road an  Bri ge Res arch Institute (IBDiM) 4405 JoÃ«l Meissonnier and Virginie Dejoux /  Transportation Research Procedia  14 ( 2016 )  4403 â€“ 4409  2. Overview of available datas In France, various surveys are used to study the daily mobility of people with disabilities. At national level, two  sorts of surveys bring us this information: those focusing on mobility and those focusing on disability. Since the late 60s, five national mobility surveys have been conducted by INSEE and the department of Transport  (1966-67, 1973-74, 1981-82, 1993-94 and 2007- 08). These surveys are the largest mobility surveys in France, with  a sample size of 20,000 households, and consider all trips irrespective of their purpose, length, duration, transport  mode, or the period of year or time of day. They allow the precise study of peopleâ€™s daily mobility in terms of for  example the number of trips, distances, duration, means of transport and purpose. However, only the following question appears in the questionnaire: "(NAME) is he/she physically limited or  limited in their journey away from home (regardless of the means of transport used)?". Although this question allows  us to identify people with disabilities it does not allow us to accurately detect those with mental or cognitive  disabilities. Regarding disability, two surveys have been conducted by INSEE since the late 90s: the â€œHandicap IncapacitÃ©  DÃ©pendanceâ€� (Handicap Disability Dependancy survey -1999) and â€œHandicap SantÃ©â€� (Disability healthcare survey - 2007). Unlike previous surveys, they enable us to observe accurately peopleâ€™s impairments and disabilities and  therefore to detect people with cognitive or mental disabilities. We can find in their questionnaires some information  about their mobility and their difficulties with accessibility. For example, time spent at home and if traveling the  difficult places to access. However, the quantitative approaches used to obtain representative analyzes of the general population in France  and to establish a causal link between the socioeconomic variables and situations of disability or mobility behavior  are limited. Firstly, the entire chain of travel canâ€™t be studied and secondly the specific difficulties faced by  individuals and their causes are not stated. Thus, in addition to these quantitative approaches, some qualitative  approaches are needed to obtain a thorough comprehensive analysis.  Semi-structured interviews combined with participant observations (Rissera, Iwarssonb, StÃ¥hlc, 2012) as well as  focus group interviews and expert interviews (Rosenkvist, 2008) have already been performed abroad by researchers  interested in people with cognitive functional limitations (MAPLE consortium, 2003 ; Barham, 2005). In France,  only a few works have been conducted, especially by state services (Charzat, 2002 ; Dejeammes, 2006). They are  mostly based on quantitative datas issued from the â€œHandicap IncapacitÃ© DÃ©pendanceâ€� survey (Roussel, 2006) and  sometimes on expert interviews (Alauzet, Conte, Sanchez, Velche, 2010). As for us, we used a new methodology  called â€œcommented walkâ€�. 3. The â€žcommented walksâ€� methodology A qualitative methodology called 'commented walks' (Thibaud, 2001) used by urbanists to investigate the quality  of urban environment using either photos or videos. This method was popularized in France, by the Research Center  on Sonic space &amp; Urban environment (CRESSON research laboratory - School of Architecture of Grenoble). It  relies on the "thinking aloud" technique devised by Alan Newell and Herbert Simon (1972) in the US. Â«This is a  journey with a real-time storytellingÂ» (Miaux, 2008). That is to say, the researcher follows the interviewed person  while they are interacting with several other players (e.g. bystanders) and objects (e.g. urban furniture...)  which they  may encounter on their route. While walking the interviewed person verbalizes what they are doing and what they are thinking. On the road, the  researcher gets a subjective point of view. (Petiteau, Pasquier, 2001). The interviewed person talks about the  incidents taking place during the walk (Miaux, 2008). A cameraman tries to catch reflective pauses, paces,  movement variations or noticeable emotional changes. Although it may seem artificial to ask someone to verbalize  their action, thanks to unpredictable and random urban phenomena, people behave relatively naturally. The "commented walks" methodology leads to a very precise analysis of mobility choices process. For example,  Sophie Pene (1999) narrates the tactics of a person in a hurry to leave her workplace. "The run starts at the door of  the office. If the elevator fails then she rushes down the stairs. If a group of chatty colleagues stays in the lobby, she  makes a detour to avoid chatting ; if there is a performance on the square, she chooses the underground, if the queue  at the ticket office is too long, she opts for the automatic teller..." (Pene, 1999) 4406   JoÃ«l Meissonnier and Virginie Dejoux /  Transportation Research Procedia  14 ( 2016 )  4403 â€“ 4409  We were looking for a method to give us a better understanding of mobility behaviours, especially with people  with disabilities. We were also looking more precisely for a method suitable for participnats with verbal or non  structured  verbal difficulties. So, we carried out 4 'commented walks' in the city of Amiens in order to test the  methodology: x Marie and Etienne have trisomy 21. x Fabien has an intellectual disability; he is illiterate but knows how to read figures. x Marion has a dyspraxia. As the goal is for us to study mobility in urban environments we have adapted the methodological protocol  according to Chevrier and Juguet's advices. For sure, the learned skills coming from the experience of a routine  route is of great interest. But the unfamiliarity of a path leads people to draw on their former experiences, which is  very interesting too. As Marie, Fabien and Marion seemed relatively autonomous on public transport, we asked  them to add slight challenges. x In the morning Marie was going to her workplace with her father by car. She was returning alone, by bus. We  suggested she tried an outward journey by public transport for the first time. x Fabien seemed really capable of dealing with public transport in his daily routine. So we asked him to go to the  zoo, a place he was not familiar with. x Marion has excellent communication skills. One day she got lost in Amiens, so we asked her to try to find the  path she had taken that day. According to Chevrier &amp; Juguetâ€™s work (2003), such a script is an in situ test. It aims to ask the traveler to face  realistically a set of situations which forces them to adjust their action plans. Typically, people in public transport  run on autopilot. Guided by their habits, they follow some procedures without questioning their practices. These  practices become automatic. Indeed our films show clearly that a fictitious situation causes a break in the routine  action chain. And they show how people face more unexpected events and less known routes. In short, our aim was to test a method originally designed to study the urban environment through mobility then  to adapt it in order to study the daily mobility of people with a less structured verbal expression in the  unpredictability of an urban context. 4. Our survey in Amiens The survey was conducted in Amiens (France) in 2012. A 'commented walk' must be prepared in advance. First,  the researcher has to hire a cameraman. A technical solution must be found to record on the video everything the  person says; even if this person is walking 20 or 30 meters ahead the cameraman.  Then the survey preparation usually focuses on: x The recruitment of interviewed volunteers x The presentation of the purpose of the survey. x The explanation of the survey protocol. x The necessity to make oneself available for half a day long. x The presence of a camera. On the chosen day the first half-an-hour is usually spent teaching the interviewee how to "think aloud". Then the  journey can begin. Due to the presence of people with disabilities, it took us more time: x to reach them (thanks to local authorities we managed to reach local parents associations; thanks to a local foster  home we also managed to reach some people). x to explain the investigation process to the interviewee. x to reassure these interviewees. 4407 JoÃ«l Meissonnier and Virginie Dejoux /  Transportation Research Procedia  14 ( 2016 )  4403 â€“ 4409  x to precisely inform parents of minors and adult's guardians. x to obtain from the guardianship judge the appropriate authorization to record. On D-Day, the interview began on the routine route (to work or to school). No hardships were suggested at the  beginning. They only came afterwards when the interviewee seemed capable enough to  deal with them. Definitive results coming from the â€˜commented walksâ€™ methodology are not based on a representative sample.  The main quality of this method is illustrative; and this quality isn't anecdotal. It is complementary to quantitative  methods which: x doesnâ€™t assess how much both public transport and public areas induce some difficulties or not. x doesnâ€™t precisely identify these difficulties. In fact, our method manages to explain what those difficulties are for people with mental, cognitive or  psychological disabilities. Thatâ€™s the reason why we think it may be useful to complete quantitative approaches and  to point out the difficulties encountered by people with disabilities in urban spaces. 5. Results 5.1. An information discontinuity During her route, Marion hesitates. The video shows her struggling to know where she is. She says: "there were  no road works there the last time." An impromptu event disrupts the routine route and is often problematic. For  example, a situation involving road works or any unpredictable situation which requires people to find an unfamiliar  path (need for bypasses) requires some urban arrangements. If a path made from stickers pasted on the ground may  seem childish, it is especially appreciated by people with disabilities in these circumstances. Usually when Marie returns from work by bus No. 9 and arrives in the downtown interchange bus station of  Amiens, she gets off the bus at a stop located near a pedestrian crossing. As she was trying the outward journey by  public transport for the first time she placed herself on the other side of the pedestrian crossing. Indeed this is how  she had been taught to catch a bus going in the opposite direction. Therefore, she was trying to apply a rule that told   her to wait on the other side of the street in order to catch it. But this rule does not work in such an interchange  station. On the video, Marie is seen waiting with other passersby at the pedestrian crossing. When bus No. 9 passed it  didnâ€™t stop. We helped her to find the right bus stop. However, the line was split into two directions along the route  and in order to get the right bus it was necessary to know the buses final destination. Another problem for Marie was  that she couldnâ€™t know the final destination because she had arrived from the back of the bus where there was only  the bus number on display. In both situations, Marie tried to carefully follow the rules but she failed in her task due to break downs in the  information chain. These examples show that both the continuity of the information chain and the standardization of  the displayed information are important. 5.2. Disruptive cognitive attractors The video shows that Marion was unable to recognize a crossroads that she had already passed by for the third  time. This can be explained by the fact that she arrived from three different directions. But the film also shows that  the presence of advertisements on the road contributed to her confusion as they distracted her from looking for  relevant information. Basically, situations of mental, cognitive and psychic disabilities do not require their own new language of  communication. They require more consistency and seamless continuity in languages that already exist. It is  necessary to better highlight the informational devices. Concretely, that means minimize - and in some contexts such  as an interchange station eradicate - messages that might 'pollute' the relevant information (advertising, illuminated  signs that divert the focus of attention...). 4408   JoÃ«l Meissonnier and Virginie Dejoux /  Transportation Research Procedia  14 ( 2016 )  4403 â€“ 4409  According to Gibson (1977), public space is full of 'affordances'. These signs can either relieve the perceptual  activity of the user (i.e.: function of directional signage), or invite him to perform a particular action that he was not  thinking of doing (i.e.: the trash bin invites us to throw away, the public mailbox reminds us to post a letter...). Our  videos show that the â€˜affordancesâ€™ may also become some highly disruptive cognitive attractors (Chevrier, Juguet,  2003 ; Denis, Pontille 2008 ; 2010). 5.3. Too complex cognitive procedures to reach a destination The video shows Marion saying she particularly appreciates the pictures of major buildings or places on the city  maps: "Without that, it's not even worth trying to read the map". In fact  Marion doesn't bother with city maps  because for her, most of the city maps require too many complex cognitive procedures to reach a destination. She tried to explain to us that the locations of city maps are badly placed. Usually located on the back of  advertising hoardings, these geocentric local maps should permit a simple cognitive projection on the ground with  north directly in front of the user thereby no longer requiring an additional cognitive operation such as turning in  order to face north. 5.4. Human assistance : some needs for trainings Fabien is illiterate. He has an excellent relationship with the staff of the transport company of Amiens. He talks to  the drivers and is able to put questions to anyone wearing a uniform. We suggested he changed his usual route to get  to the zoo. In Amiensâ€™s main interchange bus station, Fabien spontaneously questioned an employee of the transport  company. The employee advised Fabien to take bus No. 1 to get to the zoo. Unfortunately he didnâ€™t think of  indicating either the right direction and final destination or the location of the bus stop. This employee was probably  lacking training.  This was also a problem for Marie when she realized her mistake in taking the wrong No. 9 bus. She asked for the  driverâ€™s help. The driver answered that "As a rule, every other bus should go to Zone Industrielle (her final  destination)â€�. Therefore, the driver should have told her to get off the bus and wait for the next one. But the driver  failed to do this possibly due to a lack of training. Human assistance must remain a priority because it is often difficult to replace it with any technological  alternatives. People with disabilities especially rely on men and women in uniform (employees of public transport,  police, doctors...). They see them as resources. But in France these employees are not always aware of their  importance to the public. This discrepancy emphasizes the great need for increased training for these employees. 6. Conclusions Our findings come from a qualitative methodology aiming to complement quantitative approaches. Indeed,  quantitative approaches are not able to go further than the concept of 'difficulty'. Furthermore they are inadequate  when describing the precise problems faced by people with mental, cognitive or psychological disabilities. We have  adapted the "commented walks" methodology originally designed to analyze urban environments. We used that methodology to understand how people with disabilities behave in public spaces while commuting  daily. We also adapted that methodology in order to understand how people manage when traveling to less familiar  destinations. The main recommendations from our research are: x need for a coherent and foolproof continuity of informational systems (staking, numbering of buildings in the  street, bus destination displays...) x necessity to minimize the 'affordances' that may become highly disruptive cognitive attractors (i.e. advertising,  illuminated signs that divert the focus of attention ...). x need for a simplification and systematization of cognitive procedures to reach a destination. x need for staff training: human assistance remains essential and can't always be replaced by a device. 4409 JoÃ«l Meissonnier and Virginie Dejoux /  Transportation Research Procedia  14 ( 2016 )  4403 â€“ 4409  Our results reveal the effectiveness of the "commented walks" methodology which could be more formally  introduced in order to explore in each city the reality and the details of the problems encountered by people with  disabilities. This method seems especially relevant for people with difficulties of expression because their behavior  can be just as meaningful as language in describing their problems. Furthermore this methodology produces videos  that can be use to convince local authorities of the necessity to include people with less visible disabilities. Finally,  videos can also contribute to staff training. For example, they are useful in teaching employees working in public  transport: both those in the front line dealing with customers and those who design transport networks. References Alauzet, A., Conte, F., Sanchez, J., Velche, D., 2010. Les  personnes  en  situation  de  handicap mental, psychique ou cognitif et lâ€™usage des  transports. In : Rapport final Projet POTAS, Tome 2, Juin 2010, INRETS-CTNERHI. Barham, P., 2005. Final Report. The MAPLE Project: Improving Mobility and Accessibility for People with Learning Disabilities in Europe, EU,  DG Employment and Social Affairs (VP/2003/14), February 2005. Charzat, M., 2002. Rapport pour mieux identifier les difficultÃ©s des personnes en situation de handicap du fait de troubles psychiques et les  moyens d'amÃ©liorer leur vie et celle de leurs proches. Rapport public Ã  Mme la Ministre DÃ©lÃ©guÃ©e Ã  la Famille, A l'Enfance et aux personnes  handicapÃ©es, MinistÃ¨re de l'emploi et de la solidaritÃ©, Paris, Mars 2002, 138 p. Chevrier, S., Juguet, S., 2003. ArrÃªt demandÃ©. Rennes, LARES-Enigmatek. Cuenot, M., Roussel, P., 2009. De la difficultÃ© de quantifier le handicap psychique : des classifications aux enquÃªtes. In : Delbecq, J., Weber,  F. (eds.), Revue franÃ§aise des Affaires sociales, Dossier Handicap psychique et vie quotidienne, pp.65-82. Dejeammes, M., 2006. Handicaps et ville. Voiron, Tecni.CitÃ©s, Territorial Editions &amp; CERTU. Denis, J., Pontille, D., 2008. SignalÃ©tique, cognition et espace public. Lâ€™amÃ©nagement graphique du mÃ©tro. In : Actes du colloque : Les dispositifs  de mÃ©diation organisationnelle technologiques et symbolique dans la communication des organisations. Nice, dÃ©cembre 2008, pp. 109-114. Denis, J., Pontille, D., 2010. Petite sociologie de la signalÃ©tique. Les coulisses des panneaux du mÃ©tro. Paris, Presses des mines. Gibson, J.J., 1977. The Theory of Affordances. In : Perceiving, Acting, and Knowing, ?, Robert Shaw and John Bransford Editors. MAPLE Consortium, 2003. Can  people  with cognitive impairments use public transport effectively?. In : Europe-wide review. Retrieved May  25, 2008, from http://www.maple-eu.com/EUReview.htm Miaux, S., 2008. Comment la faÃ§on d'envisager la marche conditionne la perception de l'environnement urbain et le choix des itinÃ©raires  piÃ©tonniers â€“ L'expÃ©rience de la marche dans deux quartiers de MontrÃ©al. In : RTS, numÃ©ro thÃ©matique : Le piÃ©ton et son environnement : Quelles interactions ? Quelles adaptations ? Paris, Lavoisier, nÂ°101, octobre-dÃ©cembre 2008, pp. 327-351. Newell, A., Simon, H., 1972, Human Problem Solving, Prentice Hall, Englewood Cliffs. Ocde/Fit, 2009. DÃ©ficience cognitive, santÃ© mentale et transports â€“ vers une accessibilitÃ© pour tous. Forum International des Transports, OCDE,  31 p. Pene, S., 1999. RÃ©cits de cheminements : l'imaginaire piÃ©ton est-il multimodal ? In : Joseph, I. (ed.), Villes en gares. La-Tour-d'Aigues, L'Aube,  pp 259-271. Petiteau, J-Y., Pasquier, E., 2001. La mÃ©thode des itinÃ©raires : rÃ©cits et parcours. In Grosjean, M., Thibaud, J-P. (Ã©ds.). L'espace urbain en  mÃ©thodes. Marseille, ParenthÃ¨ses, pp. 63-77. Ramadier, T., 2011. Lâ€™accessibilitÃ© socio-cognitive. Actes du 11e colloque : MobilitÃ©s Spatiales et FluiditÃ© Sociale. Grenoble. Rissera, R., Iwarssonb, S., StÃ¥hlc, A., 2012. How do people with cognitive functional limitations post-stroke manage the use of buses in local  public transport? In : Transportation Research Part F: Traffic Psychology and Behaviour. Vol. 15, Issue 2, March 2012, pp. 111â€“118. Rosenkvist, J., 2008. Mobility in Public Environments and Use of Public Transport Exploring the situation for people with acquired cognitive  functional limitations, Licentiate thesis, Lunds Universitet. Roussel, P., 2006. Quelle vie sociale et Ã©conomique pour les personnes ayant des troubles mentaux ? Une exploitation de lâ€™enquÃªte HID 1999  auprÃ¨s des personnes vivant Ã  domicile. Rapport remis Ã  la DGAS, CTNERHI, novembre 2006, 168 p. Saby, L., 2013. Handicaps mentaux, cognitifs et psychiques. Quelles pistes pour amÃ©liorer lâ€™accessibilitÃ© ?, Fiche CERTU nÂ°1, octobre 2013,  Lyon, Editions du Certu. Thibaud, J-P., 2001. La mÃ©thode des parcours commentÃ©s. In : Grosjean, M., Thibaud J-P. (Ã©ds.). L'espace urbain en mÃ©thodes. Marseille,  ParenthÃ¨ses, pp.79-99. Velche, D., 2007. Les handicaps psychiques et les services de transport. In : Dejeammes M. (Ã©d.). Handicaps et ville. Voiron, Territorial Editions  &amp; CERTU, fiche de cas nÂ° 4. 2005. Final Report. The MAPLE Project: Improving Mobility and Accessibility for People with Learning Disabilities in Europe, EU,  DG Employment and Social Affairs (VP/2003/14), February 2005. Charzat, M., 2002. Rapport pour mieux identifier les difficultÃ©s des personnes en situation de handicap du fait de troubles psychiques et les  moyens d'amÃ©liorer leur vie et celle de leurs proches. Rapport public Ã  Mme la Ministre DÃ©lÃ©guÃ©e Ã  la Famille, A l'Enfance et aux personnes  handicapÃ©es, MinistÃ¨re de l'emploi et de la solidaritÃ©, Paris, Mars 2002, 138 p. Chevrier, S., Juguet, S., 2003. ArrÃªt demandÃ©. Rennes, LARES-Enigmatek. Cuenot, M., Roussel, P., 2009. De la difficultÃ© de quantifier le handicap psychique : des classifications aux enquÃªtes. In : Delbecq, J., Weber,  F. (eds.), Revue franÃ§aise des Affaires sociales, Dossier Handicap psychique et vie quotidienne, pp.65-82. Dejeammes, M., 2006. Handicaps et ville. Voiron, Tecni.CitÃ©s, Territorial Editions &amp; CERTU. Denis, J., Pontille, D., 2008. SignalÃ©tique, cognition et espace public. Lâ€™amÃ©nagement graphique du mÃ©tro. In : Actes du colloque : Les dispositifs  de mÃ©diation organisationnelle technologiques et symbolique dans la communication des organisations. Nice, dÃ©cembre 2008, pp. 109-114. Denis, J., Pontille, D., 2010. Petite sociologie de la signalÃ©tique. Les coulisses des panneaux du mÃ©tro. Paris, Presses des mines. Gibson, J.J., 1977. The Theory of Affordances. In : Perceiving, Acting, and Knowing, ?, Robert Shaw and John Bransford Editors. MAPLE Consortium, 2003. Can  people  with cognitive impairments use public transport effectively?. In : Europe-wide review. Retrieved May  25, 2008, from http://www.maple-eu.com/EUReview.htm Miaux, S., 2008. Comment la faÃ§on d'envisager la marche conditionne la perception de l'environnement urbain et le choix des itinÃ©raires  piÃ©tonniers â€“ L'expÃ©rience de la marche dans deux quartiers de MontrÃ©al. In : RTS, numÃ©ro thÃ©matique : Le piÃ©ton et son environnement : Quelles interactions ? Quelles adaptations ? Paris, Lavoisier, nÂ°101, octobre-dÃ©cembre 2008, pp. 327-351. Newell, A., Simon, H., 1972, Human Problem Solving, Prentice Hall, Englewood Cliffs. Ocde/Fit, 2009. DÃ©ficience cognitive, santÃ© mentale et transports â€“ vers une accessibilitÃ© pour tous. Forum International des Transports, OCDE,  31 p. Pene, S., 1999. RÃ©cits de cheminements : l'imaginaire piÃ©ton est-il multimodal ? In : Joseph, I. (ed.), Villes en gares. La-Tour-d'Aigues, L'Aube,  pp 259-271. Petiteau, J-Y., Pasquier, E., 2001. La mÃ©thode des itinÃ©raires : rÃ©cits et parcours. In Grosjean, M., Thibaud, J-P. (Ã©ds.). L'espace urbain en  mÃ©thodes. Marseille, ParenthÃ¨ses, pp. 63-77. Ramadier, T., 2011. Lâ€™accessibilitÃ© socio-cognitive. Actes du 11e colloque : MobilitÃ©s Spatiales et FluiditÃ© Sociale. Grenoble. Rissera, R., Iwarssonb, S., StÃ¥hlc, A., 2012. How do people with cognitive functional limitations post-stroke manage the use of buses in local  public transport? In : Transportation Research Part F: Traffic Psychology and Behaviour. Vol. 15, Issue 2, March 2012, pp. 111â€“118. Rosenkvist, J., 2008. Mobility in Public Environments and Use of Public Transport Exploring the situation for people with acquired cognitive  functional limitations, Licentiate thesis, Lunds Universitet. Roussel, P., 2006. Quelle vie sociale et Ã©conomique pour les personnes ayant des troubles mentaux ? Une exploitation de lâ€™enquÃªte HID 1999  auprÃ¨s des personnes vivant Ã  domicile. Rapport remis Ã  la DGAS, CTNERHI, novembre 2006, 168 p. Saby, L., 2013. Handicaps mentaux, cognitifs et psychiques. Quelles piste</xocs:rawtext>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.4" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>TRPRO</jid>
+            <aid>1151</aid>
+            <ce:pii>S2352-1465(16)30368-4</ce:pii>
+            <ce:doi>10.1016/j.trpro.2016.05.362</ce:doi>
+            <ce:copyright type="other" year="2016">The Authors</ce:copyright>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para id="npar0005" view="all">Peer-review under responsibility of Road and Bridge Research Institute (IBDiM).</ce:note-para>
+            </ce:article-footnote>
+            <ce:title id="tit0005">The Commented Walk Method as a Way of Highlighting Precise Daily Mobility Difficulties – A Case Study Focusing on Cognitive or Mental Diseases</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005">
+                  <ce:given-name>Joël</ce:given-name>
+                  <ce:surname>Meissonnier</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0010" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  <ce:e-address id="eadd0005" type="email">joel.meissonnier@cerema.fr</ce:e-address>
+               </ce:author>
+               <ce:author id="aut0010">
+                  <ce:given-name>Virginie</ce:given-name>
+                  <ce:surname>Dejoux</ce:surname>
+                  <ce:cross-ref id="crf0015" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>CEREMA, 2 rue de Bruxelles, BP 275, 59019 Lille, France</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>CEREMA, 2 rue de Bruxelles, BP 275, 59019 Lille</sa:organization>
+                     <sa:country>France</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Université Paris 1, IDUP, 90 rue de Tolbiac, 75013 Paris, France</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Université Paris 1, IDUP, 90 rue de Tolbiac, 75013 Paris</sa:organization>
+                     <sa:country>France</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +33-3-20-49-61-34.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract id="abs0005" view="all" class="author">
+               <ce:section-title id="sect0005">Abstract</ce:section-title>
+               <ce:abstract-sec id="abst0005" view="all">
+                  <ce:simple-para id="spar0005" view="all">The French Act of 11 February 2005 on equal rights and opportunities, participation and citizenship of people with disabilities highlights the need “for people with disabilities or reduced mobility” to have access to the complete mobility chain of the transport system. This law was initially planned to apply from 2015. Many efforts have been made to improve life for those with physical, visual and, to a lesser extent, hearing impairments. But there is a lot of room for improvement in situations regarding psychological, cognitive and mental impairment. This is largely due to a lack of knowledge on the difficulties experienced by the above when they travel.</ce:simple-para>
+                  <ce:simple-para id="spar0010" view="all">The national quantitative surveys including the Disabilities Dependency survey conducted by INSEE in 2008, questioned a range of people experiencing daily mobility difficulties linked to a disability. However, they did not give precise details of these difficulties.</ce:simple-para>
+                  <ce:simple-para id="spar0015" view="all">A qualitative methodology called ‘commented walks’ (<ce:cross-ref id="crf0020" refid="bib0105">Thibaud, 2001</ce:cross-ref>) is employed by urbanists to investigate the quality of the urban environment using videos. This paper will show how this method is also useful to complete quantitative approaches and to point out the difficulties encountered by people with disabilities in the urban space.</ce:simple-para>
+                  <ce:simple-para id="spar0020" view="all">The main recommendations from this research are:<ce:list id="lis0005">
+                        <ce:list-item id="lsti0005">
+                           <ce:label>•</ce:label>
+                           <ce:para id="par0005" view="all">need for a coherent and foolproof continuity of informational systems (staking, numbering of buildings in the street, bus destination displays...)</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="lsti0010">
+                           <ce:label>•</ce:label>
+                           <ce:para id="par0010" view="all">necessity to minimize the ‘affordances’ (<ce:cross-ref id="crf0025" refid="bib0045">Gibson, 1977</ce:cross-ref>) that might become highly disruptive cognitive attractors (Chevrier, Juguet, 2003) (i.e. advertising, illuminated signs that divert the focus of attention...).</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="lsti0015">
+                           <ce:label>•</ce:label>
+                           <ce:para id="par0015" view="all">need for a simplification and systematization of the cognitive procedures required to reach a destination.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="lsti0020">
+                           <ce:label>•</ce:label>
+                           <ce:para id="par0020" view="all">need for staff training: human assistance remains essential and can’t be replaced by any automatons.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:simple-para>
+                  <ce:simple-para id="spar0025" view="all">The videos resulting from the ‘commented walk’ methodology are important, firstly to explore the difficulties experienced, then to inform the necessary authorities and finally to feed into training programs designed for logistic officers or bus drivers.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>Daily mobility</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>cognitive and mental diseases</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>‘commented walk’ method</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>qualitative sociology</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text>universal design</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0020">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>Alauzet et al., 2010</ce:label>
+                     <ce:other-ref id="oref0005">
+                        <ce:textref>Alauzet, A., Conte, F., Sanchez, J., Velche, D., 2010. Les personnes en situation de handicap mental, psychique ou cognitif et l’usage des transports. In: Rapport final Projet POTAS, Tome 2, Juin 2010, INRETS-CTNERHI.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>Barham, 2005</ce:label>
+                     <ce:other-ref id="oref0010">
+                        <ce:textref>Barham, P., 2005. Final Report. The MAPLE Project: Improving Mobility and Accessibility for People with Learning Disabilities in Europe, EU, DG Employment and Social Affairs (VP/2003/14), February 2005.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>Charzat, 2002</ce:label>
+                     <ce:other-ref id="oref0015">
+                        <ce:textref>Charzat, M., 2002. Rapport pour mieux identifier les difficultés des personnes en situation de handicap du fait de troubles psychiques et les moyens d’améliorer leur vie et celle de leurs proches. Rapport public à Mme la Ministre Déléguée à la Famille, A l’Enfance et aux personnes handicapées, Ministère de l’emploi et de la solidarité, Paris, Mars 2002, 138 p.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>Chevrier and Juguet, 2003</ce:label>
+                     <ce:other-ref id="oref0020">
+                        <ce:textref>Chevrier, S., Juguet, S., 2003. Arrêt demandé. Rennes, LARES-Enigmatek.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>Cuenot and Roussel, 2009</ce:label>
+                     <ce:other-ref id="oref0025">
+                        <ce:textref>Cuenot, M., Roussel, P., 2009. De la difficulté de quantifier le handicap psychique : des classifications aux enquêtes. In: Delbecq, J., Weber, F. (eds.), Revue française des Affaires sociales, Dossier Handicap psychique et vie quotidienne, pp.65-82.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>Dejeammes, 2006</ce:label>
+                     <ce:other-ref id="oref0030">
+                        <ce:textref>Dejeammes, M., 2006. Handicaps et ville. Voiron, Tecni.Cités, Territorial Editions &amp; CERTU.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>Denis and Pontille, 2008</ce:label>
+                     <ce:other-ref id="oref0035">
+                        <ce:textref>Denis, J., Pontille, D., 2008. Signalétique, cognition et espace public. L’aménagement graphique du métro. In: Actes du colloque: Les dispositifs de médiation organisationnelle technologiques et symbolique dans la communication des organisations. Nice, décembre 2008, pp. 109-114.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>Denis and Pontille, 2010</ce:label>
+                     <ce:other-ref id="oref0040">
+                        <ce:textref>Denis, J., Pontille, D., 2010. Petite sociologie de la signalétique. Les coulisses des panneaux du métro. Paris, Presses des mines.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0045">
+                     <ce:label>Gibson, 1977</ce:label>
+                     <ce:other-ref id="oref0045">
+                        <ce:textref>Gibson, J.J., 1977. The Theory of Affordances. In: Perceiving, Acting, and Knowing, ?, Robert Shaw and John Bransford Editors.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0050">
+                     <ce:label>MA Consortium, 2003</ce:label>
+                     <ce:other-ref id="oref0050">
+                        <ce:textref>MAPLE Consortium, 2003. Can people with cognitive impairments use public transport effectively?. In: Europe-wide review. Retrieved May 25, 2008, from http://www.maple-eu.com/EUReview.htm.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0055">
+                     <ce:label>Miaux, 2008</ce:label>
+                     <ce:other-ref id="oref0055">
+                        <ce:textref>Miaux, S., 2008. Comment la façon d’envisager la marche conditionne la perception de l’environnement urbain et le choix des itinéraires piétonniers – L’expérience de la marche dans deux quartiers de Montréal. In: RTS, numéro thématique : Le piéton et son environnement : Quelles interactions ? Quelles adaptations ? Paris, Lavoisier, n̊101, octobre-décembre 2008, pp. 327-351.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0060">
+                     <ce:label>Newell and Simon, 1972</ce:label>
+                     <ce:other-ref id="oref0060">
+                        <ce:textref>Newell, A., Simon, H., 1972, Human Problem Solving, Prentice Hall, Englewood Cliffs.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0065">
+                     <ce:label>Ocde/Fit, 2009</ce:label>
+                     <ce:other-ref id="oref0065">
+                        <ce:textref>Ocde/Fit, 2009. Déficience cognitive, santé mentale et transports – vers une accessibilité pour tous. Forum International des Transports, OCDE, 31 p.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0070">
+                     <ce:label>Pene, 1999</ce:label>
+                     <ce:other-ref id="oref0070">
+                        <ce:textref>Pene, S., 1999. Récits de cheminements : l’imaginaire piéton est-il multimodal ? In: Joseph, I. (ed.), Villes en gares. La-Tour-d’Aigues, L’Aube, pp 259-271.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0075">
+                     <ce:label>Petiteau and Pasquier, 2001</ce:label>
+                     <ce:other-ref id="oref0075">
+                        <ce:textref>Petiteau, J-Y., Pasquier, E., 2001. La méthode des itinéraires : récits et parcours. In Grosjean, M., Thibaud, J-P. (éds.). L’espace urbain en méthodes. Marseille, Parenthèses, pp. 63-77.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0080">
+                     <ce:label>Ramadier, 2011</ce:label>
+                     <ce:other-ref id="oref0080">
+                        <ce:textref>Ramadier, T., 2011. L’accessibilité socio-cognitive. Actes du 11e colloque : Mobilités Spatiales et Fluidité Sociale. Grenoble.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0085">
+                     <ce:label>Rissera et al., 2012</ce:label>
+                     <ce:other-ref id="oref0085">
+                        <ce:textref>Rissera, R., Iwarssonb, S., Ståhlc, A., 2012. How do people with cognitive functional limitations post-stroke manage the use of buses in local public transport? In: Transportation Research Part F: Traffic Psychology and Behaviour. Vol. 15, Issue 2, March 2012, pp. 111-118.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0090">
+                     <ce:label>Rosenkvist, 2008</ce:label>
+                     <ce:other-ref id="oref0090">
+                        <ce:textref>Rosenkvist, J., 2008. Mobility in Public Environments and Use of Public Transport Exploring the situation for people with acquired cognitive functional limitations, Licentiate thesis, Lunds Universitet.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0095">
+                     <ce:label>Roussel, 2006</ce:label>
+                     <ce:other-ref id="oref0095">
+                        <ce:textref>Roussel, P., 2006. Quelle vie sociale et économique pour les personnes ayant des troubles mentaux ? Une exploitation de l’enquête HID 1999 auprès des personnes vivant à domicile. Rapport remis à la DGAS, CTNERHI, novembre 2006, 168 p.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0100">
+                     <ce:label>Saby, 2013</ce:label>
+                     <ce:other-ref id="oref0100">
+                        <ce:textref>Saby, L., 2013. Handicaps mentaux, cognitifs et psychiques. Quelles pistes pour améliorer l’accessibilité ?, Fiche CERTU n̊1, octobre 2013, Lyon, Editions du Certu.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0105">
+                     <ce:label>Thibaud, 2001</ce:label>
+                     <ce:other-ref id="oref0105">
+                        <ce:textref>Thibaud, J-P., 2001. La méthode des parcours commentés. In: Grosjean, M., Thibaud J-P. (éds.). L’espace urbain en méthodes. Marseille, Parenthèses, pp.79-99.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0110">
+                     <ce:label>Velche, 2007</ce:label>
+                     <ce:other-ref id="oref0110">
+                        <ce:textref>Velche, D., 2007. Les handicaps psychiques et les services de transport. In: Dejeammes M. (éd.). Handicaps et ville. Voiron, Territorial Editions &amp; CERTU, fiche de cas n̊ 4.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,274 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1877042812035549</prism:url><dc:identifier>doi:10.1016/j.sbspro.2012.09.113</dc:identifier><eid>1-s2.0-S1877042812035549</eid><prism:doi>10.1016/j.sbspro.2012.09.113</prism:doi><pii>S1877-0428(12)03554-9</pii><dc:title>The Intellectual Capital - a Significant, but Insufficiently Highlighted Source in the Financial Situations </dc:title><prism:publicationName>Procedia - Social and Behavioral Sciences</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>18770428</prism:issn><prism:volume>62</prism:volume><prism:startingPage>668</prism:startingPage><prism:endingPage>671</prism:endingPage><prism:pageRange>668-671</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2012-10-24</prism:coverDate><prism:coverDisplayDate>24 October 2012</prism:coverDisplayDate><prism:copyright>Copyright © 2012 Published by Elsevier Ltd.</prism:copyright><prism:publisher>Published by Elsevier Ltd.</prism:publisher><prism:issueName>World Conference on Business, Economics and Management (BEM-2012), May 4–6 2012, Antalya, Turkey</prism:issueName><dc:creator>Gădău, Liana</dc:creator><dc:description>
+               Abstract
+               
+                  Our objective is to analyse on the chosen theme the aspects concerning the way the intellectual capital is presented in the financial situations of an organization. We observe that although the intellectual material, formed of knowledge, information, intellectual property and experience, have become the main source of revenues and expenses, it is not sufficiently presented in the financial situations. Furthermore, the accounting information regarding these intangible resources are poor represented or even non-existing in these statements. This intellectual capital must be evaluated and represented as complex as possible, so that the compliance with the true and fair view is fulfilled. The new concept of knowledge society, where the human resource with an intellectual character has a special importance and can influence the growth of value creation in report with other resources, does not sufficiently takes into account this human resource used for the construction of the accounting information necessary to the financial situations. The study tries to highlight the necessity of improvement of the existing reporting system, so that a true and fair representation of the organization's activity is accomplished, an objective which can be fulfilled through the presentat ion of financial situations, situations which constitute a complete and real base for taking decisions, in a so called society based on knowledge.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/3.0/</openaccessUserLicense><dcterms:subject>Intellectual capital</dcterms:subject><dcterms:subject>intangible assets</dcterms:subject><dcterms:subject>intellectual potential</dcterms:subject><dcterms:subject>financial situations</dcterms:subject><dcterms:subject>true and fair values principle</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1877042812035549" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1877042812035549" rel="scidir"/></coredata><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>277811</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291845</xocs:ssid>
+         <xocs:ssid type="subj">291934</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Procedia - Social and Behavioral Sciences</xocs:srctitle>
+      <xocs:normalized-srctitle>PROCEDIASOCIALBEHAVIORALSCIENCES</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20121217">2012-12-17</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20121217">2012-12-17</xocs:available-online-date>
+      <xocs:ew-transaction-id>2014-11-18T16:43:20</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1877042812035549</xocs:eid>
+      <xocs:pii-formatted>S1877-0428(12)03554-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1877042812035549</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.sbspro.2012.09.113</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1877042812X00338</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T07:20:17.011257-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20121024</xocs:date-search-begin>
+      <xocs:year-nav>2012</xocs:year-nav>
+      <xocs:indexeddate epoch="1355702400">2012-12-17T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1877-0428</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>18770428</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>62</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>62</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 62</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>110</xocs:sort-order>
+      <xocs:first-fp>668</xocs:first-fp>
+      <xocs:last-lp>671</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>668</xocs:first-page>
+         <xocs:last-page>671</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20121024</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>24 October 2012</xocs:cover-date-text>
+      <xocs:cover-date-start>2012-10-24</xocs:cover-date-start>
+      <xocs:cover-date-year>2012</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>World Conference on Business, Economics and Management (BEM-2012), May 4–6 2012, Antalya, Turkey</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Prof. Dr.</ce:degrees>
+                     <ce:given-name>Huseyin</ce:given-name>
+                     <ce:surname>Uzunboylu</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2012 Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>INTELLECTUALCAPITALASIGNIFICANTBUTINSUFFICIENTLYHIGHLIGHTEDSOURCEINFINANCIALSITUATIONS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>GADAU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>L</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="bib0005"/>
+         <xocs:ref-info refid="bib0010"/>
+         <xocs:ref-info refid="bib0015"/>
+         <xocs:ref-info refid="bib0020">
+            <xocs:ref-normalized-surname>MCPHERSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>246</xocs:ref-first-fp>
+            <xocs:ref-last-lp>248</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0025"/>
+         <xocs:ref-info refid="bib0030"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>GADAUX2012X668</xocs:refkey3>
+         <xocs:refkey4lp>GADAUX2012X668X671</xocs:refkey4lp>
+         <xocs:refkey4ai>GADAUX2012X668XL</xocs:refkey4ai>
+         <xocs:refkey5>GADAUX2012X668X671XL</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2013-07-16T12:31:50Z</xocs:oa-access-effective-date>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/3.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/GEN_UNBOUNDED_ESWaived">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1877-0428(12)03554-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1877042812035549</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1877042812035549</xocs:eid>
+         <xocs:doi>10.1016/j.sbspro.2012.09.113</xocs:doi>
+         <xocs:cid>277811</xocs:cid>
+         <xocs:timestamp>2014-11-19T13:50:21.04778-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2012-10-24</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1877042812035549-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1877042812035549/MAIN/application/pdf/c83597747258f58f38e50ee72d496fc8/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1877042812035549/MAIN/application/pdf/c83597747258f58f38e50ee72d496fc8/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>660186</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1877042812035549-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1877042812035549/PREVIEW/image/png/c16adda76ae75998a63728b86de7ad36/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1877042812035549/PREVIEW/image/png/c16adda76ae75998a63728b86de7ad36/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>59087</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext> Procedia - Social and Behavioral Sciences  62 ( 2012 )  668 â€“ 671  1877-0428  2012 Published by Elsevier Ltd. Selection and/or peer review under responsibility of Prof. Dr. HÃ¼seyin Arasli doi: 10.1016/j.sbspro.2012.09.113  WC-BEM 2012  The intellectual capital  a significant, but insufficiently highlighted  source in the financial situations  Liana G   a  *  a Lect., PhD., Spiru Haret University, Bucharest, 014730, Romania      Abstract  Our objective is to analyse on the chosen theme the aspects concerning the way the intellectual capital is presented in the  financial situations of an organization. We observe that although the intellectual material, formed of knowledge, information,  intellectual property and experience, have become the main source of revenues and expenses, it is not sufficiently presented in  the financial situations. Furthermore, the accounting information regarding these intangible resources are poor represented or  even non-existing in these statements. This intellectual capital must be evaluated and represented as complex as possible, so that  the compliance with the true and fair view is fulfilled. The new concept of knowledge society, where the human resource with an  intellectual character has a special importance and can influence the growth of value creation in report with other resources, does  not sufficiently takes into account this human resource used for the construction of the accounting information necessary to the  financial situations. The study tries to highlight the necessity of improvement of the existing reporting system, so that a true and  ion of  financial situations, situations which constitute a complete and real base for taking decisions, in a so called society based on  knowledge. Keywords: Intellectual capital, intangible assets, intellectual potential, financial situations, true and fair values principle;  1. Introduction  Nowadays, our society is going through multiple changes, changes that have produced mutations in they way  things are perceived at the current moment and in the near future. As a consequence of these changes, the source of  economic values and wealth is represented less by the production of material goods, and more by the creation and  manipulation of information, ideas and knowledge. Therefore, the human intelligence has become a very important  factor for organizations, with the new economy influenced by the intangible assets, such as knowledge and ideas. In  other words, the knowledge has become essential in the economic development of an enterprise, being used to create  competitive advantages in order for the organization to maintain its position on market.      On accounting level, a question is rising: how is the intellectual capital put into value, so that the financial        * Corresponding Author name. Tel.: +4-072-420-3579     E-mail address: lianagadau@yahoo.com   2012 Published by Elsevier Ltd. Selection and/or peer review under responsibility of Prof. Dr. Huseyin Arasli Available online at www.sciencedirect.com 2 Published by Els vier Ltd. Selection and/or pe r revi w under responsibility of Prof. Dr. HÃ¼seyin Arasli Open access under CC BY-NC-ND license. Open access under CC BY-NC-ND license. 669 Liana GaË˜daË˜u /  Procedia - Social and Behavioral Sciences  62 ( 2012 )  668 â€“ 671  2. Guidelines on the intellectual capital  2.1. The intangible assets and the intellectual capital-key factors of the convergence      The knowledge, like the intellectual capital, has become a priority, with the former one in comparison with the  tangible assets, and the latter in comparison with other physical forms of capital. In the specialized literature, terms  as intangible assets, intellectual capital or knowledge assets are considered synonyms, (Br  Jianu, 2006).         resources. Therefore, the starting point for researchers from accounting and management fields is represented by  different classification of the intellectual capital. In the accounting literature, a usual classification is the following  one, in which the intellectual capital contains the next four categories of assets, (Curaj et al, 2008).  - Market assets  commercial mark, cession contract, franchising, market segmentations, distribution channels  etc. This type of asset can give to organization competitive advantages;  - Substructure assets  technologies, working methodologies, specific technical proceedings which help the  organization to function efficiently. These types of assets form the culture of an organization, its financial structure,  data bases and management systems;  - Assets as intellectual property  authors copyright, invention brevets, drawings an industrial models, know- how, production secrets etc;  - Human values  abilities and professional experience, knowledge, talents used in specific activities of the  organization. Moreover, the intellectual capital refers not only to the existence of some actives, values or resources,  from the simple presence of resources. An important aspect is the way these resources are put into value, and how a  resource transforms into another one. Another frequently used classification is the one in which the intellectual  capital is structured into three components: the human capital, the structural capital and the relational capital, (Suciu,  2008).   - The human capital   considered the most important resource of an organisation, especially when we talk about the creation of a future  value.  - The structural capital - represents the human capital substructure, including the organisation abilities to adapt to  the requirements of the market, and it contains also the managerial philosophy, the corporatist culture, trade marks,  the intellectual property, management processes and other intangible assets owned by the enterprise, but which are  not registered in the balance sheet. The structural capital is frequently interpreted as containing hardware or other  equipments, interpretation which is wrong because these are only instruments already  register in the financial  situations as assets.  - The relational capital -  creditors, the state, stock market etc.       There are also other classifications of the intellectual capital, but in most cases the differences regard the form  and not the fund. In order to measure and manage in an efficient way the intellectual capital, and to give it a real  dimension, it is important to identify exactly as possible its components.  2.2. The intellectual capital measurement      We observe that the traditional accounting systems reflects a partial (incomplete) reality and the evaluation  instruments offered by these systems are less and less relevant, appropriate for the measurement of the value of  these organizations in which the intangible assets represents the essential source for wealth. To the real value of the  products realized by the organization contribute also the knowledge and the abilities of those who conceived and  produce them, but also the marketing strategy of these organizations that intent to sell these products. These are the  ation, but they are not reflected in the balance sheet.   670   Liana GaË˜daË˜u /  Procedia - Social and Behavioral Sciences  62 ( 2012 )  668 â€“ 671      The intellectual capital ensures the grey matter of the organization, and the measurement of knowledge as assets  growing number of intangible  factors. One of the traditional accounting limits is that it highlights less or even at all these new intangible assets of  the organization. However, this problem became an interesting subject which was studied by numerous researchers.        We consider that the recognition, evaluation and measurement of the intangible assets is extremely important for  an organization because on one hand it highlight the potential and the real value of the patrimony and on the other  hand these assets need to be presented in the financial situations of an organization in order to reflect as realistically  as possible its activity. We observe that in the specialized literature there are numerous theories and development  models to measure the intellectual capital, an aspect which reflects also the growing interest for the intangible  actives incorporated in this concept.       We will stop at the classification made by Sveiby, (Sveiby, 2001) which groups all the existing approaches for the  intellectual capital measurement into the following categories:  - Models based on the direct evaluation of the intellectual capital- through which the intangible assets value is  estimated through the identification of different components and their separate or together measurement;  - Models that are based on the market value- through which the intellectual capital is obtained as a difference  between the value market of the enterprise and the social capital  - Models based on actives revenues- are based on the traditional concepts of accounting, formulas which include  the brut incomes and other indicators used in the evaluation of the intellectual capital;  - Models based on frame scores- through which the components of the intellectual capital is defined (human,  structural and market capital) and indexes that are highlighted through graphics or charts.      These models are more complex than the financial ones, and incorporate concepts such as the human capital, the  structural capital and market capital. It is considered that these models offer more relevant results as the  measurement of the intellectual capital is concerned, because the approach is more balances, by taking into account  the non- financial aspects. What we want to highlight is that the intangible assets can be measured in the financial  situations, so in order to improve the image of the accounting information of an organization based on knowledge,  we must used these formulas.   2.3. The extension of the accounting objective over the intellectual potential      The financial situations of an organization reflect only a part of the intangible assets, although in many  organizations these have become the main source of revenues and expenses. Although the human resource has an  intellectual character (considered the component which contains the true innovating wealth of an organization), this  resource has a special importance and can produce bigger effects in the growth of value, as against the other  resources, ( , 2003).       We observe that in accounting treatments, in the construction of accounting information, in the drawing up of the  financial situations, this resource it is insufficiently taken into account. In this context of idea, we can state that the  organization in which the intangible assets represents the essential source for wealth. Analyzing the requirements  found in IAS 38 Intangible Assets, we consider that the changes over the content of the international standard must  be applied so that the components of the intellectual capital adapt better to the definition of intangible assets,  regarding the identifiable character of this one, the control over the resources and the existence of some future  economic benefits.    It is very probable that in the actual form of IAS 38 Intangible Assets, without additional observations, a  component of the human capital would not correspond to the criteria specified above, in order to be consider an  intangible asset, therefore the organization would not preset it in the balance sheet at intangible asset section,  although in reality this value, it proportion in the total intangible asset is significant.      Therefore, first the study wants to highlight the necessity of improving the exiting reporting system on the  intellectual capital in general and the intellectual potential in particular, in order to obtain the most realistic image of  the organi making process in a so called economy based on knowledge  In this context, we propose the introduction in the balance sheet ction, after the  Commercial Mark of a new active The intellectual potential  671 Liana GaË˜daË˜u /  Procedia - Social and Behavioral Sciences  62 ( 2012 )  668 â€“ 671  position Reserves regarding the potential intellectual, proposals which concerns the presentation of a realistic  image of the intellectual potential of an organization (Table 1).  Table 1. Section from the balance sheet according to the proposals      No. Balance       at:   rd. Last Current     year year  A. FIXED ASSETS     I. INTANGIBLE ASSETS     1. Formation expenses      2. Development expenses      3. Concessions, patents, licenses trademark and similar rights and intangible  assets      4. Commercial fund     5. Intellectual potential     6. Advances and intangible assets in progress      .............................................................................. ....... .............. .........  J. CAPITAL AND RESERVES     I. Capital     II. Shared premium      III. Reevaluation reserves     IV. Reserves:     1. Legal reserves     2. Statutory or contractual reserves     3. Realized revaluation reserves     4. Reserves regarding the intellectual potential      5. Other reserves     .............................................................................. ...... ........... ..........           Also, we consider necessary the presentation of additional information in the Notes to the financial situations on  the accounting treatments applied to the intellectual capital, (presently, it does not contain at all or contains little  information on these types of intangible assets). These requirements must be correlated with the content of IAS 1  The financial situation presentation, which in the section where types of information are detailed must refer directly  to the intellectual capital.   3. Conclusion      We consider that the actual modes of financial situations do not correspond to the future presentation of  accounting, accounting which must adapt to the new requirements of the knowledge society. We consider that the  human resource with intellectual capital (which represent the true plus value) must be presented in the field and  object of the accounting, an accounting treatment must be applied, so that a complex, credible and pertinent  information is presented. This aspect does not exclude the other components of the intellectual capital, for which the  accounting must find adequate accounting treatment regarding the recognition, evaluation and presentation in the  financial statements, so that the wealth would not remain hidden (unidentified) or ignored just because of the  insufficiencies of the actual accounting system.  References  Journal of International Conference on Commerce, March, Academy of       Economic Studies, 72-77.  Curaj, A., et al. (2008 www.knowledgedynamics.ro/?p=12.   (2003). -39.  Mc Pherson, P., &amp; Pike, S. (2001). Accounting, empirical measurement and intellectual capital. Journal of Intellectual Capital, 3, 246-248.  www.moyak.com/papers/convergence-economyknowledge-       competitive.pdf.  Sveiby, K., E. (2001). Methods for Measuring Intangible Assets. Available from: www.sveiby.com/articles/IntangibleMethods.htm.      this one, the control over the resources and the existence of some future  economic benefits.    It is very probable that in the actual form of IAS 38 Intangible Assets, without additional observations, a  component of the human capital would not correspond to the criteria specified above, in order to be consider an  intangible asset, therefore the organization would not preset it in the balance sheet at intangible asset section,  although in reality this value, it proportion in the total intangible asset is significant.      Therefore, first the study wants to highlight the necessity of improving the exiting reporting system on the  intellectual capital in general and the intellectual potential in particular, in order to obtain the most realistic image of  the organi making process in a so called economy based on knowledge  In this context, we propose the introduction in the balance sheet ction, after the  Commercial Mark of a new active The intellectual potential  671 Liana GaË˜daË˜u /  Procedia - Social and Behavioral Sciences  62 ( 2012 )  668 â€“ 671  position Reserves regarding the potential intellectual, proposals which concerns the presentation of a realistic  image of the intellectual po</xocs:rawtext>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.1" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>SBSPRO</jid>
+            <aid>6932</aid>
+            <ce:pii>S1877-0428(12)03554-9</ce:pii>
+            <ce:doi>10.1016/j.sbspro.2012.09.113</ce:doi>
+            <ce:copyright type="unknown" year="2012"/>
+         </item-info>
+         <head>
+            <ce:title>The Intellectual Capital - a Significant, but Insufficiently Highlighted Source in the Financial Situations</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Liana</ce:given-name>
+                  <ce:surname>Gădău</ce:surname>
+                  <ce:cross-ref refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  <ce:e-address type="email">lianagadau@yahoo.com</ce:e-address>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Lect., PhD., Spiru Haret University, Bucharest, 014730, Romania</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Tel.: +4 072 420 3579.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract class="author">
+               <ce:section-title>Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para id="spar0005" view="all">Our objective is to analyse on the chosen theme the aspects concerning the way the intellectual capital is presented in the financial situations of an organization. We observe that although the intellectual material, formed of knowledge, information, intellectual property and experience, have become the main source of revenues and expenses, it is not sufficiently presented in the financial situations. Furthermore, the accounting information regarding these intangible resources are poor represented or even non-existing in these statements. This intellectual capital must be evaluated and represented as complex as possible, so that the compliance with the true and fair view is fulfilled. The new concept of knowledge society, where <ce:italic>the human resource with an intellectual character</ce:italic> has a special importance and can influence the growth of value creation in report with other resources, does not sufficiently takes into account this human resource used for the construction of the accounting information necessary to the financial situations. The study tries to highlight the necessity of improvement of the existing reporting system, so that a true and fair representation of the organization's activity is accomplished, an objective which can be fulfilled through the presentat ion of financial situations, situations which constitute a complete and real base for taking decisions, in a so called <ce:italic>society based on knowledge</ce:italic>.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Intellectual capital</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>intangible assets</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>intellectual potential</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>financial situations</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>true and fair values principle</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>Brătianu and Jianu, 2006</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Brătianu, C., Jianu, I. (2006). Evaluation models for intellectual capital. Journal of International Conference on Commerce, March, Academy of Economic Studies, 72-77.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>Curaj et al., 2008</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Curaj, A., et al. (2008). Inteligenţa intelectuală. Available from: www.knowledgedynamics.ro/?p=12.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>Dobroţeanu, 2003</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Dobroţeanu, L. (2003). Geneză şi viitor în contabilitate. Bucureşti: Ed. Economică, 23-39.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>Mc Pherson and Pike, 2001</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Mc Pherson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Pike</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Accounting, empirical measurement and intellectual capital</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Intellectual Capital</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>246</sb:first-page>
+                              <sb:last-page>248</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>Suciu, 2008</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Suciu M.C. (2008). Activele intangibile şi capitalul intelectual. Available from: www.moyak.com/papers/convergence-economyknowledge- competitive.pdf.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>Sveiby, 2001</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Sveiby, K., E. (2001). Methods for Measuring Intangible Assets. Available from: www.sveiby.com/articles/IntangibleMethods.htm.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

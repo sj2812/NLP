@@ -1,0 +1,693 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0375947417303317</prism:url><dc:identifier>doi:10.1016/j.nuclphysa.2017.07.013</dc:identifier><eid>1-s2.0-S0375947417303317</eid><prism:doi>10.1016/j.nuclphysa.2017.07.013</prism:doi><pii>S0375-9474(17)30331-7</pii><dc:title>Highlights of experimental results from ALICE </dc:title><prism:publicationName>Nuclear Physics A</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>03759474</prism:issn><prism:volume>967</prism:volume><prism:startingPage>43</prism:startingPage><prism:endingPage>50</prism:endingPage><prism:pageRange>43-50</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2017-11-30</prism:coverDate><prism:coverDisplayDate>November 2017</prism:coverDisplayDate><prism:copyright>© 2017 The Author(s). Published by Elsevier B.V.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier B.V.</prism:publisher><prism:issueName>The 26th International Conference on Ultra-relativistic Nucleus-Nucleus Collisions: Quark Matter 2017</prism:issueName><dc:creator>Timmins, Anthony</dc:creator><dc:description>
+               Abstract
+               
+                  Highlights of recent results from the ALICE collaboration are presented. The collision systems investigated are Pb–Pb, p–Pb, and pp, and results from studies of bulk particle production, azimuthal correlations, open and hidden heavy flavor, and hard probes are shown. The results provide key constraints on transport properties of the QCD matter, the initial conditions, the dynamics of heavy quarks in hot and dense systems, and the coupling of hard probes with the medium. A brief description of the ALICE upgrade program is also given.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>Third-Party Sponsor</openaccessSponsorName><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><link href="https://api.elsevier.com/content/article/pii/S0375947417303317" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0375947417303317" rel="scidir"/></coredata><scopus-id>85032209560</scopus-id><scopus-eid>2-s2.0-85032209560</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85032209560" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271584</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291829</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Nuclear Physics A</xocs:srctitle>
+      <xocs:normalized-srctitle>NUCLEARPHYSICSA</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20170925">2017-09-25</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20170925">2017-09-25</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20170925">2017-09-25</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20170925">2017-09-25</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2017-10-05T17:08:59</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0375947417303317</xocs:eid>
+      <xocs:pii-formatted>S0375-9474(17)30331-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0375947417303317</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.nuclphysa.2017.07.013</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0375947417X00109</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20180102">2018-01-02T19:32:32.850659Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20171101</xocs:date-search-begin>
+      <xocs:date-search-end>20171130</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1506367176">2017-09-25T19:19:36.809379Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confabbr confdate confeditor confloc contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth auth authfirstini authfull authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0375-9474</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>03759474</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>SPONSOR</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>967</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>967</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 967</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>10</xocs:sort-order>
+      <xocs:first-fp>43</xocs:first-fp>
+      <xocs:last-lp>50</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>43</xocs:first-page>
+         <xocs:last-page>50</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201711</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>November 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-11-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-11-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>The 26th International Conference on Ultra-relativistic Nucleus-Nucleus Collisions: Quark Matter 2017</ce:title>
+            <xocs:conference-info>
+               <xocs:abbr-name>Quark Matter 2017</xocs:abbr-name>
+               <xocs:venue>Hyatt Regency Hotel, Chicago, USA</xocs:venue>
+               <xocs:conference-date-text>5–11 February 2017</xocs:conference-date-text>
+               <xocs:date-range>
+                  <xocs:start-date>20170205</xocs:start-date>
+                  <xocs:end-date>20170211</xocs:end-date>
+               </xocs:date-range>
+            </xocs:conference-info>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author author-id="S0375947417X00109-d9a01d88a85ef1c6804361b82cf47411">
+                     <ce:given-name>Ulrich</ce:given-name>
+                     <ce:surname>Heinz</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S0375947417X00109-45e6d05d6c3999cce87b9f682bf8fee9">
+                     <ce:given-name>Olga</ce:given-name>
+                     <ce:surname>Evdokimov</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S0375947417X00109-c3db9a4c18ab94c2862e8bae6877ed59">
+                     <ce:given-name>Peter</ce:given-name>
+                     <ce:surname>Jacobs</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>PLENARY SESSIONS</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 The Author(s). Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>HIGHLIGHTSEXPERIMENTALRESULTSALICE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>TIMMINS</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="bib31s1">
+            <xocs:ref-normalized-surname>AAMODT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-article-number>S08002</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="boref0010"/>
+         <xocs:ref-info refid="bib33s1">
+            <xocs:ref-normalized-surname>ADAM</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="boref0020"/>
+         <xocs:ref-info refid="bib35s1">
+            <xocs:ref-normalized-surname>RETIERE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-article-number>044907</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="boref0030"/>
+         <xocs:ref-info refid="boref0040"/>
+         <xocs:ref-info refid="boref0050"/>
+         <xocs:ref-info refid="bib39s1">
+            <xocs:ref-normalized-surname>ACHARYA</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="boref0060"/>
+         <xocs:ref-info refid="boref0070"/>
+         <xocs:ref-info refid="boref0080"/>
+         <xocs:ref-info refid="bib3133s1">
+            <xocs:ref-normalized-surname>KHACHATRYAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-article-number>122301</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3134s1">
+            <xocs:ref-normalized-surname>SCHUKRAFT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>394</xocs:ref-first-fp>
+            <xocs:ref-last-lp>398</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="boref0090"/>
+         <xocs:ref-info refid="bib3136s1">
+            <xocs:ref-normalized-surname>ABELEV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-article-number>190</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="boref0100"/>
+         <xocs:ref-info refid="boref0110"/>
+         <xocs:ref-info refid="boref0120"/>
+         <xocs:ref-info refid="boref0130"/>
+         <xocs:ref-info refid="boref0140"/>
+         <xocs:ref-info refid="boref0150"/>
+         <xocs:ref-info refid="boref0160"/>
+         <xocs:ref-info refid="boref0170"/>
+         <xocs:ref-info refid="bib3235s1">
+            <xocs:ref-normalized-surname>ACHARYA</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3236s1">
+            <xocs:ref-normalized-surname>ACHARYA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>238</xocs:ref-first-fp>
+            <xocs:ref-last-lp>250</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="boref0180"/>
+         <xocs:ref-info refid="boref0190"/>
+         <xocs:ref-info refid="boref0200"/>
+         <xocs:ref-info refid="bib3330s1">
+            <xocs:ref-normalized-surname>ADAM</xocs:ref-normalized-surname>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="boref0210"/>
+         <xocs:ref-info refid="boref0220"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>TIMMINSX2017X43</xocs:refkey3>
+         <xocs:refkey4lp>TIMMINSX2017X43X50</xocs:refkey4lp>
+         <xocs:refkey4ai>TIMMINSX2017X43XA</xocs:refkey4ai>
+         <xocs:refkey5>TIMMINSX2017X43X50XA</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2017-07-13T07:41:46Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>Third-Party Sponsor</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2019-09-25T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 The Author(s). Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0375-9474(17)30331-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0375947417303317</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0375947417303317</xocs:eid>
+         <xocs:doi>10.1016/j.nuclphysa.2017.07.013</xocs:doi>
+         <xocs:cid>271584</xocs:cid>
+         <xocs:timestamp>2017-10-05T12:42:54.792707-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2017-11-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-11-30</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>SPONSOR</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0375947417303317-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0375947417303317/MAIN/application/pdf/104c73dbe760bf22a71ff34d7327ee98/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0375947417303317/MAIN/application/pdf/104c73dbe760bf22a71ff34d7327ee98/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>847242</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0375947417303317-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0375947417303317/PREVIEW/image/png/686c49094ac0a211997fd1c9642cfa94/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0375947417303317/PREVIEW/image/png/686c49094ac0a211997fd1c9642cfa94/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>47947</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>Highlights of experimental results from ALICE Anthony Timmins for the ALICE Collaboration 406C Science &amp; Research, Building 1, Department of Physics, University of Houston, Houston, TX 77204, United States Abstract Highlights of recent results from the ALICE collaboration are presented. The collision systems investigated are Pbâ€“Pb, pâ€“Pb, and pp, and results from studies of bulk particle production, azimuthal correlations, open and hidden heavy ï¬‚avor, and hard probes are shown. The results provide key constraints on transport properties of the QCD matter, the initial conditions, the dynamics of heavy quarks in hot and dense systems, and the coupling of hard probes with the medium. A brief description of the ALICE upgrade program is also given. 1. Introduction ALICE is the only dedicated heavy-ion experiment at the Large Hadron Collider (LHC), and has an extensive set of sub-detectors which can probe a broad set of observables from heavy-ion and elementary collisions. The ALICE collaboration presented 28 parallel talks and over 60 posters at this Quark Matter conference. The results presented are based on data sampled from LHC running period 1, and the ongoing running period 2. Table 1 shows the corresponding collisions particle species and center of mass energies for those periods. The integrated luminosities obtained in running period 2 were signiï¬�cantly higher than running period 1. Running Period 1 (2009-2013) Running Period 2 (2015-present) Pbâ€“Pb âˆš sNN = 2.76 TeV Pbâ€“Pb âˆš sNN = 5.02 TeV pâ€“Pb âˆš sNN = 5.02 TeV pâ€“Pb âˆš sNN = 5.02, 8 TeV pp âˆš s = 0.9, 2.76, 7, 8 TeV pp âˆš s = 5, 13 TeV Table 1. Overview of collisions systems and energies investigated at the LHC. The primary detector of ALICE is the Time Projection Chamber (TPC), which measures charged par- ticles via their ionization trails in the gaseous region. The TPC has an angular acceptance of 0 &lt; Ï• &lt; 2Ï€, |Î·| &lt; 0.9 for tracks with full radial track length, and |Î·| &lt; 1.5 for tracks of reduced length. Information from the Inner Tracking System (ITS) is used to improve the spatial resolution of TPC tracks, which helps with the rejection of secondary tracks and to improve the momentum resolution. Primary vertex information is Available online at www.sciencedirect.com Nuclear Physics A 967 (2017) 43â€“50 0375-9474/Â© 2017 The Author(s). Published by Elsevier B.V. www.elsevier.com/locate/nuclphysa http://dx.doi.org/10.1016/j.nuclphysa.2017.07.013 This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/). Fig. 1. Event display for a single Pbâ€“Pb âˆš sNN = 5.02 TeV 0 âˆ’ 5% central collision. provided by the TPC and the Silicon Pixel Detector (SPD). Two VZERO counters, each containing two ar- rays of scintillator tiles and covering 2.8 &lt; Î· &lt; 5.1 (VZERO-A) and âˆ’3.7 &lt; Î· &lt; âˆ’1.7 (VZERO-C), provide information for triggering and event class determination. The Forward Multiplicity Detector (FMD) detects charged particles in the ranges âˆ’3.5 &lt; Î· &lt; âˆ’1.7 and 1.7 &lt; Î· &lt; 5.0, while the Muon Spectrometer covers the range 2.5 &lt; Î· &lt; 4. The Zero Degree Calorimeters (ZDCs), located 115 meters away from the interaction point, measures spectator neutrons from heavy-ion collisions. At mid-rapidity, particle identiï¬�cation can be carried out using the TPC and ITS, as well as the Time of Flight (TOF) detector and the High Momentum Particle Identiï¬�cation Detector (HMPID). The Transition Radiation Detector (TRD) is used for electron identiï¬�cation. The Electro-Magnetic Calorimeter (EMCal) is primarily used to detect high momentum neu- tral particles at mid-rapidity. A more detailed description of the ALICE detector can be found elsewhere [1]. In Fig. 1, we show an ALICE event display from a Pbâ€“Pb âˆš sNN = 5.02 TeV 0 âˆ’ 5% collision. Using the extensive Î· range provided by the various subdetectors, we are able to determine that 21400Â± 1300 charged particles are produced over full phase space in such collisions [2, 3]. 2. Bulk Particle Production The light ï¬‚avor particles comprise of the majority of the particles produced, and as mentioned, the AL- ICE detector has extensive capabilities regarding particle identiï¬�cation. In Fig. 2, we show inclusive Ï€ and p spectra from Pbâ€“Pb âˆš sNN = 5.02 TeV collisions [4]. All four of our charged hadron PID detectors (TPC, ITS, TOF, HMPID) were used. The increasing radial ï¬‚ow with increasing centrality is particularly evident in the p spectra, where the peak shifts to progressively larger values. A Blast Wave ï¬�t was performed on the Ï€, K, and p spectra simultaneously [5], and the obtained radial ï¬‚ow velocities are the highest ever observed from heavy-ion collisions (ã€ˆÎ²T ã€‰ âˆ¼ 0.66). First measurements of event-by-event net particle moments were also presented [6]. Ratios of diï¬€erent order moments can be directly compared to Lattice QCD calculations, and provide information of the system such as the chemical freeze out temperature. In particular, the second order net proton moments were shown, and it was found these moments are consistent with the expecta- tions from a Skellam distribution, with small corrections for baryon number conservation. The Skellam distribution assumes the distributions of single (anti) protons are Poissonian and independent. A. Timmins / Nuclear Physics A 967 (2017) 43â€“5044 )c (GeV/ T p  0 2 4 6 8 10 12 - 1 ) c ) ( Ge V/ y   d Tp /(d N2     d 5âˆ’10 4âˆ’10 3âˆ’10 2âˆ’10 1âˆ’10 1 10 210 310 410 510 610 710 90-5% x 2 85-10% x 2 710-20% x 2 620-30% x 2 530-40% x 2 440-50% x 2 350-60% x 2 260-70% x 2 170-80% x 2 80-90% -Ï€ + +Ï€ ALICE Preliminary  = 5.02 TeVNNsPb-Pb  Uncertainties: stat. (bars), sys. (boxes) ALIâˆ’PRELâˆ’121387 )c (GeV/ T p  0 2 4 6 8 10 12 - 1 ) c ) ( Ge V/ y   d Tp /(d N2     d 5âˆ’10 4âˆ’10 3âˆ’10 2âˆ’10 1âˆ’10 1 10 210 310 410 510 610 710 90-5% x 2 85-10% x 2 710-20% x 2 620-30% x 2 530-40% x 2 440-50% x 2 350-60% x 2 260-70% x 2 170-80% x 2 80-90% pp +  ALICE Preliminary  = 5.02 TeVNNsPb-Pb  Uncertainties: stat. (bars), sys. (boxes) ALIâˆ’PRELâˆ’121419 Fig. 2. Mid-rapidity inclusive Ï€ and p spectra as a function of centrality from Pbâ€“Pb âˆš sNN = 5.02 TeV collisions [4] ALI-PREL-116294 ALI-PREL-116298 Fig. 3. Yields of strange particles as a function of charged hadron multiplicity from pp âˆš s = 7 and 13 TeV collisions [7]. A. Timmins / Nuclear Physics A 967 (2017) 43â€“50 45 In Fig. 3, we show yields of singly strange particles as a function of charged hadron multiplicity in pp collisions [7]. We ï¬�nd strangeness production scales perfectly with multiplicity when comparing the two energies, and this feature extends to the multi-strange hadrons. Measurements of Ï€0 and Î· spectra in ppâˆš s = 2.76 TeV collisions with unprecedented pT coverage were also shown, and pQCD inspired models were found to describe the spectra over many orders of magnitude [8, 9]. 3. Azimuthal Correlations Measurements of global hyperon polarization with respect to the reaction plane are sensitive to both the vorticity and magnetic ï¬�eld created in heavy-ion collisions. The results from RHIC show decreasing Î› and Î›Â¯ polarization values with energy [10], and our results are shown in the left panel of Fig. 4. They are consistent with extremely small values (less than 0.1%) at the LHC. The Chiral Magnetic Eï¬€ect (CME) is also driven by the presence of a magnetic ï¬�eld, and the corresponding charge separation along the magnetic ï¬�eld direction may be indicative of parity violation in the strong interaction. The charge separation can be characterized by the Î³ correlator [12], which is the diï¬€erence of the three-particle correlator ã€ˆcos(Ï•a + Ï•b + 2Î¨2)ã€‰ for opposite and same sign pairs. However, there have been recent indications that a combination of elliptic ï¬‚ow and charge conservation contribute to this correlator as background [13]. In order to disentangle signal and background, we have employed the Event Shape Engineering technique [14], which can be used to vary the eccentricity (therefore the elliptic ï¬‚ow) for a given centrality. Using initial state model calculations to determine the variation of the magnetic ï¬�eld, we are able to determine the fraction of the CME signal contributing to the the Î³ correlator. That fraction is shown in the right panel of Fig. 4. Integrating over a wide centrality range (10-50%), we ï¬�nd that the fraction has a 1Ïƒ upper limit of âˆ¼ 20%. Centrality (%) 5 10 15 20 25 30 35 40 45 50   (% ) H P 1âˆ’ 0.5âˆ’ 0 0.5 1 1.5 Î› Î› syst. error , centralities 5-15% and 15-50%Î›P for Ïƒ 1Â± , centralities 5-15% and 15-50% Î› P for Ïƒ 1Â±  = 2.76 TeVNNsPb-Pb  c &gt; 0.5 GeV/ T p |y| &lt; 0.5 ALICE Preliminary ALIâˆ’PRELâˆ’119599  centrality percentile 0 10 20 30 40 50 60 CM E f   1âˆ’ 0 1 2 (opp-same)+MC-Glauber ab Î³ (opp-same)+MC-KLN CGC ab Î³ (opp-same)+EKRT ab Î³ ALICE Preliminary  = 2.76 TeVNNsPb-Pb  c &lt; 5.0 GeV/ T p0.2 &lt;  | &lt; 0.8Î·| ALIâˆ’PRELâˆ’116997 Fig. 4. Left Panel: Measurements of global hyperon polarization in Pbâ€“Pb âˆš sNN = 2.76 TeV collisions [11]. Right Panel: Estimate of fraction of CME signal using ESE from Pbâ€“Pb âˆš sNN = 2.76 TeV collisions [12]. In Fig. 5, we show our identiï¬�ed particle v2 from Pbâ€“Pb âˆš sNN = 5.02 TeV collisions [15]. These mea- surements were compared to predictions from the hydrodynamic models, and are sensitive to the hadroniza- tion mechanism and radial ï¬‚ow. Compared to previous ALICE results at lower energy [16], the increased precision of Ï† measurement shows a clear grouping with the protons at low pT (similar mass), and the mesons at mid pT (same quark number). It was found that v2 for diï¬€erent species becomes similar at high pT (pT   10 GeV/c). Given that anisotropies in this region are believed to be driven by the diï¬€erences in in- plane and out-plane jet quenching, these results show such quenching is ï¬‚avor independent. This hypothesis is conï¬�rmed by the similar behaviour of the light hadron RAA, which also converges at high pT for diï¬€erent particle species [7]. Studies which attempt to decompose higher order azimuthal ï¬‚ow vectors in terms of contributions from lower order vectors were also shown [17]. The extracted measurement is Ï‡mn, and when A. Timmins / Nuclear Physics A 967 (2017) 43â€“5046 |&gt;0 .9} Î·Î” {2,  | 2 v   0 0.1 0.2 0.3 5-10% 10-20% )c (GeV/ T p  0 2 4 6 8 10 12 14 20-30% )c (GeV/ T p  0 2 4 6 8 10 12 14 |&gt;0 .9} Î·Î” {2,  | 2 v   0 0.1 0.2 0.3 30-40% )c (GeV/ T p  0 2 4 6 8 10 12 14 40-50% Â±Ï€ Â±K +pp Ï† ALICE Preliminary  = 5.02 TeVNNsPb-Pb  |y| &lt; 0.5  ALI-PREL-124939 Fig. 5. Identiï¬�ed particle v2 from Pbâ€“Pb âˆš sNN = 5.02 TeV collisions [15]. this is zero, higher order ï¬‚ow harmonics are proportional to the corresponding eccentricity. For example, expressing the ï¬‚ow vector as Vn = vneinÎ¨n , the 4th order vector can be decomposed as; V4 = Ï‡442(V2)2 + VL4 (1) We ï¬�nd non-zero values of Ï‡mn, and they indicate signiï¬�cant contributions from lower orders. The non- linear coeï¬ƒcients Ï‡mn were found to have diï¬€erent sensitivities to the initial anisotropy and the viscosity of the medium, and can be used to disentangle the two eï¬€ects. 4. Open and Hidden Heavy Flavor The transport parameters that govern heavy quark interactions with the medium in heavy-ion collisions can be calculated by various approaches e.g. perturbative QCD, eï¬€ective potential models from lattice QCD, and AdS/CFT. The generation of heavy quark v2 is sensitive to these transport parameters, and we show measurements of J/Î¨ v2 (event plane method) from Pbâ€“Pb âˆš sNN = 5.02 TeV collisions in Fig. 6. These are the ï¬�rst measurements that show deï¬�nitively that the charm quark ï¬‚ows at the LHC. Comparisons to the open heavy-ï¬‚avor D mesons are also shown for the same energy. There are diï¬€erences at low pT, presumably related to the diï¬€erences in light and heavy quark ï¬‚ow. Such comparisons should help constrain the hadronization mechanisms of the charm quark. In the left panel of Fig. 7, we show D meson nuclear modiï¬�cation factor RAA as a function of pT from Pbâ€“Pb âˆš sNN = 5.02 TeV collisions [18]. A suppression is observed over the whole pT range, which is qualitatively reproduced by the various model calculations. However, there is clearly an ambiguity regarding the model calculations, which can be potentially resolved by comparing other measurements (e.g. v2) with the same models. Heavy Flavor Decay Muon RAA as a function of pT were shown [20], and we found little (if any) energy dependence when comparing Pbâ€“Pb collisions with âˆš sNN = 2.76 and 5.02 TeV up to pT âˆ¼ 20 GeV/c. Moving back to hidden heavy-ï¬‚avor, measurements of integrated J/Î¨ RAA were shown for both the J/Î¨ â†’ e+ + eâˆ’ and J/Î¨ â†’ Î¼+ + Î¼âˆ’ channels from Pbâ€“Pb âˆšsNN = 5.02 TeV collisions [19, 21]. Transport models including both in-medium dissociation and recombination eï¬€ects were able to reproduce the observed suppressions reasonably well. In the right panel of Fig. 7 we show J/Î¨ RAA as a function of rapidity (ycms) from pâ€“Pb âˆš sNN = 8 TeV collisions [19], which help constrain the initial state and cold nuclear matter eï¬€ects relevant for the A. Timmins / Nuclear Physics A 967 (2017) 43â€“50 47 ALI-PREL-119009 Fig. 6. Open and hidden heavy ï¬‚avor v2 from Pbâ€“Pb âˆš sNN = 5.02 TeV collisions [18, 19] heavy-ion measurements. A suppression is observed in the p going direction, while RAA is consistent with 1 in the Pb going direction. The various models (shadowing, energy loss, CGC) appear to describe the ycms dependence. For the p going direction, RAA as a function of pT was found to be most suppressed at low pT and consistent with 1 at pT &gt; 6 GeV/c. The same models explored in the right panel of Fig. 7 were found to describe the pT dependence. Regarding J/Î¨ production in pp âˆš s = 13 TeV collisions, the yields were shown to scale approximately linearly with the charge hadron multiplicity [22]. This dependence was described rather well with phenomenological models including Multiple Parton Interactions. Our ï¬�rst di- electron continuum results from pp âˆš s = 13 TeV collisions where also shown, and we found no change in shape comparing low to high multiplicity collisions [23]. 5. Hard Probes The jet mass is sensitive to the initial virtuality of the parton at the origin of the shower, and may tem- porarily increase in a hot QCD medium, leading to a larger gluon radiation probability [25]. It is deï¬�ned as the diï¬€erence between the energy of the jet (Ejet) and its transverse (pT,jet) and longitudinal (pz,jet) momen- tum: Mjet = âˆš E2jet âˆ’ p2T,jet âˆ’ pz,jet2 (2) Our ï¬�rst measurements of the average jet mass for reconstructed charged hadron jets in Pbâ€“Pb âˆš sNN = 2.76 TeV collisions are shown in the left panel of Fig. 8, where the average mass increases with jet pT [24]. Models with quenching (JEWEL+PYTHIA recoil on and Q-PYTHIA) indeed predict larger values compare to the vacuum model (PYTHIA Perugia 2011 tunes), however, somewhat surprisingly, the vacuum model is closer to the data. The pâ€“Pb âˆš sNN = 5.02 TeV measurements were also consistent with Pb-Pb, perhaps indicating that much of the extra gluon radiation is outside of the jet cone. Our ï¬�rst measurements of N-subjettiness (Ï„2/Ï„1) in Pbâ€“Pb âˆš sNN = 2.76 TeV collisions were also presented [27]. The ratio of Ï„2/Ï„1 extracted from jets and is inversely related to the probability of the leading parton splitting into two resolvable partons. The presence of a hot medium shifts Ï„2/Ï„1 to higher values. However, as with our jet mass measurements, the data from heavy-ion collisions were consistent with vacuum expectations from the PYTHIA model. The eï¬€ects of jet quenching were more readily seen in the associated yield ratio of IAA from two-particle correlations using Ï€0 particles as the trigger [8, 26]. For the associated charged hadron yields at low pT, an enhancement was seen on the near-side, which was even greater with respect to the A. Timmins / Nuclear Physics A 967 (2017) 43â€“5048 ) c (GeV/ T p  0 5 10 15 20 25 30 35 40 AA R   0 0.2 0.4 0.6 0.8 1 1.2 1.4 1.6 1.8 2 ALICE Preliminary  = 5.02 TeVNNs30-50% Pb-Pb, |&lt;0.5y| MC@sHQ+EPOS2 PHSD Xu,Cao,Bass  NLOM,GSCET Djordjevic POWLANG HTL D(p)AdS/CFT: HH  constDAdS/CFT: HH  BAMPS el.+rad. TAMU + , D*+, D0Average D                 ALI-PREL-123124 Fig. 7. Left panel: Open heavy-ï¬‚avor RAA as a function of transverse momentum [18]. Right Panel: Integrated RpPb for J/Ïˆ as a function of rapidity [19]. away-side. At higher pT , the near-side IAA approaches one, while the away-side IAA becomes smaller than one. In order to investigate possible jet quenching in light systems, measurements of the recoil jet yield were carried out, which extract the number of away-side reconstructed jets per hadron trigger [28]. While the away-side jet yields are suppressed in central Pbâ€“Pb âˆš sNN = 2.76 TeV collisions relative to peripheral, the right panel of Fig. 8 shows no such suppression in high multiplicity pâ€“Pb âˆš sNN = 5.02 TeV collisions. We also presented near-side peak widths of two-particle correlations from pp âˆš s = 13 TeV collisions as a function of multiplicity [29]. Unlike the case Pbâ€“Pb âˆš sNN = 2.76 TeV collisions [30], the widths were found to be constant, and well reproduced by the PYTHIA model. 6. Upgrades ALICE is undergoing an extensive upgrade program, and there were two parallel presentations reviewing two of the projects within that program. The ï¬�rst presentation detailed the TPC upgrade [31], which will be the ï¬�rst application of GEM technology in a large scale TPC readout. In continuous readout mode, the TPC will be able to record events at rates 50 times larger than its current ability. The second presentation discussed the ITS upgrade [32]. This will involve the largest application of Si pixel sensors in a single detector, with improved data recording rates and hit precision. Both upgrades will be complete by running period 3, which is expected to start in the early 2020s. 7. Summary Using the high precision data from running period 2, we have observed the largest ever radial ï¬‚ow velocities from heavy-ion collisions. At higher pT , we observed that light ï¬‚avor v2 for diï¬€erent species becomes similar at high pT (pT   10 GeV/c). A similar pattern is seen for RAA, and indicates ï¬‚avor independent quenching controls these observables. We have shown the ï¬�rst direct evidence of charm quark elliptic ï¬‚ow at the LHC, and coupled with our RAA measurements, these place stronger constraints on heavy quark medium interactions. Using data from running period 1, we have shown the ï¬�rst net particle moments at the LHC. We have also placed strong constraints on background contributions to the CME signal, and shown a new set of jet observables which can probe aspects of interactions between fast partons in the hot and dense medium. A. Timmins / Nuclear Physics A 967 (2017) 43â€“50 49 )c (GeV/ T, ch jetp  60 70 80 90 100 110 120 )2 c   (G eV / âŒª   ch  je t M  âŒ©   0 2 4 6 8 10 12 14 16 18 20 22 Pbâˆ’0-10% Pb PYTHIA Perugia 2011 JEWEL+PYTHIA recoil on Q-PYTHIA ALICE  TkCharged jets, anti- | &lt; 0.5jetÎ· = 0.4, |R )c (GeV/ch T,jetp 15 20 25 30 35 40 45 50 10 0  % âˆ’ 20  %  /  50 âˆ’ ZN A  0 0.6 0.7 0.8 0.9 1 1.1 1.2 1.3   ALICE Preliminary    = 5.02 TeVNNsPb at âˆ’p  = 0.4R charged jets, tkâˆ’Anti  TT{6,7}âˆ’ TT{12,50}  &lt; 0.6Ï•Î” âˆ’ Ï€ Syst. uncert. ALIâˆ’PRELâˆ’117928 Fig. 8. Left panel: Average charged jet mass as a function of the jet transverse momentum in Pbâ€“Pb âˆš sNN = 2.76 TeV collisions [24, 25]. Right Panel: Relative number of away-side jets in high multiplicity compared to low multiplicity pâ€“Pb âˆš sNN = 5.02 TeV collisions as a function of the jet transverse momentum [28]. References [1] K. Aamodt et al. (ALICE Collaboration), JINST 3 (2008) S08002. [2] C. H. Christensen (ALICE Collaboration), these proceedings [3] J. Adam (ALICE Collaboration), arXiv:1612.08966 [4] N. Jacazio (ALICE Collaboration), these proceedings [5] F. Retiere and M. Lisa, Phys. Rev. C 70 (2004) 044907 [6] A. Rustamov (ALICE Collaboration), these proceedings [7] V. Vislavicius (ALICE Collaboration), these proceedings [8] A. Vauthier (ALICE Collaboration), these proceedings [9] S. Acharya et al. (ALICE Collaboration), arXiv:1702.00917 [10] I. Upsal (STAR Collaboration), these proceedings [11] M. Konyushikhin (ALICE Collaboration), poster presented [12] A. Dobrin (ALICE Collaboration), these proceedings [13] V. Khachatryan et al. (CMS Collaboration), Phys. Rev. Lett. 118 (2017) 122301 [14] J. Schukraft, A. Timmins and S. Voloshin, Phys. Lett. B 719 (2013) 394-398 [15] R. Bertens (ALICE Collaboration), these proceedings [16] B. Abelev et al. (ALICE Collaboration), JHEP 06 (2015) 190 [17] Y. Zhou (ALICE Collaboration), these proceedings [18] A. Barbano (ALICE Collaboration), these proceedings [19] M. Tarhini (ALICE Collaboration), these proceedings [20] D. Moreira de Godoy (ALICE Collaboration), these proceedings [21] T. Jimenez (ALICE Collaboration),these proceedings [22] S. Weber (ALICE Collaboration), these proceedings [23] O. Vazquez Doce (ALICE Collaboration), these proceedings [24] D. Caï¬€arri (ALICE Collaboration), these proceedings [25] S. Acharya et al. (ALICE Collaboration), arXiv:1702.00804 [26] S. Acharya et al. (ALICE Collaboration), Phys. Lett. B 763 (2016) 238-250 [27] N. Zardoshti (ALICE Collaboration), these proceedings [28] F. Krizek (ALICE Collaboration), these proceedings [29] I. Lakomov (ALICE Collaboration),these proceedings [30] J. Adam (ALICE Collaboration), arXiv:1609.06643 and arXiv:1609.06667 [31] R. Majka (ALICE Collaboration), these proceedings [32] P. Martinengo (ALICE Collaboration), these proceedings A. Timmins / Nuclear Physics A 967 (2017) 43â€“5050 0 times larger than its current ability. The second presentation discussed the ITS upgrade [32]. This will involve the largest application of Si pixel sensors in a single detector, with improved data recording rates and hit precision. Both upgrades will be complete by running period 3, which is expected to start in the early 2020s. 7. Summary Using the high precision data from running period 2, we have observed the largest ever radial ï¬‚ow velocities from heavy-ion collisions. At higher pT , we observed that light ï¬‚avor v2 for diï¬€erent species becomes similar at high pT (pT   10 GeV/c). A similar pattern is seen for RAA, and indicates ï¬‚avor independent quenching controls these observables. We have shown the ï¬�rst direct evidence of charm quark elliptic ï¬‚ow at the LHC, and coupled with our RAA measurements, these place stronger constraints on heavy quark medium interactions. Using data from running period 1, we have shown the ï¬�rst net particle moments at the LHC. We have also placed strong constraints on background contributions to the CME signal, and shown a new set of jet observables which can probe aspects of interactions between fast partons in the hot and dense medium. A. Timmins / Nuclear Physics A 967 (2017) 43â€“50 49 )c (GeV/ T, ch jetp  60 70 80 90 100 110 120 )2 c   (G eV / âŒª   ch  je t M  âŒ©   0 2 4 6 8 10 12 14 16 18 20 22 Pbâˆ’0-10% Pb PYTHIA Perugia 2011 JEWEL+PYTHIA recoil on Q-PYTHIA ALICE  TkCharged jets, anti- | &lt; 0.5jetÎ· = 0.4, |R )c (GeV/ch T,jetp 15 20 25 30 35 40 45 50 10 0  % âˆ’ 20  %  /  50 âˆ’ ZN A  0 0.6 0.7 0.8 0.9 1 1.1 1.2 1.3   ALICE Preliminary    = 5.02 TeVNNsPb at âˆ’p  = 0.4R charged jets, tkâˆ’Anti  TT{6,7}âˆ’ TT{12,50}  &lt; 0.6Ï•Î” âˆ’ Ï€ Syst. uncert. ALIâˆ’PRELâˆ’117928 Fig. 8. Left panel: Average charged jet mass as a function of the jet transverse momentum in Pbâ€“Pb âˆš sNN = 2.76 TeV collisions [24, 25]. Right Panel: Relative number of away-side jets in high multiplicity compared to low multiplicity pâ€“Pb âˆš sNN = 5.02 TeV collisions as a function of the jet transverse momentum [28]. References [1] K. Aamodt et al. (ALICE Collaboration), JINST 3 (2008) S08002. [2] C. H. Christensen (ALICE Collaboration), these proceedings [3] J. Adam (ALICE Collaboration), arXiv:1612.08966 [4] N. Jacazio (ALICE Collaboration), these proceedings [5] F. Retiere and M. Lisa, Phys. Rev. C 70 (2004) 044907 [6] A. Rustamov (ALICE Collaboration), these proceedings [7] V. Vislavicius (ALICE Collaboration), these proceedings [8] A. Vauthier (ALICE Collaboration), these proceedings [9] S. Acharya et al. (ALICE Collaboration), arXiv:1702.00917 [10] I. Upsal (STAR Collaboration), these proceedings [11] M. Konyushikhin (ALICE Collaboration), poster presented [12</xocs:rawtext>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.5">
+         <item-info>
+            <jid>NUPHA</jid>
+            <aid>21087</aid>
+            <ce:pii>S0375-9474(17)30331-7</ce:pii>
+            <ce:doi>10.1016/j.nuclphysa.2017.07.013</ce:doi>
+            <ce:copyright year="2017" type="other">The Author(s)</ce:copyright>
+         </item-info>
+         <head>
+            <ce:title id="ti0010">Highlights of experimental results from ALICE</ce:title>
+            <ce:author-group id="ag0010">
+               <ce:author id="au0010" author-id="S0375947417303317-ccfade3c9eb0ec4b25d2762dcf6e43f8">
+                  <ce:given-name>Anthony</ce:given-name>
+                  <ce:surname>Timmins</ce:surname>
+               </ce:author>
+               <ce:text>for the</ce:text>
+               <ce:collaboration id="co0010" collaboration-id="S0375947417303317-3bea72599603117cd9d18494a0279c47">
+                  <ce:text>ALICE Collaboration</ce:text>
+               </ce:collaboration>
+               <ce:affiliation id="aff0010" affiliation-id="S0375947417303317-5bc3ae6839d173ba5468b93ae443af57">
+                  <ce:textfn>406C Science &amp; Research, Building 1, Department of Physics, University of Houston, Houston, TX 77204, United States</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Physics</sa:organization>
+                     <sa:organization>University of Houston</sa:organization>
+                     <sa:address-line>406C Science &amp; Research, Building 1</sa:address-line>
+                     <sa:city>Houston</sa:city>
+                     <sa:state>TX</sa:state>
+                     <sa:postal-code>77204</sa:postal-code>
+                     <sa:country>United States</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:abstract id="ab0010" view="all" class="author">
+               <ce:section-title id="st0010">Abstract</ce:section-title>
+               <ce:abstract-sec id="as0010" view="all">
+                  <ce:simple-para id="sp0010" view="all">Highlights of recent results from the ALICE collaboration are presented. The collision systems investigated are Pb–Pb, p–Pb, and pp, and results from studies of bulk particle production, azimuthal correlations, open and hidden heavy flavor, and hard probes are shown. The results provide key constraints on transport properties of the QCD matter, the initial conditions, the dynamics of heavy quarks in hot and dense systems, and the coupling of hard probes with the medium. A brief description of the ALICE upgrade program is also given.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="bl0010" view="all">
+               <ce:section-title id="st0020">References</ce:section-title>
+               <ce:bibliography-sec id="bs0010" view="all">
+                  <ce:bib-reference id="br0010">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="bib31s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Aamodt</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                              <sb:collaboration>ALICE Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>JINST</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:article-number>S08002</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0020">
+                     <ce:label>[2]</ce:label>
+                     <ce:other-ref id="boref0010">
+                        <ce:textref>C.H. Christensen, ALICE Collaboration, these proceedings.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0030">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="bib33s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Adam</ce:surname>
+                              </sb:author>
+                              <sb:collaboration>ALICE Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1612.08966" id="inf0010" xlink:type="simple">arXiv:1612.08966</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0040">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref id="boref0020">
+                        <ce:textref>N. Jacazio, ALICE Collaboration, these proceedings.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0050">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="bib35s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Retiere</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lisa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>70</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:article-number>044907</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0060">
+                     <ce:label>[6]</ce:label>
+                     <ce:other-ref id="boref0030">
+                        <ce:textref>A. Rustamov, ALICE Collaboration, these proceedings.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0070">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref id="boref0040">
+                        <ce:textref>V. Vislavicius, ALICE Collaboration, these proceedings.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0080">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref id="boref0050">
+                        <ce:textref>A. Vauthier, ALICE Collaboration, these proceedings.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0090">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="bib39s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Acharya</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                              <sb:collaboration>ALICE Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1702.00917" id="inf0020" xlink:type="simple">arXiv:1702.00917</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0100">
+                     <ce:label>[10]</ce:label>
+                     <ce:other-ref id="boref0060">
+                        <ce:textref>I. Upsal, STAR Collaboration, these proceedings.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0110">
+                     <ce:label>[11]</ce:label>
+                     <ce:other-ref id="boref0070">
+                        <ce:textref>M. Konyushikhin, ALICE Collaboration, poster presented.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0120">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref id="boref0080">
+                        <ce:textref>A. Dobrin, ALICE Collaboration, these proceedings.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0130">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="bib3133s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Khachatryan</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                              <sb:collaboration>CMS Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>118</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:article-number>122301</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0140">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="bib3134s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Schukraft</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Timmins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Voloshin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Lett. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>719</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>394</sb:first-page>
+                              <sb:last-page>398</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0150">
+                     <ce:label>[15]</ce:label>
+                     <ce:other-ref id="boref0090">
+                        <ce:textref>R. Bertens, ALICE Collaboration, these proceedings.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0160">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="bib3136s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Abelev</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                              <sb:collaboration>ALICE Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>JHEP</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>06</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:article-number>190</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0170">
+                     <ce:label>[17]</ce:label>
+                     <ce:other-ref id="boref0100">
+                        <ce:textref>Y. Zhou, ALICE Collaboration, these proceedings.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0180">
+                     <ce:label>[18]</ce:label>
+                     <ce:other-ref id="boref0110">
+                        <ce:textref>A. Barbano, ALICE Collaboration, these proceedings.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0190">
+                     <ce:label>[19]</ce:label>
+                     <ce:other-ref id="boref0120">
+                        <ce:textref>M. Tarhini, ALICE Collaboration, these proceedings.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0200">
+                     <ce:label>[20]</ce:label>
+                     <ce:other-ref id="boref0130">
+                        <ce:textref>D. Moreira de Godoy, ALICE Collaboration, these proceedings.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0210">
+                     <ce:label>[21]</ce:label>
+                     <ce:other-ref id="boref0140">
+                        <ce:textref>T. Jimenez, ALICE Collaboration, these proceedings.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0220">
+                     <ce:label>[22]</ce:label>
+                     <ce:other-ref id="boref0150">
+                        <ce:textref>S. Weber, ALICE Collaboration, these proceedings.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0230">
+                     <ce:label>[23]</ce:label>
+                     <ce:other-ref id="boref0160">
+                        <ce:textref>O. Vazquez Doce, ALICE Collaboration, these proceedings.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0240">
+                     <ce:label>[24]</ce:label>
+                     <ce:other-ref id="boref0170">
+                        <ce:textref>D. Caffarri, ALICE Collaboration, these proceedings.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0250">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="bib3235s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Acharya</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                              <sb:collaboration>ALICE Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1702.00804" id="inf0030" xlink:type="simple">arXiv:1702.00804</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0260">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="bib3236s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Acharya</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                              <sb:collaboration>ALICE Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Lett. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>763</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>238</sb:first-page>
+                              <sb:last-page>250</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0270">
+                     <ce:label>[27]</ce:label>
+                     <ce:other-ref id="boref0180">
+                        <ce:textref>N. Zardoshti, ALICE Collaboration, these proceedings.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0280">
+                     <ce:label>[28]</ce:label>
+                     <ce:other-ref id="boref0190">
+                        <ce:textref>F. Krizek, ALICE Collaboration, these proceedings.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0290">
+                     <ce:label>[29]</ce:label>
+                     <ce:other-ref id="boref0200">
+                        <ce:textref>I. Lakomov, ALICE Collaboration, these proceedings.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0300">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="bib3330s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Adam</ce:surname>
+                              </sb:author>
+                              <sb:collaboration>ALICE Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1609.06643" id="inf0040" xlink:type="simple">arXiv:1609.06643</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0310">
+                     <ce:label>[31]</ce:label>
+                     <ce:other-ref id="boref0210">
+                        <ce:textref>R. Majka, ALICE Collaboration, these proceedings.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0320">
+                     <ce:label>[32]</ce:label>
+                     <ce:other-ref id="boref0220">
+                        <ce:textref>P. Martinengo, ALICE Collaboration, these proceedings.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

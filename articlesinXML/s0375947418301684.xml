@@ -1,0 +1,582 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0375947418301684</prism:url><dc:identifier>doi:10.1016/j.nuclphysa.2018.08.024</dc:identifier><eid>1-s2.0-S0375947418301684</eid><prism:doi>10.1016/j.nuclphysa.2018.08.024</prism:doi><pii>S0375-9474(18)30168-4</pii><dc:title>Highlights from the ATLAS experiment </dc:title><prism:publicationName>Nuclear Physics A</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>
+               XXVIIth International Conference on Ultrarelativistic Nucleus-Nucleus Collisions (Quark Matter 2018)
+            </pubType><prism:issn>03759474</prism:issn><prism:volume>982</prism:volume><prism:startingPage>8</prism:startingPage><prism:endingPage>14</prism:endingPage><prism:pageRange>8-14</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2019-02-28</prism:coverDate><prism:coverDisplayDate>February 2019</prism:coverDisplayDate><prism:copyright>© 2018 The Authors. Published by Elsevier B.V.</prism:copyright><prism:publisher>The Authors. Published by Elsevier B.V.</prism:publisher><prism:issueName>The 27th International Conference on Ultrarelativistic Nucleus-Nucleus Collisions: Quark Matter 2018</prism:issueName><dc:creator>Grabowska-Bold, Iwona</dc:creator><dc:description>
+               Abstract
+               
+                  This report provides an overview of the new results obtained by the ATLAS Collaboration at the LHC, which were presented at the Quark Matter 2018 conference. These measurements were covered in 12 parallel talks, one flash talk and 11 posters. In this document, a discussion of results is grouped into four areas: electromagnetic interactions, jet quenching, quarkonia and heavy-flavour production, and collectivity in small and larger systems. Measurements from the xenon-xenon collisions based on a short run collected in October 2017 are reported for the first time.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>Third-Party Sponsor</openaccessSponsorName><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>ATLAS experiment</dcterms:subject><dcterms:subject>quark-gluon plasma</dcterms:subject><dcterms:subject>photon-induced processes</dcterms:subject><dcterms:subject>jet quenching</dcterms:subject><dcterms:subject>quarkonia production</dcterms:subject><dcterms:subject>heavy-flavour production</dcterms:subject><dcterms:subject>collectivity in small systems</dcterms:subject><dcterms:subject>xenon-xenon collisions</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0375947418301684" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0375947418301684" rel="scidir"/></coredata><objects><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="508778">https://api.elsevier.com/content/object/eid/1-s2.0-S0375947418301684-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85060160233</scopus-id><scopus-eid>2-s2.0-85060160233</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85060160233" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271584</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291829</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Nuclear Physics A</xocs:srctitle>
+      <xocs:normalized-srctitle>NUCLEARPHYSICSA</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20190122">2019-01-22</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20190122">2019-01-22</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20190122">2019-01-22</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20190122">2019-01-22</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-03-16T06:56:12</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0375947418301684</xocs:eid>
+      <xocs:pii-formatted>S0375-9474(18)30168-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0375947418301684</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.nuclphysa.2018.08.024</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0375947418X0013X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20190624">2019-06-24T09:41:33.811647Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20190201</xocs:date-search-begin>
+      <xocs:date-search-end>20190228</xocs:date-search-end>
+      <xocs:year-nav>2019</xocs:year-nav>
+      <xocs:indexeddate epoch="1548131121">2019-01-22T04:25:21.182326Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confabbr confdate confeditor confloc contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth auth authfirstini authfull authkeywords authlast orcid primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0375-9474</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>03759474</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>SPONSOR</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>982</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>982</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 982</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>6</xocs:sort-order>
+      <xocs:first-fp>8</xocs:first-fp>
+      <xocs:last-lp>14</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>8</xocs:first-page>
+         <xocs:last-page>14</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201902</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>February 2019</xocs:cover-date-text>
+      <xocs:cover-date-start>2019-02-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2019-02-28</xocs:cover-date-end>
+      <xocs:cover-date-year>2019</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>The 27th International Conference on Ultrarelativistic Nucleus-Nucleus Collisions: Quark Matter 2018</ce:title>
+            <xocs:conference-info>
+               <xocs:abbr-name>Quark Matter 2018</xocs:abbr-name>
+               <xocs:venue>Lido di Venezia, Italy</xocs:venue>
+               <xocs:conference-date-text>13–19 May 2018</xocs:conference-date-text>
+               <xocs:date-range>
+                  <xocs:start-date>20180513</xocs:start-date>
+                  <xocs:end-date>20180519</xocs:end-date>
+               </xocs:date-range>
+            </xocs:conference-info>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author author-id="S0375947418X0013X-b9c0854c3b59990e1b6345d814f23b2b">
+                     <ce:given-name>Federico</ce:given-name>
+                     <ce:surname>Antinori</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S0375947418X0013X-95152d10831044e8e0c3f87026aa933e">
+                     <ce:given-name>Andrea</ce:given-name>
+                     <ce:surname>Dainese</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S0375947418X0013X-64f5f4f1b266eaa0de925c3af2720ce9">
+                     <ce:given-name>Paolo</ce:given-name>
+                     <ce:surname>Giubellino</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S0375947418X0013X-4f15251c8dcbcd9a4aaccd3ee9faab94">
+                     <ce:given-name>Vincenzo</ce:given-name>
+                     <ce:surname>Greco</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S0375947418X0013X-4f7f91d57b24e1a55f53b6f3a834cb7a">
+                     <ce:given-name>Maria Paola</ce:given-name>
+                     <ce:surname>Lombardo</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author author-id="S0375947418X0013X-2309d4e487975ae161e913e2f2d367a8">
+                     <ce:given-name>Enrico</ce:given-name>
+                     <ce:surname>Scomparin</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>PLENARY SESSIONS</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 The Authors. Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>HIGHLIGHTSATLASEXPERIMENT</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>GRABOWSKABOLD</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>I</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="bib31s1">
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-article-number>S08003</xocs:ref-article-number>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib32s1"/>
+         <xocs:ref-info refid="bib33s1"/>
+         <xocs:ref-info refid="bib34s1"/>
+         <xocs:ref-info refid="bib35s1"/>
+         <xocs:ref-info refid="bib36s1"/>
+         <xocs:ref-info refid="bib37s1"/>
+         <xocs:ref-info refid="bib38s1"/>
+         <xocs:ref-info refid="bib39s1"/>
+         <xocs:ref-info refid="bib3130s1"/>
+         <xocs:ref-info refid="bib3131s1"/>
+         <xocs:ref-info refid="bib3132s1"/>
+         <xocs:ref-info refid="bib3133s1"/>
+         <xocs:ref-info refid="bib3134s1"/>
+         <xocs:ref-info refid="bib3135s1"/>
+         <xocs:ref-info refid="bib3136s1"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>GRABOWSKABOLDX2019X8</xocs:refkey3>
+         <xocs:refkey4lp>GRABOWSKABOLDX2019X8X14</xocs:refkey4lp>
+         <xocs:refkey4ai>GRABOWSKABOLDX2019X8XI</xocs:refkey4ai>
+         <xocs:refkey5>GRABOWSKABOLDX2019X8X14XI</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2019-02-15T05:51:18Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>Third-Party Sponsor</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2021-01-22T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2021-01-22T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 The Authors. Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0375-9474(18)30168-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0375947418301684</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0375947418301684</xocs:eid>
+         <xocs:doi>10.1016/j.nuclphysa.2018.08.024</xocs:doi>
+         <xocs:cid>271584</xocs:cid>
+         <xocs:timestamp>2019-06-24T09:41:33.811647Z</xocs:timestamp>
+         <xocs:cover-date-start>2019-02-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2019-02-28</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>SPONSOR</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0375947418301684-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0375947418301684/MAIN/application/pdf/175d9811b3f411e0271851dec4feac99/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>712117</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0375947418301684-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0375947418301684/PREVIEW/image/png/34c532ee34ed102107cb82f2705472fe/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>48916</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0375947418301684-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>508778</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10PPP2G8CLP/MAIN/application/pdf/0f5ce9ceca21c44319a624944a459651/am.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10PPP2G8CLP/MAIN/application/pdf/0f5ce9ceca21c44319a624944a459651/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext>XXVIIth International Conference on Ultrarelativistic Nucleus-Nucleus Collisions (Quark Matter 2018) Highlights from the ATLAS experiment Iwona Grabowska-Bold on behalf of the ATLAS Collaborationa, aAGH University of Science and Technology, KrakoÂ´w, Poland Abstract This report provides an overview of the new results obtained by the ATLAS Collaboration at the LHC, which were presented at the Quark Matter 2018 conference. These measurements were covered in 12 parallel talks, one ï¬‚ash talk and 11 posters. In this document, a discussion of results is grouped into four areas: electromagnetic interactions, jet quenching, quarkonia and heavy-ï¬‚avour production, and collectivity in small and larger systems. Measurements from the xenon-xenon collisions based on a short run collected in October 2017 are reported for the ï¬�rst time. Keywords: ATLAS experiment, quark-gluon plasma, photon-induced processes, jet quenching, quarkonia production, heavy-ï¬‚avour production, collectivity in small systems, xenon-xenon collisions 1. Introduction In addition to proton-proton (pp) physics, the ATLAS Collaboration [1] participates in the heavy- ion (HI) programme which has been carried out at the LHC since 2010. Lead-lead (Pb+Pb) and proton- lead (p+Pb) collisions were provided at the centre-of-mass energies of 2.76 TeV, 5.02 TeV for Pb+Pb, and 5.02 TeV for p+Pb. In October 2017 a short period with xenon-xenon (Xe+Xe) collisions was taken. This opened up an opportunity of studying impact of diï¬€erent geometries on a broad range of observables. More- over, the HI programme is supplemented with measurements in the pp system, which serve as a reference to disentangle initial- from ï¬�nal-state eï¬€ects. 2. Electromagnetic interactions in the QGP The strong electromagnetic ï¬�eld associated with highly boosted nuclei at the LHC can be utilised to study the scattering of the quasi-real photons emitted coherently from the nuclei as they pass by next to each other. These are so-called Ultra-Peripheral Collisions (UPC). In the previous measurements of exlusive production of di-muon pairs [2] and light-by-light scattering [3], ATLAS already demonstrated that photon Available online at www.sciencedirect.com Nuclear Physics A 982 (2019) 8â€“14 0375-9474/Â© 2018 The Authors. Published by Elsevier B.V. www.elsevier.com/locate/nuclphysa https://doi.org/10.1016/j.nuclphysa.2018.08.024 This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). ï¬‚uxes emerging from Pb beams are well modelled by the STARlight generator. Also in those measurements, an acoplanarity distribution (Î± = 1 âˆ’ Î”Ï† Ï€ , where Î”Ï† is a distance in azimuth between ï¬�nal-state particles) was measured and proved to be powerful in discriminating between signal and background processes. Very recenty ATLAS has explored a potential of observing events from exclusive production of Î³Î³ â†’ Î¼+Î¼âˆ’ contributing to a sample of inelastic minimum-bias Pb+Pb collisions [4]. After evaluating and re- moving the contribution from background sources, the azimuthal angle (Î”Ï†) and transverse momentum (pT) correlations between the muons are measured as a function of collision centrality. Figure 1 shows the background-subtracted acoplanarity distribution in diï¬€erent centrality intervals. Each distribution is normalised to unity over its measured range. The &gt; 80% distribution with a signiï¬�cant contri- bution from UPC events is plotted in each panel for comparison. A clear, centrality-dependent broadening is seen in the acoplanarity distributions when compared to the &gt; 80% interval. The corresponding distribution from the Î³Î³ â†’ Î¼+Î¼âˆ’ MC samples is also shown. The MC Î± distributions show almost no centrality depen- dence, indicating that the broadening evident in the data is notably larger than that expected from detector eï¬€ects. One potential source of modiï¬�cation is the ï¬�nal-state interaction of the produced leptons with the electric charges in the QGP. Assuming that the broadening of the Î± distribution results from transfers of a small amount of pT to each muon, in the 0â€“10% centrality interval that scale, assumed to be the RMS momentum transfer to each ï¬�nal-state muon in the transverse plane, is evaluated to amount to 70Â± 10 MeV. Fig. 1. Background-subtracted acoplanarity distribution (Î±) in four centrality intervals in Pb+Pb data [4]. A comparison to the STARlight calculation for Î³Î³ â†’ Î¼+Î¼âˆ’ is also shown. The distributions are normalised to unity over their measured range. 3. Jet quenching Using the large statistics of the 2015 Pb+Pb data, ATLAS ï¬�nalised measurements of inclusive jet nuclear modiï¬�cation factor (RAA) [5], as well as jet fragmentation functions [6]. Those results provide very detailed studies of inclusive jet production as a function of jet pT, rapidity (y) and centrality in comparison to the reference pp data collected at 5.02 TeV. The RAA evaluated as a function of jet pT for two centrality intervals 0â€“10% and 30â€“40% is presented in the left panel of Fig. 2. The RAA value is obtained for jets with |y| &lt; 2.1 and with pT between 80â€“1000 GeV. A clear suppression of jet production in central Pb+Pb collisions relative to pp collisions is observed. In the 0-10% centrality interval, RAA is approximately 0.45 at pT = 100 GeV, and is observed to grow slowly (quenching decreases) with increasing jet pT, reaching a value of 0.6 for jets with pT around 800 GeV. In the same ï¬�gure, the RAA values at 5.02 TeV are compared with the previous measurements at âˆš sNN = 2.76 TeV. The two measurements agree within their uncertainties in the overlapping pT region. The apparent reduction of the size of systematic uncertainties in the new measurement is possible thans to large samples of pp and Pb+Pb data collected during the same LHC running period. Further insight in jet quenching can be obtained by studying jet fragmentation functions. The right panel of Fig. 2 presents a ratio of transverse jet fragmentation functions D(pT) in Pb+Pb to those extracted in pp collisions as a function of jet fragment pT for three jet pT intervals. The RD(pT) is above unity (enhancement) for low pT jet fragments, drops below unity for intermediate jet pT fragments (suppression) and becomes larger than unity again for jet fragment pT around 50 GeV. There is no signiï¬�cant diï¬€erence between RD(pT) for three jet pT intervals. A comparison between the data and the hybrid model calculation is also shown. I. Grabowska-Bold / Nuclear Physics A 982 (2019) 8â€“14 9  [GeV] T p A A R 0.5 1 40       60         100             200      300        500          900  and luminosity uncer.âŒª AA TâŒ©  = 2.76 TeV [PRL 114 (2015) 072302]NNs0 - 10%,   = 5.02 TeVNNs0 - 10%,   = 2.76 TeV [PRL 114 (2015) 072302]NNs30 - 40%,   = 5.02 TeVNNs30 - 40%,  ATLAS | &lt; 2.1y| = 0.4 jetsRtkanti-  [GeV] T p 1 10 210 ) Tp( D R 0.5 1 1.5 2 2.5   &lt;  158 GeVjet T p  126  &lt;   &lt;  251 GeVjet T p  200  &lt;   &lt;  398 GeVjet T p  316  &lt;  = 3resHybrid Model, R   &lt;  158 GeVjet T p  126  &lt;   &lt;  251 GeVjet T p  200  &lt;   &lt;  398 GeVjet T p  316  &lt; =0.4 jetsRtk | &lt; 2.1 anti- jety|ATLAS , 0-10%-1 = 5.02 TeV, 0.49 nbNNsPb+Pb, -1 = 5.02 TeV, 25 pbs , pp Fig. 2. (Left) Inclusive jet RAA as a function of jet pT for jets with |y| &lt; 2.1 in 0â€“10% and 30â€“40% centrality intervals compared to the same quantity measured in 2.76 TeV Pb+Pb collisions [5]. (Right) RD(pT) ratios for three jet pT ranges: 126â€“158 GeV (circles), 200â€“251 GeV (diamonds) and 316â€“398 GeV (crosses) compared with calculations from the hybrid model with Rres = 3 [6]. The model is able to describe the intermediate- and high-pT regions for jet fragments, while it fails in the low-pT region. The ATLAS Collaboration performed a preliminary measurement of the angular distribution of charged particles around the jet axis in 5.02 TeV Pb+Pb and pp data [7]. The measured yields are deï¬�ned as: RD(pT) = 1 Njet 1 2Ï€r d2nch(r) drdpT , (1) where Njet is the total number of jets, 2Ï€rdr is the area of the annulus at a given distance r from the jet axis (r = âˆš Î”Î·2 + Î”Ï†2 with Î”Î· and Î”Ï† being the relative diï¬€erences between the charged particle and the jet axis, in pseudorapidity and azimuth respectively), dr is the width of the annulus and nch(r) is the number of charged particles within a given annulus. Results are presented as a function of Pb+Pb collision centrality, and both jet and charged-particle pT in the left panel of Fig. 3. Ratios of D(pT, r) distributions in Pb+Pb to those measured in pp collisions as a function of r for six charged-particle pT intervals spanning values between 1.6â€“63.1 GeV in 0â€“10% centrality, and for jet pT between 200â€“251 GeV are shown. The RD(pT,r) is above unity for all r values for charged particles with pT less than 4 GeV. For these particles, RD(pT,r) grows with increasing r for r &lt; 0.3 and is approximately constant for 0.3 &lt; r &lt; 0.6. For pT &gt; 4.0 GeV, RD(pT,r) is below unity and decreases with increasing r for r &lt; 0.3 and is approximately constant for 0.3 &lt; r &lt; 0.6. The observed behaviour inside the jet (r &lt; 0.4) agrees with the measurement of the inclusive jet fragmentation functions [6], where yields of the low-pT fragments are observed to be enhanced and yields of charged particles with intermediate pT are suppressed. The measured dependence of RD(pT,r) suggests that the energy lost by jets through the jet quenching process is being transferred to particles with pT &lt; 4.0 GeV with larger radial distances. ATLAS also measures inclusive jet mass (m) divided by the jet transverse momentum [8]. This fully- unfolded measurement of the jet structure is sensitive to the angular and momentum correlations of the jet constituents. These correlations can be used to study modiï¬�cations of jets in HI collisions, where they provide complementary information to previously measured jet fragmentation functions. The right panel of Fig. 3 presents RAA as a function of m/pT in 0â€“10% centrality for jet pT between 126â€“158 GeV. For all centrality bins, these values have no signiï¬�cant dependence on m/pT. They are also observed to be consistent with the inclusive jet RAA. A preliminary measurement of the balance between isolated photons and inclusive jets in pT in 5.02 TeV Pb+Pb and pp data is performed. Photons with pTÎ³ &gt; 63.1 GeV and |Î·Î³| &lt; 2.37 are paired inclusively with all jets that have pT &gt; 31.6 GeV and |Î·| &lt; 2.8 in the event. The transverse momentum balance given by the jet-to-photon pT ratio, xJÎ³, are measured for pairs with azimuthal opening angle |Î”Ï†| &gt; 7Ï€/8. Distribu- tions of the per-photon jet yield (1/NÎ³)(dN/dxJÎ³) are corrected for detector eï¬€ects via a two-dimensional unfolding procedure and reported at the particle level for the ï¬�rst time. I. Grabowska-Bold / Nuclear Physics A 982 (2019) 8â€“1410 Fig. 3. (Left) Ratios of D(pT, r) distributions in 0â€“10% Pb+Pb collisions to pp collisions as a function of angular distance r for jet pT of 200 to 251 GeV for six pT selections [9]. (Right) Jet RAA as a function of m/pT in 0â€“10% centrality for jet pT between 126â€“158 GeV [8]. Figure 4 shows the measured xJÎ³ distribution in ï¬�ve centrality intervals of Pb+Pb collisions for p Î³ T = 63.1 âˆ’ 79.6 GeV in comparison to the xJÎ³ distribution from pp collisions. The xJÎ³ distributions in Pb+Pb collisions evolve smoothly with centrality. For peripheral collisions with centrality 50â€“80%, they are similar to those measured in pp collisions. However, in increasingly more central collisions, the distributions become systematically more modiï¬�ed. The xJÎ³ distribution in the most central 0â€“10% events is so strongly modiï¬�ed that it is monotonically decreasing over the measured xJÎ³ range and no peak is observed. 0.2 0.4 0.6 0.8 1 1.2 1.4 1.6 1.8 2) Î³Jx /d N )( d Î³ N  (1 / 0.2 0.4 0.6 0.8 1 1.2 1.4 1.6 1.8 Î³Jx 0.2 0.4 0.6 0.8 1 1.2 1.4 1.6 1.8 2) Î³Jx /d N )( d Î³ N  (1 / 0.2 0.4 0.6 0.8 1 1.2 1.4 1.6 1.8 Î³Jx 0.2 0.4 0.6 0.8 1 1.2 1.4 1.6 1.8 Î³Jx 50-80% 30-50% 20-30% 10-20% 0-10%  PreliminaryATLAS -1 5.02 TeV, 25 pbpp -1Pb+Pb, 0.49 nb  = 63.1-79.6 GeVÎ³ T p  (same each panel)pp Pb+Pb Fig. 4. Photon-jet pT balance distributions (1/NÎ³)(dN/dxJÎ³) in pp events (blue, reproduced on all panels) and Pb+Pb events (red) with each panel denoting a diï¬€erent centrality selection [7].  [GeV] T p1 10 A A R 0.1 1 0.3 3 30  PreliminaryATLAS |&lt;2.5Î·| -1, 25 pbpp  = 5.02 TeVs (extrapol. to 5.44 TeV) -1bÎ¼ Xe+Xe, 3   = 5.44 TeVNNs -1 Pb+Pb, 0.49 nb  = 5.02 TeVNNs âŒª part NâŒ©Xe+Xe,     5-15%, 194   30-40%,   84   55-70%,   24 âŒª part NâŒ©Pb+Pb,   20-30%, 189   40-50%,   87   60-80%,   23 Fig. 5. Charged-hadron RAA as a function of pT mea- sured in Xe+Xe collisions 5.44 TeV (closed mark- ers) and in Pb+Pb collisions at 5.02 TeV (open mark- ers) [10]. To probe physics of jet quenching in HI collisions with nuclei lighter than Pb, the transverse momentum asymme- try of dijet pairs and production rates of charged particles are measured by ATLAS with Xe+Xe collisions collected in October 2017 [10]. Figure 5 presents charged-hadron RAA as a function of pT for three centrality and ã€ˆNpartã€‰ in- tervals along with the measurement from the Pb+Pb sys- tem. The RAA is compared between Xe+Xe and Pb+Pb data at 5.02 TeV. Even though they have diï¬€erent cen- tralities, the ã€ˆNpartã€‰ for the same pT intervals are compa- rable. The Xe+Xe data shows more suppression than the Pb+Pb data in more central collisions, and less suppression in more peripheral collisions. I. Grabowska-Bold / Nuclear Physics A 982 (2019) 8â€“14 11 4. Quarkonia and heavy-ï¬‚avour production The ATLAS Collaboration ï¬�nalised a detailed study on prompt and non-prompt J/Ïˆ and Ïˆ(2S ) produc- tion and suppression at high pT in 5.02 TeV Pb+Pb and pp collisions [11]. The measurements of per-event yields, nuclear modiï¬�cation factors, and non-prompt fractions are performed in the di-muon decay chan- nel for 9 &lt; pÎ¼Î¼T &lt; 40 GeV in di-muon transverse momentum, and 2.0 &lt; yÎ¼Î¼ &lt; 2.0 in rapidity. Strong suppression is found in Pb+Pb collisions for both prompt and non-prompt J/Ïˆ, as well as for prompt and non-prompt Ïˆ(2S ), increasing with event centrality. The suppression of prompt Ïˆ(2S ) is observed to be stronger than that of J/Ïˆ, while the suppression of non-prompt Ïˆ(2S ) is equal to that of the non-prompt J/Ïˆ within uncertainties, consistent with the expectation that both arise from b-quarks propagating through the medium. Despite prompt and non-prompt J/Ïˆ arising from diï¬€erent mechanisms, the dependence of their nuclear modiï¬�cation factors on centrality is found to be similar. The left panel of Fig. 6 shows a pT-dependence of the nuclear modiï¬�cation factor for prompt J/Ïˆmesons reconstructed via the muon channel at 5.02 TeV in the 0â€“20% centrality bin. The RAA is at the level of 0.25 at pT = 9 GeV and tends to increase slowly with pT. The ATLAS measurement at high pT nicely complements the ALICE results for pT &lt; 12 GeV that are also shown on the same ï¬�gure. Recently the ATLAS Collaboration also evaluated elliptic ï¬‚ow of J/Ïˆ with respect to the event plane in 5.02 TeV Pb+Pb collisions and presented preliminary results as a function of transverse momentum, rapidity and centrality [12]. It is observed that prompt and non-prompt J/Ïˆ mesons have non-zero elliptic ï¬‚ow. Prompt J/Ïˆ Î½2 decreases as a function of pT, while non-prompt J/Ïˆ Î½2 is ï¬‚at over the studied kinematical region. There is no dependence on rapidity or centrality observed. The right panel of Fig. 6 shows results for the Î½2 as a function of pT for prompt and non-prompt J/Ïˆ as measured by ATLAS compared with inclusive J/Ïˆ at pT &lt; 12 GeV, as measured by ALICE at 5.02 TeV, and prompt J/Ïˆ at 6.5 &lt; pT &lt; 30 GeV, by CMS at 2.76 TeV. Despite diï¬€erent rapidity selections, the ATLAS data is found to be in reasonable agreement with the ALICE and CMS data in the overlapping pT region. Fig. 6. (Left) Comparison of prompt J/Ïˆ RAA measured in 5.02 TeV Pb+Pb collisions by ATLAS with the inclusive J/Ïˆ RAA measured by ALICE [11]. (Right) Î½2 as a function of pT for prompt and non-prompt J/Ïˆ as measured by ATLAS compared with inclusive J/Ïˆ at pT &lt; 12 GeV, as measured by ALICE at 5.02 TeV, and prompt J/Ïˆ at 6.5 &lt; pT &lt; 30 GeV by CMS at 2.76 TeV [12]. The ATLAS Collaboration also ï¬�nalised a measurement of the production of muons from heavy-ï¬‚avour decays in 2.76 TeV Pb+Pb and pp collisions [13]. Results are provided in the muon transverse momentum range 4 &lt; pT &lt; 14 GeV and for ï¬�ve centrality intervals. Backgrounds arising from in-ï¬‚ight pion and kaon decays, hadronic showers, and mis-reconstructed muons are statistically removed using a template-ï¬�tting procedure. The heavy-ï¬‚avor muon diï¬€erential cross-sections and per-event yields are measured in pp and Pb+Pb collisions, respectively. Figure 7 presents the heavy-ï¬‚avour muon RAA as a function of pT. The RAA does not depend on pT within the uncertainties of the measurement. The RAA decreases between peripheral 40â€“60% collisions, where it is about 0.65, to more central collisions, reaching a value of about 0.35 in the 0â€“10% centrality interval. In Ref. [13] the azimuthal modulation of the heavy-ï¬‚avor muon yields is also measured and the I. Grabowska-Bold / Nuclear Physics A 982 (2019) 8â€“1412 associated Fourier coeï¬ƒcients Î½n for n=2, 3 and 4 are given as a function of pT and centrality. They vary slowly with pT and show a systematic variation with centrality which is characteristic of other anisotropy measurements, such as that observed for inclusive hadrons.  [GeV]  T p 4 6 8 10 12 14 A A R 0 0.5 1  -1Pb+Pb, 0.14 nb  -1, 570 nbpp | &lt; 1Î·| ATLAS  = 2.76 TeVNNs 0-10% 20-30% 40-60%  [GeV]  T p 4 6 8 10 12 14  -1Pb+Pb, 0.14 nb  -1, 570 nbpp | &lt; 1Î·| ATLAS  = 2.76 TeVNNs 10-20% 30-40% Fig. 7. Heavy-ï¬‚avuor muon RAA as a function of pT for ï¬�ve centrality intervals in 2.76 TeV Pb+Pb collisions [13]. 5. Collectivity in small and large systems One active area of ongoing research is investigation of the nature of the long-range ridge observed in two-particle correlations in small collision systems such as pp and p+Pb. To understand the multi-particle nature of the long-range collective phenomenon in those systems, the ATLAS Collaboration performed a measurement of symmetric cumulants scn,m{4} and asymmetric cumulants acn{3} which probe four- and three-particle correlations of two ï¬‚ow harmonics Î½n and Î½m in 13 TeV pp, 5.02 TeV p+Pb, and 2.76 TeV peripheral Pb+Pb collisions [14]. The large non-ï¬‚ow background from dijet production present in the standard cumulant method is suppressed using a method of subevent cumulants. Fig. 8. The ã€ˆNchã€‰ dependence of sc2,3{4} (left), sc2,4{4} (middle) and ac2{3} (right) in 0.5 &lt; pT &lt; 5 GeV obtained for pp collisions (solid circles), p+Pb collisions (open circles) and low-multiplicity Pb+Pb collisions (open squares) [14]. Figure 8 shows a comparison of cumulants for the three collision systems. The three panels present the results for sc2,3{4}, sc2,4{4}, and ac2{3} for charged particles with 0.3 &lt; pT &lt; 3 GeV. These results indicate a negative correlation between Î½2 and Î½3 and a positive correlation between Î½2 and Î½4. Such correlation patterns have previously been observed in large collision systems, but are now conï¬�rmed also in the small collision systems, once non-ï¬‚ow eï¬€ects are adequately removed in the measurements. In the multiplicity range covered by the pp collisions, ã€ˆNchã€‰ &lt; 150, the results for symmetric cumulants sc2,3{4} and sc2,4{4} are comparable among the three systems. In the range ã€ˆNchã€‰ &gt; 150, |sc2,3{4}| and sc2,4{4} are larger in Pb+Pb than in p+Pb collisions. The results for ac2{3} are similar among the three systems at ã€ˆNchã€‰ &lt; 100, but they deviate from each other at higher ã€ˆNchã€‰. The results for pp data are approximately constant or decrease slightly with ã€ˆNchã€‰, while the p+Pb and Pb+Pb data shows signiï¬�cant increases as a function of ã€ˆNchã€‰. The similarity between diï¬€erent collision systems and the weak dependence of these observables on the pT range and ã€ˆNchã€‰, largely free from non-ï¬‚ow eï¬€ects, provide an important input for understanding the space-time dynamics and the properties of the medium created in small collision systems. I. Grabowska-Bold / Nuclear Physics A 982 (2019) 8â€“14 13 0 10 20 30 40 50 60 70 80 Centrality [%] 0 0.1 0.2 {S P } nv 2v 3v 4v 5v  PreliminaryATLAS -1bÎ¼=5.44 TeV, 3NNsXe+Xe -1bÎ¼=5.02 TeV, 5NNsPb+Pb &lt;5 GeV T p0.5&lt; |&lt;2.5Î·| Solid: Pb+Pb Open: Xe+Xe Fig. 9. The Î½n n=2-5 measured with the SP method in Xe+Xe and Pb+Pb collisions as a function of centrality percentile [15]. The Pb+Pb data points are shifted along the centrality axis, for clarity. Using a data set of Xe+Xe collisions col- lected at 5.44 TeV, ATLAS measured ï¬‚ow har- monics with the scalar method (SP) and cor- relation techniques involving 2, 4 and 6 par- ticles [15]. Centrality and pT-dependence of the Î½n are studied. Figure 9 shows the Î½n har- monics integrated over the 0.5 &lt; pT &lt; 5 GeV range. The values are compared to those ob- tained for Pb+Pb and are shown as a function of centrality. The small diï¬€erences are related to diï¬€erences in the initial-collision geometry and subtle diï¬€erences due to the system size. Detailed studies of scaling of Î½n and cumulants with ã€ˆNpartã€‰ conï¬�rm the main source of Î½2 to be the initial geometry, while geometry ï¬‚uctu- ations to be the origin of diï¬€erences for Î½n with n &gt; 2. ATLAS also measured the modiï¬�ed Pearsonâ€™s correlation coeï¬ƒcient to quantify correlations between ï¬‚ow coeï¬ƒcients and mean pT of charged particles in the event using 5.02 TeV Pb+Pb data [16]. It can be used in further experimental studies to understand the underlying mechanism of QGP dynamics and constrain theoretical models attempting to describe them. 6. Summary The ATLAS Collaboration presented many new results covering Pb+Pb, p+Pb, pp, and also data from the new Xe+Xe system collected for the ï¬�rst time at the LHC. These measurements provide new information on electromagnetic interactions, the jet quenching, quarkonia and heavy-ï¬‚avour suppression, as well as comprehensive results which provide further insight into the collectivity phenomenon of small collision systems. This work was supported in part by Polish National Science Centre grant DEC-2016/23/B/ST2/01409, by the AGH UST statutory tasks No. 11.11.220.01/4 within subsidy of the Ministry of Science and Higher Education, and by PL-Grid Infrastructure. References [1] ATLAS Collaboration, JINST 3 (2008) S08003. doi:10.1088/1748-0221/3/08/S08003. [2] ATLAS Collaboration, http://cdsweb.cern.ch/record/2157689, ATLAS-CONF-2016-025. [3] ATLAS Collaboration, arXiv:1702.01625 [hep-ex], Nature Physics 13 (2017) 852. [4] ATLAS Collaboration, arXiv:1806.08708 [nucl-ex], submitted to PRL. [5] ATLAS Collaboration, arXiv:1805.05635 [nucl-ex], submitted to PLB. [6] ATLAS Collaboration, arXiv:1805.05424 [nucl-ex], submitted to PRC. [7] ATLAS Collaboration, http://cdsweb.cern.ch/record/2318869, ATLAS-CONF-2018-010. [8] ATLAS Collaboration, http://cdsweb.cern.ch/record/2319867, ATLAS-CONF-2018-014. [9] ATLAS Collaboration, http://cdsweb.cern.ch/record/2318868, ATLAS-CONF-2018-009. [10] ATLAS Collaboration, http://cdsweb.cern.ch/record/2318588, ATLAS-CONF-2018-007. [11] ATLAS Collaboration, arXiv:1805.04077 [nucl-ex], submitted to EPJC. [12] ATLAS Collaboration, http://cdsweb.cern.ch/record/2319788, ATLAS-CONF-2018-013. [13] ATLAS Collaboration, arXiv:1805.05220 [nucl-ex], submitted to PRC. [14] ATLAS Collaboration, arXiv:1807.02012 [nucl-ex], submitted to PLB. [15] ATLAS Collaboration, http://cdsweb.cern.ch/record/2318870, ATLAS-CONF-2018-011. [16] ATLAS Collaboration, http://cdsweb.cern.ch/record/2318589, ATLAS-CONF-2018-008. I. Grabowska-Bold / Nuclear Physics A 982 (2019) 8â€“1414 other at higher ã€ˆNchã€‰. The results for pp data are approximately constant or decrease slightly with ã€ˆNchã€‰, while the p+Pb and Pb+Pb data shows signiï¬�cant increases as a function of ã€ˆNchã€‰. The similarity between diï¬€erent collision systems and the weak dependence of these observables on the pT range and ã€ˆNchã€‰, largely free from non-ï¬‚ow eï¬€ects, provide an important input for understanding the space-time dynamics and the properties of the medium created in small collision systems. I. Grabowska-Bold / Nuclear Physics A 982 (2019) 8â€“14 13 0 10 20 30 40 50 60 70 80 Centrali</xocs:rawtext>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.5">
+         <item-info>
+            <jid>NUPHA</jid>
+            <aid>21256</aid>
+            <ce:pii>S0375-9474(18)30168-4</ce:pii>
+            <ce:doi>10.1016/j.nuclphysa.2018.08.024</ce:doi>
+            <ce:copyright year="2018" type="other">The Authors</ce:copyright>
+         </item-info>
+         <head>
+            <ce:dochead id="do0010">
+               <ce:textfn>XXVIIth International Conference on Ultrarelativistic Nucleus-Nucleus Collisions (Quark Matter 2018)</ce:textfn>
+            </ce:dochead>
+            <ce:title id="ti0010">Highlights from the ATLAS experiment</ce:title>
+            <ce:author-group id="ag0010">
+               <ce:author orcid="0000-0001-9159-1210" id="au0010" author-id="S0375947418301684-959b2ae6e4fa1f420556132650c166b7">
+                  <ce:given-name>Iwona</ce:given-name>
+                  <ce:surname>Grabowska-Bold</ce:surname>
+               </ce:author>
+               <ce:text>on behalf of the</ce:text>
+               <ce:collaboration id="co0010" collaboration-id="S0375947418301684-8bb05495c9ed029f3616dfdd358ede7c">
+                  <ce:text>ATLAS Collaboration</ce:text>
+               </ce:collaboration>
+               <ce:affiliation id="aff0010" affiliation-id="S0375947418301684-4f39ac7f11d2f033974a617d776525db">
+                  <ce:textfn>AGH University of Science and Technology, Kraków, Poland</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>AGH University of Science and Technology</sa:organization>
+                     <sa:city>Kraków</sa:city>
+                     <sa:country>Poland</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:abstract id="ab0010" view="all" class="author">
+               <ce:section-title id="st0010">Abstract</ce:section-title>
+               <ce:abstract-sec id="as0010" view="all">
+                  <ce:simple-para id="sp0010" view="all">This report provides an overview of the new results obtained by the ATLAS Collaboration at the LHC, which were presented at the Quark Matter 2018 conference. These measurements were covered in 12 parallel talks, one flash talk and 11 posters. In this document, a discussion of results is grouped into four areas: electromagnetic interactions, jet quenching, quarkonia and heavy-flavour production, and collectivity in small and larger systems. Measurements from the xenon-xenon collisions based on a short run collected in October 2017 are reported for the first time.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="kws0010" view="all" class="keyword">
+               <ce:section-title id="st0020">Keywords</ce:section-title>
+               <ce:keyword id="kw0010">
+                  <ce:text>ATLAS experiment</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>quark-gluon plasma</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0030">
+                  <ce:text>photon-induced processes</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0040">
+                  <ce:text>jet quenching</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0050">
+                  <ce:text>quarkonia production</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0060">
+                  <ce:text>heavy-flavour production</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0070">
+                  <ce:text>collectivity in small systems</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0080">
+                  <ce:text>xenon-xenon collisions</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="bl0010" view="all">
+               <ce:section-title id="st0030">References</ce:section-title>
+               <ce:bibliography-sec id="bs0010" view="all">
+                  <ce:bib-reference id="br0010">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="bib31s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>ATLAS Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>JINST</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:article-number>S08003</sb:article-number>
+                           <ce:doi>10.1088/1748-0221/3/08/S08003</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0020">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="bib32s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>ATLAS Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/text/html" xlink:href="http://cdsweb.cern.ch/record/2157689" id="inf0010" xlink:type="simple">http://cdsweb.cern.ch/record/2157689</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>ATLAS-CONF-2016-025</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0030">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="bib33s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>ATLAS Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1702.01625" id="inf0020" xlink:type="simple">arXiv:1702.01625 [hep-ex]</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature Physics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>852</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0040">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="bib34s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>ATLAS Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1806.08708" id="inf0030" xlink:type="simple">arXiv:1806.08708 [nucl-ex]</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>submitted to PRL</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0050">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="bib35s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>ATLAS Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1805.05635" id="inf0040" xlink:type="simple">arXiv:1805.05635 [nucl-ex]</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>submitted to PLB</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0060">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="bib36s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>ATLAS Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1805.05424" id="inf0050" xlink:type="simple">arXiv:1805.05424 [nucl-ex]</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>submitted to PRC</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0070">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="bib37s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>ATLAS Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/text/html" xlink:href="http://cdsweb.cern.ch/record/2318869" id="inf0060" xlink:type="simple">http://cdsweb.cern.ch/record/2318869</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>ATLAS-CONF-2018-010</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0080">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="bib38s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>ATLAS Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/text/html" xlink:href="http://cdsweb.cern.ch/record/2319867" id="inf0070" xlink:type="simple">http://cdsweb.cern.ch/record/2319867</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>ATLAS-CONF-2018-014</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0090">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="bib39s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>ATLAS Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/text/html" xlink:href="http://cdsweb.cern.ch/record/2318868" id="inf0080" xlink:type="simple">http://cdsweb.cern.ch/record/2318868</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>ATLAS-CONF-2018-009</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0100">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="bib3130s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>ATLAS Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/text/html" xlink:href="http://cdsweb.cern.ch/record/2318588" id="inf0090" xlink:type="simple">http://cdsweb.cern.ch/record/2318588</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>ATLAS-CONF-2018-007</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0110">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="bib3131s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>ATLAS Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1805.04077" id="inf0100" xlink:type="simple">arXiv:1805.04077 [nucl-ex]</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>submitted to EPJC</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0120">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="bib3132s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>ATLAS Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/text/html" xlink:href="http://cdsweb.cern.ch/record/2319788" id="inf0110" xlink:type="simple">http://cdsweb.cern.ch/record/2319788</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>ATLAS-CONF-2018-013</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0130">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="bib3133s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>ATLAS Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1805.05220" id="inf0120" xlink:type="simple">arXiv:1805.05220 [nucl-ex]</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>submitted to PRC</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0140">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="bib3134s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>ATLAS Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/preprint" xlink:href="arxiv:1807.02012" id="inf0130" xlink:type="simple">arXiv:1807.02012 [nucl-ex]</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>submitted to PLB</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0150">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="bib3135s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>ATLAS Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/text/html" xlink:href="http://cdsweb.cern.ch/record/2318870" id="inf0140" xlink:type="simple">http://cdsweb.cern.ch/record/2318870</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>ATLAS-CONF-2018-011</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="br0160">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="bib3136s1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>ATLAS Collaboration</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:role="http://www.elsevier.com/xml/linking-roles/text/html" xlink:href="http://cdsweb.cern.ch/record/2318589" id="inf0150" xlink:type="simple">http://cdsweb.cern.ch/record/2318589</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>ATLAS-CONF-2018-008</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

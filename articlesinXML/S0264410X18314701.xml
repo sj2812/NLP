@@ -1,0 +1,2222 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0264410X18314701</prism:url><dc:identifier>doi:10.1016/j.vaccine.2018.10.083</dc:identifier><eid>1-s2.0-S0264410X18314701</eid><prism:doi>10.1016/j.vaccine.2018.10.083</prism:doi><pii>S0264-410X(18)31470-1</pii><dc:title>Improving immunization data quality in Peru and Mexico: Two case studies highlighting challenges and lessons learned </dc:title><prism:publicationName>Vaccine</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>0264410X</prism:issn><prism:volume>36</prism:volume><prism:issueIdentifier>50</prism:issueIdentifier><prism:startingPage>7674</prism:startingPage><prism:endingPage>7681</prism:endingPage><prism:pageRange>7674-7681</prism:pageRange><prism:number>50</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2018-11-29</prism:coverDate><prism:coverDisplayDate>29 November 2018</prism:coverDisplayDate><prism:copyright>© 2018 The Authors. Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Authors. Published by Elsevier Ltd.</prism:publisher><dc:creator>Trumbo, Silas P.</dc:creator><dc:creator>Contreras, Marcela</dc:creator><dc:creator>García, Ana Gabriela Félix</dc:creator><dc:creator>Díaz, Fabio Alberto Escobar</dc:creator><dc:creator>Gómez, Misael</dc:creator><dc:creator>Carrión, Verónica</dc:creator><dc:creator>Ruiz, Karim Jaqueline Pardo</dc:creator><dc:creator>Aquije, Renee</dc:creator><dc:creator>Danovaro-Holliday, M. Carolina</dc:creator><dc:creator>Velandia-González, Martha</dc:creator><dc:description>
+               Abstract
+               
+                  Introduction
+                  The Global Vaccine Action Plan and the Regional Immunization Action Plan of the Americas call for countries to improve immunization data quality. Immunization information systems, particularly electronic immunization registries (EIRs), can help to facilitate program management and increase coverage. However, little is known about efforts to develop and implement such systems in low- and middle-income countries. We present the experiences of Mexico and Peru in implementing EIRs.
+               
+               
+                  Methods
+                  We conducted case studies of an EIR in Mexico and of a population registry in Peru. Information was gathered from technical documents, stakeholder focus groups, site visits, and semi-structured interviews of national stakeholders. We organized findings into narratives that emphasized challenges and lessons learned.
+               
+               
+                  Results
+                  Mexico built one of the world’s first EIRs, incorporating novel features such as local-level tracking of patients; however, insufficient resources and poor data registration practices led to the system’s discontinuation. Peru created an information system to improve affiliation to social programs, including the immunization program and quality of demographic data. Mexico’s experience highlights lessons in failed sustainability of an EIR and a laudable effort to reform a country’s information system. Peru’s demonstrates that attempts to improve health and other data may strengthen health systems, including immunization data. Major challenges in information system implementation and sustainability in Peru and Mexico related to funding, clear governance structures, and resistance among health workers.
+               
+               
+                  Discussion
+                  These case studies reinforce the need for countries to ensure adequate funding, plans for sustainability, and health worker capacity-building activities before implementing EIRs. They also suggest new approaches to implementation, including economic incentives for sub-national administrative levels and opportunities to link efforts to improve immunization data with other health and political priorities. More information on best practices is needed to ensure the successful adoption and sustainability of immunization registries in low- and middle-income countries.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>Bill &amp; Melinda Gates Foundation</openaccessSponsorName><openaccessSponsorType>FundingBody</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><dcterms:subject>Electronic immunization registries</dcterms:subject><dcterms:subject>Immunization information systems</dcterms:subject><dcterms:subject>Immunization data</dcterms:subject><dcterms:subject>National immunization programs</dcterms:subject><dcterms:subject>Global vaccine action plan</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0264410X18314701" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0264410X18314701" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="154" size="10085">https://api.elsevier.com/content/object/eid/1-s2.0-S0264410X18314701-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="551" height="387" size="68110">https://api.elsevier.com/content/object/eid/1-s2.0-S0264410X18314701-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2441" height="1715" size="557686">https://api.elsevier.com/content/object/eid/1-s2.0-S0264410X18314701-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="163960">https://api.elsevier.com/content/object/eid/1-s2.0-S0264410X18314701-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85055970386</scopus-id><scopus-eid>2-s2.0-85055970386</scopus-eid><pubmed-id>30414780</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85055970386" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271205</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291693</xocs:ssid>
+         <xocs:ssid type="subj">291783</xocs:ssid>
+         <xocs:ssid type="subj">291891</xocs:ssid>
+         <xocs:ssid type="subj">291903</xocs:ssid>
+         <xocs:ssid type="subj">291904</xocs:ssid>
+         <xocs:ssid type="subj">291910</xocs:ssid>
+         <xocs:ssid type="subj">291936</xocs:ssid>
+         <xocs:ssid type="subj">291937</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Vaccine</xocs:srctitle>
+      <xocs:normalized-srctitle>VACCINE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20181107">2018-11-07</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20181107">2018-11-07</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20181121">2018-11-21</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20181121">2018-11-21</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-11-19T14:56:35</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0264410X18314701</xocs:eid>
+      <xocs:pii-formatted>S0264-410X(18)31470-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0264410X18314701</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.vaccine.2018.10.083</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0264410X18X00498</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20191119">2019-11-19T15:05:13.329387Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20181129</xocs:date-search-begin>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1541596199">2018-11-07T13:09:59.540143Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast footnotes grantsponsor grantsponsorid highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0264-410X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>0264410X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>GATES</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>36</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>36</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>50</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>50</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 36, Issue 50</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>13</xocs:sort-order>
+      <xocs:first-fp>7674</xocs:first-fp>
+      <xocs:last-lp>7681</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>7674</xocs:first-page>
+         <xocs:last-page>7681</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20181129</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>29 November 2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-11-29</xocs:cover-date-start>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Regular papers</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 The Authors. Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>IMPROVINGIMMUNIZATIONDATAQUALITYINPERUMEXICOTWOCASESTUDIESHIGHLIGHTINGCHALLENGESLESSONSLEARNED</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>TRUMBO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Methodology</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Mexico</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.1.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Health system and National immunization program</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.1.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Immunization information system</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.1.3</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Implementation challenges</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.1.4</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Lessons learned and next steps</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Peru</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Health system and the National immunization program</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>The Padrón Nominal and its impact on immunization data</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.3</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Implementation challenges</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.4</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Lessons learned and next steps</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Declaration of competing interests</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Funding</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>BOSCHCAPBLANCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>RONVEAUX</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>503</xocs:ref-first-fp>
+            <xocs:ref-last-lp>510</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015"/>
+         <xocs:ref-info refid="h0020"/>
+         <xocs:ref-info refid="h0025"/>
+         <xocs:ref-info refid="h0030"/>
+         <xocs:ref-info refid="h0035"/>
+         <xocs:ref-info refid="h0040"/>
+         <xocs:ref-info refid="h0045">
+            <xocs:ref-normalized-surname>DIETZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>432</xocs:ref-first-fp>
+            <xocs:ref-last-lp>442</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0050">
+            <xocs:ref-normalized-surname>RONVEAUX</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>153</xocs:ref-first-fp>
+            <xocs:ref-last-lp>160</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0055">
+            <xocs:ref-normalized-surname>GLOBALVACCINEACTIONPLAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>B5</xocs:ref-first-fp>
+            <xocs:ref-last-lp>B31</xocs:ref-last-lp>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0060"/>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>GROOM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>227</xocs:ref-first-fp>
+            <xocs:ref-last-lp>248</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>KEMPE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>967</xocs:ref-first-fp>
+            <xocs:ref-last-lp>972</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>KEMPE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e20152857</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>DANOVAROHOLLIDAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>453</xocs:ref-first-fp>
+            <xocs:ref-last-lp>457</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0085">
+            <xocs:ref-normalized-surname>FU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e496</xocs:ref-first-fp>
+            <xocs:ref-last-lp>e503</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0090"/>
+         <xocs:ref-info refid="h0095">
+            <xocs:ref-normalized-surname>BLAYA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>244</xocs:ref-first-fp>
+            <xocs:ref-last-lp>251</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0100"/>
+         <xocs:ref-info refid="h0105"/>
+         <xocs:ref-info refid="h0110">
+            <xocs:ref-normalized-surname>SANTOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>180</xocs:ref-first-fp>
+            <xocs:ref-last-lp>188</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0115"/>
+         <xocs:ref-info refid="h0120">
+            <xocs:ref-normalized-surname>ZAINAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0125"/>
+         <xocs:ref-info refid="h0130">
+            <xocs:ref-normalized-surname>LIAMPUTTONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>133</xocs:ref-first-fp>
+            <xocs:ref-last-lp>139</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0135"/>
+         <xocs:ref-info refid="h0140">
+            <xocs:ref-normalized-surname>SANTOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>142</xocs:ref-first-fp>
+            <xocs:ref-last-lp>153</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0145">
+            <xocs:ref-normalized-surname>DIAZORTEGA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>S289</xocs:ref-first-fp>
+            <xocs:ref-last-lp>S299</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0150"/>
+         <xocs:ref-info refid="h0155"/>
+         <xocs:ref-info refid="h0160">
+            <xocs:ref-normalized-surname>GOMEZDANTES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>S220</xocs:ref-first-fp>
+            <xocs:ref-last-lp>S232</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0165"/>
+         <xocs:ref-info refid="h0170"/>
+         <xocs:ref-info refid="h0175">
+            <xocs:ref-normalized-surname>ALCALDERABANAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>s243</xocs:ref-first-fp>
+            <xocs:ref-last-lp>s254</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0180"/>
+         <xocs:ref-info refid="h0185"/>
+         <xocs:ref-info refid="h0190"/>
+         <xocs:ref-info refid="h0195"/>
+         <xocs:ref-info refid="h0200"/>
+         <xocs:ref-info refid="h0205">
+            <xocs:ref-normalized-surname>CURIOSO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>437</xocs:ref-first-fp>
+            <xocs:ref-last-lp>441</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0210"/>
+         <xocs:ref-info refid="h0215">
+            <xocs:ref-normalized-surname>PAPANIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>965</xocs:ref-first-fp>
+            <xocs:ref-last-lp>966</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0220">
+            <xocs:ref-normalized-surname>DUMIT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>TRUMBOX2018X7674</xocs:refkey3>
+         <xocs:refkey4lp>TRUMBOX2018X7674X7681</xocs:refkey4lp>
+         <xocs:refkey4ai>TRUMBOX2018X7674XS</xocs:refkey4ai>
+         <xocs:refkey5>TRUMBOX2018X7674X7681XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2018-10-30T23:41:08Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>FundingBody</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>Bill &amp; Melinda Gates Foundation</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2019-11-21T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2019-11-21T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 The Authors. Published by Elsevier Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2019-04-17T16:21:23.967Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Bill and Melinda Gates Foundation</xocs:funding-agency-matched-string>
+            <xocs:funding-agency>Bill and Melinda Gates Foundation</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/100000865</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/6252001/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>The authors thank the national officials and health workers in Mexico and Peru who participated in these case studies and who work to ensure that all children in their countries have access to life-saving vaccines. We also thank Elsy M. Dumit, MPH, and Robin Mowson, MA, MPH, CPH, for their helpful reviews of this manuscript. Lastly, we appreciate the financial support from the Bill and Melinda Gates Foundation that made this work possible.</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0264-410X(18)31470-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0264410X18314701</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0264410X18314701</xocs:eid>
+         <xocs:doi>10.1016/j.vaccine.2018.10.083</xocs:doi>
+         <xocs:cid>271205</xocs:cid>
+         <xocs:timestamp>2019-11-19T15:05:13.329387Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-11-29</xocs:cover-date-start>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>GATES</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0264410X18314701-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0264410X18314701/MAIN/application/pdf/823143259b3cef08cd48ac0f5639db6b/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>361567</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0264410X18314701-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0264410X18314701/PREVIEW/image/png/b98fe47d10152740ac251f4d1c8508ba/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>45699</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0264410X18314701-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0264410X18314701/gr1/THUMBNAIL/image/gif/e049a9bb0a8ce384f2ed8977bff980a6/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10085</xocs:filesize>
+               <xocs:pixel-height>154</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0264410X18314701-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0264410X18314701/gr1/DOWNSAMPLED/image/jpeg/96c469375abe5173c93463471c7b2744/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>68110</xocs:filesize>
+               <xocs:pixel-height>387</xocs:pixel-height>
+               <xocs:pixel-width>551</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0264410X18314701-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0264410X18314701/gr1/HIGHRES/image/jpeg/a5e92b69631e67ceb7626dc591073fdd/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>557686</xocs:filesize>
+               <xocs:pixel-height>1715</xocs:pixel-height>
+               <xocs:pixel-width>2441</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0264410X18314701-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:1032CVMFP33/MAIN/application/pdf/04e57fb1d8c95195f731cc14e9ba233f/am.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:1032CVMFP33/MAIN/application/pdf/04e57fb1d8c95195f731cc14e9ba233f/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>163960</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.5">
+         <item-info>
+            <jid>JVAC</jid>
+            <aid>20329</aid>
+            <ce:pii>S0264-410X(18)31470-1</ce:pii>
+            <ce:doi>10.1016/j.vaccine.2018.10.083</ce:doi>
+            <ce:copyright type="other" year="2018">The Authors</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0005">
+                  <ce:simple-para id="sp0030" view="all">Regional case study, Cusco, Peru.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0264410X18314701/gr1" id="lk00005"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0005" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cn0010">
+                  <ce:simple-para id="sp0035" view="all">Description of PROVAC, immunization information system in Mexico.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="left"/>
+                  <colspec colname="col5" align="left"/>
+                  <colspec colname="col6" align="left"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col6">Description: Established in 1991, PROVAC served as the electronic immunization registry of Mexico until 2013. Though not online, PROVAC was a computer-based system that registered the immunization status of children and pregnant women. The registry included each federal entity’s data and was maintained until 2013</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Objectives</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Information included</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Flow of information</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Government entities involved</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Technical support</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Legal basis</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <list id="l0005">
+                              <list-item id="o0005">
+                                 <label>1.</label>
+                                 <para id="p0005" view="all">Estimate vaccination coverages</para>
+                              </list-item>
+                              <list-item id="o0010">
+                                 <label>2.</label>
+                                 <para id="p0010" view="all">Facilitate follow-up of vaccination schedules of children aged &lt;8 years</para>
+                              </list-item>
+                           </list>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Demographics:<list id="l0010">
+                              <list-item id="o0015">
+                                 <label>–</label>
+                                 <para id="p0015" view="all">Name</para>
+                              </list-item>
+                              <list-item id="o0020">
+                                 <label>–</label>
+                                 <para id="p0020" view="all">Birthdate</para>
+                              </list-item>
+                              <list-item id="o0025">
+                                 <label>–</label>
+                                 <para id="p0025" view="all">Sex</para>
+                              </list-item>
+                              <list-item id="o0030">
+                                 <label>–</label>
+                                 <para id="p0030" view="all">Names of parents or guardians</para>
+                              </list-item>
+                              <list-item id="o0035">
+                                 <label>–</label>
+                                 <para id="p0035" view="all">Address</para>
+                              </list-item>
+                              <list-item id="o0040">
+                                 <label>–</label>
+                                 <para id="p0040" view="all">National identification documents (NIDs)</para>
+                              </list-item>
+                           </list>
+                           <br/>Health data:<list id="l0015">
+                              <list-item id="o0045">
+                                 <label>–</label>
+                                 <para id="p0045" view="all">Vaccination site</para>
+                              </list-item>
+                              <list-item id="o0050">
+                                 <label>–</label>
+                                 <para id="p0050" view="all">Dose, date, and antigen of vaccine administered</para>
+                              </list-item>
+                              <list-item id="o0055">
+                                 <label>–</label>
+                                 <para id="p0055" view="all">Nutritional data</para>
+                              </list-item>
+                              <list-item id="o0060">
+                                 <label>–</label>
+                                 <para id="p0060" view="all">Reasons for lack of vaccination</para>
+                              </list-item>
+                           </list>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <list id="l0020">
+                              <list-item id="o0065">
+                                 <label>–</label>
+                                 <para id="p0065" view="all">Health workers enter children’s data in a computer-based system</para>
+                              </list-item>
+                           </list>
+                           <list id="l0025">
+                              <list-item id="o0070">
+                                 <label>–</label>
+                                 <para id="p0070" view="all">Denominators (i.e., target populations) based on local censuses and the National Population Council (CONAPO)</para>
+                              </list-item>
+                           </list>
+                           <list id="l0030">
+                              <list-item id="o0075">
+                                 <label>–</label>
+                                 <para id="p0075" view="all">Numerators based on consolidated records of administered doses</para>
+                              </list-item>
+                           </list>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <list id="l0035">
+                              <list-item id="o0080">
+                                 <label>–</label>
+                                 <para id="p0080" view="all">Secretary of Health</para>
+                              </list-item>
+                              <list-item id="o0085">
+                                 <label>–</label>
+                                 <para id="p0085" view="all">CONAPO</para>
+                              </list-item>
+                           </list>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <list id="l0040">
+                              <list-item id="o0090">
+                                 <label>–</label>
+                                 <para id="p0090" view="all">Secretary of Health through National Center for the Health of Children and Adolescents (CENSIA)</para>
+                              </list-item>
+                           </list>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <list id="l0045">
+                              <list-item id="o0095">
+                                 <label>–</label>
+                                 <para id="p0095" view="all">
+                                    <italic>Official Mexican Policy NOM-004-SSA3-2012</italic> on the medical chart</para>
+                              </list-item>
+                           </list>
+                           <list id="l0050">
+                              <list-item id="o0100">
+                                 <label>–</label>
+                                 <para id="p0100" view="all">No clear legal basis for the system</para>
+                              </list-item>
+                           </list>
+                        </entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0010" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cn0015">
+                  <ce:simple-para id="sp0040" view="all">Challenges and lessons learned, PROVAC, immunization information system in Mexico.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="2">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">
+                           <italic>Challenges</italic>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Governance and sustainability</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">*Lack of central funding for staffing and system maintenance</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Human resources</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">*Difficulty securing and retaining information technology staff</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Processes</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">*No evaluation comparing the system’s estimates to those from other data sources, eventually resulting in a large coverage adjustment and more work in the long-term<br/>*Insufficient ability to adapt to different users' information needs and to changes in national circumstances</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Tools</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">*Open-source and open-access program resulting in multiple versions of the same program, in which different institutions modified the software according to their preferences</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Data use and data quality</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">*Lack of a culture supporting high quality data practices at all levels</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">
+                           <italic>Lessons learned</italic>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Governance and sustainability</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">*Activities empowering community members can promote program sustainability<br/>*Value of involving the private sector in all stages of implementation<br/>*Empowerment and involvement of local governments<br/>*An eHealth strategy allows for a sustainable framework for developing the country's health system</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Human resources</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">*Promote efficient staffing<br/>*Upon implementing a new system, as done after PROVAC, the country should expect resistance on the part medical units responsible for data registration. One solution is to carry out progressive trainings and educational activities in these units.</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Processes</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">*Improved ability to quantify target population</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Tools</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">*Use of single information system may result in time-savings</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Data use and data quality</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">*In calculating coverages, the sources of the numerators and denominators must be determined to anticipate possible causes of underestimates or overestimates. Mexican officials did not realize that the numerator in the PROVAC system was based on doses distributed doses, rather than administered doses. This resulted in overestimated coverage.<br/>*Complete systematic evaluations of data quality as part of the routine program</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0015" rowsep="0" colsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption id="cn0020">
+                  <ce:simple-para id="sp0045" view="all">Description of the Padrón Nominal, immunization information system in Peru.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="left"/>
+                  <colspec colname="col5" align="left"/>
+                  <colspec colname="col6" align="left"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col6">Description: Established in 2012, the Padrón Nominal is a census database that allows online registration of children aged &lt;6 years. The system operates in approximately 2500 health facilities. Health workers use the system to verify children’s identities and to update and validate their immunization records</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Objectives</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Information included</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Flow of information</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Government entities involved</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Technical support</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Legal basis</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1. Provide State programs data for planning and budgeting<br/>
+                           <br/>2. Identify gaps in insurance and access to health and education services<br/>
+                           <br/>3. Provide an updated, standardized registry of children aged &lt;6 years at the district level<br/>
+                           <br/>4. Identify children without national identification documents (NIDs), so that they can be included in civil registries<br/>
+                           <br/>5. Outfit regional governments with a tool to manage interventions to improve health of children aged &lt;6 years</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">36 variables in 5 categories:<br/>
+                           <br/>1. Service site (e.g., health center code)<br/>
+                           <br/>2. Identification (e.g., birthdate and NID)<br/>
+                           <br/>3. Participation in educational and social programs (e.g., school code)<br/>
+                           <br/>4. Relation to head of household (e.g., father’s last name)<br/>
+                           <br/>5. Mother’s identification and poverty level (e.g., mother’s native language)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">-Municipal officials enter children’s data in online system<br/>
+                           <br/>-Denominator (i.e., children aged &lt;6 years) updated via birth certificates issued in hospital and through civil registries and review of NIDs. Municipal and civil registry officials search for new children to include in the system<br/>
+                           <br/>-System updated on daily basis</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">-Ministry of Health<br/>
+                           <br/>-Ministry of Economics and Finance<br/>
+                           <br/>-National Registry of Identification and Civil Status (RENIEC)<br/>
+                           <br/>-Ministry of Development and Social Inclusion</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">-National Registry of Identification and Civil Status (RENIEC) is charged with administering the system, including granting access to users and troubleshooting problems<br/>
+                           <br/>-Ministries of Education and Health review processes and technical information as needed</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">-<italic>Law 29,332 (2013)</italic>: creates “Incentives Plan to Improve Municipal Management”<br/>
+                           <br/>
+                           <italic>Supreme Decree 002</italic>–<italic>2013-EF</italic>: Approves procedures to achieve goals and assign resources for “Incentives Plan to Improve Municipal Management”<br/>
+                           <br/>
+                           <italic>Resolution 389 (2017)</italic>: Approves the Padrón Nominal at the district level for children aged &lt;6 years</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0020" rowsep="0" colsep="0">
+               <ce:label>Table 4</ce:label>
+               <ce:caption id="cn0025">
+                  <ce:simple-para id="sp0050" view="all">Challenges and lessons learned, Padrón Nominal, immunization information system in Peru.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="2">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">
+                           <italic>Challenges</italic>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Governance and sustainability</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">*Lack of economic incentives for implementation in 2016<br/>*Change of regional and local governments<br/>*Lack of involvement of the private sector<br/>*Occasional lack of support from mayors</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Human resources</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">*Health worker perception that more time was spent using the system than serving patients<br/>*High labor burden, resulting in incorrect data registration practices<br/>*Low health worker payments and high turnover</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Processes</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">*Need to more effectively communicate the PN’s advantages to users, national authorities, and the community</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Tools</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">*Existence of different formats<br/>*Lack of connection between the PN with other information systems of the different government entities involved--specifically, the ESNI did not have the PN connected to its immunization information system</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Data use and data quality</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">*Insufficient use of information from the PN by some users and involved programs</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">
+                           <italic>Lessons learned</italic>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Governance and sustainability</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">*Empowerment and involvement of local governments<br/>*Strengthened cooperation among government agencies in different sectors<br/>*Economic incentives serve as good motivation for implementation, but if they are unavailable, municipalities may not continue using the system<br/>*Activities empowering community members can promote program sustainability<br/>*Value of involving the private sector in all stages of implementation<br/>*Coordination between government workers at different levels and in different sectors (i.e., both health and municipal public employees)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Human resources</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">*Education and training sessions are necessary to counter expected health worker resistance</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Processes</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">*The system facilitates more realistic budgeting practices<br/>*Continual feedback on the implementation of the PN was key, and different indicators for monitoring should be established</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Tools</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">*Feasible to link population-based immunization information systems with the nominal registry of Peru</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Data use and data quality</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">*There is multisectoral interest in programs like PN, since their data are useful in different sectors</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tm005">Improving immunization data quality in Peru and Mexico: Two case studies highlighting challenges and lessons learned</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005" author-id="S0264410X18314701-d7b9e3c209161557f2971fefcf348061">
+                  <ce:given-name>Silas P.</ce:given-name>
+                  <ce:surname>Trumbo</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c0010">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  <ce:e-address type="email" xlink:href="mailto:pierce.trumbo@vumc.org" id="em005">pierce.trumbo@vumc.org</ce:e-address>
+               </ce:author>
+               <ce:author id="au010" author-id="S0264410X18314701-3cc2d1baf071151abc3b2260bd715628">
+                  <ce:given-name>Marcela</ce:given-name>
+                  <ce:surname>Contreras</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au015" author-id="S0264410X18314701-f78d2eb8f1beeb2f9bb128ba84c92eca">
+                  <ce:given-name>Ana Gabriela Félix</ce:given-name>
+                  <ce:surname>García</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0020">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au020" author-id="S0264410X18314701-e77b116ed2a20a55831c44e490bb1a3a">
+                  <ce:given-name>Fabio Alberto Escobar</ce:given-name>
+                  <ce:surname>Díaz</ce:surname>
+                  <ce:cross-ref refid="af015" id="c0025">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au025" author-id="S0264410X18314701-642b86b80695d127232ad552b2c0d0cf">
+                  <ce:given-name>Misael</ce:given-name>
+                  <ce:surname>Gómez</ce:surname>
+                  <ce:cross-ref refid="af020" id="c0030">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au030" author-id="S0264410X18314701-bd70f31c232902a2c2967c773ccca724">
+                  <ce:given-name>Verónica</ce:given-name>
+                  <ce:surname>Carrión</ce:surname>
+                  <ce:cross-ref refid="af020" id="c0035">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au035" author-id="S0264410X18314701-230a80faf691c6eeee7e1fc8ad5a4416">
+                  <ce:given-name>Karim Jaqueline Pardo</ce:given-name>
+                  <ce:surname>Ruiz</ce:surname>
+                  <ce:cross-ref refid="af025" id="c0040">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au040" author-id="S0264410X18314701-c73050daccfed26f2eafe55a6199fad8">
+                  <ce:given-name>Renee</ce:given-name>
+                  <ce:surname>Aquije</ce:surname>
+                  <ce:cross-ref refid="af025" id="c0045">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au045" author-id="S0264410X18314701-8e8d1fbb8b1a9b21e41ea23377253d06">
+                  <ce:given-name>M. Carolina</ce:given-name>
+                  <ce:surname>Danovaro-Holliday</ce:surname>
+                  <ce:cross-ref refid="af030" id="c0050">
+                     <ce:sup loc="post">f</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au050" author-id="S0264410X18314701-d35778f2f3fa419c2ea7816d80658f5b">
+                  <ce:given-name>Martha</ce:given-name>
+                  <ce:surname>Velandia-González</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0055">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="af005" affiliation-id="S0264410X18314701-23c9243fcf92b59fbba030b4a23597c7">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Vanderbilt University Medical Center, Nashville, TN, United States</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Vanderbilt University Medical Center</sa:organization>
+                     <sa:city>Nashville</sa:city>
+                     <sa:state>TN</sa:state>
+                     <sa:country>United States</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af010" affiliation-id="S0264410X18314701-d1919610be8f0b176208c420da989d14">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Pan American Health Organization, Comprehensive Family Immunization Unit, Washington, DC, United States</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Pan American Health Organization</sa:organization>
+                     <sa:organization>Comprehensive Family Immunization Unit</sa:organization>
+                     <sa:city>Washington, DC</sa:city>
+                     <sa:country>United States</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af015" affiliation-id="S0264410X18314701-4cbc59047735ab3fdfe196a5ba7ce3d8">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>External Consultant to PAHO, Bogota, Colombia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>External Consultant to PAHO</sa:organization>
+                     <sa:city>Bogota</sa:city>
+                     <sa:country>Colombia</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af020" affiliation-id="S0264410X18314701-3d65a64bd5fa7ccd5f9ad0b065cd2b42">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>Health Secretariat, Mexico City, Mexico</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Health Secretariat</sa:organization>
+                     <sa:city>Mexico City</sa:city>
+                     <sa:country>Mexico</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af025" affiliation-id="S0264410X18314701-9d534a02ae15d20e147526caa79a8599">
+                  <ce:label>e</ce:label>
+                  <ce:textfn>Ministry of Health, Lima, Peru</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Ministry of Health</sa:organization>
+                     <sa:city>Lima</sa:city>
+                     <sa:country>Peru</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af030" affiliation-id="S0264410X18314701-d310eaa38622bc7153a07363df9656b4">
+                  <ce:label>f</ce:label>
+                  <ce:textfn>World Health Organization, Expanded Programme on Immunization, Department of Vaccines, Immunizations, and Biologicals, Geneva, Switzerland</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>World Health Organization</sa:organization>
+                     <sa:organization>Expanded Programme on Immunization</sa:organization>
+                     <sa:organization>Department of Vaccines, Immunizations, and Biologicals</sa:organization>
+                     <sa:city>Geneva</sa:city>
+                     <sa:country>Switzerland</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author at: 1211 Medical Center Drive, Nashville, TN 37232, United States.</ce:text>
+                  <sa:affiliation>
+                     <sa:address-line>1211 Medical Center Drive</sa:address-line>
+                     <sa:city>Nashville</sa:city>
+                     <sa:state>TN</sa:state>
+                     <sa:postal-code>37232</sa:postal-code>
+                     <sa:country>United States</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="5" month="9" year="2018"/>
+            <ce:date-revised day="22" month="10" year="2018"/>
+            <ce:date-accepted day="23" month="10" year="2018"/>
+            <ce:abstract class="author-highlights" xml:lang="en" id="ab005" view="all">
+               <ce:section-title id="st005">Highlights</ce:section-title>
+               <ce:abstract-sec id="as005" view="all">
+                  <ce:simple-para id="sp0005" view="all">
+                     <ce:list id="l0055">
+                        <ce:list-item id="o0105">
+                           <ce:label>•</ce:label>
+                           <ce:para id="p0105" view="all">Global and regional action plans call for improved immunization data quality.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0110">
+                           <ce:label>•</ce:label>
+                           <ce:para id="p0110" view="all">Mexico and Peru created information systems to improve data quality.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0115">
+                           <ce:label>•</ce:label>
+                           <ce:para id="p0115" view="all">Mexico’s immunization registry failed, but the country is reworking its system.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0120">
+                           <ce:label>•</ce:label>
+                           <ce:para id="p0120" view="all">Peru’s system has improved data quality, while addressing social priorities.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0125">
+                           <ce:label>•</ce:label>
+                           <ce:para id="p0125" view="all">Funding and capacity-building affect sustainability of immunization registries.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:abstract class="author" xml:lang="en" id="ab010" view="all">
+               <ce:section-title id="st010">Abstract</ce:section-title>
+               <ce:abstract-sec id="as010" view="all">
+                  <ce:section-title id="st015">Introduction</ce:section-title>
+                  <ce:simple-para id="sp0010" view="all">The Global Vaccine Action Plan and the Regional Immunization Action Plan of the Americas call for countries to improve immunization data quality. Immunization information systems, particularly electronic immunization registries (EIRs), can help to facilitate program management and increase coverage. However, little is known about efforts to develop and implement such systems in low- and middle-income countries. We present the experiences of Mexico and Peru in implementing EIRs.</ce:simple-para>
+               </ce:abstract-sec>
+               <ce:abstract-sec id="as015" view="all">
+                  <ce:section-title id="st020">Methods</ce:section-title>
+                  <ce:simple-para id="sp0015" view="all">We conducted case studies of an EIR in Mexico and of a population registry in Peru. Information was gathered from technical documents, stakeholder focus groups, site visits, and semi-structured interviews of national stakeholders. We organized findings into narratives that emphasized challenges and lessons learned.</ce:simple-para>
+               </ce:abstract-sec>
+               <ce:abstract-sec id="as020" view="all">
+                  <ce:section-title id="st025">Results</ce:section-title>
+                  <ce:simple-para id="sp0020" view="all">Mexico built one of the world’s first EIRs, incorporating novel features such as local-level tracking of patients; however, insufficient resources and poor data registration practices led to the system’s discontinuation. Peru created an information system to improve affiliation to social programs, including the immunization program and quality of demographic data. Mexico’s experience highlights lessons in failed sustainability of an EIR and a laudable effort to reform a country’s information system. Peru’s demonstrates that attempts to improve health and other data may strengthen health systems, including immunization data. Major challenges in information system implementation and sustainability in Peru and Mexico related to funding, clear governance structures, and resistance among health workers.</ce:simple-para>
+               </ce:abstract-sec>
+               <ce:abstract-sec id="as025" view="all">
+                  <ce:section-title id="st030">Discussion</ce:section-title>
+                  <ce:simple-para id="sp0025" view="all">These case studies reinforce the need for countries to ensure adequate funding, plans for sustainability, and health worker capacity-building activities before implementing EIRs. They also suggest new approaches to implementation, including economic incentives for sub-national administrative levels and opportunities to link efforts to improve immunization data with other health and political priorities. More information on best practices is needed to ensure the successful adoption and sustainability of immunization registries in low- and middle-income countries.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords class="keyword" id="kg005" view="all">
+               <ce:section-title id="st035">Keywords</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>Electronic immunization registries</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0010">
+                  <ce:text>Immunization information systems</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>Immunization data</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0020">
+                  <ce:text>National immunization programs</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0025">
+                  <ce:text>Global vaccine action plan</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st040">Introduction</ce:section-title>
+                  <ce:para id="p0130" view="all">High-quality immunization data facilitate the management, financial planning, and vaccine forecasting capacities of national immunization programs (NIPs)<ce:footnote id="fn1">
+                        <ce:label>1</ce:label>
+                        <ce:note-para id="np005" view="all">National immunization programs (NIPs); Pan American Health Organization (PAHO); Technical Advisory Group (TAG); electronic immunization registries (EIRs); Global Vaccine Action Plan (GVAP); the Regional Immunization Action Plan (RIAP); Improving Data Quality for Immunization (IDQi); General Directorate of Health Information (DGIS), and National Center for Childhood and Adolescent Health (CENSIA); Universal Vaccination Program (PVU); Social Security Institute of Mexico (IMSS); Institute of Social Security and Services for State Workers of Mexico (ISSSTE); National Population Council of Mexico (CONAPO); Ministry of Health (MoH); Ministry of Economics and Finance of Peru (MEF); Ministry of Development and Social Inclusion of Peru (MIDIS); National Registry of Identification and Civil Status of Peru (RENIEC); National Identification Document (NID); and <ce:italic>Padrón Nominal</ce:italic> (PN).</ce:note-para>
+                     </ce:footnote>
+                     <ce:cross-ref refid="fn1" id="c0060">
+                        <ce:sup loc="post">1</ce:sup>
+                     </ce:cross-ref> 
+                     <ce:cross-refs refid="b0005 b0010" id="r0005">[1,2]</ce:cross-refs>. A prerequisite for quality data is an information system that monitors vaccine administration and facilitates the aggregation and analysis of coverage information.</ce:para>
+                  <ce:para id="p0135" view="all">Since 2002, the Pan American Health Organization’s (PAHO) Technical Advisory Group (TAG) on Vaccine-preventable Diseases for the Region of the Americas has issued recommendations for countries to improve the quality of their immunization data and information systems <ce:cross-refs refid="b0015 b0020 b0025 b0030 b0035 b0040" id="r0010">[3–8]</ce:cross-refs>. In addition to implementing plans of action for improving data quality, PAHO has provided technical assistance to countries developing or upgrading electronic immunization registries (EIRs) <ce:cross-refs refid="b0030 b0045 b0050" id="r0015">[6,9,10]</ce:cross-refs>. In 2009, PAHO’s TAG recommended that countries document their experiences with electronic immunization registries <ce:cross-ref refid="b0025" id="c0065">[5]</ce:cross-ref>. Additionally, the Global Vaccine Action Plan 2011–2020 (GVAP) and the Regional Immunization Action Plan 2015–2020 (RIAP) in the Americas reinforced the importance of improving immunization data quality <ce:cross-refs refid="b0055 b0060" id="r0020">[11,12]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0140" view="all">As confidential, computerized, population-based registries that track administered vaccine doses, EIRs serve important functions at all levels <ce:cross-ref refid="b0030" id="c0070">[6]</ce:cross-ref>. Locally, registries enable health workers to identify persons due for vaccination and to monitor defaulters <ce:cross-refs refid="b0065 b0070 b0075" id="r0025">[13–15]</ce:cross-refs>. Sub-nationally and nationally, EIRs facilitate coverage monitoring by vaccine, dose, age, and other variables <ce:cross-refs refid="b0030 b0065 b0080" id="r0030">[6,13,16]</ce:cross-refs>. EIRs also facilitate analysis of vaccine safety data, support research initiatives, promote better understanding of vaccine refusals, and inform the design of coverage interventions and outbreak investigations <ce:cross-refs refid="b0065 b0085" id="r0035">[13,17]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0145" view="all">In the last decade, countries in the Americas have transformed their immunization information systems <ce:cross-ref refid="b0080" id="c0075">[16]</ce:cross-ref>. As of 2017, 13<ce:footnote id="fn2">
+                        <ce:label>2</ce:label>
+                        <ce:note-para id="np010" view="all">Argentina, Belize, Brazil, Chile, Colombia, Costa Rica, Grenada, Guatemala, Honduras, Panama, Uruguay, almost every state in the United States, and some Canadian provinces.</ce:note-para>
+                     </ce:footnote>
+                     <ce:cross-ref refid="fn2" id="c0080">
+                        <ce:sup loc="post">2</ce:sup>
+                     </ce:cross-ref> countries and territories have introduced EIRs and eight<ce:footnote id="fn3">
+                        <ce:label>3</ce:label>
+                        <ce:note-para id="np015" view="all">Dominican Republic, Ecuador, Peru, Venezuela, and some Caribbean islands (Turks and Caicos, Montserrat, Saint Kitts and Nevis, and Saint Vincent and the Grenadines).</ce:note-para>
+                     </ce:footnote>
+                     <ce:cross-ref refid="fn3" id="c0085">
+                        <ce:sup loc="post">3</ce:sup>
+                     </ce:cross-ref> are creating or implementing these systems <ce:cross-ref refid="b0090" id="c0090">[18]</ce:cross-ref>. Recent developments include incorporating EIRs into larger health information systems and linking registries to mobile technologies <ce:cross-refs refid="b0080 b0095" id="r0040">[16,19]</ce:cross-refs>. In 2014, Danovaro-Holliday et al. identified lessons learned on EIR implementation. These included the need for permanent financial and human resources and the value of making EIRs useful for health workers to ensure long-term sustainability of the systems <ce:cross-ref refid="b0080" id="c0095">[16]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0150" view="all">Despite the importance of strengthening data quality to the GVAP, there are few published reports on efforts to implement EIRs in low- and middle-income countries <ce:cross-refs refid="b0050 b0100 b0105" id="r0045">[10,20,21]</ce:cross-refs>. In this article, we present the experiences of Mexico and Peru in implementing person-based information systems. We describe how these systems developed as well as the challenges and lessons learned in their implementation. Our findings should be useful to countries seeking to improve immunization data quality and to those developing or strengthening EIRs.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st045">Methodology</ce:section-title>
+                  <ce:para id="p0155" view="all">In 2015 and 2016, we conducted case studies of immunization information systems in Mexico and Peru. These countries were chosen based on their distinct experiences and potential value to other nations. We chose Mexico to document the experience of one of the largest and most diverse countries in pioneering one of the first EIRs in Latin America and the Caribbean. Additionally, we wanted to highlight lessons learned from Mexico’s attempts to improve data quality after discovering that its system was not producing accurate coverage levels <ce:cross-ref refid="b0110" id="c0100">[22]</ce:cross-ref>. We chose Peru to document the county’s unique approach of developing a children population registry not only for the NPI but also for social programs, such as a civil registry. In this respect, we wanted to study how EIRs might be connected to other systems and facilitate inter-ministerial coordination. Both cases were evaluated as part of PAHO’s Improving Data Quality for Immunization (IDQi) project <ce:cross-ref refid="b0115" id="c0105">[23]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0160" view="all">Used commonly in the social sciences, case studies are qualitative evaluations of individuals, institutions, or events that highlight objective data (e.g., facts and key actions) and provide practical information (e.g., reasons for a program’s success) to audiences in similar situations <ce:cross-refs refid="b0120 b0125" id="r0050">[24,25]</ce:cross-refs>. By distinguishing a subject from its contexts, case studies offer comprehensive explanations of events or developments <ce:cross-ref refid="b0120" id="c0110">[24]</ce:cross-ref>. In these case studies, the subjects are Mexico and Peru’s EIRs, while the contexts are the countries’ health systems, economic situations, and political structures.</ce:para>
+                  <ce:para id="p0165" view="all">We gathered information by reviewing national documents on vaccination and information systems, holding focus groups of national stakeholders, conducting semi-structured interviews of individuals, and making visits to sites where immunization data are recorded and analyzed. Initial interviews with stakeholders and a review of documentary evidence helped us to develop interview questions related to the structure and evolution of the immunization information system and to challenges with and lessons learned from implementation. In Peru, we conducted twenty semi-structured interviews and two site visits, one in the regional health network in Cusco (Red de Salud Norte) and another in the municipality of Calca in Cusco. During site visits, we met with immunization officials, municipal authorities, statisticians, managers of information systems, and officials responsible for other health programs (e.g., nutrition). In Mexico, one focus group session was held, with participation of officials from key national agencies, including the NIP, General Directorate of Health Information (DGIS), and National Center for Childhood and Adolescent Health (CENSIA).</ce:para>
+                  <ce:para id="p0170" view="all">We analyzed data by reviewing background documents and transcripts of semi-structured interviews. Information was coded with short phrases, and codes were grouped to identify the main factors affecting information systems in Mexico and Peru <ce:cross-refs refid="b0130 b0135" id="r0055">[26,27]</ce:cross-refs>. To make results more understandable, we organized major findings into challenges and lessons learned.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st050">Results</ce:section-title>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="st055">Mexico</ce:section-title>
+                     <ce:section id="s0025" view="all">
+                        <ce:label>3.1.1</ce:label>
+                        <ce:section-title id="st060">Health system and National immunization program</ce:section-title>
+                        <ce:para id="p0175" view="all">In 1973, Mexico established its NIP, which, in 1991, became the Universal Vaccination Program (PVU)<ce:footnote id="fn4">
+                              <ce:label>4</ce:label>
+                              <ce:note-para id="np020" view="all">All acronyms of public agencies in Mexico and Peru are provided in Spanish (e.g., PVU for <ce:italic>Programa Universal de Vacunación</ce:italic>).</ce:note-para>
+                           </ce:footnote>
+                           <ce:cross-ref refid="fn4" id="c0115">
+                              <ce:sup loc="post">4</ce:sup>
+                           </ce:cross-ref> 
+                           <ce:cross-ref refid="b0140" id="c0120">[28]</ce:cross-ref>. At the national level, the Secretary of Health manages the PVU, with additional oversight from the Social Security Institute (IMSS) and the Institute of Social Security and Services for State Workers (ISSSTE). At the local and state levels, health services and the IMSS, ISSSTE, and other public agencies implement vaccination activities and partner with health institutions to offer immunization services. National and state immunization technical advisory groups collaborate with the PVU to standardize schedules and ensure vaccine availability <ce:cross-ref refid="b0145" id="c0125">[29]</ce:cross-ref>.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0030" view="all">
+                        <ce:label>3.1.2</ce:label>
+                        <ce:section-title id="st065">Immunization information system</ce:section-title>
+                        <ce:para id="p0180" view="all">In 1991, Mexico established PROVAC, a computerized program to record immunization data in all of the country’s health facilities, including private facilities <ce:cross-ref refid="b0140" id="c0130">[28]</ce:cross-ref> (<ce:cross-ref refid="t0005" id="c0135">Table 1</ce:cross-ref>
+                           <ce:float-anchor refid="t0005"/>). In 1995, the PVU began organizing immunization records in PROVAC by vaccine type. At this time, the Secretary of Health added nutrition indicators (weight and height), and, in 1999, a unique identifier was added to reduce the number of duplicate entries. In 2000, officials separated administrative records from national census data and started using only PROVAC to determine numerators to calculate coverage rates, using population projections as denominators.</ce:para>
+                        <ce:para id="p0185" view="all">Though official coverage rates were high during this time, there were concerns that the levels might be falsely elevated. During the system’s 18-year history, Mexico developed different versions of PROVAC both because the program was open-source and because changes were required to include eight vaccines added to the PVU from 1991 to 2008.</ce:para>
+                        <ce:para id="p0190" view="all">In 2013, Mexico stopped using PROVAC due to coverage discrepancies. The National Population Council (CONAPO) had completed a data reconciliation with information from the National Institute of Statistics and Geography, which showed that PROVAC’s denominators were underestimated and that coverages were thus overestimated. Coverages estimated at near 100% dropped to around 80% (e.g., 99% DTP3 for 2012 vs. 83% DTP3 for 2013) <ce:cross-refs refid="b0150 b0155" id="r0060">[30,31]</ce:cross-refs>.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0035" view="all">
+                        <ce:label>3.1.3</ce:label>
+                        <ce:section-title id="st070">Implementation challenges</ce:section-title>
+                        <ce:para id="p0195" view="all">PROVAC faced many challenges, including the accelerated inclusion of new vaccines and insufficient resources and information technology personnel devoted to the system (<ce:cross-ref refid="t0010" id="c0140">Table 2</ce:cross-ref>
+                           <ce:float-anchor refid="t0010"/>). Furthermore, interviewed officials at different levels of the Mexican health system indicated that the major cause of PROVAC’s discontinuation was poor data recording practices.</ce:para>
+                        <ce:para id="p0200" view="all">PROVAC’s open coding exposed it to errors. Between and within regions, users and administrators created different versions of the system, resulting in inconsistencies and the potential for data manipulation. Complicating matters were errors in numerators and denominators. Denominators were never validated against CONAPO’s data, and some numerators had been based on distributed rather than administered doses. This resulted partly from PROVAC’s design. Although health workers linked administered doses to patients at the local level, the system was never online, meaning coverage information at higher levels was based on aggregated data and prone to substitute estimations (i.e., doses distributed rather than doses administered).</ce:para>
+                     </ce:section>
+                     <ce:section id="s0040" view="all">
+                        <ce:label>3.1.4</ce:label>
+                        <ce:section-title id="st075">Lessons learned and next steps</ce:section-title>
+                        <ce:para id="p0205" view="all">In 2013, Mexico acknowledged the poor quality of vaccination coverage estimates and began to revamp its information system (<ce:cross-ref refid="t0010" id="c0145">Table 2</ce:cross-ref>). While developing a new EIR, the country returned to using administrative doses to calculate coverage, started to modernize its informatics system, and began to revise local and regional population estimates. These efforts have been globally recognized, and other countries have been encouraged to follow Mexico’s example of transparency and accountability <ce:cross-ref refid="b0155" id="c0150">[31]</ce:cross-ref>.</ce:para>
+                        <ce:para id="p0210" view="all">Nevertheless, the transition has been difficult due to challenges in coordinating public and private providers of immunization services and because of Mexico’s fragmented health system with multiple providers and health insurance mechanisms <ce:cross-refs refid="b0160 b0165" id="r0065">[32,33]</ce:cross-refs>. Some health workers resent returning to recording administered doses on paper, and since the system is no longer individualized, it may be more difficult to identify undervaccinated children. To address these challenges, the government has held trainings for health workers on why changes to the EIR occurred and on how to use the new system.</ce:para>
+                     </ce:section>
+                  </ce:section>
+                  <ce:section id="s0045" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="st080">Peru</ce:section-title>
+                     <ce:section id="s0050" view="all">
+                        <ce:label>3.2.1</ce:label>
+                        <ce:section-title id="st085">Health system and the National immunization program</ce:section-title>
+                        <ce:para id="p0215" view="all">Peru established its NIP in 1979. Coverages have generally been high (DTP3 88–95% between 2012 and 2016) <ce:cross-ref refid="b0170" id="c0155">[34]</ce:cross-ref>. In the early 2000s, Peru began decentralizing its government, and the NIP was integrated into the Ministry of Health’s (MoH) Comprehensive Child Health Care program <ce:cross-refs refid="b0175 b0180" id="r0070">[35,36]</ce:cross-refs>. Renamed the National Immunization Strategy (ESNI) in 2004, the immunization program offers 15 free vaccines <ce:cross-ref refid="b0175" id="c0160">[35]</ce:cross-ref>. National agencies involved in immunization include the Ministry of Economics and Finance (MEF); the Ministry of Development and Social Inclusion (MIDIS), which oversees efforts to reduce health inequalities; and the National Registry of Identification and Civil Status (RENIEC), which is charged with issuing each Peruvian a National Identification Document (NID) <ce:cross-refs refid="b0185 b0190" id="r0075">[37,38]</ce:cross-refs>.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0055" view="all">
+                        <ce:label>3.2.2</ce:label>
+                        <ce:section-title id="st090">The Padrón Nominal and its impact on immunization data</ce:section-title>
+                        <ce:para id="p0220" view="all">In 2012, Peru created a census database, the <ce:italic>Padrón Nominal</ce:italic> (PN), of children aged &lt;6 years to improve affiliation to social programs and the quality of health and demographic data (<ce:cross-ref refid="t0015" id="c0165">Table 3</ce:cross-ref>
+                           <ce:float-anchor refid="t0015"/>).</ce:para>
+                        <ce:para id="p0225" view="all">Three major political issues led to the PN’s creation. The first was the longstanding problem of citizens lacking representation in civil registries <ce:cross-refs refid="b0190 b0195" id="r0080">[38,39]</ce:cross-refs>. In 2010, an estimated 4.7 million Peruvians (16% of the population), 4.6 million of whom were aged &lt;18 years, lacked NIDs, and could not fully access social services or exercise their constitutional rights <ce:cross-ref refid="b0195" id="c0170">[39]</ce:cross-ref>. Second, growing pressure to reduce economic and health disparities underscored the need to develop systems to detect low vaccination coverages <ce:cross-ref refid="b0200" id="c0175">[40]</ce:cross-ref>. Finally, the MoH and MEF argued that a database that permitted monitoring of individuals would improve the performance of ESNI and health programs.</ce:para>
+                        <ce:para id="p0230" view="all">Developing the PN required Peru to evaluate its birth registration practices. Since 2004, the ESNI had used a paper-based registry linked to the MoH’s health and target data from census projections and, starting in 2016, had used birth registration systems to calculate immunization coverage <ce:cross-ref refid="b0180" id="c0180">[36]</ce:cross-ref>. Previously, the MoH required health workers in delivery rooms to record all live births in a computer database <ce:cross-ref refid="b0205" id="c0185">[41]</ce:cross-ref>. Although this practice should have resulted in the creation of birth certificates and subsequent generation of NIDs, the system missed many children <ce:cross-ref refid="b0195" id="c0190">[39]</ce:cross-ref>.</ce:para>
+                        <ce:para id="p0235" view="all">To capture children without documentation, the MoH, MEF, and MIDIS incentivized municipalities to identify all children aged &lt;6 years in their areas through collaboration with health facilities and civil registration offices. The MEF required local governments to capture all users of immunization services in registries as a condition of financing the PN <ce:cross-ref refid="b0210" id="c0195">[42]</ce:cross-ref>. Similarly, MIDIS incentivized municipalities to implement the PN through its “Sello Muncipal” program, which provided recognition and financial incentives for municipalities for completing various health indicators, including implementation of the PN. In response, local governments employed different strategies for data collection. Some conducted house-to-house searches; others, particularly large municipalities, requested that health facilities generate lists of all persons aged &lt;6 years in their jurisdictions.</ce:para>
+                        <ce:para id="p0240" view="all">From 2013 to 2016, these incentives led to widespread use of the <ce:italic>Padrón.</ce:italic> The PN started collecting immunization data and soon expanded to nutrition and other health programs. According to local and national officials, the system’s advantages include saved time through the use of a single data entry point for different interventions, better information for planning and decision-making (e.g., more accurate vaccine forecasting), generation of NIDs for children not recorded in the civil registry, and improved identification of target populations for various health interventions. In 2016, MEF decided to stop funding incentives to use the PN, believing that the system had been sufficiently established in the municipalities. However, in 2017, funding resumed, and many municipalities continue to use the system today.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0060" view="all">
+                        <ce:label>3.2.3</ce:label>
+                        <ce:section-title id="st095">Implementation challenges</ce:section-title>
+                        <ce:para id="p0245" view="all">Challenges in implementing the PN include reconciling discrepancies in denominator data (PN’s population figures vs. census data), difficulties connecting the system to nominal registries, and lack of funding from the MEF in 2016 (<ce:cross-ref refid="t0020" id="c0200">Table 4</ce:cross-ref>
+                           <ce:float-anchor refid="t0020"/>). The Region of Cusco illustrates the PN’s achievements and challenges (<ce:cross-ref refid="f0005" id="c0205">Fig. 1</ce:cross-ref>
+                           <ce:float-anchor refid="f0005"/>).</ce:para>
+                     </ce:section>
+                     <ce:section id="s0065" view="all">
+                        <ce:label>3.2.4</ce:label>
+                        <ce:section-title id="st100">Lessons learned and next steps</ce:section-title>
+                        <ce:para id="p0250" view="all">Due to the aforementioned challenges, the PN remains incompletely implemented. Even so, the system’s capacity to identify children lacking health or social interventions and to generate useful data for decision-making suggests that it may become a permanent policy tool (<ce:cross-ref refid="t0020" id="c0210">Table 4</ce:cross-ref>). The PN has promoted better cooperation among government agencies—MoH (vaccines), MEF (public financing), MIDIS (social programs), and RENIEC (civil registration)—and is an excellent example of a multi-purpose information system. Other lessons learned in implementation include the value of economic incentives, the effectiveness of linking immunization advocacy to larger political movements (e.g., lack of civil registration), and the importance of trainings for health workers and community members. As officials in Cusco indicated, the sustainability of the PN ultimately requires the community’s investment. By educating the public on the benefits of the <ce:italic>Padrón</ce:italic>, including access to health services, civil registration, and social services, parents may come to request the system and increase pressure on the government to sustain the program.</ce:para>
+                     </ce:section>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0070" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st105">Discussion</ce:section-title>
+                  <ce:para id="p0255" view="all">Extending the benefits of immunization to all people requires reliable and timely immunization data <ce:cross-ref refid="b0005" id="c0215">[1]</ce:cross-ref>. Mexico and Peru are two examples of national initiatives to improve data quality. Having created one of the world’s first EIRs in 1991, Mexico ultimately devoted insufficient resources and attention to PROVAC, resulting in poor data registration practices and the system’s discontinuation. In 2012, Peru created the <ce:italic>Padrón Nominal,</ce:italic> which incorporated some of PROVAC’s best features, including non-vaccine indicators and local-level tracking of patients. Mexico’s experience shows both failed implementation and a laudable effort to reform its data system. Peru’s demonstrates that efforts to improve immunization data may strengthen health systems, increase the uptake of other health interventions, and address political and social priorities.</ce:para>
+                  <ce:para id="p0260" view="all">Compared to other aspects of NIPs in low- and middle-income countries, EIRs may be understudied and underappreciated. While sustainable funding and health worker training are key determinants of EIR sustainability, relatively little is known about how low- and middle-income countries can sustain the systems <ce:cross-ref refid="b0070" id="c0220">[14]</ce:cross-ref>. Countries likely recognize the importance of key components of an enabling environment—i.e., funding, capacity building, and a trained workforce—but struggle with implementation due to limited resources and competing priorities. Based on Mexico and Peru’s experiences, we wish to highlight four lessons relevant to sustainable implementation of EIRs.</ce:para>
+                  <ce:para id="p0265" view="all">First, rationales for establishing or strengthening EIRs may extend beyond immunization to other health and political priorities. As immunization integrates into other health services, governments are more likely to support proposals for multi-purpose interventions. The PN’s creation in Peru, supported by at least four governmental agencies, exemplifies this point. Second, EIR sustainability requires the investment of various government agencies, and investment might be increased if each agency understands what it stands to gain. In Peru, the MEF sought better data for planning purposes, the MoH sought higher coverages, and the MIDIS sought more equitable health outcomes. In designing EIR proposals and sustainability plans, health officials should thus consider how the system will benefit all stakeholders. Third, predictable funding is necessary, and countries lacking funding should likely delay implementation until resources are available and ideally protected by long-term strategies, with clear governance structures and budgets secured by legislation. Countries may consider innovative funding models, such as the economic incentives used in Peru. These models may facilitate implementation and prove cost-effective if they improve service quality.</ce:para>
+                  <ce:para id="p0270" view="all">Finally, EIR sustainability depends on the system’s quality and adaptability. Recommendations exist for variables, such as the child’s age, and for guiding principles, such as entering data as close to vaccination as possible in terms of time and place <ce:cross-ref refid="b0080" id="c0225">[16]</ce:cross-ref>. To these, we might add that program developers and national officials must balance pressures to modify the EIR for user preference with the need to maintain a uniform system across the country, particularly as Mexico’s system’s open-source coding contributed to its ultimate downfall. Countries should have information technology personnel devoted solely to the management and updating of the EIR.</ce:para>
+                  <ce:para id="p0275" view="all">Several limitations should be acknowledged. Case studies offer in-depth explanations of complex events with multiple causes but are criticized as lacking rigor and producing non-generalizable results <ce:cross-ref refid="b0120" id="c0230">[24]</ce:cross-ref>. Although we tried to use thorough qualitative methods, different investigators may have reached different conclusions. In evaluating the applicability of our findings to immunization data quality improvement efforts in other countries, national officials should consider their countries’ health, political, and social factors. Additionally, the PN, though promising, is an ongoing project whose ultimate effectiveness is unknown. Finally, while there is considerable evidence associating EIRs and eHealth initiatives with improved immunization coverage levels, these impact studies are from developed countries <ce:cross-refs refid="b0065 b0215 b0220" id="r0085">[13,43,44]</ce:cross-refs>. Impact studies of EIRs in low- and middle-income countries are needed to better understand these interventions.</ce:para>
+                  <ce:para id="p0280" view="all">To deliver the benefits of vaccination to all persons, countries in the Americas and other WHO regions must continue to improve their immunization information systems. Mexico and Peru’s experiences should be helpful to other countries seeking to use EIRs. More information on best practices and lessons learned is needed to ensure the successful implementation of EIRs in low- and middle-income countries.</ce:para>
+               </ce:section>
+               <ce:section id="s0075" view="all">
+                  <ce:section-title id="st110">Declaration of competing interests</ce:section-title>
+                  <ce:para id="p0285" view="all">The authors have no competing interest to declare.</ce:para>
+               </ce:section>
+               <ce:section id="s0080" view="all">
+                  <ce:section-title id="st115">Funding</ce:section-title>
+                  <ce:para id="p0290" view="all">Grant # OPP1084485 (2013), Bill and Melinda Gates Foundation.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section role="supporting" id="s0085" view="all">
+                  <ce:section-title id="st120">Acknowledgments</ce:section-title>
+                  <ce:para id="p0295" view="all">The authors thank the national officials and health workers in Mexico and Peru who participated in these case studies and who work to ensure that all children in their countries have access to life-saving vaccines. We also thank Elsy M. Dumit, MPH, and Robin Mowson, MA, MPH, CPH, for their helpful reviews of this manuscript. Lastly, we appreciate the financial support from the <ce:grant-sponsor sponsor-id="https://doi.org/10.13039/100000865" xlink:type="simple" id="gp005" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Bill and Melinda Gates Foundation</ce:grant-sponsor> that made this work possible.</ce:para>
+               </ce:section>
+               <ce:section role="contributing" id="s0090" view="all">
+                  <ce:section-title id="st125">Contributors</ce:section-title>
+                  <ce:para id="p0300" view="all">MC, AGFG, MCDH, and MVG conceived of and designed the study. FAED led country site visits, with input from MC, MVG, and MCDH, and provided initial data analysis. FAED, SPT, AGFG, and MC participated in the initial data analysis. SPT drafted the manuscript with initial revisions from MCHD, MVG, MC, and AGFG and subsequent feedback from all authors. MG, VC, KJPR, and RA participated in the project and provided key inputs from their countries, validating that all national information was correct and complete. All authors have reviewed and approved the final version of the manuscript. All authors confirm they meet the ICMJE criteria for authorship.</ce:para>
+               </ce:section>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st130">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Bosch-Capblanch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Ronveaux</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Doyle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Remedios</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bchir</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Accuracy and quality of immunization information systems in forty-one low income countries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Trop Med Int Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2</sb:first-page>
+                              <sb:last-page>10</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1111/j.1365-3156.2008.02181.x</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Ronveaux</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Rickert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Hadler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Groom</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lloyd</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bchir</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The immunization data quality audit: verifying the quality and consistency of immunization monitoring systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bull World Health Organ</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>503</sb:first-page>
+                              <sb:last-page>510</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>[3]</ce:label>
+                     <ce:other-ref id="h0015">
+                        <ce:textref>Pan American Health Organization. XV Meeting of technical advisory group on vaccine-preventable diseases. Washington D.C.: 2002. &lt;<ce:inter-ref xlink:href="http://www1.paho.org/hq/dmdocuments/2009/tag15_2002_conclusions_Eng.pdf" xlink:type="simple" id="ir005">http://www1.paho.org/hq/dmdocuments/2009/tag15_2002_conclusions_Eng.pdf&gt;</ce:inter-ref> [accessed August 7, 2018].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref id="h0020">
+                        <ce:textref>Pan American Health Organization. XVII Meeting of the technical advisory committee on vaccine-preventable diseases. Guatemala City: 2006. &lt;<ce:inter-ref xlink:href="http://www1.paho.org/hq/dmdocuments/2009/tag17_2006_FinalReport_Eng.pdf" xlink:type="simple" id="ir010">http://www1.paho.org/hq/dmdocuments/2009/tag17_2006_FinalReport_Eng.pdf</ce:inter-ref>&gt; [accessed August 7, 2018].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>[5]</ce:label>
+                     <ce:other-ref id="h0025">
+                        <ce:textref>Pan American Health Organization. XVIII meeting of the technical advisory group on vaccine-preventable diseases. San Jose, Costa Rica: 2009. &lt;<ce:inter-ref xlink:href="http://www1.paho.org/hq/dmdocuments/2010/tag18_2009_Final%20Report_Eng.pdf" xlink:type="simple" id="ir015">http://www1.paho.org/hq/dmdocuments/2010/tag18_2009_Final%20Report_Eng.pdf</ce:inter-ref>&gt; [accessed August 7, 2018].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>[6]</ce:label>
+                     <ce:other-ref id="h0030">
+                        <ce:textref>Pan American Health Organization. XIX Meeting of technical advisory group on vaccine-preventable diseases. Washington DC: 2011. &lt;<ce:inter-ref xlink:href="https://www.paho.org/hq/dmdocuments/2011/vaccination-tag19-2011-FinalReport-Eng.pdf" xlink:type="simple" id="ir020">https://www.paho.org/hq/dmdocuments/2011/vaccination-tag19-2011-FinalReport-Eng.pdf</ce:inter-ref>&gt; [accessed August 7, 2018].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref id="h0035">
+                        <ce:textref>Pan American Health Organization. XXI Technical Advisory group meeting on vaccine-preventable diseases. Quito, Ecuador: 2013. &lt;<ce:inter-ref xlink:href="https://www.paho.org/hq/dmdocuments/2013/vaccine-preventable-diseases-tag21-2013-FinalReport-Eng.pdf" xlink:type="simple" id="ir025">https://www.paho.org/hq/dmdocuments/2013/vaccine-preventable-diseases-tag21-2013-FinalReport-Eng.pdf</ce:inter-ref>&gt; [accessed August 7, 2018].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref id="h0040">
+                        <ce:textref>Pan American Health Organization. XXII technical advisory group meeting on vaccine-preventable diseases. Washington D.C.: 2014. &lt;<ce:inter-ref xlink:href="https://www.paho.org/hq/dmdocuments/2014/vaccine-preventable-diseases-tag22-2014-FinalReport-Eng.pdf" xlink:type="simple" id="ir030">https://www.paho.org/hq/dmdocuments/2014/vaccine-preventable-diseases-tag22-2014-FinalReport-Eng.pdf</ce:inter-ref>&gt; [accessed August 7, 2018].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="h0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Dietz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Venczel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Izurieta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Stroh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.R.</ce:given-name>
+                                 <ce:surname>Zell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Monterroso</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Assessing and monitoring vaccination coverage levels: lessons from the Americas</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rev Panam Salud Publica</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>432</sb:first-page>
+                              <sb:last-page>442</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="h0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Ronveaux</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Arrieta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Curto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Laurani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Danovaro-Holliday</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Assessment of the quality of immunization data produced by the national individual registration system in Uruguay, 2006</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rev Panam Salud Publica</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>153</sb:first-page>
+                              <sb:last-page>160</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="h0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Global Vaccine Action Plan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Decade of vaccine collaboration</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Vaccine</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>Suppl 2</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>B5</sb:first-page>
+                              <sb:last-page>B31</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref id="h0060">
+                        <ce:textref>54th Directing Council Pan American Health Organization. Regional immunization action plan (RIAP) 2015. &lt;<ce:inter-ref xlink:href="https://www.paho.org/hq/index.php?option=com_content%26view=article%26id=13101%26Itemid=42296%26lang=en" xlink:type="simple" id="ir035">https://www.paho.org/hq/index.php?option=com_content&amp;view=article&amp;id=13101&amp;Itemid=42296&amp;lang=en</ce:inter-ref>&gt; [accessed August 7, 2018].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Groom</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.P.</ce:given-name>
+                                 <ce:surname>Hopkins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Pabst</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Murphy Morgan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Patel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Calonge</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Immunization information systems to increase vaccination rates</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Public Heal Manage Pract</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>227</sb:first-page>
+                              <sb:last-page>248</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1097/PHH.0000000000000069</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kempe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.L.</ce:given-name>
+                                 <ce:surname>Beaty</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Steiner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.A.</ce:given-name>
+                                 <ce:surname>Pearson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.E.</ce:given-name>
+                                 <ce:surname>Lowery</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.F.</ce:given-name>
+                                 <ce:surname>Daley</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The regional immunization registry as a public health tool for improving clinical practice and guiding immunization delivery policy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Am J Public Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>94</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>967</sb:first-page>
+                              <sb:last-page>972</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kempe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.T.</ce:given-name>
+                                 <ce:surname>O ’leary</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Shoup</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Stokley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lockhart</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Furniss</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Parental choice of recall method for HPV vaccination: a pragmatic trial</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Pediatrics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>137</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2016 Mar</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e20152857</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1542/peds.2015-2857</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Danovaro-Holliday</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Ortiz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Cochi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Ruiz-Matus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electronic immunization registries in Latin America: progress and lessons learned</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rev Panam Salud Publica</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>453</sb:first-page>
+                              <sb:last-page>457</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="h0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.Y.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Weissman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>McLaren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Thomas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Campbell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Mbafor</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Improving the quality of immunization delivery to an at-risk population: a comprehensive approach</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Pediatrics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>129</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e496</sb:first-page>
+                              <sb:last-page>e503</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1542/peds.2010-3610</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>[18]</ce:label>
+                     <ce:other-ref id="h0090">
+                        <ce:textref>Pan American Health Organization. Final report of the XXIV technical advisory group (TAG) meeting on vaccine-preventable diseases of the Pan American Health Organization. Panama City, Panama: 2017. &lt;<ce:inter-ref xlink:href="https://www.paho.org/hq/index.php?option=com_content%26view=article%26id=1862%3Areports-technical-advisory-group-vaccine-preventable-diseases%26catid=1549%3Ainformation-products%26Itemid=39430%26lang=en" xlink:type="simple" id="ir040">https://www.paho.org/hq/index.php?option=com_content&amp;view=article&amp;id=1862%3Areports-technical-advisory-group-vaccine-preventable-diseases&amp;catid=1549%3Ainformation-products&amp;Itemid=39430&amp;lang=en</ce:inter-ref>&gt; [accessed August 7, 2018].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="h0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Blaya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.S.F.</ce:given-name>
+                                 <ce:surname>Fraser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Holt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>E-Health technologies show promise in developing countries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Health Aff</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>244</sb:first-page>
+                              <sb:last-page>251</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1377/hlthaff.2009.0894</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>[20]</ce:label>
+                     <ce:other-ref id="h0100">
+                        <ce:textref>Strategic advisory group of experts on immunization. 2016 midterm review of the global vaccine vaccine action plan; 2016. &lt;<ce:inter-ref xlink:href="http://www.who.int/immunization/sage/meetings/2016/october/1_Draft_GVAP_Assessment_report_2016_for_Yellow_Book_28_Sep_2016.pdf" xlink:type="simple" id="ir045">http://www.who.int/immunization/sage/meetings/2016/october/1_Draft_GVAP_Assessment_report_2016_for_Yellow_Book_28_Sep_2016.pdf</ce:inter-ref>&gt; [accessed August 7, 2018].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>[21]</ce:label>
+                     <ce:other-ref id="h0105">
+                        <ce:textref>BID Initiative. PATH: BID Initiative n.d. &lt;<ce:inter-ref xlink:href="https://www.path.org/projects/bid-initiative.php" xlink:type="simple" id="ir050">https://www.path.org/projects/bid-initiative.php</ce:inter-ref>&gt; [accessed August 7, 2018].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="h0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.I.</ce:given-name>
+                                 <ce:surname>Santos</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>La vacunación en México en el marco de las “décadas de las vacunas”: logros y desafíos</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Gaceta Médica de México</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>150</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>180</sb:first-page>
+                              <sb:last-page>188</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>[23]</ce:label>
+                     <ce:other-ref id="h0115">
+                        <ce:textref>Danovaro-Holliday, MC. A productive 2016 on immunization monitoring and data quality. Global immunization news. January 2017. &lt;<ce:inter-ref xlink:href="http://www.who.int/immunization/GIN_January_2017.pdf" xlink:type="simple" id="ir055">http://www.who.int/immunization/GIN_January_2017.pdf</ce:inter-ref>&gt; [accessed August 7, 2018].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="h0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zainal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Case study as a research method</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Kemanus Bil</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0125">
+                     <ce:label>[25]</ce:label>
+                     <ce:other-ref id="h0125">
+                        <ce:textref>Neale P. Preparing a case study: a guide for designing and conducting a case study for evaluation input; 2006. &lt;<ce:inter-ref xlink:href="http://www2.pathfinder.org/site/DocServer/m_e_tool_series_case_study.pdf" xlink:type="simple" id="ir060">http://www2.pathfinder.org/site/DocServer/m_e_tool_series_case_study.pdf</ce:inter-ref>&gt; [accessed August 7, 2018].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="h0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Liamputtong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Qualitative data analysis: conceptual and practical considerations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Health Promot J Austr</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>133</sb:first-page>
+                              <sb:last-page>139</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0135">
+                     <ce:label>[27]</ce:label>
+                     <ce:other-ref id="h0135">
+                        <ce:textref>Ulin PR. Investigación aplicada en salud pública: Métodos cualitativos. Washington DC: Organización Panamericana de la Salud; 2006. &lt;<ce:inter-ref xlink:href="http://iris.paho.org/xmlui/bitstream/handle/123456789/729/9275316147.pdf" xlink:type="simple" id="ir065">http://iris.paho.org/xmlui/bitstream/handle/123456789/729/9275316147.pdf</ce:inter-ref>&gt; [accessed August 7, 2018].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="h0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.I.</ce:given-name>
+                                 <ce:surname>Santos</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>El Programa Nacional de Vacunación: orgullo de México</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rev Fac Med UNAM</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>142</sb:first-page>
+                              <sb:last-page>153</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0145">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="h0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Díaz-Ortega</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Ferreira-Guerrero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Trejo-Baldivia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Téllez-Rojo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Ferreyra-Reyes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hernández-Serrato</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cobertura de vacunación en niños y adolescentes en México: esquema completo, incompleto y no vacunación</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Salud Publica Mex</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>S289</sb:first-page>
+                              <sb:last-page>S299</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0150">
+                     <ce:label>[30]</ce:label>
+                     <ce:other-ref id="h0150">
+                        <ce:textref>Pan American Health Organization. PAHO WHO | Data and Statistics (IM) n.d. &lt;<ce:inter-ref xlink:href="http://www2.paho.org/hq/index.php?option=com_content%26view=article%26id=2043%26Itemid=2032%26lang=en" xlink:type="simple" id="ir070">http://www2.paho.org/hq/index.php?option=com_content&amp;view=article&amp;id=2043&amp;Itemid=2032&amp;lang=en</ce:inter-ref>&gt; [accessed August 7, 2018].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0155">
+                     <ce:label>[31]</ce:label>
+                     <ce:other-ref id="h0155">
+                        <ce:textref>Strategic advisory group of experts on immunization. 2015 Assessment report of the global vaccine action plan strategic advisory group of experts on immunization; 2015. &lt;<ce:inter-ref xlink:href="http://www.who.int/immunization/global_vaccine_action_plan/SAGE_GVAP_Assessment_Report_2015_EN.pdf" xlink:type="simple" id="ir075">http://www.who.int/immunization/global_vaccine_action_plan/SAGE_GVAP_Assessment_Report_2015_EN.pdf</ce:inter-ref>&gt; [accessed August 7, 2018].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0160">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="h0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Gomez-Dantés</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sesma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.M.</ce:given-name>
+                                 <ce:surname>Becerril</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Knaul</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Arreola</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Frenk</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sistema de Salud de México</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Salud Publica Mex</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>S220</sb:first-page>
+                              <sb:last-page>S232</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0165">
+                     <ce:label>[33]</ce:label>
+                     <ce:other-ref id="h0165">
+                        <ce:textref>Unpublished report. Evaluación Internacional del Programa de Vacunación Universal de México: Informe Final; 2014.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0170">
+                     <ce:label>[34]</ce:label>
+                     <ce:other-ref id="h0170">
+                        <ce:textref>Pan American Health Organization. Country Profiles (IM) n.d. &lt;<ce:inter-ref xlink:href="http://www.paho.org/hq/index.php?option=com_content%26view=article%26id=2577%3A2010-country-profiles-im%26catid=956%3Amain-page%26Itemid=2065%26lang=en" xlink:type="simple" id="ir080">http://www.paho.org/hq/index.php?option=com_content&amp;view=article&amp;id=2577%3A2010-country-profiles-im&amp;catid=956%3Amain-page&amp;Itemid=2065&amp;lang=en</ce:inter-ref>&gt; [accessed August 7, 2018].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0175">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference id="h0175">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Alcalde-Rabanal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Lazo-González</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Nigenda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The health system of Peru</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Salud Publica Mex</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>Suppl 2</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>s243</sb:first-page>
+                              <sb:last-page>s254</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0180">
+                     <ce:label>[36]</ce:label>
+                     <ce:other-ref id="h0180">
+                        <ce:textref>Ministerio de Salud, Organización Panamericana de la Salud. Evaluación internacional de la estrategia sanitaria nacional de inmunizaciones del Perú 2014. Lima: Ministerio de Salud, Organización Panamericana de la Salud; 2014.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0185">
+                     <ce:label>[37]</ce:label>
+                     <ce:other-ref id="h0185">
+                        <ce:textref>Ministerio de Desarrollo e Inclusión Social. Ministerio de Desarrollo e Inclusión Social: ¿Quiénes somos? n.d. &lt;<ce:inter-ref xlink:href="http://www.midis.gob.pe/index.php/es/nuestra-institucion/sobre-midis/quienes-somos" xlink:type="simple" id="ir085">http://www.midis.gob.pe/index.php/es/nuestra-institucion/sobre-midis/quienes-somos</ce:inter-ref>&gt; [accessed August 7, 2018].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0190">
+                     <ce:label>[38]</ce:label>
+                     <ce:other-ref id="h0190">
+                        <ce:textref>Reuben W, Carbonari F. Identification as a national priority: the unique case of Peru. Center for global development. vol. 4164000416. Working paper 454, May 2017. &lt;<ce:inter-ref xlink:href="https://www.cgdev.org/sites/default/files/identification-national-priority-unique-case-peru.pdf" xlink:type="simple" id="ir090">https://www.cgdev.org/sites/default/files/identification-national-priority-unique-case-peru.pdf</ce:inter-ref>&gt; [accessed August 7, 2018].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0195">
+                     <ce:label>[39]</ce:label>
+                     <ce:other-ref id="h0195">
+                        <ce:textref>Registro nacional de identificación y estado civil. Plan Nacional Perú Contra la Indocumentación 2011-2015. January 2012. Lima, Peru. &lt;<ce:inter-ref xlink:href="http://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/9CB85613535A717905257C050060EC79/$FILE/plan-nacional-2011-2015.pdf" xlink:type="simple" id="ir095">http://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/9CB85613535A717905257C050060EC79/$FILE/plan-nacional-2011-2015.pdf</ce:inter-ref>&gt; [accessed August 7, 2018].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0200">
+                     <ce:label>[40]</ce:label>
+                     <ce:other-ref id="h0200">
+                        <ce:textref>Ministerio de la Mujer y Poblaciones Vulnerables. Plan Nacional de Acción por la Infancia y la Adolescencia 2012 – 2021. Lima, Peru. &lt;<ce:inter-ref xlink:href="https://www.mimp.gob.pe/webs/mimp/pnaia/pdf/Documento_PNAIA.pdf" xlink:type="simple" id="ir100">https://www.mimp.gob.pe/webs/mimp/pnaia/pdf/Documento_PNAIA.pdf</ce:inter-ref>&gt; [accessed August 7, 2018].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0205">
+                     <ce:label>[41]</ce:label>
+                     <sb:reference id="h0205">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Curioso</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>eSalud en Perú: implementación de políticas para el fortalecimiento de los sistemas de información en salud</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rev Panam Salud Pública</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>437</sb:first-page>
+                              <sb:last-page>441</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0210">
+                     <ce:label>[42]</ce:label>
+                     <ce:other-ref id="h0210">
+                        <ce:textref>Pan American Health Organization. Immunization Toolkit – Data Monitoring and Report in. &lt;<ce:inter-ref xlink:href="http://www.paho.org/immunization/toolkit/monitoring-reporting.html" xlink:type="simple" id="ir105">http://www.paho.org/immunization/toolkit/monitoring-reporting.html</ce:inter-ref>&gt; [accessed August 7, 2018].</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0215">
+                     <ce:label>[43]</ce:label>
+                     <sb:reference id="h0215">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Papania</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Rodewald</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Baughman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Dini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Dietz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Bernier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>For better immunisation coverage, measure coverage better</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Lancet</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>367</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>965</sb:first-page>
+                              <sb:last-page>966</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/S0140-6736(06)68403-1</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0220">
+                     <ce:label>[44]</ce:label>
+                     <sb:reference id="h0220">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.M.</ce:given-name>
+                                 <ce:surname>Dumit</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Novillo-Ortiz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Contreras</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Velandia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Danovaro-Holliday</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The use of eHealth with immunizations: an overview of systematic reviews</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Vaccine</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.vaccine.2018.06.076</ce:doi>
+                        </sb:host>
+                        <sb:comment>pii: S0264-410X(18)30931-9</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

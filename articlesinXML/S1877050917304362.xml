@@ -1,0 +1,323 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1877050917304362</prism:url><dc:identifier>doi:10.1016/j.procs.2017.03.161</dc:identifier><eid>1-s2.0-S1877050917304362</eid><prism:doi>10.1016/j.procs.2017.03.161</prism:doi><pii>S1877-0509(17)30436-2</pii><dc:title>Dynamic Searching and Classification for Highlight Removal on Endoscopic Image </dc:title><prism:publicationName>Procedia Computer Science</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>18770509</prism:issn><prism:volume>107</prism:volume><prism:startingPage>762</prism:startingPage><prism:endingPage>767</prism:endingPage><prism:pageRange>762-767</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2017-12-31</prism:coverDate><prism:coverDisplayDate>2017</prism:coverDisplayDate><prism:copyright>© 2017 The Author(s). Published by Elsevier B.V.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier B.V.</prism:publisher><prism:issueName>Advances in Information and Communication Technology: Proceedings of 7th International Congress of Information and Communication Technology (ICICT2017)</prism:issueName><dc:creator>Gao, Yefei</dc:creator><dc:creator>Yang, Jian</dc:creator><dc:creator>Ma, Shaodong</dc:creator><dc:creator>Ai, Danni</dc:creator><dc:creator>Lin, Tong</dc:creator><dc:creator>Tang, Songyuan</dc:creator><dc:creator>Wang, Yongtian</dc:creator><dc:description>
+               Abstract
+               
+                  Endoscopic imaging is a common clinical modality to inspect surficial abnormality grew on the internal organs inside human body. Covered by tissue fluid, surface of these anatomies tend to be glossy, showing specular reflections from the illumination source. In this paper, we present a novel method for specular region separation and restoration from only a single image. Distinguishing from segmentation methods using simple threshold, our solution treats the separation of highlight pixels as a binarization problem based upon a supervised learning classification algorithm. Also, we propose a multiscale dynamic image expansion and fusion based method to restore the highlighted region. It takes full advantages of propagating the regions with similar structure features to specular regions. Experimental results on the removal of the endoscopic image with specular reflections demonstrate improved efficiency by the proposed method compared to commonly used techniques.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Endoscopic images</dcterms:subject><dcterms:subject>specular highlight separation</dcterms:subject><dcterms:subject>SVM classification</dcterms:subject><dcterms:subject>concealment of specular reflections</dcterms:subject><dcterms:subject>image restoration</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1877050917304362" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1877050917304362" rel="scidir"/></coredata><scopus-id>85029169919</scopus-id><scopus-eid>2-s2.0-85029169919</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85029169919" rel="abstract"/><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>280203</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291871</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Procedia Computer Science</xocs:srctitle>
+      <xocs:normalized-srctitle>PROCEDIACOMPUTERSCIENCE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20170408">2017-04-08</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20170408">2017-04-08</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20170408">2017-04-08</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20170408">2017-04-08</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2017-04-08T07:46:35</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1877050917304362</xocs:eid>
+      <xocs:pii-formatted>S1877-0509(17)30436-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1877050917304362</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.procs.2017.03.161</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1877050917X00069</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20170408">2017-04-08T02:57:35.455343-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20170101</xocs:date-search-begin>
+      <xocs:date-search-end>20171231</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1491638255">2017-04-08T07:57:35.455343Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1877-0509</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>18770509</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>107</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>107</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 107</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>122</xocs:sort-order>
+      <xocs:first-fp>762</xocs:first-fp>
+      <xocs:last-lp>767</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>762</xocs:first-page>
+         <xocs:last-page>767</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2017</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>Advances in Information and Communication Technology: Proceedings of 7th International Congress of Information and Communication Technology (ICICT2017)</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author author-id="S1877050917X00069-81aab44e4758fd0c07017728e9920161">
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Srikanta</ce:given-name>
+                     <ce:surname>Patnaik</ce:surname>
+                  </ce:author>
+                  <ce:affiliation>
+                     <ce:textfn>Department of Computer Science and Engineering, Faculty of Engineering and Technology SOA University, Bhubaneswar, India &amp; Guest Professor, Faculty of Information Engineering and Automation Kunming University of Science and Technology, China.</ce:textfn>
+                  </ce:affiliation>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 The Author(s). Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>DYNAMICSEARCHINGCLASSIFICATIONFORHIGHLIGHTREMOVALENDOSCOPICIMAGE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>GAO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>Y</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="oref0005"/>
+         <xocs:ref-info refid="oref0010"/>
+         <xocs:ref-info refid="oref0015"/>
+         <xocs:ref-info refid="oref0020"/>
+         <xocs:ref-info refid="oref0025"/>
+         <xocs:ref-info refid="oref0030"/>
+         <xocs:ref-info refid="oref0035"/>
+         <xocs:ref-info refid="oref0040"/>
+         <xocs:ref-info refid="oref0045"/>
+         <xocs:ref-info refid="oref0050"/>
+         <xocs:ref-info refid="oref0055"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>GAOX2017X762</xocs:refkey3>
+         <xocs:refkey4lp>GAOX2017X762X767</xocs:refkey4lp>
+         <xocs:refkey4ai>GAOX2017X762XY</xocs:refkey4ai>
+         <xocs:refkey5>GAOX2017X762X767XY</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2017-03-09T01:03:07Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/PROC_UNBOUNDED_ESWaived">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 The Author(s). Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1877-0509(17)30436-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1877050917304362</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1877050917304362</xocs:eid>
+         <xocs:doi>10.1016/j.procs.2017.03.161</xocs:doi>
+         <xocs:cid>280203</xocs:cid>
+         <xocs:timestamp>2017-04-08T02:57:35.455343-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2017-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1877050917304362-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1877050917304362/MAIN/application/pdf/610e3436c4a99efac23794929823022e/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1877050917304362/MAIN/application/pdf/610e3436c4a99efac23794929823022e/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>11647263</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1877050917304362-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1877050917304362/PREVIEW/image/png/7c7321b1563f39d6e25493bca2666483/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1877050917304362/PREVIEW/image/png/7c7321b1563f39d6e25493bca2666483/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>53575</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext> Procedia Computer Science  107 ( 2017 )  762 â€“ 767  1877-0509 Â© 2017 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license  (http://creativecommons.org/licenses/by-nc-nd/4.0/). Peer-review under responsibility of the scientific committee of the 7th International Congress of Information and Communication Technology doi: 10.1016/j.procs.2017.03.161  ScienceDirect Available online at www.sciencedirect.com International Congress of Information and Communication Technology (ICICT 2017)  Dynamic Searching and Classification for Highlight Removal on  Endoscopic Image  Yefei Gao, Jian Yang*, Shaodong Ma, Danni Ai, Tong Lin, Songyuan Tang, Yongtian  Wang    Beijing Engineering Research Center of Mixed Reality and Advanced Display, School of Optics and Electronics, Beijing Institute of Technology,  Beijing 100081, China  * Corresponding authorË–jyangbit@163.com  Abstract  Endoscopic imaging is a common clinical modality to inspect surficial abnormality grew on the internal organs inside human  body. Covered by tissue fluid, surface of these anatomies tend to be glossy, showing specular reflections from the illumination  source. In this paper, we present a novel method for specular region separation and restoration from only a single image. Distin- guishing from segmentation methods using simple threshold, our solution treats the separation of highlight pixels as a binariza- tion problem based upon a supervised learning classification algorithm. Also, we propose a multiscale dynamic image expansion  and fusion based method to restore the highlighted region. It takes full advantages of propagating the regions with similar struc- ture features to specular regions. Experimental results on the removal of the endoscopic image with specular reflections demon- strate improved efficiency by the proposed method compared to commonly used techniques.    Keywords: Endoscopic images; specular highlight separation; SVM classification; concealment of specular reflections; image restoration.  1. Introduction  Endoscopic imaging provides close observation in very demanding clinical practice to minimize unrecoverable  invasion to patientsâ€™ physical conditions caused by conventional surgical approaches. Needless to damage organs  and tissues, postoperative recovery time and mortality rate can significantly reduce by using vision based techniques.  As a result of minimized invasion, clarity of imaging in a resilient, highly scattering internal environment of human  body is recently addressed to the success of lesion detection and therapeutic procedures. An endoscope is usually  composed with a micro camera and an unpolarized illumination source both close to the tip region. Unfortunately,  the surfaces of the mucosa inside human organs feature a glossy appearance due to specular reflection of the light  sources. Not only these specular spots damage image quality from diagnostic point of view1, these distinct, bright  763 Yefei Gao et al. /  Procedia Computer Science  107 ( 2017 )  762 â€“ 767  features can also become a direct source of error for many visual analysis algorithms such as segmentation, object  recognition, shape reconstruction from shading etc.1.  A good number of studies were conducted aiming to detect and remove specular reflections on the endoscopy im- ages in medical and industrial applications. Stehle2 selected the brightest peak of the Y channel in the YUV color  space histogram as a threshold to segment the specular regions. Arnold3 studied a segmentation method of specular  reflections based on nonlinear filtering and color image thresholding. Karapetyan4 constructed multiple sliding win- dows with predefined sizes and the threshold for each window in their approach can be adapted according to the  histogram of the analyzed image. The work proposed by Silva Da Queiroz, et al.5 achieved a precise specular detec- tion based on sparse and low-rank decomposition of the endoscopic images. Samar M6 combined saturation and col- our intensity attributes with a wavelet based edges projection for specular highlights detection. In terms of specular  region restoration, Saint-Pierre7 achieved inpainting by performing a homogenous diffusion inward from the sides of  the specular region. Arnold, et al.3 used color balance ratio and a filling technique based on the centroid color of the  pixels within a specified distance. In Karapetyanâ€™s4 work, a frequency selective extrapolation algorithm was used to  define a suboptimal size of the support area for image restoration. All these methods worked as anticipated under  certain conditions yet precision of specular separation and vividness after inpainting remain to be improved. Aiming  at possible improvement, we propose: (a) a SVM-based specular separation method, (b) a robust dynamic expanding  searching strategy and image fusing based highlight removal method.  The paper is organized as follows: section 2 and 3 introduced the proposed segmentation and elimination methods  of specular regions. An evaluation section is followed by to compare the performance of our method on sample im- ages against two chosen methods, along with some conclusive remarks in the end section of this paper.  2. The proposed highlight separation method  Unlike common specular region separation based on statistical approach and thresholding, we propose to solve  the segmentation issue as a binary classification problem and solve it with SVM learning algorithm in which we  avoid selecting a threshold manually. By training the model with sample images, a robust and accurate separation  model can be obtained. Here follows the details.  2.1. Pixel-wise feature construction  The specular regions of a contaminated endoscopic image can be primarily characterized to be overly exposed yet  under saturated. Also, there is no independent channel either in RGB or HSV color spaces that can differentiate the  specular regions from unaffected pixels inside an image. Thus to increase the saliency contrast and obtain an feature  descriptor that represents specular attribute, we define the saliency measure D, the saturation measure M, and the  intensity ratio Q which was proposed by Shen8, which are summarized in (1).  2(1 ) ( )  Â­Â°  Â˜  Â®Â°    Â¯ dark range maxmax max min D I S M BVal S Q I II I I              (1)  where darkI  is the dark channel in RGB colour space and can be described in { , , }r g bmin I I I . BVal refers to the pixel  value of the blue channel and S represents saturation channel in HSV colour space. maxI denotes { , , }r g bmax I I I . It  can be observed that the measures of D, Q and M taken from a typical endoscope image have a strong distinction  between specular and normal pixels. These features are then combined with the intensity value V and the saturation  value S as the pixel-wise feature of our segmentation method. To verify the effectiveness of the proposed feature for  image enhancement, we compared the average value of pixels inside specular and normal regions by defining  EnhVal as following way which represents the difference of specular and normal pixel.   S NEnhVal F F          (2)  764   Yefei Gao et al. /  Procedia Computer Science  107 ( 2017 )  762 â€“ 767  where SF  and NF donate the mean value of feature F of specular and normal regions respectively. EnhVal values of  different features are presented in table 1 which shows obvious advantages of the proposed feature D, M.  Table 1. EnhVal of different features.  Feature V S D M Q8  EnhVal 1.3688 2.8267 26.0382 27.5766 7.2479  2.2. Structure-wise feature construction  Intuitively, specular regions are considered as missing details and can no longer represent original texture. How- ever, boundary of specular regions is distinctive in intensity gradient. Thus we calculate the modified gradient fea- ture of an image by morphological operation after solving the gradient.  2 2 = ( ( )) ( , ) ( , ) ( , )   Â­ Â�Â°Â°  Â˜Â®Â°    Â°Â¯ G p min x y x MG MGI MGI Morp I grad DI grad G x y G x y G x y                               (3)  where DI donates the specular endoscopic image, MGI indicates the modified gradient image of DI. MG is the modi- fied gradient feature at pixel p of DI. Grad and Morp donate the gradient and morphological operation; ( , )G x y ,  ( , )xG x y  and ( , )yG x y  represent the gradient value at pixel ( , )p x y  and its components in x and y direction respec- tively.   b c d e f ga Fig.1. (a) origin specular image; (b-g) intensity of feature maps represent V, S, D, M, Q, MG respectively.  Therefore, by combining pixel-wise and modified gradient feature, the combined feature descriptor of a pixel p  can be formulated as { , , , , , }F S V D M Q Gp p p p p p px x x x x x x . Then we trained the SVM model C for specular pixel separation  with feature descriptor Fpx and its highlight label l of pixel p.  3. Multiscale dynamic searching and structure similarity based inpainting method  After specular separation, the specular regions will be dealt using image inpainting method. It is composed by a  dynamic expanding searching and image fusing strategies to find out the image blocks with the highest similarity in  structure feature.   3.1. Location and size of candidate damaged block  To take full advantages of regions with similar structure to restore the specular pixels, we propose a multiscale  expanding strategy for deciding the specular block to eliminate. This method enables the specular block to enrich  structure features and further guarantee the validity of the inpainting method based on structural similarity. The can- didate specular blocks to be restored should satisfy the following condition:  ( ) / ( ) E : :  !DBN DBR PixNum DBN PixNum DB        (4)  765 Yefei Gao et al. /  Procedia Computer Science  107 ( 2017 )  762 â€“ 767  where DB donates the damaged block to restore and DBN represents the normal part of DB, :DBN and:DB measure  the of DB and DBN respectively. PixNum is a function that computes the actual pixel number inside an area and E is  a preset threshold.  3.2. Selection of seed point for candidate blocks  The candidate blocks are selected according to the following assumption that regions with shorter geometric dis- tance to the specular spots are more similar in structure. Thus, to select seed points of candidate blocks, we design a  selection strategy that is centralized to specular pixel and the number of seed points decays with a Gaussian distribu- tion along its normal directions. The method for seed point generation is based on the fundamental condition that if  random variables X and Y satisfy Gaussian distribution and are independent to each other, the joint probability dis- tribution complies with two-dimensional Gaussian distribution and we have:  1 1 2 2( , ),   ( , ),   ( , )P V P VSeed SeedSeedPos X Y X N Y N        (5)  where SeedPos is a seed point set, SeedX and SeedY are the coordinates of seed point positions that are subjected to two  independent Gaussian distributions parameterized separately as 1 1( , )P V  and 2 2( , )P V . This guarantee that more can- didate blocks exist near the specular pixel will be selected for inpainting process.  3.3. Location of candidate blocks for inpainting process and the specular removal strategy  To find the candidate regions for restoring the specular regions, we propose the following selection strategy de- scribed in (6).  { ( , )} CBS Sort SIM NCB NDB         (6)  where CBS is the candidate block sequence selected by the proposed seed points searching method. NDB and NCB  are the normal parts of damaged and candidate blocks respectively. SIM is the selected function of structural similar- ity measure and Sort denotes a sort function. We consider the EHD proposed by Buzug9 as the structure similarity  measure for selecting the candidate blocks considering its simple calculation and high efficiency. Then restoration to  the specular pixels inside highlight blocks can be initiated with the weighted sum value of candidate blocks. To  avoid artefacts produced by overly inpainting, we fuse the restored and original image using a gradually decay  weighting template to smoothen the inpainting result.  1 1 1 1 1( , ) ( , ), ( ) (1 ) ( )Ëˆ   Â­  Â�Â°Â®Â°  Â˜     Â˜  Â¯ Â¦N k k k p i j q i j q CBS k N IB w CB w DB w Gaussian BlockMask                (7)  where ( , )p i j represents the restored pixel. N is the number of candidate blocks and ( , )kq i j donates the pixel value  of the kth candidate block and the pixel value at the corresponding position of ( , )p i j . IB is the image after fusing  operation and CB donates the restored block. 1w is the fusion weight obtained by applying a gaussian filter to the  binary template noted as BlockMask.  4. Experimental results  The proposed SVM model for specular separation was trained on 55 images with specular spots from CVC- ColonDB10, a database of annotated video sequences of colonoscopy video. A feature descriptor ( , )i j\ with dimen- sion of (9Ã—6) including V, S, D, Q, M and MG was calculated using (8):  766   Yefei Gao et al. /  Procedia Computer Science  107 ( 2017 )  762 â€“ 767  ( , ) ( -1, -1) ( -1, ) ( +1, ) ( , -1) ( , ) ( , +1) ( +1, -1) ( +1, ) ( +1, +1)={ , , , , , , , , ,}  { , , , , , }Ëˆ\ M M M M M M M M M MÂ�i j i j i j i j i j i j i j i j i j i j V S D M Q MG        (8)  where ( , )i jM donates a 6-dimension feature vector at ( , )p i j .  Fig.2 (c) and (d) are the evaluation results using an existing technique based on Arnoldâ€™s method and our specular  separation method. The blue and black curves in Fig.2 (e) demonstrate how separation accuracy and support vector  of proposed model vary as the number of sample was increased. It can be observed that a rapid rise in accuracy to  about 97% was obtained even though the number of samples used is relatively small. Over the range of sample  quantity from 3000 to 10000, the separation accuracy continued raising until reaching a peak level around 98.5%.  Then increase in the sample number no longer brought about better performance in specular separation. After a drop  of 2%, the separation accuracy started increasing again but at a much slower speed. The drop may cause by the lack  of gold standard of highlight separation result especially on the border of specular regions, so it may bring a steep  drop of accuracy when test a poor sample. The strength of the proposed specular separation method is learning- based algorithm that can automatically class a pixel as specular one or not without the need for threshold setting.     b c da e Fig.2. (a) origin specular image; (b) ground truth image mask of specular reflections; (c) the specular reflections generated by Arnoldâ€™s3 method;  (d) specular reflections generated by the proposed SVM-based method; (e) influence of sample size on the separation results.  a b c d e Fig.3. Experiment results of the proposed specular concealment method. (a) original image; (b) concealed image with the method in Saint-Pierre7;  (c) concealed image with the proposed method; (d) intensity gradient before concealment; (e) intensity gradient after concealment.  Another set of specular removal and restoration results from Saint-Pierre7 and our methods are presented in Fig.3  (b) and (c), and the specular regions highlighted in the gradient map of Fig.3 (d) are effectively removed by both  techniques. See the resultant gradient maps of Fig.3 (e). Noticeably, in Saint-Pierre method, the colour attribute of  pixels surrounding the specular regions were used to propagate the restoration. The performance of their work is  acceptable if the area of the specular region is small. When it comes to a large piece to be restored, the colour in  specular regions might seem homologous and a noticeable artefact may appear. Our solution compensates the ad- dressed issue by propagating the restoration when a match between the selected feature structure of a sequence of  blocks and that of the specular regions is found.   Furthermore, Coefficient of Variation (COV)11 was applied to make a quantitatively evaluate our inpainting meth- od and is defined to be:  V P X XCOV        (9)  whereV X and PX represent the standard deviation and mean of the restored region. COV provides a measures the  intensity homogeneity within a specific region, and offers a consistent comparison of variation across all data set. A  larger COV indicates richer colour spectrum and a more realistic appearance after restoration. According to table 2,  the presence of specular regions are much likely in areas with low saturation and white regions. Inside these regions,  767 Yefei Gao et al. /  Procedia Computer Science  107 ( 2017 )  762 â€“ 767  COV usually tends to be small. The restored regions using our method result in a large COV value, suggesting a  much richer colour attributes than results from the compared groups.  Table 2. The COV value of specular regions before and after inpainting process.  Origin Saint-Pierre7 Proposed  Image1 0.0292 0.3146 0.3732  Image2 0.1543 0.2899 0.4170  Image3 0.0987 0.1902 0.2288  Image4 0.0724 0.1937 0.2483  Mean 0.0887 0.2471 0.3168  4. Conclusion  In this paper, we present a learning based method for specular regions segmentation and elimination for endo- scopic image. Different from the conventional method by thresholding, we reformulated the specular separation as a  binary classification problem and solved it a SVM algorithm. Compared experimental results demonstrate that sepa- ration accuracy of our separation method were excelled largely. Also, a multiscale dynamic expanding and image  fusing based specular restoration method was attempted in our work. In this way, the restoration can be propagated  if the regions with similar structure features to specular regions are identified to blend the restored region more viv- idly into the unaffected part.  Acknowledgements  This work was supported by the Key Projects in the National Science &amp; Technology Pillar Program  (2013BAI01B01), the National Hi-Tech Research and Development Program (2015AA043203), and the National  Science Foundation Program of China (81430039, 61527827, 61501030).  References  1. Vogt F, Paulus D, Heigl B, Vogelgsang C, Niemann H, Greiner G, Schick C. Making the invisible visible: highlight substitution by color light  fields. In Conference on Colour in Graphics, Imaging, and Vision; Society for Imaging Science and Technology, 2002; Vol. 2002; pp 352-357.  2. Stehle T. Removal of specular reflections in endoscopic images. Acta Polytechnica 2006; 46.  3. Arnold M, Ghosh A, Ameling S, Lacey G. Automatic segmentation and inpainting of specular highlights for endoscopic imaging. Journal on  Image and Video Processing; 2010, 9.  4. Karapetyan G, Sarukhanyan H. Automatic detection and concealment of specular reflections for endoscopic images. In Computer Science and  Information Technologies (CSIT), IEEE, 2013; p. 1-8.  5. Silva Da Queiroz F, Ren TI. Automatic Segmentation of Specular Reflections for Endoscopic Images Based on Sparse and Low-Rank  Decomposition. In Graphics, Patterns and Images (SIBGRAPI), 27th SIBGRAPI Conference on, IEEE, 2014; p 282-289.  6. Alsaleh SM, Aviles AI; Sobrevilla P, Casals A, Hahn JK. Automatic and robust single-camera specular highlight removal in cardiac images. In  Engineering in Medicine and Biology Society (EMBC), 37th Annual International Conference of the IEEE, 2015; p 675-678.  7. Saint-Pierre CA, Boisvert J, Grimard G, Cheriet F. Detection and correction of specular reflections for automatic surgical tool segmentation in  thoracoscopic images. Machine Vision and Applications 2011; p 171-180.  8. Shen HL, Zheng ZH. Real-time highlight removal using intensity ratio. Applied optics 2013; p 4483-4493.  9. Buzug TM, Weese J, Fassnacht C, Lorenz C. Using an entropy similarity measure to enhance the quality of DSA images with an algorithm  based on template matching. In Visualization in Biomedical Computing: 4th International Conference, VBC'96 Hamburg, Germamy,  September 22â€“25, 1996 Proceedings; HÃ¶hne KH, KikinisR, Eds. Springer Berlin Heidelberg: Berlin, Heidelberg, 1996; p 235-240.  10. Bernal J, SÃ¡nchez J, Vilarino F. Towards automatic polyp detection with a polyp appearance model. Pattern Recogn 2012; p 3166-3182.  11. Chwyl B, Chung AG, Wong A, Clausi DA. Specular Reflectance Suppression in Endoscopic Imagery via Stochastic Bayesian Estimation. In  Image Analysis and Recognition. Springer, 2015; p 385-393.    V indicates richer colour spectrum and a more realistic appearance after restoration. According to table 2,  the presence of specular regions are much likely in areas with low saturation and white regions. Inside these regions,  767 Yefei Gao et al. /  Procedia Computer Science  107 ( 2017 )  762 â€“ 767  COV usually tends to be small. The restored regions using our method result in a large COV value, suggesting a  much richer colour attributes than results from the compared groups.  Table 2. The COV value of specular regions before and after inpainting process.  Origin Saint-Pierre7 Proposed  Image1 0.0292 0.3146 0.3732  Image2 0.1543 0.2899 0.4170  Image3 0.0987 0.1902 0.2288  Image4 0.0724 0.1937 0.2483  Mean 0.0887 0.2471 0.3168  4. Conclusion  In this paper, we present a learning based method for specular regions segmentation and elimination for endo- scopic image. Different from the conventional method by thresholding, we reformulated the specular separation as a  binary classification problem and solved it a SVM algorithm. Compared experimental results demonstrate that sepa- ration accuracy of our separation method were excelled largely. Also, a multiscale dynamic expanding and image  fusing based specular restoration method was attempted in our work. In this way, the restoration can be propagated  if the regions with similar structure features to specular regions are identified to blend the restored region more viv- idly into the unaffected part.  Acknowledgements  This work was supported by the Key Projects in the National Science &amp; Technology Pillar Program  (2013BAI01B01), the National Hi-Tech Research and Development Program (2015AA043203), and the National  Science Foundation Program of China (81430039, 61527827, 61501030).  References  1. Vogt F, Paulus D, Heigl B, Vogelgsang C, Niemann H, Greiner G, Schick C. Making the invisible visible: highlight substitution by color light  fields. In Conference on Colour in Graphics, Imaging, and Vision; Society for Imaging Science and Technology, 2002; Vol. 2002; pp 352-357.  2. Stehle T. Removal of specular reflections in endoscopic images. Acta Polytechnica 2006; 46.  3. Arnold M, Ghosh A, Ameling S, Lacey G. Automatic segmentation and inpainting of specular highlights for endoscopic imaging. Journal on  Image and Video Processing; 2010, 9.  4. Karapetyan G, Sarukhanyan H. Automatic detection and concealment of specular reflections for endoscopic images. In Computer Science and  Information Technologies (CSIT), IEEE, 2013; p. 1-8.  5. Silva Da Queiroz F, Ren TI. Automatic Segmentation of Specular Reflections for Endoscopic Images Based on Sparse and Low-Rank  Decomposition. In Graphics, Patterns and Images (SIBGRAPI), 27th SIBGRAPI Conference on, IEEE, 2014; p 282-289.  6. Alsaleh SM, Aviles AI; Sobrevilla P, Casals A, Hahn JK. Automatic and robust single-camera specular highlight removal in cardiac images. In  Engineering in Medicine and Biology Society (EMBC), 37th Annual International Conference of the IEEE, 2015; p 675-678.  7. Saint-Pierre CA, Boisvert J, Grimard G, Cheriet F. Detection and correction of specular reflections for automatic surgical tool segmentation in  thoracoscopic images. Machine Vision and Applications 2011; p 171-180.  8. Shen HL, Zheng ZH. Real-time highlight removal using intensity ratio. Applied optics 2013; p 4483-4493.  9. Buzug TM, Weese J, Fassnacht C, Lorenz C. Using an entropy similarity measure to enhance the quality of DSA images with an algorithm  based on template matching. In Visualization in Biomedical Computing: 4th International Conference, VBC'96 Hamburg, Germamy,  September 22â€“25, 1996 Proceedings; HÃ¶hne KH, KikinisR, Eds. Springer Berlin Heidelberg: Berlin, Heidelberg, 1996; p 235-240.  10. Bernal J, SÃ¡nchez J, Vilarino F. Towards automatic polyp detection with a polyp appearance model. Pattern Recogn 2012; p 3166-3182.  11. Chwyl B, Chung AG, Wong A, Clausi DA. Specular Reflectance Suppression in Endoscopic Imagery via Stochastic Bayesian E</xocs:rawtext>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.4" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>PROCS</jid>
+            <aid>10631</aid>
+            <ce:pii>S1877-0509(17)30436-2</ce:pii>
+            <ce:doi>10.1016/j.procs.2017.03.161</ce:doi>
+            <ce:copyright type="other" year="2017">The Authors</ce:copyright>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para id="npar0005" view="all">Peer-review under responsibility of the scientific committee of the 7th International Congress of Information and Communication Technology.</ce:note-para>
+            </ce:article-footnote>
+            <ce:title id="tit0005">Dynamic Searching and Classification for Highlight Removal on Endoscopic Image</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005" author-id="S1877050917304362-bab489e2087c4bfbd9b38bd651405cb3">
+                  <ce:given-name>Yefei</ce:given-name>
+                  <ce:surname>Gao</ce:surname>
+               </ce:author>
+               <ce:author id="aut0010" author-id="S1877050917304362-5116e5c014cd3d5335b40f7aa5084171">
+                  <ce:given-name>Jian</ce:given-name>
+                  <ce:surname>Yang</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  <ce:e-address id="eadd0005" type="email">jyangbit@163.com</ce:e-address>
+               </ce:author>
+               <ce:author id="aut0015" author-id="S1877050917304362-0ff53123251af704845199efab479e16">
+                  <ce:given-name>Shaodong</ce:given-name>
+                  <ce:surname>Ma</ce:surname>
+               </ce:author>
+               <ce:author id="aut0020" author-id="S1877050917304362-4d48f34252583c84f1b790008fbabf00">
+                  <ce:given-name>Danni</ce:given-name>
+                  <ce:surname>Ai</ce:surname>
+               </ce:author>
+               <ce:author id="aut0025" author-id="S1877050917304362-2d4c40a1d5fe90d41b987268920ce43e">
+                  <ce:given-name>Tong</ce:given-name>
+                  <ce:surname>Lin</ce:surname>
+               </ce:author>
+               <ce:author id="aut0030" author-id="S1877050917304362-962bfa2f609921ff903ab24bb9e092cc">
+                  <ce:given-name>Songyuan</ce:given-name>
+                  <ce:surname>Tang</ce:surname>
+               </ce:author>
+               <ce:author id="aut0035" author-id="S1877050917304362-364734639eb560d275a13166e4d80a32">
+                  <ce:given-name>Yongtian</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:textfn>Beijing Engineering Research Center of Mixed Reality and Advanced Display, School of Optics and Electronics, Beijing Institute of Technology, Beijing 100081, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Beijing Engineering Research Center of Mixed Reality and Advanced Display, School of Optics and Electronics, Beijing Institute of Technology, Beijing 100081, China</sa:organization>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract id="abs0005" view="all" class="author">
+               <ce:section-title id="sect0005">Abstract</ce:section-title>
+               <ce:abstract-sec id="abst0005" view="all">
+                  <ce:simple-para id="spar0005" view="all">Endoscopic imaging is a common clinical modality to inspect surficial abnormality grew on the internal organs inside human body. Covered by tissue fluid, surface of these anatomies tend to be glossy, showing specular reflections from the illumination source. In this paper, we present a novel method for specular region separation and restoration from only a single image. Distinguishing from segmentation methods using simple threshold, our solution treats the separation of highlight pixels as a binarization problem based upon a supervised learning classification algorithm. Also, we propose a multiscale dynamic image expansion and fusion based method to restore the highlighted region. It takes full advantages of propagating the regions with similar structure features to specular regions. Experimental results on the removal of the endoscopic image with specular reflections demonstrate improved efficiency by the proposed method compared to commonly used techniques.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>Endoscopic images</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>specular highlight separation</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>SVM classification</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>concealment of specular reflections</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text>image restoration</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0020">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[1]</ce:label>
+                     <ce:other-ref id="oref0005">
+                        <ce:textref>Vogt F, Paulus D, Heigl B, Vogelgsang C, Niemann H, Greiner G, Schick C. Making the invisible visible: highlight substitution by color light fields. In Conference on Colour in Graphics, Imaging, and Vision; Society for Imaging Science and Technology, 2002; Vol. 2002; pp 352-357.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[2]</ce:label>
+                     <ce:other-ref id="oref0010">
+                        <ce:textref>Stehle T. Removal of specular reflections in endoscopic images. <ce:italic>Acta Polytechnica</ce:italic> 2006; <ce:italic>46</ce:italic>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[3]</ce:label>
+                     <ce:other-ref id="oref0015">
+                        <ce:textref>Arnold M, Ghosh A, Ameling S, Lacey G. Automatic segmentation and inpainting of specular highlights for endoscopic imaging. <ce:italic>Journal on Image and Video Processing</ce:italic>; <ce:italic>2010</ce:italic>, 9.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref id="oref0020">
+                        <ce:textref>Karapetyan G, Sarukhanyan H. Automatic detection and concealment of specular reflections for endoscopic images. In <ce:italic>Computer Science and Information Technologies (CSIT)</ce:italic>, IEEE, 2013; p. 1-8.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[5]</ce:label>
+                     <ce:other-ref id="oref0025">
+                        <ce:textref>Silva Da Queiroz F, Ren TI. Automatic Segmentation of Specular Reflections for Endoscopic Images Based on Sparse and Low-Rank Decomposition. In <ce:italic>Graphics, Patterns and Images (SIBGRAPI), 27th SIBGRAPI Conference on</ce:italic>, IEEE, 2014; p 282-289.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[6]</ce:label>
+                     <ce:other-ref id="oref0030">
+                        <ce:textref>Alsaleh SM, Aviles AI; Sobrevilla P, Casals A, Hahn JK. Automatic and robust single-camera specular highlight removal in cardiac images. In <ce:italic>Engineering in Medicine and Biology Society (EMBC)</ce:italic>, <ce:italic>37th Annual International Conference of the IEEE</ce:italic>, 2015; p 675-678.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref id="oref0035">
+                        <ce:textref>Saint-Pierre CA, Boisvert J, Grimard G, Cheriet F. Detection and correction of specular reflections for automatic surgical tool segmentation in thoracoscopic images. <ce:italic>Machine Vision and Applications</ce:italic> 2011; p 171-180.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref id="oref0040">
+                        <ce:textref>Shen HL, Zheng ZH. Real-time highlight removal using intensity ratio. <ce:italic>Applied optics</ce:italic> 2013; p 4483-4493.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0045">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref id="oref0045">
+                        <ce:textref>Buzug TM, Weese J, Fassnacht C, Lorenz C. Using an entropy similarity measure to enhance the quality of DSA images with an algorithm based on template matching. In Visualization in Biomedical Computing: 4th International Conference, VBC’96 Hamburg, Germamy, September 22-25, 1996 Proceedings; Höhne KH, KikinisR, Eds. Springer Berlin Heidelberg: Berlin, Heidelberg, 1996; p 235-240.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0050">
+                     <ce:label>[10]</ce:label>
+                     <ce:other-ref id="oref0050">
+                        <ce:textref>Bernal J, Sánchez J, Vilarino F. Towards automatic polyp detection with a polyp appearance model. <ce:italic>Pattern Recogn</ce:italic> 2012; p 3166-3182.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0055">
+                     <ce:label>[11]</ce:label>
+                     <ce:other-ref id="oref0055">
+                        <ce:textref>Chwyl B, Chung AG, Wong A, Clausi DA. Specular Reflectance Suppression in Endoscopic Imagery via Stochastic Bayesian Estimation. In <ce:italic>Image Analysis and Recognition</ce:italic>. Springer, 2015; p 385-393.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>

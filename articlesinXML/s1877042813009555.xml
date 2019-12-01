@@ -1,0 +1,244 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1877042813009555</prism:url><dc:identifier>doi:10.1016/j.sbspro.2013.04.386</dc:identifier><eid>1-s2.0-S1877042813009555</eid><prism:doi>10.1016/j.sbspro.2013.04.386</prism:doi><pii>S1877-0428(13)00955-5</pii><dc:title>Highlighting the Psycho-quantum Mode of Psycho-therapeutic Action for Improving the Specific Human Quantum Field Parameters </dc:title><prism:publicationName>Procedia - Social and Behavioral Sciences</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><prism:issn>18770428</prism:issn><prism:volume>78</prism:volume><prism:startingPage>738</prism:startingPage><prism:endingPage>742</prism:endingPage><prism:pageRange>738-742</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2013-05-13</prism:coverDate><prism:coverDisplayDate>13 May 2013</prism:coverDisplayDate><prism:copyright>Copyright © 2013 The Authors. Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Authors. Published by Elsevier Ltd.</prism:publisher><prism:issueName>PSIWORLD 2012</prism:issueName><dc:creator>Manolea, Aliodor</dc:creator><dc:description>
+               Abstract
+               
+                  The specific psychotherapeutic intervention in altered states of consciousness (ASC) using QDP Psycho-Quantum Therapy (Quantum Deep Psychotherapy) causes a somatic and psycho-emotional balancing. Highlighting the temporal evolution of the dependent variables corresponding to the somatic psycho-emotional state after applying the QDP technique in a single session, measured with the GDV equipment at the baseline of the study, for two participants.
+               
+            </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/3.0/</openaccessUserLicense><dcterms:subject>Quantum Deep Psychotherapy</dcterms:subject><dcterms:subject>GDV</dcterms:subject><dcterms:subject>altered states of consciousness</dcterms:subject><dcterms:subject>QDP</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1877042813009555" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1877042813009555" rel="scidir"/></coredata><originalText><xocs:doc xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd" xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd">
+   <xocs:meta>
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>277811</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291845</xocs:ssid>
+         <xocs:ssid type="subj">291934</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Procedia - Social and Behavioral Sciences</xocs:srctitle>
+      <xocs:normalized-srctitle>PROCEDIASOCIALBEHAVIORALSCIENCES</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20130601">2013-06-01</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20130601">2013-06-01</xocs:available-online-date>
+      <xocs:ew-transaction-id>2014-11-04T06:50:50</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1877042813009555</xocs:eid>
+      <xocs:pii-formatted>S1877-0428(13)00955-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1877042813009555</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.sbspro.2013.04.386</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1877042813X00102</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T07:20:17.210987-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20130513</xocs:date-search-begin>
+      <xocs:year-nav>2013</xocs:year-nav>
+      <xocs:indexeddate epoch="1370044800">2013-06-01T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1877-0428</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>18770428</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>78</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>78</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 78</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>148</xocs:sort-order>
+      <xocs:first-fp>738</xocs:first-fp>
+      <xocs:last-lp>742</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>738</xocs:first-page>
+         <xocs:last-page>742</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20130513</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>13 May 2013</xocs:cover-date-text>
+      <xocs:cover-date-start>2013-05-13</xocs:cover-date-start>
+      <xocs:cover-date-year>2013</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>PSIWORLD 2012</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>Cristian</ce:given-name>
+                     <ce:surname>Vasile</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>Mihai</ce:given-name>
+                     <ce:surname>Anitei</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>Mihaela</ce:given-name>
+                     <ce:surname>Chraif</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2013 The Authors. Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>HIGHLIGHTINGPSYCHOQUANTUMMODEPSYCHOTHERAPEUTICACTIONFORIMPROVINGSPECIFICHUMANQUANTUMFIELDPARAMETERS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MANOLEA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="oref0005"/>
+         <xocs:ref-info refid="oref0010"/>
+         <xocs:ref-info refid="oref0015"/>
+         <xocs:ref-info refid="oref0020"/>
+         <xocs:ref-info refid="oref0025"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MANOLEAX2013X738</xocs:refkey3>
+         <xocs:refkey4lp>MANOLEAX2013X738X742</xocs:refkey4lp>
+         <xocs:refkey4ai>MANOLEAX2013X738XA</xocs:refkey4ai>
+         <xocs:refkey5>MANOLEAX2013X738X742XA</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2013-07-16T12:31:50Z</xocs:oa-access-effective-date>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/3.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/GEN_UNBOUNDED_ESWaived">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1877-0428(13)00955-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1877042813009555</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1877042813009555</xocs:eid>
+         <xocs:doi>10.1016/j.sbspro.2013.04.386</xocs:doi>
+         <xocs:cid>277811</xocs:cid>
+         <xocs:timestamp>2014-11-05T23:11:41.86577-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2013-05-13</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1877042813009555-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1877042813009555/MAIN/application/pdf/153e3758355c0f5683be002485e40ad0/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1877042813009555/MAIN/application/pdf/153e3758355c0f5683be002485e40ad0/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>392992</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1877042813009555-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1877042813009555/PREVIEW/image/png/da9647122ae7726feba1ee4ce57fb17f/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1877042813009555/PREVIEW/image/png/da9647122ae7726feba1ee4ce57fb17f/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>55700</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta>
+   <xocs:rawtext> P r o c e d i a  -  S o c i a l  a n d  B e h a v i o r a l  S c i e n c e s    7 8   (  2 0 1 3  )   7 3 8  â€“  7 4 2   1877-0428  2013 The Authors. Published by Elsevier B.V. Open access under CC BY-NC-ND license. Selection and/or peer-review under responsibility of PSIWORLD 2012 doi: 10.1016/j.sbspro.2013.04.386  PSIWORLD 2012  Highlighting the Psycho-Quantum Mode of Psycho-Therapeutic  Action for Improving the Specific Human Quantum Field  Parameters  Aliodor Manolea*  University of Bucharest, Faculty of Psychology and Education Sciences, 90 Panduri street, Bucharest, Romania  Abstract  The specific psychotherapeutic intervention in altered states of consciousness (ASC) using QDP Psycho-Quantum Therapy  (Quantum Deep Psychotherapy) causes a somatic and psycho-emotional balancing. Highlighting the temporal evolution of the  dependent variables corresponding to the somatic psycho-emotional state after applying the QDP technique in a single  session, measured with the GDV equipment at the baseline of the study, for two participants.  Â© 2012 The Authors. Published by Elsevier B.V.   Selection and/or peer-review under responsibility of PSIWORLD 2012  Keywords: Quantum Deep Psychotherapy; GDV; altered states of consciousness; QDP;  1. Introduction  The mental processes aiming unconscious personal construction in what we call implicit emotional memory  can produce different symptoms manifested in all plans of existence. In psycho-quantum therapy in the first  instance, a change that transforms takes place and aims at those mental processes generating symptoms, those  unconscious personal constructions from implicit emotional memory and, subsequently, a selective  depotentialization of these concepts occurs, stopping the production of symptoms. Neuroscientists have found  that depotentialization of the synapses that encode memory is accompanied by concomitant disappearance of  behavioral responses caused by the memory (Bailey &amp; Kandel, 1993). Simultaneously with the elimination of the  symptom generating constructs their related neural circuits are deleted as well and thus new circuits and  constructions are created by the phenomenon of neuroplasticity - synaptic changes and subjective attention  emerges as a critical agent of change (Ecker &amp; Toomey, 2008). This action is an altered state of consciousness, a  * Corresponding author.  E-mail address: aliodor@glide.ro  Available online at www.sciencedirect.com  2013 The Authors. Published by Elsevier B.V. Open access under CC BY-NC-ND license. Selection and/or peer-review under responsibility of PSIWORLD 2012 739 Aliodor Manolea /  Procedia - Social and Behavioral Sciences  78 ( 2013 )  738 â€“ 742  specific state of knowledge (Singer &amp; Salovey, 1988), which involves living a personal reality quite different  from the daily conscious, (Tart, 1972).   The purpose of this research was to identify the ways in which applied therapies to subjects results a higher  degree of existential integration when using psychotherapeutic techniques in altered states of consciousness  (ASC). It is also aimed to highlight a specific psychotherapeutic action, applied to improve specific human  quantum field parameters, being able to demonstrate that the psychotherapeutic intervention in altered states of  consciousness (ASC) using QDP Psycho-quantum therapy (Quantum Deep Psychotherapy) causes a somatic and  psycho-emotional balancing.  2. Objectives  2.1. Identification of the QDP technique influence on the somatic and psycho-emotional state, measured with  GDV equipment.   2.2. Highlighting the temporal evolution of the dependent variables corresponding to the somatic psycho- emotional state after applying the QDP technique in a single session, measured with the GDV equipment at the  baseline of the study, for two participants.  3. Hypotheses  QDP psycho-quantum therapy significantly influences the results obtained by measuring the parameters of the  human quantum field with Bio-Photonic sensor (GDV).  Specific hypotheses were issued for the dependent variables: field area, normalized field area, average  intensity, form factor, and the average radius of isolines corresponding to the somatic and psycho-emotional  states.  4. Method  4.1. Participants  The study group was composed of 38 subjects, men and women (M = 38.4 SD = 2.87) and two subjects (one  woman and one man) participated in the study with repeated measurements conducted for 1,200 hours.  4.2. Apparatus and instruments  The devices used for determining electro-photonic stimulated emission were GDV Camera Pro and the device  for human quantum field state highlighting AV 5.1. The GDV device measures the human quantum field  parameters using the Kirlian method and the AV 5.1 apparatus determines the same field characteristics through  electro-dermal response and hand temperature measurement. For data analyzing we used SPSS 20, Excel 2010  and GDV Scientific Laboratory programs.  4.3. Working procedure  At the beginning of the research, the quantum emission parameters, biological and optical stimulated by  electromagnetic fields were measured using the GDV device, for all participants. The action was repeated within  two hours after applying the psychotherapeutic techniques. For the two participants in the study with repeated  measurements personal electro-dermal parameters measurements were made with the AV5.1 device at intervals  determined by the Fibonacci series, which is defined by the following recurrence formula:  740   Aliodor Manolea /  Procedia - Social and Behavioral Sciences  78 ( 2013 )  738 â€“ 742  F0 = 0, F1 = 1 and Fi = i-1 + Fi-2 for i  2, and set terms of the form {...} 0,1,1,2,3,5,8,13,21.  Fibonacci series was chosen to mark the sequential intervals of the measurements, because the defined  numberâ€™s recurrence characterize the phenomenology of the biological system growth (Douady &amp; Couder, 1996).  The psychotherapeutic intervention lasted 15 minutes for each subject, using QDP therapy.  4.4. Experimental design  The experimental design used was one using repeated measures before and after the application of the QDP  technology. The independent variable was represented by the QDP psychotherapeutic technique.  The dependent variables describe the psycho-emotional and somatic states of the subjects participating in the  research: quantum field area, normalized quantum field area, average intensity, form factor, and the average  radius of isolines, all measured with the GDV device.  5. Results  After applying these statistical tests we revealed that some variables are normally distributed and some are  not. The fulfill condition of normality is based on the fact that p&gt; 0.05.  Some histograms representing the distributions of the values of the dependent variable corresponding to the  somatic and psycho-emotional state are shown below.                average radius of the isoline after therapy  average intensity of the field after therapy    Fig. 1.Histograms representing the distribution of the values of the dependent variables average intensity, the average radius of isolines  corresponding to somatic state  5.1. Testing the hypotheses  The applied statistical analysis (t and Wilcoxon tests) for the dependent variables corresponding to the somatic  state, quantum field area, normalized quantum field area, average intensity, form factor, and the average radius of  isolines show that there are no statistically significant differences (p&gt; 0.05) after QDP therapy application.  For the psycho-emotional state the averages of the group before and after QDP therapy show that there are  statistically significant differences for the variables: quantum field area (13741.4 + / -2563.5 &lt;15009.25 + / - 2534.93 t (37) = - 4.38 p = 0.000 &lt;0.05), normalized quantum field area (1.71 + / -0.54 &lt;1.90 + / -0.64 t (37) = -  3.75 p = 0.000 &lt;0.05), mean radius of isolines (12.63 + / -3.19 &lt;14.03 + / -3.15 t (37) = - 4.15 p = 0.000 &lt;0.05),  while for the dependent variable average intensity  the hypothesis was not confirmed (p = 0.417&gt; 0.05). The  application of non-parametric Wilcoxon test for the dependent variable form coefficient corresponding to the  psycho-emotional state, shows that there are statistically significant differences (Z = -3.83 p = 0.000 &lt;0.05) after  applying the QDP therapy.    741 Aliodor Manolea /  Procedia - Social and Behavioral Sciences  78 ( 2013 )  738 â€“ 742  Descriptive statistic for dependent variables of the study with repeated measurements:       Fig. 2.The temporal evolution graphic for the dependent variable quantum field area  We  note  that,  in  the  first  step  (the  first  ten  hours)  the  values  of  the  quantum  field  area  corresponding  to   somatic state (red route) decrease, while the values of the same variable for the psychosomatic state increase  (blue route). After this period, the values of the variable quantum field area varies in phase (increase and decrease  simultaneously) for both states, somatic and psycho-emotional. The same behavior appears for the dependent  variables normalized quantum field area, average intensity and average radius of isolines.  In the first ten hours, the values of the form coefficient corresponding the quantum field for the somatic state  (red path) increases, while the same variable values for the psychosomatic state decrease (blue route). After this  period, the values of the form factor of the quantum field variable varies in phase (rise and fall simultaneously)  for both states, somatic and psycho-emotional, for both subjects.  6. Discussion  Of the five variables corresponding the general hypothesis 1 studied for the psycho-emotional state, only one -  the average intensity of the quantum field has no statistically significant effects, but the other four had different  statistically significant values, confirming that QDP psycho-quantum therapy is effective. It should be noted that  the measurement of the variables was performed a few minutes before and immediately after therapy.  Also that fact that for the somatic state none of the dependent variables revealed significant effects could be  explained if we consider the longitudinal study. This study shows the time evolution of the dependent variables  above, showing how the therapeutic technique works. At the somatic level, in the first 10-20 hours a decrease in  the value of dependent variables quantum field area, normalized quantum field area, average intensity occurs,  while for the same dependent variables in the psycho-emotional state, it is increasing. This increase is due to the  decrease of the dependent variables corresponding to the somatic state, redistribution, a reshaping of the human  quantum field whose parameters are measured takes place. Therefore, it is normal to record a decrease in the  dependent variables listed in the somatic state, the statistical analysis is showing that nothing significant  happened in this state. The somatic state is, in this sense, a reservoir that supplies energy restores the energy  corresponding to the psycho-emotional state. Under these conditions, as the study with repeated measurements  shows, in order to reveal the effects that occur in the somatic state, it is necessary to repeat measurements at an  interval greater than 10 hours after application of the psychotherapeutic techniques. Increasing values of the  dependent variables field area normalized field area and mean radius of isolines means a positive evolution of the  psycho-emotional state, while declining values for the form factor (associated with the degree of uniformity,  742   Aliodor Manolea /  Procedia - Social and Behavioral Sciences  78 ( 2013 )  738 â€“ 742  homogeneity of human quantum field) shows a tendency of the quantum field to reorganize in order to achieve  new potentials.  7. Conclusions  Values obtained and registered  with the experimental apparatus, the increasing or decreasing values, as  appropriate, of the variables measured, shows that  the QDP psychotherapeutic technique had positive effects,  especially that it was applied for 15 minutes and was performed once for each subject in hand, at the beginning of  the experiment. The technique causes a structural reorganization of the human quantum field, a redistribution of  it, leading to uniformity of intensity, in spatial continuity (form coefficient decreases as the average radius  isolines increases).As a temporal interval of technique reapplication (see field area and normalized field area) a  value of 70-100 hours (3-4 days) results for the integration of the transformation. In fact, this value is found in  the following graphic illustration of the temporal evolution of a living system (Douady &amp; Couder, 1996),  obtained by interpreting the Fibonacci series elements in terms of geometry. Fibonacci series was chosen to mark  the sequential intervals of the measurements because the recurrences of the defined numbers characterize the  living phenomenology as a whole.      Fig. 3. The temporal evolution graphic of a biological system according the Fibonacci series )[6]  As can be seen, if one considers that a square is a temporal interval, resuming the evolutionary cycle at a  higher level occurs in three intervals, obtained by the study with repeated measurements.  After this period, the human quantum field parameters vary (increase or decrease simultaneously) to achieve  homeostasis.  References  Bailey, C. H., &amp; Kandel, E. (1993). Structural changes accompanying memory storage. Annual Review of Physiology, 55, 397â€“426.  Douady, S., &amp; Couder, Y. (1996). Phyllotaxis as a dynamical self organizing process. Journal of Theoretical Biology, 178, 255â€“274.  doi:10.1006/jtbi.1996.0026.  Ecker, B, &amp; Toomey, B. (2008). Depotentiation of symptom-producing implicit memory Ã®n coherence therapy. Journal of Constructivist  Psychology, 21, 87â€“150, doi: 10.1080/10720530701853685.  http://en.wikipedia.org/wiki/File:Fibonacci_spiral_34.svg  Singer, J. A., &amp; Salovey, P. (1988). The implications of arousal effects for the study of affect and memory. Retrieved from  http://pmc.psych.northwestern.edu/revelle/publications/rl91/rev_loft  Tart, C. (coord.). (1972). Altered states of consciousness: A book of readings. New York: Wiley.    udy. This study shows the time evolution of the dependent variables  above, showing how the therapeutic technique works. At the somatic level, in the first 10-20 hours a decrease in  the value of dependent variables quantum field area, normalized quantum field area, average intensity occurs,  while for the same dependent variables in the psycho-emotional state, it is increasing. This increase is due to the  decrease of the dependent variables corresponding to the somatic state, redistribution, a reshaping of the human  quantum field whose parameters are measured takes place. Therefore, it is normal to record a decrease in the  dependent variables listed in the somatic state, the statistical analysis is showing that nothing significant  happened in this state. The somatic state is, in this sense, a reservoir that supplies energy restores the energy  corresponding to the psycho-emotional state. Under these conditions, as the study with repeated measurements  shows, in order to reveal the effects that occur in the somatic state, it is necessary to repeat measurements at an  interval greater than 10 hours after application of the psychotherapeutic techniques. Increasing values of the  dependent variables field area normalized field area and mean radius of isolines means a positive evolution of the  psycho-emotional state, while declining values for the form factor (associated with the degree of uniformity,  742   Aliodor Manolea /  Procedia - Social and Behavioral Sciences  78 ( 2013 )  738 â€“ 742  homogeneity of human quantum field) shows a tendency of the quantum field to reorganize in order to achieve  new potentials.  7. Conclusions  Values obtained and registered  with the experimental apparatus, the increasing or decreasing values, as  appropriate, of the variables measured, shows that  the QDP psychotherapeutic technique had positive effects,  especially that it was applied for 15 minutes and was performed once for each subject in hand, at the beginning of  the experiment. The technique causes a structural reorganization of the human quantum fie</xocs:rawtext>
+   <xocs:serial-item>
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.2" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>SBSPRO</jid>
+            <aid>9877</aid>
+            <ce:pii>S1877-0428(13)00955-5</ce:pii>
+            <ce:doi>10.1016/j.sbspro.2013.04.386</ce:doi>
+            <ce:copyright type="other" year="2013">The Authors</ce:copyright>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para id="npar0005" view="all">Selection and/or peer-review under responsibility of PSIWORLD 2012.</ce:note-para>
+            </ce:article-footnote>
+            <ce:title id="tit0005">Highlighting the Psycho-quantum Mode of Psycho-therapeutic Action for Improving the Specific Human Quantum Field Parameters</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005">
+                  <ce:given-name>Aliodor</ce:given-name>
+                  <ce:surname>Manolea</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="cor0005">
+                     <ce:sup loc="post">*</ce:sup>
+                  </ce:cross-ref>
+                  <ce:e-address id="eadd0005" type="email">aliodor@glide.ro</ce:e-address>
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:textfn>University of Bucharest, Faculty of Psychology and Education Sciences, 90 Panduri street, Bucharest, Romania</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>*</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract id="abs0005" view="all" class="author">
+               <ce:section-title id="sect0005">Abstract</ce:section-title>
+               <ce:abstract-sec id="abst0005" view="all">
+                  <ce:simple-para id="spar0005" view="all">The specific psychotherapeutic intervention in altered states of consciousness (ASC) using QDP Psycho-Quantum Therapy (Quantum Deep Psychotherapy) causes a somatic and psycho-emotional balancing. Highlighting the temporal evolution of the dependent variables corresponding to the somatic psycho-emotional state after applying the QDP technique in a single session, measured with the GDV equipment at the baseline of the study, for two participants.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>Quantum Deep Psychotherapy</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>GDV</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>altered states of consciousness</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>QDP</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0020">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>Bailey and Kandel, 1993</ce:label>
+                     <ce:other-ref id="oref0005">
+                        <ce:textref>Bailey, C.H., &amp; Kandel, E. (1993). Structural changes accompanying memory storage. Annual Review of Physiology, 55, 397-426.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>Douady and Couder, 1996</ce:label>
+                     <ce:other-ref id="oref0010">
+                        <ce:textref>Douady, S., &amp; Couder, Y. (1996). Phyllotaxis as a dynamical self organizing process. Journal of Theoretical Biology, 178, 255-274. doi:10.1006/jtbi.1996.0026.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>Ecker and Toomey, 2008</ce:label>
+                     <ce:other-ref id="oref0015">
+                        <ce:textref>Ecker, B, &amp; Toomey, B. (2008). Depotentiation of symptom-producing implicit memory în coherence therapy. Journal of Constructivist Psychology, 21, 87-150, doi: 10.1080/10720530701853685. http://en.wikipedia.org/wiki/File:Fibonacci_spiral_34.svg.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>Singer and Salovey, 1988</ce:label>
+                     <ce:other-ref id="oref0020">
+                        <ce:textref>Singer, J.A., &amp; Salovey, P. (1988). The implications of arousal effects for the study of affect and memory. Retrieved from http://pmc.psych.northwestern.edu/revelle/publications/rl91/rev_loft.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>Tart, 1972</ce:label>
+                     <ce:other-ref id="oref0025">
+                        <ce:textref>Tart, C. (coord.). (1972). Altered states of consciousness: A book of readings. New York: Wiley.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item>
+</xocs:doc></originalText></full-text-retrieval-response>
