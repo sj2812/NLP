@@ -1,10 +1,11 @@
 import xml.etree.ElementTree as ET
 import glob
 import os
-import pandas as pd
+# import pandas as pd
 
-tree = ET.parse('S002243751830416X.xml')
+tree = ET.parse('articlesinXML/S002243751830416X.xml')
 root = tree.getroot()
+origtext=[]
 #print(root)
 
 # for group in root:
@@ -32,11 +33,43 @@ for coredata in tree.findall('{http://www.elsevier.com/xml/svapi/article/dtd}cor
 
 
     # get other content
-    for tag in tree.getiterator():
-        if tag == '{http://purl.org/dc/elements/1.1/}description' :
+    print("hbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb")
+    for tag in tree.iter():
+        if(tag.tag == '{http://purl.org/dc/elements/1.1/}description'):
+            continue
+        if(tag.tag == '{http://www.elsevier.com/xml/common/dtd}abstract-sec'):
+            print("#@$%Abstractttttttttttttttttttt")
+            print(tag.text)
             continue
         else:
             print(tag.text)
+
+    print("gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg")
+    # print(origtext)
+        # if tag.tag == '{http://www.elsevier.com/xml/svapi/article/dtd}coredata':
+        #     continue
+        #     # for coredata in tree.findall('{http://www.elsevier.com/xml/svapi/article/dtd}coredata'):
+        #     #     print(coredata.find('{http://purl.org/dc/elements/1.1/}description'))
+        #     #     for description in coredata:
+        #     #         if(description.tag == '{http://purl.org/dc/elements/1.1/}description' ):
+        #     #             continue
+        #     #         else:
+        #     #             origtext.append(description.text)
+        # if tag.tag== '{http://www.elsevier.com/xml/svapi/article/dtd}originalText':
+        #     for originalText in tree.findall('{http://www.elsevier.com/xml/svapi/article/dtd}originalText'):
+        #         for xcosDoc in originalText.findall('{http://www.elsevier.com/xml/xocs/dtd}doc'):
+        #             for serialItem in xcosDoc.findall('{http://www.elsevier.com/xml/xocs/dtd}serial-item'):
+        #                 for article in serialItem.findall('{http://www.elsevier.com/xml/ja/dtd}article'):
+        #                     for head in article.findall('{http://www.elsevier.com/xml/ja/dtd}head'):
+        #                         for abstract in head.findall('{http://www.elsevier.com/xml/common/dtd}abstract'):
+        #                             if(abstract.tag == '{http://www.elsevier.com/xml/common/dtd}abstract-sec'):
+        #                                 continue
+        #                             else:
+        #                                 origtext.append(head.text)
+        #
+        #  else:
+        #      origtext.append(tag.text)
+
 
         #content_arr.append(tag.text)
 
