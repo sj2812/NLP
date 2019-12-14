@@ -1,3 +1,4 @@
+
 import xml.etree.ElementTree as ET
 import csv
 import os
@@ -82,5 +83,7 @@ for key, val in contentmain.items():
 w = csv.writer(open("highlights.csv", "w",encoding="utf-8"))
 for key, val in highlightmain.items():
     w.writerow([key, val])
+
+
 
 
