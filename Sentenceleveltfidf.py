@@ -8,9 +8,10 @@ nltk.download('punkt')
 from nltk.tokenize import sent_tokenize, RegexpTokenizer
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
+from keywords_title import keyword_main
 
 
-ps = PorterStemmer()
+# ps = PorterStemmer()
 tree = ET.parse('articlesinXML/S002243751830416X.xml')
 
 directory=('articlesinXML')
@@ -66,19 +67,22 @@ for filename in os.listdir(directory):
             else:
                 if (tag.text != None):
                     if(len(tag.text)>60 and not (tag.text).startswith('https')):
-                        sentenceindex.append(tag.text)
-                        stopWords = set(stopwords.words('english'))
-                        tokenizer = RegexpTokenizer(r'\w+')
-                        words = tokenizer.tokenize(tag.text)
-                        wordsFiltered = []
+                        stringtext=str(tag.text)
+                        for s in stringtext.split(sep='.'):
+                            if(len(s)>50):
+                                sentenceindex.append(s)
+                                stopWords = set(stopwords.words('english'))
+                                tokenizer = RegexpTokenizer(r'\w+')
+                                words = tokenizer.tokenize(s)
+                                wordsFiltered = []
 
-                        for w in words:
-                            if w not in stopWords:
-                                wordsFiltered.append(ps.stem(w))
+                                for w in words:
+                                    if w not in stopWords:
+                                        wordsFiltered.append((w))
 
-                        origtext.append(wordsFiltered)
-
-        print(origtext)
+                                origtext.append(wordsFiltered)
+        print(sentenceindex)
+        # print(origtext)
             # abstractmain[filename]=(abst)
             # highlightmain[filename]=(author_highlights)
             # contentmain[filename]=(origtext)
@@ -97,8 +101,11 @@ for filename in os.listdir(directory):
                         count=count+1
                 docfreq[termf]=count
             for termf in termfreq:
-
-                sentence_sc+=np.log(len(origtext)/docfreq[termf])*(termfreq[termf]/len(sentence))
+                if(termf in keyword_main):
+                    w=1.5
+                else:
+                    w=1
+                sentence_sc+=np.log(len(origtext)/docfreq[termf])*(termfreq[termf]/len(sentence))*w
             sentence_score.append(sentence_sc)
 
 
@@ -112,7 +119,7 @@ for filename in os.listdir(directory):
         summarymain[filename]=summary
 
 
-w = csv.writer(open("summarymain.csv", "w",encoding="utf-8"))
+w = csv.writer(open("summarymain.csv", "w", encoding="utf-8"))
 for key, val in summarymain.items():
     w.writerow([key, val])
 
