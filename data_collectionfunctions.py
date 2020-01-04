@@ -16,6 +16,7 @@ directory=('articlesinXML')
 sentenceindex=[]
 all_files = []
 validfiles=[]
+
 notimptags=[ '{http://purl.org/dc/elements/1.1/}description','{http://www.elsevier.com/xml/common/dtd}list-item','{http://www.elsevier.com/xml/xocs/dtd}normalized-srctitle',
              '{http://www.elsevier.com/xml/xocs/dtd}normalized-article-title','{http://www.elsevier.com/xml/xocs/dtd}normalized-first-auth-surname',
              '{http://www.elsevier.com/xml/xocs/dtd}normalized-first-auth-initial','{http://www.elsevier.com/xml/xocs/dtd}ref-normalized-surname',
@@ -67,6 +68,7 @@ for filename in os.listdir(directory):
                 wordsFiltered = " "
                 # wordsFiltered =[]
                 for w in words:
+                    w=str(w).lower()
                     if w not in stopWords:
                         # wordsFiltered.append(w)
                         wordsFiltered += ((w) + " ")
@@ -84,6 +86,7 @@ for filename in os.listdir(directory):
                     wordsFiltered = " "
                     #wordsFiltered =[]
                     for w in words:
+                        w = str(w).lower()
                         if w not in stopWords:
                             #wordsFiltered.append(w)
                             wordsFiltered +=((w) +" ")
@@ -111,6 +114,7 @@ for filename in os.listdir(directory):
                                                 wordsFiltered = " "
                                                 # wordsFiltered =[]
                                                 for w in words:
+                                                    w = str(w).lower()
                                                     if w not in stopWords:
                                                         # wordsFiltered.append(w)
                                                         wordsFiltered += ((w) + " ")
