@@ -15,6 +15,7 @@ directory=('articlesinXML')
 
 sentenceindex=[]
 all_files = []
+validfiles=[]
 notimptags=[ '{http://purl.org/dc/elements/1.1/}description','{http://www.elsevier.com/xml/common/dtd}list-item','{http://www.elsevier.com/xml/xocs/dtd}normalized-srctitle',
              '{http://www.elsevier.com/xml/xocs/dtd}normalized-article-title','{http://www.elsevier.com/xml/xocs/dtd}normalized-first-auth-surname',
              '{http://www.elsevier.com/xml/xocs/dtd}normalized-first-auth-initial','{http://www.elsevier.com/xml/xocs/dtd}ref-normalized-surname',
@@ -117,13 +118,18 @@ for filename in os.listdir(directory):
 
         #print("lngth of highlights")
         #print((origtext))
-        abstractmain[filename]=(abst)
-        highlightmain[filename]=(author_highlights)
-        contentmain[filename]=(origtext)
+        if((author_highlights)!=" "):
+            validfiles.append(filename)
+            abstractmain[filename]=(abst)
+            highlightmain[filename]=(author_highlights)
+            contentmain[filename]=(origtext)
         #print(origtext)
-        #print(len(origtext))
-        #print(len(sentenceindex))
-        #print(highlightmain)
+
+
+wm= csv.writer(open("validfiles.csv", "w",encoding="utf-8"))
+for  val in validfiles:
+    wm.writerow([val])
+
 wm= csv.writer(open("abstract.csv", "w",encoding="utf-8"))
 for key, val in abstractmain.items():
     wm.writerow([key, val])
