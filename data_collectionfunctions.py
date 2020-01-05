@@ -49,13 +49,14 @@ notimptags=[ '{http://purl.org/dc/elements/1.1/}description','{http://www.elsevi
 abstractmain={}
 
 highlightmain={}
-
+highlightnopre={}
 contentmain={}
 
 stopWords = set(stopwords.words('english'))
 tokenizer = RegexpTokenizer(r'\w+')
 for filename in os.listdir(directory):
     author_highlights = " "
+    highlightswithoutpreprocess=" "
     abst = " "
     origtext = " "
     if filename.endswith(".xml"):
@@ -119,6 +120,8 @@ for filename in os.listdir(directory):
                                                         # wordsFiltered.append(w)
                                                         wordsFiltered += ((w) + " ")
                                                 author_highlights += str(wordsFiltered)
+                                                highlightswithoutpreprocess+=str(ti.text)
+                                                highlightswithoutpreprocess+=" "
 
         #print("lngth of highlights")
         #print((origtext))
@@ -127,6 +130,7 @@ for filename in os.listdir(directory):
             abstractmain[filename]=(abst)
             highlightmain[filename]=(author_highlights)
             contentmain[filename]=(origtext)
+            highlightnopre[filename]=highlightswithoutpreprocess
         #print(origtext)
 
 
@@ -146,6 +150,9 @@ w = csv.writer(open("highlights.csv", "w",encoding="utf-8"))
 for key, val in highlightmain.items():
     w.writerow([key, val])
 
+w = csv.writer(open("highlightsnopre.csv", "w",encoding="utf-8"))
+for key, val in highlightnopre.items():
+    w.writerow([key, val])
 
 
 

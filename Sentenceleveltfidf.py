@@ -9,9 +9,9 @@ from nltk.tokenize import sent_tokenize, RegexpTokenizer
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 from keywords_title import keyword_main
-
+import pandas as pd
 import data_collectionfunctions as collect
-
+import rouge
 import random
 # ps = PorterStemmer()
 tree = ET.parse('articlesinXML/S002243751830416X.xml')
@@ -21,12 +21,14 @@ directory=('articlesinXML')
 author_highlights=[]
 abst=[]
 
-
+evaluator = rouge.Rouge(metrics=['rouge-l'])
 summarymain={}
 
 notimptags=collect.notimptags
 lst= collect.validfiles
 
+col_Names=["Filename", "Highlight"]
+highlights_df = pd.read_csv("highlightsnopre.csv", encoding='utf-8', names=col_Names)
 
 def getTopindexes(mainscore,start,end,number):
     top_5_idx = np.argwhere(mainscore[start:end] > 0.74)
@@ -92,6 +94,18 @@ for filename in os.listdir(directory):
                                     origtext.append(wordsFiltered)
             print(sentenceindex)
 
+            highlights=highlights_df.loc[highlights_df["Filename"] == filename, "Highlight"][0]
+            highlightmain = []
+            highlightscore=[]
+            for highlight in str(highlights).split(sep='.'):
+                highlightindex = []
+                for sent in sentenceindex:
+
+                    eval=evaluator.get_scores(sent,highlight)
+
+                    highlightindex.append(eval[0].get('rouge-l').get('f'))
+                highlightmain.append(highlightindex)
+            highlightscore.append(highlightmain)
             docfreq={}
 
 
