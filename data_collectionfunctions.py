@@ -15,6 +15,8 @@ directory=('articlesinXML')
 
 sentenceindex=[]
 all_files = []
+validfiles=[]
+
 notimptags=[ '{http://purl.org/dc/elements/1.1/}description','{http://www.elsevier.com/xml/common/dtd}list-item','{http://www.elsevier.com/xml/xocs/dtd}normalized-srctitle',
              '{http://www.elsevier.com/xml/xocs/dtd}normalized-article-title','{http://www.elsevier.com/xml/xocs/dtd}normalized-first-auth-surname',
              '{http://www.elsevier.com/xml/xocs/dtd}normalized-first-auth-initial','{http://www.elsevier.com/xml/xocs/dtd}ref-normalized-surname',
@@ -47,13 +49,14 @@ notimptags=[ '{http://purl.org/dc/elements/1.1/}description','{http://www.elsevi
 abstractmain={}
 
 highlightmain={}
-
+highlightnopre={}
 contentmain={}
 
 stopWords = set(stopwords.words('english'))
 tokenizer = RegexpTokenizer(r'\w+')
 for filename in os.listdir(directory):
     author_highlights = " "
+    highlightswithoutpreprocess=" "
     abst = " "
     origtext = " "
     if filename.endswith(".xml"):
@@ -66,6 +69,7 @@ for filename in os.listdir(directory):
                 wordsFiltered = " "
                 # wordsFiltered =[]
                 for w in words:
+                    w=str(w).lower()
                     if w not in stopWords:
                         # wordsFiltered.append(w)
                         wordsFiltered += ((w) + " ")
@@ -83,6 +87,7 @@ for filename in os.listdir(directory):
                     wordsFiltered = " "
                     #wordsFiltered =[]
                     for w in words:
+                        w = str(w).lower()
                         if w not in stopWords:
                             #wordsFiltered.append(w)
                             wordsFiltered +=((w) +" ")
@@ -110,20 +115,29 @@ for filename in os.listdir(directory):
                                                 wordsFiltered = " "
                                                 # wordsFiltered =[]
                                                 for w in words:
+                                                    w = str(w).lower()
                                                     if w not in stopWords:
                                                         # wordsFiltered.append(w)
                                                         wordsFiltered += ((w) + " ")
                                                 author_highlights += str(wordsFiltered)
+                                                highlightswithoutpreprocess+=str(ti.text)
+                                                highlightswithoutpreprocess+=" "
 
         #print("lngth of highlights")
         #print((origtext))
-        abstractmain[filename]=(abst)
-        highlightmain[filename]=(author_highlights)
-        contentmain[filename]=(origtext)
+        if((author_highlights)!=" "):
+            validfiles.append(filename)
+            abstractmain[filename]=(abst)
+            highlightmain[filename]=(author_highlights)
+            contentmain[filename]=(origtext)
+            highlightnopre[filename]=highlightswithoutpreprocess
         #print(origtext)
-        #print(len(origtext))
-        #print(len(sentenceindex))
-        #print(highlightmain)
+
+
+wm= csv.writer(open("validfiles.csv", "w",encoding="utf-8"))
+for  val in validfiles:
+    wm.writerow([val])
+
 wm= csv.writer(open("abstract.csv", "w",encoding="utf-8"))
 for key, val in abstractmain.items():
     wm.writerow([key, val])
@@ -136,6 +150,9 @@ w = csv.writer(open("highlights.csv", "w",encoding="utf-8"))
 for key, val in highlightmain.items():
     w.writerow([key, val])
 
+w = csv.writer(open("highlightsnopre.csv", "w",encoding="utf-8"))
+for key, val in highlightnopre.items():
+    w.writerow([key, val])
 
 
 

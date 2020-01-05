@@ -1,6 +1,9 @@
 from rouge import Rouge
 import pandas as pd
+import sys
 
+print(sys.getrecursionlimit())
+sys.setrecursionlimit(8735 * 2080 + 10)
 col_Names=["Filename", "Abstract"]
 abstract_df = pd.read_csv("abstract.csv", encoding='utf-8', names=col_Names)
 #print(abstract_df)
@@ -18,12 +21,12 @@ generated_summary_df = pd.read_csv("summarymain.csv", encoding='utf-8', names=co
 #print(generated_summary_df)
 
 rouge = Rouge()
-scores = rouge.get_scores(generated_summary_df["Summary"],clean_abstract_df["Abstract"],avg=True)
+scores = rouge.get_scores(generated_summary_df["Summary"].fillna(" "),clean_abstract_df["Abstract"],avg=True)
 print(" Compare summary and abstract")
 print(scores)
 
 rouge = Rouge()
-scores = rouge.get_scores(generated_summary_df["Summary"], clean_highlights_df["Highlight"],avg=True)
+scores = rouge.get_scores(generated_summary_df["Summary"].fillna(" "), clean_highlights_df["Highlight"],avg=True)
 print(" Compare summary and highlights")
 print(scores)
 
