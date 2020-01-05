@@ -72,7 +72,6 @@ print(abstract_array)
 score = silhouette_score(vectorized_abst, labels, metric='euclidean')
 print(score)
 
-
 #print(labels)
 # clean_abstract_df['cluster assignment'] = labels
 # clean_abstract_df.head()
@@ -83,10 +82,11 @@ print(score)
 # clustering = DBSCAN(eps=0.9).fit(vectorized_abst) #apply dbscan
 # dbscan_abstract_clusters = clustering.labels_
 # print(dbscan_abstract_clusters)
-hac_clustering = AgglomerativeClustering(affinity='euclidean', linkage='ward', n_clusters=6).fit(vectorized_abst.todense())
-hac_abst_labels =hac_clustering.labels_
-score = silhouette_score(vectorized_abst, hac_abst_labels, metric='euclidean')
-print(score)
+# hac_clustering = AgglomerativeClustering(affinity='euclidean', linkage='ward', n_clusters=6).fit(vectorized_abst.todense()) #linkage is ward
+# #hac_clustering = AgglomerativeClustering(affinity='euclidean', linkage='complete', n_clusters=6).fit(vectorized_abst.todense()) #complete linkage
+# hac_abst_labels =hac_clustering.labels_
+# score = silhouette_score(vectorized_abst, hac_abst_labels, metric='euclidean')
+# print(score)
 
 
 #Apply tfidf vectorizer and kmeans on Highlights
@@ -145,10 +145,10 @@ print(score)
 # clustering = DBSCAN(eps=0.9).fit(vectorized_content)#apply dbscan
 # dbscan_clusters_highlights = clustering.labels_
 # print(dbscan_clusters_highlights)
-hac_clustering_content = AgglomerativeClustering(affinity='euclidean', linkage='ward', n_clusters=6).fit(vectorized_content.todense())
-hac_content_labels =hac_clustering.labels_
-score = silhouette_score(vectorized_content, hac_content_labels, metric='euclidean')
-print(score)
+# hac_clustering_content = AgglomerativeClustering(affinity='euclidean', linkage='ward', n_clusters=6).fit(vectorized_content.todense())
+# hac_content_labels =hac_clustering.labels_
+# score = silhouette_score(vectorized_content, hac_content_labels, metric='euclidean')
+# print(score)
 
 # for i,label in enumerate(labels):
 #      print(label, all_files[i])
@@ -180,9 +180,9 @@ hac_clustering_summ = AgglomerativeClustering(affinity='euclidean', linkage='war
 #print(hac_clustering_summ.labels_)
 score = silhouette_score(vectorized_summary, summary_labels, metric='euclidean')
 print(score)
-hac_summ_labels =hac_clustering_summ.labels_
-score = silhouette_score(vectorized_summary, hac_summ_labels, metric='euclidean')
-print(score)
+# hac_summ_labels =hac_clustering_summ.labels_
+# score = silhouette_score(vectorized_summary, hac_summ_labels, metric='euclidean')
+# print(score)
 # for i,label in enumerate(summary_labels):
 #      summary_cluster_assignment = (label, all_files[i])
      #print(summary_cluster_assignment)
