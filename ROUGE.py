@@ -11,7 +11,7 @@ abstract_df = pd.read_csv("abstract.csv", encoding='utf-8', names=col_Names)
 clean_abstract_df = abstract_df.dropna()
 #print(clean_abstract_df)
 col_Names=["Filename", "Highlight"]
-highlights_df = pd.read_csv("highlights.csv", encoding='utf-8', names=col_Names)
+highlights_df = pd.read_csv("HighlightmainMorelength.csv", encoding='utf-8', names=col_Names)
 #print(highlights_df)
 clean_highlights_df = highlights_df.dropna()
 #print(clean_highlights_df)
@@ -25,7 +25,6 @@ scores = rouge.get_scores(generated_summary_df["Summary"].fillna(" "),clean_abst
 print(" Compare summary and abstract")
 print(scores)
 
-rouge = Rouge()
 scores = rouge.get_scores(generated_summary_df["Summary"].fillna(" "), clean_highlights_df["Highlight"],avg=True)
 print(" Compare summary and highlights")
 print(scores)

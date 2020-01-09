@@ -28,7 +28,12 @@ notimptags=collect.notimptags
 lst= collect.validfiles
 
 col_Names=["Filename", "Highlight"]
-highlights_df = pd.read_csv("highlightsnopre.csv", encoding='utf-8', names=col_Names)
+highlights_df = collect.highlightnopre
+
+def appendInSingleArray(arr,indexSent):
+    for elem in arr:
+        indexSent.append(elem)
+    return indexSent
 
 def getTopindexes(mainscore,start,end,number):
     top_5_idx = np.argwhere(mainscore[start:end] > 0.74)
@@ -61,8 +66,10 @@ def getSummary(mainscore, sentenceindex):
             summary += (sentenceindex[i]) + ". "
     return summary
 
+HighlightPointer=0
+HighlightMainMoreLength={}
 for filename in os.listdir(directory):
-
+    HighlightSentInd=[]
     sentenceindex = []
     origtext = []
     termfreq = {}
@@ -94,18 +101,41 @@ for filename in os.listdir(directory):
                                     origtext.append(wordsFiltered)
             print(sentenceindex)
 
-            highlights=highlights_df.loc[highlights_df["Filename"] == filename, "Highlight"][0]
+            highlights=highlights_df.get(filename)
+            print(HighlightPointer)
+                # highlights_df.loc[highlights_df["Filename"] == filename, "Highlight"]
+            HighlightPointer=HighlightPointer+1
+
             highlightmain = []
             highlightscore=[]
-            for highlight in str(highlights).split(sep='.'):
-                highlightindex = []
-                for sent in sentenceindex:
+            if(len(highlights)>0):
+                for highlight in str(highlights).split(sep='.'):
+                    if((highlight!=' ' )& (highlight!='')):
+                        highlightindex = []
+                        for sent in sentenceindex:
 
-                    eval=evaluator.get_scores(sent,highlight)
+                            eval=evaluator.get_scores(sent,highlight)
 
-                    highlightindex.append(eval[0].get('rouge-l').get('f'))
-                highlightmain.append(highlightindex)
-            highlightscore.append(highlightmain)
+                            highlightindex.append(eval[0].get('rouge-l').get('f'))
+                        highlightmain.append(highlightindex)
+            else:
+                print("Hii")
+            # highlightscore.append(highlightmain)
+            indices=[]
+            for highlightPerSent in highlightmain:
+
+                indices=(np.argsort(highlightPerSent)[-5:])
+                HighlightSentInd=appendInSingleArray(indices,HighlightSentInd)
+            print(np.unique(HighlightSentInd))
+            if(len(np.unique(HighlightSentInd))>10):
+                mainInd=np.random.choice(np.unique(HighlightSentInd),10)
+            else:
+                mainInd=np.unique(HighlightSentInd)
+            HighlightSummInter=highlights
+            for ind in mainInd:
+                HighlightSummInter+=sentenceindex[ind]+"."
+
+            HighlightMainMoreLength[filename]=HighlightSummInter
             docfreq={}
 
 
@@ -139,6 +169,9 @@ w = csv.writer(open("summarymain.csv", "w", encoding="utf-8"))
 for key, val in summarymain.items():
     w.writerow([key, val])
 
+w = csv.writer(open("HighlightmainMorelength.csv", "w", encoding="utf-8"))
+for key, val in HighlightMainMoreLength.items():
+    w.writerow([key, val])
 
 
 
