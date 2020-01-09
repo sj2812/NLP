@@ -2,11 +2,18 @@ import matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.cluster import KMeans
 from sklearn.cluster import DBSCAN
+from sklearn.cluster import AgglomerativeClustering
+from sklearn.metrics import silhouette_score
+
 import pandas as pd
 import os
 # from data_collectionfunctions import all_files
 import csv
 import numpy as np
+from sklearn.neighbors import NearestNeighbors
+
+#pca = PCA(n_components=None)
+
 directory=('articlesinXML')
 all_files=[]
 for filename in os.listdir(directory):
@@ -38,7 +45,16 @@ clean_highlights_df = highlights_df.dropna()
 #Apply tfidf vectorizer and kmeans on abstract
 vectorizer = TfidfVectorizer()
 vectorized_abst= vectorizer.fit_transform(clean_abstract_df["Abstract"])
+#pca.fit(vectorized_abst)
 #print(vectorized_abst)
+
+# nbrs = NearestNeighbors(n_neighbors=3, metric='cosine').fit(vectorized_abst)
+# distances, indices = nbrs.kneighbors(vectorized_abst)
+# distances = np.sort(distances, axis=0)
+# distances = distances[:,2]
+# plt.plot(distances)
+# plt.show()
+
 #print(vectorized_abst)
 terms = (vectorizer.get_feature_names())
 #print(terms)
@@ -53,6 +69,9 @@ for j in range(6):
      abstract_array.append([all_files[i] for i, x in enumerate(labelnp) if x == j])
 print("abstractclusters")
 print(abstract_array)
+score = silhouette_score(vectorized_abst, labels, metric='euclidean')
+print(score)
+
 #print(labels)
 # clean_abstract_df['cluster assignment'] = labels
 # clean_abstract_df.head()
@@ -60,11 +79,15 @@ print(abstract_array)
 #      abstract_cluster_assignment = (label, all_files[i])
      #print(abstract_cluster_assignment)
 #Apply dbscan on abstract(yet to do)
-# clustering = DBSCAN(eps=3).fit(vectorized_abst) #apply dbscan
+# clustering = DBSCAN(eps=0.9).fit(vectorized_abst) #apply dbscan
 # dbscan_abstract_clusters = clustering.labels_
-#print(dbscan_abstract_clusters)
-# hac_clustering = AgglomerativeClustering(affinity='euclidean', linkage='ward', n_clusters=6).fit(vectorized_abst)
-# print(hac_clustering.labels_)
+# print(dbscan_abstract_clusters)
+# hac_clustering = AgglomerativeClustering(affinity='euclidean', linkage='ward', n_clusters=6).fit(vectorized_abst.todense()) #linkage is ward
+# #hac_clustering = AgglomerativeClustering(affinity='euclidean', linkage='complete', n_clusters=6).fit(vectorized_abst.todense()) #complete linkage
+# hac_abst_labels =hac_clustering.labels_
+# score = silhouette_score(vectorized_abst, hac_abst_labels, metric='euclidean')
+# print(score)
+
 
 #Apply tfidf vectorizer and kmeans on Highlights
 vectorizer = TfidfVectorizer()
@@ -83,13 +106,19 @@ for j in range(6):
      highlights_array.append([all_files[i] for i, x in enumerate(labelnp) if x == j])
 print("highlightclusters")
 print((highlights_array))
+score = silhouette_score(vectorized_highlights, highlights_labels, metric='euclidean')
+print(score)
 # for i,label in enumerate(highlights_labels):
 #      highlights_cluster_assignment = (label, all_files[i])
      #print(highlights_cluster_assignment)
-#Apply dbscan on highlights(yet to do)
-# clustering = DBSCAN(eps=3).fit(vectorized_highlights)#apply dbscan
+#Apply dbscan on highlights
+# clustering = DBSCAN(eps=0.9).fit(vectorized_highlights)#apply dbscan
 # dbscan_clusters_highlights = clustering.labels_
-# #print(dbscan_clusters_highlights)
+# print(dbscan_clusters_highlights)
+# hac_clustering_high = AgglomerativeClustering(affinity='euclidean', linkage='ward', n_clusters=6).fit(vectorized_highlights.todense())
+# hac_high_labels =hac_clustering.labels_
+# score = silhouette_score(vectorized_highlights, hac_high_labels, metric='euclidean')
+# print(score)
 
  #Apply tfidf vectorizer and kmeans on other content
 col_Names=["Filename", "Content"]
@@ -110,8 +139,16 @@ for j in range(6):
      array.append([all_files[i] for i, x in enumerate(labelnp) if x == j])
 print("contentclusters")
 print(array)
-
-
+score = silhouette_score(vectorized_content, labels,metric='euclidean')
+print(score)
+#Apply dbscan on other content
+# clustering = DBSCAN(eps=0.9).fit(vectorized_content)#apply dbscan
+# dbscan_clusters_highlights = clustering.labels_
+# print(dbscan_clusters_highlights)
+# hac_clustering_content = AgglomerativeClustering(affinity='euclidean', linkage='ward', n_clusters=6).fit(vectorized_content.todense())
+# hac_content_labels =hac_clustering.labels_
+# score = silhouette_score(vectorized_content, hac_content_labels, metric='euclidean')
+# print(score)
 
 # for i,label in enumerate(labels):
 #      print(label, all_files[i])
@@ -139,6 +176,13 @@ for j in range(6):
      summary_array.append([all_files[i] for i, x in enumerate(labelnp) if x == j])
 print("summaryclusters")
 print(summary_array)
+hac_clustering_summ = AgglomerativeClustering(affinity='euclidean', linkage='ward', n_clusters=6).fit(vectorized_summary.todense())
+#print(hac_clustering_summ.labels_)
+score = silhouette_score(vectorized_summary, summary_labels, metric='euclidean')
+print(score)
+# hac_summ_labels =hac_clustering_summ.labels_
+# score = silhouette_score(vectorized_summary, hac_summ_labels, metric='euclidean')
+# print(score)
 # for i,label in enumerate(summary_labels):
 #      summary_cluster_assignment = (label, all_files[i])
      #print(summary_cluster_assignment)
