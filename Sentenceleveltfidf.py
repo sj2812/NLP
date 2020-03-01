@@ -13,6 +13,7 @@ import pandas as pd
 import data_collectionfunctions as collect
 import rouge
 import random
+import TextRank as tr
 # ps = PorterStemmer()
 tree = ET.parse('articlesinXML/S002243751830416X.xml')
 
@@ -68,6 +69,7 @@ def getSummary(mainscore, sentenceindex):
 
 HighlightPointer=0
 HighlightMainMoreLength={}
+TextRanksDict=tr.textrank_s()
 for filename in os.listdir(directory):
     HighlightSentInd=[]
     sentenceindex = []
@@ -158,8 +160,8 @@ for filename in os.listdir(directory):
                         w=1
                     sentence_sc+=np.log(len(origtext)/docfreq[termf])*(termfreq[termf]/len(sentence))*w
                 sentence_score.append(sentence_sc)
-
-            sentence_Score=np.array(sentence_score)
+                textRank_sentScore=TextRanksDict.get(filename)
+            sentence_Score=np.array(sentence_score)+np.array(textRank_sentScore)
             mainscore = (np.interp(sentence_Score, (sentence_Score.min(), sentence_Score.max()), (0, 1)))
             print(len(sentenceindex))
             summarymain[filename]=getSummary(mainscore,sentenceindex)
