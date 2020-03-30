@@ -1,0 +1,29 @@
+def preprocessing(String, stopwordFlag=True,
+                  stemFlag=True):  # default value is always true for stemming and stopwords
+
+    token = nltk.word_tokenize(String)
+    if stopwordFlag == False and stemFlag == False:
+        token_string = " ".join(token)
+        return token_string
+
+    stopwords_list = set(stopwords.words('english'))
+    wordsFiltered = []
+    stemmedwords = []
+    for w in token:
+        if w not in stopwords_list:
+            wordsFiltered.append(w)
+    if stemFlag == False:
+        stopwords_string = " ".join(stemmedwords)
+        return stopwords_string
+
+    ps = PorterStemmer()
+
+    if stopwordFlag == False:
+        for w in token:
+            stemmedwords.append(ps.stem(w))
+        stemwords_string = " ".join(stemmedwords)
+        return stemwords_string
+    for w in wordsFiltered:
+        stemmedwords.append(ps.stem(w))
+    stemwords_string = " ".join(stemmedwords)
+    return stemwords_string
